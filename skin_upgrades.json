@@ -43,6 +43,68 @@
    "skin_tags": [
     "dragon_tamer"
    ]
+  },
+  {
+   "id": "lapu_lapu_ancestral_blade",
+   "hero": "Lapu-Lapu",
+   "base_name": "Ancestral Blade",
+   "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero372-portrait.png/revision/latest?cb=20220525165115",
+   "backup_script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/e138adce22fc6456f369969d.zip",
+   "enabled": true,
+   "targets": [
+    {
+     "id": "lapu_lapu_ancestral_blade_to_backup",
+     "name": "Backup",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero372-portrait.png/revision/latest?cb=20220525165115",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/e138adce22fc6456f369969d.zip",
+     "type": "backup",
+     "enabled": true,
+     "skin_tags": []
+    }
+   ],
+   "skin_tags": []
+  },
+  {
+   "id": "lapu_lapu_imperial_champion",
+   "hero": "Lapu-Lapu",
+   "base_name": "Imperial Champion",
+   "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero373-portrait.png/revision/latest?cb=20220525165116",
+   "backup_script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/e138adce22fc6456f369969d.zip",
+   "enabled": true,
+   "targets": [
+    {
+     "id": "lapu_lapu_imperial_champion_to_backup",
+     "name": "Backup",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero373-portrait.png/revision/latest?cb=20220525165116",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/e138adce22fc6456f369969d.zip",
+     "type": "backup",
+     "enabled": true,
+     "skin_tags": []
+    }
+   ],
+   "skin_tags": [
+    "champion"
+   ]
+  },
+  {
+   "id": "lapu_lapu_son_of_the_wild",
+   "hero": "Lapu-Lapu",
+   "base_name": "Son of the Wild",
+   "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero376-portrait.png/revision/latest?cb=20230317102332",
+   "backup_script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/e138adce22fc6456f369969d.zip",
+   "enabled": true,
+   "targets": [
+    {
+     "id": "lapu_lapu_son_of_the_wild_to_backup",
+     "name": "Backup",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero376-portrait.png/revision/latest?cb=20230317102332",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/e138adce22fc6456f369969d.zip",
+     "type": "backup",
+     "enabled": true,
+     "skin_tags": []
+    }
+   ],
+   "skin_tags": []
   }
  ]
 }
