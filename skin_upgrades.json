@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "type": "skin_upgrades",
+ "skin_upgrades": [
+  {
+   "id": "freya_dark_rose",
+   "hero": "Freya",
+   "base_name": "Dark Rose",
+   "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero222-portrait.png/revision/latest?cb=20220525164801",
+   "backup_script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/8199c772530c147d4cba5e68.zip",
+   "enabled": true,
+   "targets": [
+    {
+     "id": "freya_dark_rose_to_backup",
+     "name": "Backup",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero222-portrait.png/revision/latest?cb=20220525164801",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/8199c772530c147d4cba5e68.zip",
+     "type": "backup",
+     "enabled": true,
+     "skin_tags": []
+    }
+   ],
+   "skin_tags": []
+  },
+  {
+   "id": "freya_dragon_hunter",
+   "hero": "Freya",
+   "base_name": "Dragon Hunter",
+   "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero223-portrait.png/revision/latest?cb=20220525164802",
+   "backup_script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/8199c772530c147d4cba5e68.zip",
+   "enabled": true,
+   "targets": [
+    {
+     "id": "freya_dragon_hunter_to_backup",
+     "name": "Backup",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero223-portrait.png/revision/latest?cb=20220525164802",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/8199c772530c147d4cba5e68.zip",
+     "type": "backup",
+     "enabled": true,
+     "skin_tags": []
+    }
+   ],
+   "skin_tags": [
+    "dragon_tamer"
+   ]
+  }
+ ]
+}
