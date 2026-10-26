@@ -603,6 +603,35 @@
      "name": ""
     },
     {
+     "id": "alice_002",
+     "skin_name": "Wizardy Teacher",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero043-portrait.png/revision/latest?cb=20220525164350",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-2/5f48ad8c02f5c35ed28b2b7c.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "epic",
+       "name": "Epic",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Epic Skin Tag.png"
+      },
+      {
+       "id": "alice",
+       "name": "alice",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "tank",
+       "name": "tank",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
      "id": "alice_003",
      "skin_name": "Divine Owl",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero044-portrait.png/revision/latest?cb=20220525164350",
@@ -15804,6 +15833,35 @@
      "name": ""
     },
     {
+     "id": "lesley_008",
+     "skin_name": "Lethal Lady",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero538-portrait.png/revision/latest?cb=20220525165407",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-2/386d4802c8e7aa2047fc04f0.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "starlight",
+       "name": "Starlight",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Starlight Skin Tag.png"
+      },
+      {
+       "id": "lesley",
+       "name": "lesley",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "marksman",
+       "name": "marksman",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
      "id": "lesley_009",
      "skin_name": "Dangerous Love",
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero536-portrait.png/revision/latest?cb=20220915121813",
@@ -23409,6 +23467,64 @@
        "name": "backup",
        "icon": "",
        "file": ""
+      },
+      {
+       "id": "valir",
+       "name": "valir",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "valir_002",
+     "skin_name": "Kyo Kusanagi",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest?cb=20250106155738",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-2/93f4e1b3d84de3684f7ee032.zip",
+     "featured": true,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "kof",
+       "name": "KOF",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "KOF Skin Tag.png"
+      },
+      {
+       "id": "valir",
+       "name": "valir",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "valir_003",
+     "skin_name": "Draconic Flame",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest?cb=20220525165500",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-2/b4d18ebff1b9c5b34b8f1e76.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "dragon_tamer",
+       "name": "Dragon Tamer",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Dragon_Tamer_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Dragon Tamer Skin Tag.png"
       },
       {
        "id": "valir",
