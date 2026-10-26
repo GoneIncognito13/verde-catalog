@@ -24690,6 +24690,1053 @@
       }
      ],
      "name": ""
+    },
+    {
+     "id": "yin_003",
+     "skin_name": "M-World Yin",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1133-portrait.png/revision/latest?cb=20220525170605",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/791cd335261b4e9deed1c273.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "mworld",
+       "name": "mworld",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "yin",
+       "name": "yin",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "yin_004",
+     "skin_name": "Eternal Guardian",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1135-portrait.png/revision/latest?cb=20230623125844",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/96feaedbb858ade345b50b90.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "starlight",
+       "name": "Starlight",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Starlight Skin Tag.png"
+      },
+      {
+       "id": "yin",
+       "name": "yin",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "yin_005",
+     "skin_name": "Yuji Itadori",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1134-portrait.png/revision/latest?cb=20230212035447",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/e109513034a4d345809270a8.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "jujutsu_kaisen",
+       "name": "jujutsu kaisen",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "yin",
+       "name": "yin",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "yin_006",
+     "skin_name": "Dauntless Battlelord",
+     "image": "",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/0cc4116a4b44b0f71307465f.zip",
+     "featured": true,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "collector",
+       "name": "Collector",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Collector Skin Tag.png"
+      },
+      {
+       "id": "yin",
+       "name": "yin",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    }
+   ]
+  },
+  {
+   "id": "yu-zhong",
+   "name": "Yu Zhong",
+   "category": "fighter",
+   "enabled": true,
+   "skins": [
+    {
+     "id": "yu_zhong_001",
+     "skin_name": "Backup",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero951-portrait.png/revision/latest?cb=20240621033746",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/1f2e75fc795019f47ac7613f.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "backup",
+       "name": "backup",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "yu_zhong",
+       "name": "yu zhong",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "yu-zhong_008",
+     "skin_name": "Cyber Tyrant",
+     "image": "",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/ed33b324fb71e84a3b561218.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": ""
+    },
+    {
+     "id": "yu_zhong_002",
+     "skin_name": "Blood Serpent",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest?cb=20220525170239",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/3960969f383e4fc945f346ac.zip",
+     "featured": true,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "collector",
+       "name": "Collector",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Collector Skin Tag.png"
+      },
+      {
+       "id": "yu_zhong",
+       "name": "yu zhong",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "yu_zhong_003",
+     "skin_name": "Cosmic Dragon",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero958-portrait.png/revision/latest?cb=20240114145030",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/be176f2f87dcf1014f66d081.zip",
+     "featured": true,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "prime",
+       "name": "PRIME",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/PRIME_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "PRIME Skin Tag.png"
+      },
+      {
+       "id": "yu_zhong",
+       "name": "yu zhong",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "yu_zhong_004",
+     "skin_name": "Exorcist Yu Zhong",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png/revision/latest?cb=20220915122237",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/2a97d0fb1f8004b776af9193.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "exorcists",
+       "name": "exorcists",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "exorcist",
+       "name": "exorcist",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "yu_zhong",
+       "name": "yu zhong",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "yu_zhong_005",
+     "skin_name": "Dragon's Shade",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero957-portrait.png/revision/latest?cb=20240114145027",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/d1835b218414976f7440b49f.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "m5",
+       "name": "m5",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "yu_zhong",
+       "name": "yu zhong",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "yu_zhong_006",
+     "skin_name": "Biohazard",
+     "image": "",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/d1057d1c57c56caa03527492.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "starlight",
+       "name": "Starlight",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Starlight Skin Tag.png"
+      },
+      {
+       "id": "yu_zhong",
+       "name": "yu zhong",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "yu_zhong_007",
+     "skin_name": "Tidescale Sealord",
+     "image": "",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/aa8da584df77ea2c3841b484.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "backup",
+       "name": "backup",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "yu_zhong",
+       "name": "yu zhong",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    }
+   ]
+  },
+  {
+   "id": "yve",
+   "name": "Yve",
+   "category": "mage",
+   "enabled": true,
+   "skins": [
+    {
+     "id": "yve_001",
+     "skin_name": "Backup",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero1011-portrait.png/revision/latest?cb=20240621104939",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/a79c4726fadbec59c399f0e7.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "backup",
+       "name": "backup",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "yve",
+       "name": "yve",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "yve_002",
+     "skin_name": "Flame Lotus",
+     "image": "",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/20ce7e443757539dfc86a483.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "starlight",
+       "name": "Starlight",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Starlight Skin Tag.png"
+      },
+      {
+       "id": "yve",
+       "name": "yve",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "yve_003",
+     "skin_name": "Ruin Protectress",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1013-portrait.png/revision/latest?cb=20220525170335",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/db4c6ade74c3ce795cb0f001.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "elite",
+       "name": "Elite",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Elite Skin Tag.png"
+      },
+      {
+       "id": "yve",
+       "name": "yve",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    }
+   ]
+  },
+  {
+   "id": "zetian",
+   "name": "Zetian",
+   "category": "mage",
+   "enabled": true,
+   "skins": [
+    {
+     "id": "zetian_001",
+     "skin_name": "Backup",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1291-portrait.png/revision/latest?cb=20250802160054",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/ee9cbf0d38c0f05f8318d1c0.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "backup",
+       "name": "backup",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "zetian",
+       "name": "zetian",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "zetian_002",
+     "name": "",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDw9Yr4n89Jh6saxLuBPYIjoqGJfDpBDjC39DQLzuHw8u6y6sZ8mo7zfA&s=10",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/b02cd26ba697b16d1bd81b9a.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "starlight",
+       "name": "Starlight",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Starlight Skin Tag.png"
+      }
+     ]
+    },
+    {
+     "id": "zetian_003",
+     "skin_name": "Nexus of Planet",
+     "image": "",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/fce70edbdde2f1fdb6dcff55.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": ""
+    }
+   ]
+  },
+  {
+   "id": "zhask",
+   "name": "Zhask",
+   "category": "mage",
+   "enabled": true,
+   "skins": [
+    {
+     "id": "zhask_001",
+     "skin_name": "Backup",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero501-portrait.png/revision/latest?cb=20240112141505",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/7d166ee099d39ac34c4704e6.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "backup",
+       "name": "backup",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "zhask",
+       "name": "zhask",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "zhask_002",
+     "skin_name": "Cancer",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero504-portrait.png/revision/latest?cb=20230623125728",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/9693c7b7c5c431069bca7eaf.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "zodiac",
+       "name": "Zodiac",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Zodiac Skin Tag.png"
+      },
+      {
+       "id": "zhask",
+       "name": "zhask",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "zhask_003",
+     "skin_name": "Bone Flamen",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero503-portrait.png/revision/latest?cb=20220525165326",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/cbe5e39c0ce85f986c5b1179.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "epic",
+       "name": "Epic",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Epic Skin Tag.png"
+      },
+      {
+       "id": "zhask",
+       "name": "zhask",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "zhask_004",
+     "skin_name": "Extraterrestrial",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero505-portrait.png/revision/latest?cb=20220525165329",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/b1534df7440fbda877ca6a5d.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "special",
+       "name": "Special",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Special Skin Tag.png"
+      },
+      {
+       "id": "zhask",
+       "name": "zhask",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "zhask_005",
+     "skin_name": "Death's Shadow",
+     "image": "https://pbs.twimg.com/media/GWtJo2KaUAA377X?format=jpg&name=large",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/755cb0cb0c028ec9c9ab8e61.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "starlight",
+       "name": "Starlight",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Starlight Skin Tag.png"
+      },
+      {
+       "id": "zhask",
+       "name": "zhask",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    }
+   ]
+  },
+  {
+   "id": "zhuxin",
+   "name": "Zhuxin",
+   "category": "mage",
+   "enabled": true,
+   "skins": [
+    {
+     "id": "zhuxin_001",
+     "skin_name": "Backup",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero1251-portrait.png/revision/latest?cb=20240815083019",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/5a88f6ef124b0e4d4112361b.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "backup",
+       "name": "backup",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "zhuxin",
+       "name": "zhuxin",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "zhuxin_002",
+     "skin_name": "Ethereal Serenity",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1252-portrait.png/revision/latest?cb=20240815082622",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/368b4ee014bf991341ece9e4.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "basic",
+       "name": "basic",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "zhuxin",
+       "name": "zhuxin",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "zhuxin_003",
+     "skin_name": "Emberwisp Mystic",
+     "image": "https://pbs.twimg.com/media/Gc5_1XZaoAA21jC?format=jpg&name=large",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/eb6cbb913ca113ad68e8165b.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "starlight",
+       "name": "Starlight",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Starlight Skin Tag.png"
+      },
+      {
+       "id": "zhuxin",
+       "name": "zhuxin",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "zhuxin_004",
+     "skin_name": "P.ACE",
+     "image": "",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/7936e4a1d1a0a8fa0c698e15.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "anniversary",
+       "name": "anniversary",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "zhuxin",
+       "name": "zhuxin",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    }
+   ]
+  },
+  {
+   "id": "zilong",
+   "name": "Zilong",
+   "category": "fighter",
+   "enabled": true,
+   "skins": [
+    {
+     "id": "zilong_001",
+     "skin_name": "Backup",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero161-portrait.png/revision/latest?cb=20240602234915",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/a9cad89365205144ea21228e.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "backup",
+       "name": "backup",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "zilong",
+       "name": "zilong",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "zilong_002",
+     "skin_name": "Dragon of Prosperity",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero101612-portrait.png/revision/latest?cb=20240130065432",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/fa9f1295b76014587008db3a.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "lunarfest",
+       "name": "lunarfest",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "zilong",
+       "name": "zilong",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "zilong_003",
+     "skin_name": "Empyrean Paladin",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest?cb=20220602112648",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/e9aaded4eef271f5333262c0.zip",
+     "featured": true,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "collector",
+       "name": "Collector",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Collector Skin Tag.png"
+      },
+      {
+       "id": "zilong",
+       "name": "zilong",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "zilong_004",
+     "skin_name": "Summer Waves",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero169-portrait.png/revision/latest?cb=20220908164047",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/9e6a0d8cb1038ac205965dad.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "summer",
+       "name": "Summer",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Summer Skin Tag.png"
+      },
+      {
+       "id": "zilong",
+       "name": "zilong",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "zilong_005",
+     "skin_name": "Changbanpo Commander",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest?cb=20240619180759",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/94212ea1ddd4237c28a164b8.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "epic",
+       "name": "Epic",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Epic Skin Tag.png"
+      },
+      {
+       "id": "zilong",
+       "name": "zilong",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "zilong_006",
+     "skin_name": "Storm Rider",
+     "image": "",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/82490eff5cafa10c95eda6d6.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "515",
+       "name": "515",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/515_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "515 Skin Tag.png"
+      },
+      {
+       "id": "zilong",
+       "name": "zilong",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "zilong_007",
+     "skin_name": "Christmas Carnival",
+     "image": "",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/bdb9644d91e2820f18e4bb47.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "christmas",
+       "name": "Christmas",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Christmas Skin Tag.png"
+      },
+      {
+       "id": "zilong",
+       "name": "zilong",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "zilong_008",
+     "skin_name": "Eastern Warrior",
+     "image": "",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/a59af28795c5ea191946fb9a.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "starlight",
+       "name": "Starlight",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Starlight Skin Tag.png"
+      },
+      {
+       "id": "zilong",
+       "name": "zilong",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
+    },
+    {
+     "id": "zilong_009",
+     "skin_name": "Glorious General",
+     "image": "",
+     "script": "https://github.com/GoneIncognito13/verde-catalog/releases/download/files-1/6b04065717aadac1f3946a3c.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "epic",
+       "name": "Epic",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Epic Skin Tag.png"
+      },
+      {
+       "id": "zilong",
+       "name": "zilong",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": ""
     }
    ]
   }
