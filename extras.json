@@ -1,0 +1,4927 @@
+{
+ "version": 1,
+ "updated": "2026-10-28",
+ "recalls": [
+  {
+   "id": "default_recall",
+   "name": "Default Recall",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Classic_Recall_Effect.png/revision/latest?cb=20211204090007",
+   "script": "https://raw.githubusercontent.com/AnehGamingOfficial/MueHEHEHEHEHEHHEHEHE/main/other/AnehGamingOfficial.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "abyssal_thunder",
+   "name": "Abyssal Thunder",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/abyssal%20thunder.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/abyssal%20thunder.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "alpha_abyss",
+   "name": "Alpha Abyss",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Darkest_Return_Recall_Effect.png/revision/latest?cb=20211203171023",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/abyss.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "angela_annual_star",
+   "name": "Angela Annual Star",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/angela%20annual%20star.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/angela%20annual%20star.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "aspirant",
+   "name": "Aspirant",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Return_of_Hope_Recall_Effect.png/revision/latest?cb=20220126132155",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/aspirant.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "aspirants",
+   "name": "Aspirants",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20aspirants%204.0.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/aspirants%204.0.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "attack_on_titan",
+   "name": "Attack On Titan",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/attack%20on%20titan.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/attack%20on%20titan.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "beatrix_prime",
+   "name": "Beatrix Prime",
+   "image": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/beatrix%20prime.gif",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/beatrix%20prime.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "black_vold",
+   "name": "Black Vold",
+   "image": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/black%20void.gif",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/black%20vold.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "blazing",
+   "name": "Blazing",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Blazing_West_Recall_Effect.png/revision/latest?cb=20211204084612",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/blazing.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "champion_here",
+   "name": "Champion Here",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/champions%20here.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/champions%20here.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "champion_return",
+   "name": "Champion Return",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/champions%20return.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/champions%20return.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "christmas",
+   "name": "Christmas",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Christmas_Recall_Effect.png/revision/latest?cb=20211204090315",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/christmas.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "dashing_cat",
+   "name": "Dashing Cat",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/dashing%20cat.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/dashing%20cat.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "dragon",
+   "name": "Dragon",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/dragon.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/dragon.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "dragon_mark",
+   "name": "Dragon Mark",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Dragon_Mark_Recall_Effect.png/revision/latest?cb=20211204083954",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/dragon%20mark.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "ducati",
+   "name": "Ducati",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/ducati.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/ducati.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "emerald_road",
+   "name": "Emerald Road",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Emerald_Road_Recall_Effect.png/revision/latest?cb=20211204090253",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/emerald%20road.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "esport_evos",
+   "name": "Esport Evos",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/esport%20evos.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/esport%20evos.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "esport_fcon",
+   "name": "Esport Fcon",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/esport%20fcon.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/esport%20fcon.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "esport_geek",
+   "name": "Esport Geek",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/esport%20geek.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/esport%20geek.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "esport_rsg_ph",
+   "name": "Esport Rsg Ph",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/esport%20rsg%20ph.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/esport%20rsg%20ph.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "esport_tlid",
+   "name": "Esport Tlid",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/esport%20tlid.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/esport%20tlid.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "esport_tlph",
+   "name": "Esport Tlph",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/esport%20tlph.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/esport%20tlph.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "ethereal_butterfly",
+   "name": "Ethereal Butterfly",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/ethereal%20butterfly.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/ethereal%20butterfly.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "evos",
+   "name": "Evos",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/M1_Champion_Recalling_Effect.png/revision/latest?cb=20211204084027",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/evos.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "exorcist",
+   "name": "Exorcist",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20exorcist.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20exorcist.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "exorcist_2",
+   "name": "Exorcist",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20exorcist.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/recall%20exorcist.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fanny_legend",
+   "name": "Fanny Legend",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20fanny%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/recall%20fanny%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fire_crown",
+   "name": "Fire Crown",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Fire_Crown_Recall_Effect.png/revision/latest?cb=20211204085112",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/fire%20crown.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "flcn",
+   "name": "Flcn",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/flcn.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/flcn.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fnog_onic",
+   "name": "Fnog Onic",
+   "image": "https://raw.githubusercontent.com/jtsonnl/L3Engk4pps/main/uploads/onic.png",
+   "script": "https://raw.githubusercontent.com/jtsonnl/L3Engk4pps/main/uploads/FNOP%20ONIC.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fortification_return",
+   "name": "Fortification Return",
+   "image": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/fortification.return.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/fortification%20return.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "franco_legend",
+   "name": "Franco Legend",
+   "image": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/franco%20legend.gif",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/franco%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "freya_legend",
+   "name": "Freya Legend",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/freya%20legend.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/freya%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "golden_egg",
+   "name": "Golden Egg",
+   "image": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/golden%20egg.gif",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/lucky%20gold.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "guin_legend",
+   "name": "Guin Legend",
+   "image": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/guin%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/guin%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "halloween",
+   "name": "Halloween",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Halloween_Recall_Effect.png/revision/latest?cb=20211204090139",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/halloween.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "hellokity",
+   "name": "Hellokity",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Recall_Wonder_Park_Recall_Effect.png/revision/latest?cb=20220307094022",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/helokity.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "homebound_lily",
+   "name": "Homebound Lily",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Homebound_Lily_Recall_Effect.png/revision/latest?cb=20211204082711",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/homebound%20lily.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "itachi",
+   "name": "Itachi",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/itachi%20recall.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/itachi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "kof97",
+   "name": "KOF97",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/kof97.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/kof97.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "king_of_fighters",
+   "name": "King Of Fighters",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/The_King_Of_Fighters_Recall_Effect.png/revision/latest?cb=20211204084259",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/king%20of%20fighters.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "lance_hero",
+   "name": "Lance Hero",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/The_Return_of_The_Sword_Recall_Effect.png/revision/latest?cb=20211204084711",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/lance%20hero.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "leomord_abyss",
+   "name": "Leomord Abyss",
+   "image": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/leomord%20abyss.gif",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/leomord%20abyss.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "leomord_ducati",
+   "name": "Leomord Ducati",
+   "image": "https://raw.githubusercontent.com/jtsonnl/L3Engk4pps/main/uploads/tecall%20leomord%20ducati.png",
+   "script": "https://raw.githubusercontent.com/jtsonnl/L3Engk4pps/main/uploads/recall%20leomord%20ducati.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "light_dark",
+   "name": "Light & Dark",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Light_%26_Dark_Recall_Effect.png/revision/latest?cb=20211204090039",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/light%20dan%20dark.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "lucky_golden_egg",
+   "name": "Lucky Golden Egg",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/golden%20egg.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/lucky%20golden%20egg.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "lunox_legend",
+   "name": "Lunox Legend",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/lunox%20legend.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/lunox%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "m1_glory",
+   "name": "M1 Glory",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/2019_M1_Glory_Recall_Effect.png/revision/latest?cb=20211204085025",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/m1%20glory.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "m2_champion",
+   "name": "M2 Champion",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/M2_Champion_Recalling_Effect.png/revision/latest?cb=20210907052517",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/m2%20champion.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "m2_glory",
+   "name": "M2 Glory",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/M2_Glory_Recall_Effect.png/revision/latest?cb=20211204084440",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/m2%20glory.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "m3_savege_return",
+   "name": "M3 Savege Return",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/M3_Savage_Return_Recall_Effect.png/revision/latest?cb=20211204083700",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/m3%20savege%20return.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "m5",
+   "name": "M5",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/m5.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/m5.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "m5_prime",
+   "name": "M5 Prime",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/m5%20prime.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/m5%20prime.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "mcl_tournament",
+   "name": "MCL Tournament",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/MCL_Tournament_Recall_Effect.png/revision/latest?cb=20220219110728",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/mcl%20tournament.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "msc_tournament",
+   "name": "MSC Tournament",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/MSC_Tournament_Recall_Effect.png/revision/latest?cb=20211204085619",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/msc%20tournament.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "misbenders",
+   "name": "Misbenders",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/mistbenders.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/mistbenders.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "moskov_abyss",
+   "name": "Moskov Abyss",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Foreboding_Return_Recall_Effect.png/revision/latest?cb=20220626162832",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/moskov%20abyss.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "mworld",
+   "name": "Mworld",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/mworld.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/mworld.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "navi",
+   "name": "Navi",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/navi.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/navi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "neo_best",
+   "name": "Neo Best",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/neo%20beast.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/neo%20beast.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "neobeast",
+   "name": "NeoBeast",
+   "image": "https://raw.githubusercontent.com/jtsonnl/L3Engk4pps/main/uploads/Screenshot_2025-07-08-11-46-01-738_com.mobile.legends-picsay.png",
+   "script": "https://raw.githubusercontent.com/jtsonnl/L3Engk4pps/main/uploads/NeoBeast.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "nexus_sea",
+   "name": "Nexus Sea",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/thamus%20nexus%20sea%20recall.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/thamus%20nexus%20sea.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "oriental",
+   "name": "Oriental",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/The_Oriental_Fighters_Recall_Effect.png/revision/latest?cb=20211204085044",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/oriental.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "part_star",
+   "name": "Part Star",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Party_Star_Recall_Effect.png/revision/latest?cb=20211204084334",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/party%20star.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "party_king",
+   "name": "Party King",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Party_King_Recall_Effect.png/revision/latest?cb=20211204084739",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/party%20king.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rbl",
+   "name": "Rbl",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/rbl.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/rbl.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "recall_atomic",
+   "name": "Recall Atomic",
+   "image": "https://raw.githubusercontent.com/jtsonnl/L3Engk4pps/main/uploads/recall%20atomic.gif",
+   "script": "https://raw.githubusercontent.com/jtsonnl/L3Engk4pps/main/uploads/recall%20atomic.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "recall_jujutsu_kaisen",
+   "name": "Recall Jujutsu Kaisen",
+   "image": "https://raw.githubusercontent.com/jtsonnl/L3Engk4pps/main/uploads/km_20240810-1_1080p_60f_20240810_193625.gif",
+   "script": "https://raw.githubusercontent.com/jtsonnl/L3Engk4pps/main/uploads/recall%20jjk.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "recall_lesley_anual",
+   "name": "Recall Lesley Anual",
+   "image": "https://raw.githubusercontent.com/jtsonnl/L3Engk4pps/main/uploads/recall%20lesley%20anual.gif",
+   "script": "https://raw.githubusercontent.com/jtsonnl/L3Engk4pps/main/uploads/recall%20lesley%20anual.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "return_of_the_futur",
+   "name": "Return Of The Futur",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Return_of_the_Future_Recall_Effect.png/revision/latest?cb=20210712122341",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/return%20of%20the%20future.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "return_of_the_storm",
+   "name": "Return Of The Storm",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Return_of_the_Storm_Recall_Effect.png/revision/latest?cb=20211204084352",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/return%20of%20the%20storm.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rhythmic_echo",
+   "name": "Rhythmic Echo",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20rhythmic%20echo.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20rhythmic%20echo.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "saber",
+   "name": "SabeR",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/S.A.B.E.R_Skin_Exclusive_Recall_Effect.png/revision/latest?cb=20211204084143",
+   "script": "https://raw.githubusercontent.com/rahasia55/New-Default-skin/main/aamon%20x%20star.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "seal_of_enternal_flower",
+   "name": "Seal Of Enternal Flower",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Seal_of_Eternal_Flower_Recall_Effect.png/revision/latest?cb=20211204084857",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/seal%20of%20eternal%20flower.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "seal_of_anvil",
+   "name": "Seal of Anvil",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/seal%20of%20anvil%20crawlers.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "seiya",
+   "name": "Seiya",
+   "image": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/seiya.gif",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/tembok%20seiya.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "selena_abyss",
+   "name": "Selena Abyss",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Enticing_Return_Recall_Effect.png/revision/latest?cb=20220115045433",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/selena%20abyss.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sky_guardian",
+   "name": "Sky Guardian",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Sky_Guardian_Recall_Effect.png/revision/latest?cb=20211204085328",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/sky%20guardian.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "snowman",
+   "name": "Snowman",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Snowman_Recall_Effect.png/revision/latest?cb=20211204084915",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/snowman.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "soul_vessels",
+   "name": "Soul Vessels",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/soul%20vessels.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/soul%20vessels.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "spring_festival",
+   "name": "Spring Festival",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Spring_Festival_Recall_Effect.png/revision/latest?cb=20211204085645",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/spring%20festival.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "star",
+   "name": "Star",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Starlight_Recall_Effect.png/revision/latest?cb=20211204085542",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/star.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "starwars",
+   "name": "StarWars",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/MLBB_x_Star_Wars_Recall_Effect.png/revision/latest?cb=20210712121945",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/starwars.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "summer_gala",
+   "name": "Summer Gala",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Summer_Gala_Recall_Effect.png/revision/latest?cb=20211204085508",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/summer%20gala.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "super_return",
+   "name": "Super Return",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Super_Return_Recall_Effect.png/revision/latest?cb=20211204084825",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/super%20return.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "thunder_returns",
+   "name": "Thunder Returns",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Thunder_Returns_Recall_Effect.png/revision/latest?cb=20211204084510",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/thunder%20returns.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "transformers",
+   "name": "Transformers",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/We_are_here%2C_we_are_waiting_Recall_Effect.png/revision/latest?cb=20211204082621",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/transformer.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "vale_hero",
+   "name": "Vale Hero",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Return_of_the_Storm_Recall_Effect.png/revision/latest?cb=20211204084352",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/vale%20hero.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "valir_legend",
+   "name": "Valir Legend",
+   "image": "https://raw.githubusercontent.com/rahasia55/tes/main/valir%20legend.png",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/valir%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "venom",
+   "name": "Venom",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/V.E.N.O.M_Skin_Exclusive_Recall_Effect.png/revision/latest?cb=20211204084204",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/venom.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "windsacks",
+   "name": "Windsacks",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Carp_Windsocks_Fluttering~.png/revision/latest?cb=20211204090100",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/carp%20windsocks.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "zodiac",
+   "name": "Zodiac",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Star_Cluster_Recall_Effect.png/revision/latest?cb=20211204084106",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/zodiac.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "recall_bayond_the_clouds",
+   "name": "recall bayond the clouds",
+   "image": "https://raw.githubusercontent.com/jtsonnl/L3Engk4pps/main/uploads/recall%20clouds.gif",
+   "script": "https://raw.githubusercontent.com/jtsonnl/L3Engk4pps/main/uploads/recall%20bayond%20the%20clouds.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "umamusune",
+   "name": "umamusune",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20umamusume.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/recall%20umamusume.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "atomic_pop",
+   "name": "Atomic Pop",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/atomic%20pop.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20atomic%20pop.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "blazing_on_blazing_west",
+   "name": "Blazing (on Blazing West)",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Blazing_West_Recall_Effect.png/revision/latest?cb=20211204084612",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20blazing%20west.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "golden_month",
+   "name": "Golden Month",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/golden%20month.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20golden%20month.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "halloween_2",
+   "name": "Halloween",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Halloween_Recall_Effect.png/revision/latest?cb=20211204090139",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/halloween%20backup.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "light_dark_2",
+   "name": "Light & Dark",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Light_%26_Dark_Recall_Effect.png/revision/latest?cb=20211204090039",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/light%20%26%20dark%20backup.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "m1_glory_2019",
+   "name": "M1 Glory 2019",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/2019_M1_Glory_Recall_Effect.png/revision/latest?cb=20211204085025",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/sanctum%20island2.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "m2_glory_2",
+   "name": "M2 Glory",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/M2_Glory_Recall_Effect.png/revision/latest?cb=20211204084440",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/sanctum%20island.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "m3_glorius_return_on_m3_glorious_return",
+   "name": "M3 Glorius Return (on M3 Glorious Return)",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/M3_Glorious_Return_Recall_Effect.png/revision/latest?cb=20211204083651",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20m3%20glorious%20return.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "m4",
+   "name": "M4",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/m4.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20m4.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "m5_2",
+   "name": "M5",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/m5.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20m5.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "m7_on_m6",
+   "name": "M7 (on M6)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/backup%20m6.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/bakcup%20m6.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "m7",
+   "name": "M7",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/backup%20m7.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20m7.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "party_king_2",
+   "name": "Party King",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Party_King_Recall_Effect.png/revision/latest?cb=20211204084739",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20party%20king.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "party_star",
+   "name": "Party Star",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Party_Star_Recall_Effect.png/revision/latest?cb=20211204084334",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20party%20star.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sparkle",
+   "name": "Sparkle",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/sparkle.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20sparkle.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "starwars_2",
+   "name": "Starwars",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/MLBB_x_Star_Wars_Recall_Effect.png/revision/latest?cb=20210712121945",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20starwars.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "stellar_briliance_on_stellar_brilliance",
+   "name": "Stellar briliance (on Stellar Brilliance)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/stellar%20briliance.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20stellar%20briliance.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "transformer",
+   "name": "Transformer",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/We_are_here%2C_we_are_waiting_Recall_Effect.png/revision/latest?cb=20211204082621",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20transformers.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "attack_on_titan_on_515_shuttle",
+   "name": "Attack on Titan (on 515 Shuttle!)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20aot.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/515%20to%20aot.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "black_void_on_515_shuttle",
+   "name": "Black Void (on 515 Shuttle!)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20black%20void.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/515%20to%20black%20void.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "exorcist_on_515_shuttle",
+   "name": "Exorcist (on 515 Shuttle!)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20exorcist.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/515%20to%20exorcist.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fire_crown_on_515_shuttle",
+   "name": "Fire Crown (on 515 Shuttle!)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fire%20crown.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/515%20shuttle%20to%20fire%20crown.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "neobeast_v2_on_515_shuttle",
+   "name": "Neobeast V2 (on 515 Shuttle!)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/neobeast%20v2.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/515%20shuttle%20to%20neobast%20v2.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "orochi_on_515_shuttle",
+   "name": "Orochi (on 515 Shuttle!)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20orochi.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/515%20to%20orochi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rhythmic_echo_on_515_shuttle",
+   "name": "Rhythmic Echo (on 515 Shuttle!)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20rhythmic%20echo.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/515%20to%20rhythmic%20echo.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "seal_of_anvil_on_515_shuttle",
+   "name": "Seal Of Anvil (on 515 Shuttle!)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20of%20anvil.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/515%20shuttle%20to%20seal%20of%20anvil.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "spongebob_on_515_shuttle",
+   "name": "Spongebob (on 515 Shuttle!)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/spongebob.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/515%20shuttle%20to%20spongebob.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "tlph_on_515_shuttle",
+   "name": "Tlph (on 515 Shuttle!)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/tlph.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/515%20shuttle%20to%20tlph.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "iternal_season_on_515_shuttle",
+   "name": "iternal Season (on 515 Shuttle!)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20iternal%20season.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/515%20shuttle%20to%20iternal%20season.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "annual_star_on_5th_anniversary",
+   "name": "Annual Star (on 5th Anniversary)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/annual%20star.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/5th%20anniversary%20to%20annual%20star.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "converg_blade_on_5th_anniversary",
+   "name": "Converg Blade (on 5th Anniversary)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/converg%20blade.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/5th%20anniversary%20to%20converg%20blade.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fire_crown_on_5th_anniversary",
+   "name": "Fire Crown (on 5th Anniversary)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fire%20crown.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/5th%20anniversary%20to%20fire%20crown.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "soul_vessel_on_5th_anniversary",
+   "name": "Soul Vessel (on 5th Anniversary)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20vessel.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/5th%20anniversary%20to%20soul%20vessel.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "zeus_on_5th_anniversary",
+   "name": "Zeus (on 5th Anniversary)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/zeus.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/5th%20anniversary%20to%20zeus.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "annual_star_on_atomic_pop",
+   "name": "Annual Star (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/annual%20star.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20annual%20star.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "aspirants_on_atomic_pop",
+   "name": "Aspirants (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20aspirants%204.0.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20aspirants%204.0.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "aspirants_on_atomic_pop_2",
+   "name": "Aspirants (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20aspirants%202.0.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20aspirants%202.0.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "attack_on_titan_on_atomic_pop",
+   "name": "Attack on Titan (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20aot.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/atomic%20pop%20to%20aot.zip",
+   "enabled": false,
+   "source": "bs",
+   "broken": "HTTP 404",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "black_void_on_atomic_pop",
+   "name": "Black Void (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20black%20void.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20black%20void.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "dewa_on_atomic_pop",
+   "name": "Dewa (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/dewa.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20dewa.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "evos_on_atomic_pop",
+   "name": "Evos (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/evos.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20evos.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "exorcist_on_atomic_pop",
+   "name": "Exorcist (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20exorcist.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/atomic%20pop%20to%20exorcsit.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fanny_legend_on_atomic_pop",
+   "name": "Fanny Legend (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20fanny%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20fanny%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fire_crown_on_atomic_pop",
+   "name": "Fire Crown (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fire%20crown.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20fire%20crown.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "flcn_on_atomic_pop",
+   "name": "Flcn (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/flcn.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20flcn.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fnop_on_atomic_pop",
+   "name": "Fnop (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fcap.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20fnop.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "geekid_on_atomic_pop",
+   "name": "Geekid (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/geekid.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20geekid.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "hxh_on_atomic_pop",
+   "name": "Hxh (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/hxh.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20hxh.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "itachi_on_atomic_pop",
+   "name": "Itachi (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/itachi%20recall.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20itachi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "kishin_on_atomic_pop",
+   "name": "Kishin (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/kishin.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20kishin.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "m6_on_atomic_pop",
+   "name": "M6 (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/m6.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20m6.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "naruto_on_atomic_pop",
+   "name": "Naruto (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/naruto.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20naruto.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "neobeast_v2_on_atomic_pop",
+   "name": "Neobeast V2 (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/neobeast%20v2.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20neobeast%20v2.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "orochi_on_atomic_pop",
+   "name": "Orochi (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20orochi.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/atomic%20pop%20to%20orochi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rhythmic_echo_on_atomic_pop",
+   "name": "Rhythmic Echo (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20rhythmic%20echo.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/atomic%20pop%20to%20rhythmic%20echo.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rora_on_atomic_pop",
+   "name": "Rora (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/rora.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20rora.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rsg_on_atomic_pop",
+   "name": "Rsg (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/rsg.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20rsg.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sario_on_atomic_pop",
+   "name": "Sario (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/sario.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20sanrio.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "seal_of_anvil_on_atomic_pop",
+   "name": "Seal Of Anvil (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20of%20anvil.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20seal%20of%20anvil.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "seal_of_eternal_flower_on_atomic_pop",
+   "name": "Seal of Eternal Flower (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20seal%20of%20eternal%20flower.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20seal%20of%20eternal%20flower.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "soul_vessel_on_atomic_pop",
+   "name": "Soul Vessel (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20vessel.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20soul%20vessel.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "spongebob_on_atomic_pop",
+   "name": "Spongebob (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/spongebob.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20spongebob.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "tlph_on_atomic_pop",
+   "name": "Tlph (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/tlph.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20tlph.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "zeus_on_atomic_pop",
+   "name": "Zeus (on Atomic Pop)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/zeus.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20zeus.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "attack_on_titan_on_blazing_west",
+   "name": "Attack on Titan (on Blazing West)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20aot.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/blazing%20west%20to%20aot.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "black_void_on_blazing_west",
+   "name": "Black Void (on Blazing West)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20black%20void.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/blazing%20west%20to%20black%20void.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "btc_on_blazing_west",
+   "name": "Btc (on Blazing West)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20btc.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/blazing%20west%20to%20btc.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "dashing_cat_on_blazing_west",
+   "name": "Dashing Cat (on Blazing West)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/dashing%20cat.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/blazing%20west%20to%20dashing%20cat.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "exorcist_on_blazing_west",
+   "name": "Exorcist (on Blazing West)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20exorcist.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/blazing%20west%20to%20exorcist.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fire_crown_on_blazing_west",
+   "name": "Fire Crown (on Blazing West)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fire%20crown.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/blazing%20west%20to%20fire%20crown.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "franco_legend_on_blazing_west",
+   "name": "Franco Legend (on Blazing West)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20franco%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/blazing%20west%20to%20franco%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "lucky_golden_egg_on_blazing_west",
+   "name": "Lucky Golden Egg (on Blazing West)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/golden%20egg.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/blazing%20west%20to%20lucky%20golden%20egg.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "neobeast_v2_on_blazing_west",
+   "name": "Neobeast V2 (on Blazing West)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/neobeast%20v2.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/blazing%20west%20to%20neobeast%20v2.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "orochi_on_blazing_west",
+   "name": "Orochi (on Blazing West)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20orochi.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/blazing%20west%20to%20orochi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rhythmic_echo_on_blazing_west",
+   "name": "Rhythmic Echo (on Blazing West)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20rhythmic%20echo.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/blazing%20west%20to%20rhythmic%20echo.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanrio_on_blazing_west",
+   "name": "Sanrio (on Blazing West)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/sario.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/blazing%20west%20to%20sanrio.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "seal_of_anvil_on_blazing_west",
+   "name": "Seal of Anvil (on Blazing West)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20of%20anvil.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/blazing%20west%20to%20seal%20of%20anvil.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "spongebob_on_blazing_west",
+   "name": "Spongebob (on Blazing West)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/spongebob.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/blazing%20west%20to%20spongebob.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "tlph_on_blazing_west",
+   "name": "Tlph (on Blazing West)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/tlph.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/blazing%20west%20to%20tlph.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "iternal_season_on_blazing_west",
+   "name": "iternal Season (on Blazing West)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20iternal%20season.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/blazing%20to%20iternal%20season.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "dashing_cat_on_golden_month",
+   "name": "Dashing Cat (on Golden Month)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/dashing%20cat.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/golden%20month%20to%20dashing%20cat.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "itachi_on_golden_month",
+   "name": "Itachi (on Golden Month)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/itachi%20recall.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/golden%20moont%20to%20itachi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "lucky_golden_egg_on_golden_month",
+   "name": "Lucky Golden Egg (on Golden Month)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/golden%20egg.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/golden%20month%20to%20lucky%20golden%20egg.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "navi_on_golden_month",
+   "name": "Navi (on Golden Month)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/navi.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/golden%20month%20to%20navi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sario_on_golden_month",
+   "name": "Sario (on Golden Month)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/sario.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/goldeb%20month%20to%20sanrio.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "spongebob_on_golden_month",
+   "name": "Spongebob (on Golden Month)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/spongebob.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/golden%20month%20to%20spongebob.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "annual_star_on_halloween",
+   "name": "Annual Star (on Halloween)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/annual%20star.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/halloween%20to%20annual%20starlight.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "btc_on_halloween",
+   "name": "Btc (on Halloween)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20btc.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/halloween%20to%20btc.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fire_crown_on_halloween",
+   "name": "Fire Crown (on Halloween)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fire%20crown.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/halloween%20to%20fire.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "franco_legend_on_halloween",
+   "name": "Franco Legend (on Halloween)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20franco%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/halloween%20to%20franco%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "geekid_on_halloween",
+   "name": "Geekid (on Halloween)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/geekid.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/halloween%20to%20geekid.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "hxh_on_halloween",
+   "name": "Hxh (on Halloween)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/hxh.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/halloween%20to%20hxh.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "neobeast_v2_on_halloween",
+   "name": "Neobeast V2 (on Halloween)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/neobeast%20v2.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/helloween%20to%20neobeast%20v2.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sario_on_halloween",
+   "name": "Sario (on Halloween)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/sario.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/halloween%20to%20sanrio.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "seal_of_anvil_on_halloween",
+   "name": "Seal of Anvil (on Halloween)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20of%20anvil.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/haloween%20to%20seal%20of%20anvil.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "soul_vessel_on_halloween",
+   "name": "Soul Vessel (on Halloween)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20vessel.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/halloween%20to%20soul%20vessel.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "tlph_on_halloween",
+   "name": "Tlph (on Halloween)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/tlph.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/halloween%20to%20tlph.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "zeus_on_halloween",
+   "name": "Zeus (on Halloween)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/zeus.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/halloween%20to%20zeus.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "iternal_season_on_halloween",
+   "name": "iternal Season (on Halloween)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20iternal%20season.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/halloween%20to%20iternal%20season.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "btc_on_light_dark",
+   "name": "BTC (on Light & Dark)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20btc.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/light%20%26%20dark%20to%20btc.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "black_void_on_light_dark",
+   "name": "Black Void (on Light & Dark)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20black%20void.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/light%20%26%20dark%20to%20black%20void.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "flcn_on_light_dark",
+   "name": "Flcn (on Light & Dark)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/flcn.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/light%20%26%20dark%20to%20flcn.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "franco_legend_on_light_dark",
+   "name": "Franco Legend (on Light & Dark)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20franco%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/light%20%26%20dark%20to%20franco%20legend.zip",
+   "enabled": false,
+   "source": "bs",
+   "broken": "HTTP 404",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "geekid_on_light_dark",
+   "name": "Geekid (on Light & Dark)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/geekid.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/light%20%26%20dark%20to%20geekid.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "light_dark_3",
+   "name": "Light & Dark",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/sario.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/light%20%26%20dark%20to%20sanrio.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "neobeast_v2_on_light_dark",
+   "name": "NeoBeast V2 (on Light & Dark)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/neobeast%20v2.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/light%20%26%20dark%20to%20neobeast%20v2.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "orochi_on_light_dark",
+   "name": "Orochi (on Light & Dark)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20orochi.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/light%20%26%20dark%20to%20orochi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "spongebob_on_light_dark",
+   "name": "Spongebob (on Light & Dark)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/spongebob.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/light%20%26%20dark%20to%20spongebob.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fire_crown_on_light_dark",
+   "name": "fire crown (on Light & Dark)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fire%20crown.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/light%20%26%20dark%20to%20fire%20crown.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "iternal_season_on_light_dark",
+   "name": "iternal Season (on Light & Dark)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20iternal%20season.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/light%20%26%20dark%20to%20iternal%20season.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "dewa_on_m3_glorious_return",
+   "name": "Dewa (on M3 Glorious Return)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/dewa.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m3%20glorious%20return%20to%20dewa.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "evos_on_m3_glorious_return",
+   "name": "Evos (on M3 Glorious Return)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/evos.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m3%20glorious%20return%20to%20evos.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fnop_on_m3_glorious_return",
+   "name": "Fnop (on M3 Glorious Return)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fcap.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m3%20glorious%20return%20to%20fnop.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fore_crown_on_m3_glorious_return",
+   "name": "Fore Crown (on M3 Glorious Return)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fire%20crown.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m3%20glorious%20return%20to%20fire%20crown.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "franco_legend_on_m3_glorious_return",
+   "name": "Franco Legend (on M3 Glorious Return)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20franco%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m3%20to%20franco%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "kishin_on_m3_glorious_return",
+   "name": "Kishin (on M3 Glorious Return)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/kishin.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m3%20glorious%20return%20to%20kishin.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "naruto_on_m3_glorious_return",
+   "name": "Naruto (on M3 Glorious Return)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/naruto.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m3%20glorious%20return%20to%20naruto.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rsg_on_m3_glorious_return",
+   "name": "Rsg (on M3 Glorious Return)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/rsg.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m3%20glorious%20return%20to%20rsg.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "seal_of_anvil_on_m3_glorious_return",
+   "name": "Seal of Anvil (on M3 Glorious Return)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20of%20anvil.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m3%20glorious%20return%20to%20seal%20of%20anvil.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "soul_vessel_on_m3_glorious_return",
+   "name": "Soul Vessel (on M3 Glorious Return)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20vessel.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m3%20glorious%20return%20to%20soul%20vessel.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "zeus_on_m3_glorious_return",
+   "name": "Zeus (on M3 Glorious Return)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/zeus.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m3%20glorious%20return%20to%20zeus.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "iternal_season_on_m3_glorious_return",
+   "name": "iternal Season (on M3 Glorious Return)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20iternal%20season.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m3%20to%20iternal%20season.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "aspirants_on_m4",
+   "name": "Aspirants (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20aspirants%204.0.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20aspirants%204.0.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "dewa_on_m4",
+   "name": "Dewa (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/dewa.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20dewa.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "evos_on_m4",
+   "name": "Evos (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/evos.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20evos.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fire_crown_on_m4",
+   "name": "Fire Crown (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fire%20crown.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20fire%20crown.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "flcn_on_m4",
+   "name": "Flcn (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/flcn.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20flcn.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fnop_on_m4",
+   "name": "Fnop (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fnop.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20fnop.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "hxh_on_m4",
+   "name": "Hxh (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/hxh.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20hxh.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "itachi_on_m4",
+   "name": "Itachi (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/itachi%20recall.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20itachi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "kishin_on_m4",
+   "name": "Kishin (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/kishin.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20kishin.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "lucky_golden_egg_on_m4",
+   "name": "Lucky Golden Egg (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/golden%20egg.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20lucky%20golden%20egg.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "naruto_on_m4",
+   "name": "Naruto (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/naruto.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20naruto.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "navi_on_m4",
+   "name": "Navi (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/navi.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20navi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "neobeast_v2_on_m4",
+   "name": "Neobeast V2 (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/neobeast%20v2.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20neobeast%20v2.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "nexus_sea_on_m4",
+   "name": "Nexus Sea (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/thamus%20nexus%20sea%20recall.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20thamus%20nexus%20sea.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rora_on_m4",
+   "name": "Rora (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/rora.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20rora.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rsg_on_m4",
+   "name": "Rsg (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/rsg.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20rsg.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sario_on_m4",
+   "name": "Sario (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/sario.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20sanrio.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "seal_of_anvil_on_m4",
+   "name": "Seal of Anvil (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20of%20anvil.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20seal%20of%20anvil.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "soul_vessel_on_m4",
+   "name": "Soul Vessel (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20vessel.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20soul%20vessel.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "spongebob_on_m4",
+   "name": "Spongebob (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/spongebob.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20spongebob.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "zeus_on_m4",
+   "name": "Zeus (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/zeus.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20zeus.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "iternal_season_on_m4",
+   "name": "iternal Season (on M4)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20iternal%20season.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m4%20to%20iternal%20season.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "aspirants_on_m5",
+   "name": "Aspirants (on M5)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20aspirants%204.0.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m5%20to%20aspirants%204.0.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "dewa_on_m5",
+   "name": "Dewa (on M5)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/dewa.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m5%20to%20dewa.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "evos_on_m5",
+   "name": "Evos (on M5)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/evos.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m5%20to%20evos.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fanny_legend_on_m5",
+   "name": "Fanny Legend (on M5)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20fanny%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m5%20to%20fanny%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fire_crown_on_m5",
+   "name": "Fire Crown (on M5)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fire%20crown.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m5%20to%20fire%20crown.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "flcn_on_m5",
+   "name": "Flcn (on M5)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/flcn.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m5%20to%20flcn.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "hxh_on_m5",
+   "name": "Hxh (on M5)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/hxh.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m5%20to%20hxh.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "itachi_on_m5",
+   "name": "Itachi (on M5)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/itachi%20recall.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m5%20to%20itachi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "kishin_on_m5",
+   "name": "Kishin (on M5)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/kishin.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m5%20to%20kishin.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "lucky_golden_egg_on_m5",
+   "name": "Lucky Golden Egg (on M5)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/golden%20egg.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m5%20to%20lucky%20golden%20egg.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "naruto_on_m5",
+   "name": "Naruto (on M5)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/naruto.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m5%20to%20naruto.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "navi_on_m5",
+   "name": "Navi (on M5)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/navi.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m5%20to%20navi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "neobeast_v2_on_m5",
+   "name": "Neobeast V2 (on M5)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/neobeast%20v2.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m5%20to%20neobeast%20v2.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rora_on_m5",
+   "name": "Rora (on M5)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/rora.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m5%20to%20rora.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "seal_of_anvil_on_m5",
+   "name": "Seal of Anvil (on M5)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20of%20anvil.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m5%20to%20seal%20of%20anvil.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "soul_vessel_on_m5",
+   "name": "Soul Vessel (on M5)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20vessel.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m5%20to%20soul%20vessel.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "spongebob_on_m5",
+   "name": "Spongebob (on M5)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/spongebob.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m5%20to%20spongebob.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "zeus_on_m5",
+   "name": "Zeus (on M5)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/zeus.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m5%20to%20zeus.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "iternal_season_on_m5",
+   "name": "iternal Season (on M5)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20iternal%20season.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m5%20to%20iternal%20season.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fanny_legend_on_m6",
+   "name": "Fanny Legend (on M6)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20fanny%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m6%20to%20fanny%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fire_crown_on_m6",
+   "name": "Fire Crown (on M6)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fire%20crown.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m6%20to%20fire%20crown.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "flcn_on_m6",
+   "name": "Flcn (on M6)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/flcn.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m6%20to%20flcn.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "hxh_on_m6",
+   "name": "Hxh (on M6)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/hxh.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m6%20to%20hxh.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "itachi_on_m6",
+   "name": "Itachi (on M6)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/itachi%20recall.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m6%20to%20itachi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "navi_on_m6",
+   "name": "Navi (on M6)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/navi.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m6%20to%20navi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "neobeast_v2_on_m6",
+   "name": "Neobeast V2 (on M6)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/neobeast%20v2.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m6%20to%20neobeast%20v2.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rbl_on_m6",
+   "name": "Rbl (on M6)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/rbl.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m6%20to%20rbl.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "soul_vessel_on_m6",
+   "name": "Soul Vessel (on M6)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20vessel.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m6%20to%20soul%20vessel.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "spongebob_on_m6",
+   "name": "Spongebob (on M6)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/spongebob.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m6%20to%20spongebob.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "iternal_season_on_m6",
+   "name": "iternal Season (on M6)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20iternal%20season.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m6%20to%20iternal%20season.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "dashing_cat_on_m7",
+   "name": "Dashing Cat (on M7)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/dashing%20cat.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m7%20to%20dashing%20cat.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fanny_legend_on_m7",
+   "name": "Fanny Legend (on M7)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20fanny%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m7%20to%20fanny%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "flcn_on_m7",
+   "name": "Flcn (on M7)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/flcn.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m7%20to%20flcn.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "itachi_on_m7",
+   "name": "Itachi (on M7)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/itachi%20recall.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m7%20to%20itachi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "iternal_season_on_m7",
+   "name": "Iternal Season (on M7)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20iternal%20season.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m7%20to%20iternal%20season.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "lucky_golden_egg_on_m7",
+   "name": "Lucky Golden Egg (on M7)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/golden%20egg.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m7%20to%20lucky%20golden%20egg.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "m7_2",
+   "name": "M7",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20aspirants%204.0.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m7%20to%20aspirants%204.0.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "navi_on_m7",
+   "name": "Navi (on M7)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/navi.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m7%20to%20navi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "nexus_sea_on_m7",
+   "name": "Nexus Sea (on M7)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/thamus%20nexus%20sea%20recall.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m7%20to%20thamus%20nexus%20sea.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanrio_on_m7",
+   "name": "Sanrio (on M7)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/sario.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m7%20to%20sanrio.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "soul_vessel_on_m7",
+   "name": "Soul Vessel (on M7)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20vessel.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m7%20to%20soul%20vessel.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "aspirants_on_oriental_fighter",
+   "name": "Aspirants (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20aspirants%202.0.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20aspirants%202.0.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "attack_on_titan_on_oriental_fighter",
+   "name": "Attack on Titan (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20aot.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/oriental%20fighter%20to%20aot.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "black_void_on_oriental_fighter",
+   "name": "Black Void (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20black%20void.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fghter%20to%20black%20void.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "converg_blade_on_oriental_fighter",
+   "name": "Converg blade (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/converg%20blade.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20converg%20blade.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "dewa_on_oriental_fighter",
+   "name": "Dewa (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/dewa.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20dewa.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "evos_on_oriental_fighter",
+   "name": "Evos (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/evos.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20evos.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "exorcist_on_oriental_fighter",
+   "name": "Exorcist (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20exorcist.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/oriental%20fighter%20to%20exotcist.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fanny_legend_on_oriental_fighter",
+   "name": "Fanny Legend (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20fanny%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20fanny%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fcap_on_oriental_fighter",
+   "name": "Fcap (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fcap.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20fcap.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fire_crown_on_oriental_fighter",
+   "name": "Fire Crown (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fire%20crown.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20fire%20crown.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "flcn_on_oriental_fighter",
+   "name": "Flcn (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/flcn.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20flcn.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fnop_on_oriental_fighter",
+   "name": "Fnop (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fnop.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20fcon.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "franco_legend_on_oriental_fighter",
+   "name": "Franco Legend (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20franco%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20franco%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "geekid_on_oriental_fighter",
+   "name": "Geekid (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/geekid.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20geekid.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "hxh_on_oriental_fighter",
+   "name": "Hxh (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/hxh.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20hxh.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "itachi_on_oriental_fighter",
+   "name": "Itachi (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/itachi%20recall.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20itachi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "kishin_on_oriental_fighter",
+   "name": "Kishin (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/kishin.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20kishin.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "m6_on_oriental_fighter",
+   "name": "M6 (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/m6.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20m6.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "naruto_on_oriental_fighter",
+   "name": "Naruto (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/naruto.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20naruto.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "orochi_on_oriental_fighter",
+   "name": "Orochi (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20orochi.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/oriental%20fighter%20to%20orochi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rbl_on_oriental_fighter",
+   "name": "Rbl (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/rbl.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20rbl.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rhythmic_echo_on_oriental_fighter",
+   "name": "Rhythmic Echo (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20rhythmic%20echo.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/oriental%20fighter%20to%20rhythmic%20echo.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rora_on_oriental_fighter",
+   "name": "Rora (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/rora.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20rora.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rsg_on_oriental_fighter",
+   "name": "Rsg (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/rsg.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20rsg.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanrio_on_oriental_fighter",
+   "name": "Sanrio (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/sario.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20sanrio.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "seal_of_anvil_on_oriental_fighter",
+   "name": "Seal Of Anvil (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20of%20anvil.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20seal%20of%20anvil.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "seal_of_eternal_flower_on_oriental_fighter",
+   "name": "Seal of Eternal Flower (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20seal%20of%20eternal%20flower.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20seal%20of%20eternal%20flower.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sowman_on_oriental_fighter",
+   "name": "Sowman (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/snowman.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20snowman.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "spongebob_on_oriental_fighter",
+   "name": "Spongebob (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/spongebob.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20spongebob.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "super_return_on_oriental_fighter",
+   "name": "Super Return (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/super%20return.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20super%20return.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "tlid_on_oriental_fighter",
+   "name": "Tlid (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/tlid.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20tlid.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "tnc_on_oriental_fighter",
+   "name": "Tnc (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/tnc.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20tnc.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "iternal_season_on_oriental_fighter",
+   "name": "iternal Season (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20iternal%20season.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20iternal%20season.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "tlph_on_oriental_fighter",
+   "name": "tlph (on Oriental Fighter)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/tlph.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/oriental%20fighter%20to%20tlph.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "attack_on_titan_on_party_king",
+   "name": "Attack on Titan (on Party King)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20aot.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/party%20king%20to%20aot.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "black_void_on_party_king",
+   "name": "Black Void (on Party King)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20black%20void.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/party%20king%20to%20black%20void.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "btc_on_party_king",
+   "name": "Btc (on Party King)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20btc.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/party%20king%20to%20btc.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "exorcist_on_party_king",
+   "name": "Exorcist (on Party King)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20exorcist.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/party%20king%20to%20exorcist.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fanny_legend_on_party_king",
+   "name": "Fanny Legend (on Party King)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20fanny%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/party%20king%20to%20fanny%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fire_crown_on_party_king",
+   "name": "Fire Crown (on Party King)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fire%20crown.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/party%20king%20to%20fire%20crown.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "franco_legend_on_party_king",
+   "name": "Franco Legend (on Party King)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20franco%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/party%20king%20to%20franco%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "jawa_jawa_on_party_king",
+   "name": "Jawa Jawa (on Party King)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20jawa%20jawa.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/party%20king%20to%20jawa%20jawa.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "orochi_on_party_king",
+   "name": "Orochi (on Party King)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20orochi.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/party%20king%20to%20orochi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rhythmic_echo_on_party_king",
+   "name": "Rhythmic Echo (on Party King)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20rhythmic%20echo.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/party%20king%20to%20rhythmic%20echo.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "seal_of_anvil_on_party_king",
+   "name": "Seal of Anvil (on Party King)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20of%20anvil.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/party%20king%20to%20seal%20of%20anvil.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "tlph_on_party_king",
+   "name": "Tlph (on Party King)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/tlph.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/party%20king%20to%20tlph.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "iternal_season_on_party_king",
+   "name": "iternal Season (on Party King)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20iternal%20season.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/party%20king%20to%20iternal%20season.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "attack_on_titan_on_party_star",
+   "name": "Attack on Titan (on Party Star)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20aot.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/party%20star%20to%20aot.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "black_void_on_party_star",
+   "name": "Black Void (on Party Star)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20black%20void.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/party%20star%20to%20black%20void.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "exorcist_on_party_star",
+   "name": "Exorcist (on Party Star)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20exorcist.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/party%20star%20to%20exorcist.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fanny_legend_on_party_star",
+   "name": "Fanny Legend (on Party Star)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20fanny%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/part%20star%20to%20fanny%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fire_crown_on_party_star",
+   "name": "Fire Crown (on Party Star)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fire%20crown.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/party%20star%20to%20fire%20crown.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "orochi_on_party_star",
+   "name": "Orochi (on Party Star)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20orochi.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/party%20star%20to%20orochi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rhythmic_echo_on_party_star",
+   "name": "Rhythmic Echo (on Party Star)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20rhythmic%20echo.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/party%20star%20to%20rhythmic%20echo.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "seal_of_anvil_on_party_star",
+   "name": "Seal of Anvil (on Party Star)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20of%20anvil.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/party%20star%20to%20seal%20of%20anvil.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "tlph_on_party_star",
+   "name": "Tlph (on Party Star)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/tlph.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/party%20star%20to%20tlph.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "iternal_season_on_party_star",
+   "name": "iternal Season (on Party Star)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20iternal%20season.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/party%20star%20to%20iternal%20season.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "dashing_cat_on_sparkle",
+   "name": "Dashing Cat (on Sparkle)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/dashing%20cat.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/sparkle%20to%20dashing%20cat.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "evos_on_sparkle",
+   "name": "Evos (on Sparkle)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/evos.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/sparkle%20to%20evos.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "flcn_on_sparkle",
+   "name": "Flcn (on Sparkle)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/flcn.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/sparkle%20to%20flcn.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "itachi_on_sparkle",
+   "name": "Itachi (on Sparkle)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/itachi%20recall.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/sparkle%20to%20itachi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "navi_on_sparkle",
+   "name": "Navi (on Sparkle)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/navi.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/sparkle%20to%20navi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanrio_on_sparkle",
+   "name": "Sanrio (on Sparkle)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/sario.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/sparkle%20to%20sanrio.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "spongebob_on_sparkle",
+   "name": "Spongebob (on Sparkle)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/spongebob.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/sparkle%20to%20spongebob.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "annual_star_on_starwars",
+   "name": "Annual Star (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/annual%20star.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20annual%20star.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "aspirants_on_starwars",
+   "name": "Aspirants (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20aspirants%204.0.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20aspirants%204.0.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "attack_on_titan_on_starwars",
+   "name": "Attack on Titan (on Starwars)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20aot.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/starwars%20to%20aot.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "black_void_on_starwars",
+   "name": "Black Void (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20black%20void.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/starwars%20to%20black%20void.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "btc_on_starwars",
+   "name": "Btc (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20btc.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20btc.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "dashing_cat_on_starwars",
+   "name": "Dashing Cat (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/dashing%20cat.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20dashing%20cat.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "dewa_on_starwars",
+   "name": "Dewa (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/dewa.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20dewa.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "evos_on_starwars",
+   "name": "Evos (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/evos.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20evos.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "exorcist_on_starwars",
+   "name": "Exorcist (on Starwars)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20exorcist.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/starwars%20to%20exorcist.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fanny_legend_on_starwars",
+   "name": "Fanny Legend (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20fanny%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20fanny%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fire_crown_on_starwars",
+   "name": "Fire Crown (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fire%20crown.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20fire%20crown.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fnof_on_starwars",
+   "name": "Fnof (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fnop.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20fnop.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "franco_legend_on_starwars",
+   "name": "Franco Legend (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20franco%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20franco%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "geekid_on_starwars",
+   "name": "Geekid (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/geekid.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20geekid.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "itachi_on_starwars",
+   "name": "Itachi (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/itachi%20recall.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20itachi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "kishin_on_starwars",
+   "name": "Kishin (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/kishin.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20kishin.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "lucky_golden_egg_on_starwars",
+   "name": "Lucky Golden Egg (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/golden%20egg.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20lucky%20golden%20egg.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "naruto_on_starwars",
+   "name": "Naruto (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/naruto.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20naruto.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "neobeast_v2_on_starwars",
+   "name": "Neobeast V2 (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/neobeast%20v2.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20neobeast%20v2.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "orochi_on_starwars",
+   "name": "Orochi (on Starwars)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20orochi.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/starwars%20to%20orochi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rbl_on_starwars",
+   "name": "Rbl (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/rbl.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20rbl.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rhythmic_echo_on_starwars",
+   "name": "Rhythmic Echo (on Starwars)",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20rhythmic%20echo.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/starwars%20to%20rhythmic%20echo.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rsg_on_starwars",
+   "name": "Rsg (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/rsg.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20rsg.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanrio_on_starwars",
+   "name": "Sanrio (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/sario.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20sanrio.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "seal_of_anvil_on_starwars",
+   "name": "Seal of Anvil (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20of%20anvil.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20seal%20of%20anvil.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "soul_vessel_on_starwars",
+   "name": "Soul Vessel (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20vessel.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20soul%20vessel.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "spongebob_on_starwars",
+   "name": "Spongebob (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/spongebob.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20spongebob.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "tlph_on_starwars",
+   "name": "Tlph (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/tlph.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20tlph.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "zeus_on_starwars",
+   "name": "Zeus (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/zeus.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20zeus.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "iternal_season_on_starwars",
+   "name": "iternal Season (on Starwars)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20iternal%20season.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/starwars%20to%20iternal%20season.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "seal_of_anvil_on_stellar_brilliance",
+   "name": "Seal of Anvil (on Stellar Brilliance)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20of%20anvil.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/stellar%20briliance%20to%20seal%20of%20anvil.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "iternal_season_on_stellar_brilliance",
+   "name": "iternal Season (on Stellar Brilliance)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20iternal%20season.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/stellar%20brilliance%20to%20iternal%20season.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "btc_on_transformer",
+   "name": "Btc (on Transformer)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20btc.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/transformers%20to%20btc.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "seal_of_anvil_on_transformer",
+   "name": "Seal of Anvil (on Transformer)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/soul%20of%20anvil.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/transformers%20to%20seal%20of%20anvil.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "tlph_on_transformer",
+   "name": "Tlph (on Transformer)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/tlph.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/transformers%20to%20tlph.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "iternal_season_on_transformer",
+   "name": "iternal Season (on Transformer)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20iternal%20season.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/transformers%20to%20iternal%20season.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "classic",
+   "name": "Classic",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/BackupRecall.jpg",
+   "script": "https://raw.githubusercontent.com/Hiro161123/DataApk/main/BACKUP%20RECALL.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "m1_glory_2",
+   "name": "M1 Glory",
+   "image": "https://raw.githubusercontent.com/bangmamet/new_i-moba/main/M1%20glory.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/M1%20GLORY.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "blazing_west",
+   "name": "Blazing West",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Blazing%20west.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/BLAZING.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "carp_winds",
+   "name": "Carp Winds",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Carp%20windsocks%20fluttering.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/CARP%20WIND.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "christmas_2",
+   "name": "Christmas",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Christmas.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/CHRISTMASH.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "dragon_mark_2",
+   "name": "Dragon Mark",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Dragon%20mark.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/DEAGON%20TIMER.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fire_crown_2",
+   "name": "Fire crown",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Fire%20crown.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/FIRE%20CROWN.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "halloween_3",
+   "name": "Halloween",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Hallowen.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/HELLOWEN.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "emerald_royalty",
+   "name": "Emerald Royalty",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Emerald%20Road.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/EMERALD.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "k_o_f",
+   "name": "K.O.F",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/King%20Of%20Fighter.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/KOF.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "return_of_the_hero",
+   "name": "Return of the Hero",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Lancelot%20super%20hero.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/LANCE%20HERO.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "light_dark_4",
+   "name": "Light & Dark",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Light%20%26%20Dark.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/LIGHT%20DARK.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "lightborn",
+   "name": "Lightborn",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Lightborn's%20soul.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/LIGHTBORN.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "m1_champion",
+   "name": "M1 Champion",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Evos.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/M1%20EVOS.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "mcl_tournament_2",
+   "name": "MCL Tournament",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/MCL%20turnament.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/MCL.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "oriental_fighters",
+   "name": "Oriental Fighters",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Oriental%20fighter.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/ORIENTAL.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "party_king_3",
+   "name": "Party king",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Party%20king%20515.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/PARTY%20KING.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "seal_of_anvil_2",
+   "name": "Seal of Anvil",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Seal%20Of%20Anvil%20Crawlers.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/SEAL%20ANVIL.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "seal_of_eternity",
+   "name": "Seal of Eternity",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Seal%20of%20eternal%20flowers.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/ETERNAL.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sky_guardian_2",
+   "name": "Sky Guardian",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Sky%20guardian.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/GUARDIAN.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "snowman_2",
+   "name": "Snowman",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Snowman.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/SNOWMAN.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "spring_festival_2",
+   "name": "Spring Festival",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Spring%20festival.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/SPRING.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "s_a_b_e_r",
+   "name": "S.A.B.E.R",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Squad%20S.A.B.E.R.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/SABER.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "star_cluster",
+   "name": "Star Cluster",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Star%20Cluster.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/ZODIAC.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "starlight",
+   "name": "Starlight",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Starlight.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/STARLIGHT.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "summer_gala_2",
+   "name": "Summer Gala",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Summer%20Gala.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/SUMMER.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "super_return_2",
+   "name": "Super Return",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Super%20return.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/RETURN%20HERO.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "msc_2021",
+   "name": "MSC 2021",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Turnament%20MSC.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/MSC.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "venom_2",
+   "name": "Venom",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/V.E.N.O.M.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/VENOM.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "wave_world",
+   "name": "Wave world",
+   "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Wave%20of%20the%20world.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/WAVE.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "thunder_return",
+   "name": "Thunder Return",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/SKIN.REVAMP/main/Recall.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/CHOU%20HERO.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "bounty_rush",
+   "name": "Bounty Rush",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/SKIN.REVAMP/main/Recall%20blazing%20bounty.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/BOUNTY%20RUSH.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "m2",
+   "name": "M2",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/SKIN.REVAMP/main/Recall%20M2.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/M2.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "alucard_legend",
+   "name": "Alucard Legend",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Recall%20alucard%20legend.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/ALUCARD%20LEGEND.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "gusion_legend",
+   "name": "Gusion Legend",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/20210118_231721.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/GUSION%20LEGEND.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "gord_legend",
+   "name": "Gord Legend",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Recall%20gord%20legend.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/GORD%20LEGEND.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "miya_legend",
+   "name": "Miya Legend",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Recall%20miya%20legend.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/MIYA%20LEGEND.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "saber_legend",
+   "name": "Saber Legend",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Recall%20saber%20legend.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/SABER%20LEGEND.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "lesley_legend",
+   "name": "Lesley Legend",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Recall%20lesley%20legend.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/LESLEY%20LEGEND.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "granger_legend",
+   "name": "Granger Legend",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/Update24/main/Recall%20grenger%20legend.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/GRANGER%20LEGEND.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "storm_return",
+   "name": "Storm Return",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/project_new/main/Recall%20Vale%20Superhero.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/VALE%20HERO.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "s_t_u_n",
+   "name": "S.T.U.N",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Recall%20S.T.U.N.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/STUN.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "future_return",
+   "name": "Future Return",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Recall%20esme%20superhero.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/ESMERLDA%20HERO.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "starwars_3",
+   "name": "Starwars",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Recall%20starwars.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/STAR%20WARS.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "bren_esports",
+   "name": "Bren Esports",
+   "image": "https://raw.githubusercontent.com/MametGaming/GB_EFFECT/main/Recall%20bren%20esport.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/BREN%20ESPORT.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "homebound",
+   "name": "Homebound",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Homebound%20lily.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/KAGURA%20STAR.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "roger_m3",
+   "name": "Roger M3",
+   "image": "https://raw.githubusercontent.com/NewMoba2023/eFectAll/main/Recall%20roger%20M3.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/ROGER%20PRIME.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "darkest_return",
+   "name": "Darkest Return",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Darkest%20return.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/ALPHA%20ABYYS.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "transformers_2",
+   "name": "Transformers",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/transformer.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/TRANSFORMERS.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "valir_legend_2",
+   "name": "Valir Legend",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/valir%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/VALIR%20LEGEND.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "wonder_party",
+   "name": "Wonder Party",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/wonder%20park%20hellokitty.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/HELLO%20KITTY.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "guinevere_legend",
+   "name": "Guinevere Legend",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/Guin%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/GUINEVER%20LEGEND.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "515_mworld",
+   "name": "515 Mworld",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/Mworld.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/MWORLD.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "foreboding_return",
+   "name": "Foreboding Return",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/foreboding%20return.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/MOSKOV%20ABYYS.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "enticing_return",
+   "name": "Enticing Return",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/enticing%20return.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/SELENA%20ABYYS.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "black_void",
+   "name": "Black void",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/black%20void.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/BLACK%20VOID.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "saint_seiya",
+   "name": "Saint Seiya",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/saint%20seiya.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/SAINT%20SEIYA.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "exorcist_3",
+   "name": "Exorcist",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/exorcist.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/EXORCIST.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "franco_legend_2",
+   "name": "Franco Legend",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/franco%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/FRANCO%20LEGEND.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "atomic_pop_2",
+   "name": "Atomic pop",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/Allstar.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/ALL%20STAR.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "lunox_legend_2",
+   "name": "Lunox Legend",
+   "image": "https://raw.githubusercontent.com/Nbs2023/Effect/main/Recall%20lunox%20legend.png",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/LUNOX%20LEGEND.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "dragon_2",
+   "name": "Dragon",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/dimensional%20dragond.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Trail/main/RECALL%20DRAGON%20NEW.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "ducati_2",
+   "name": "Ducati",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/Ducati.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/DUCATI.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "golden_egg_2",
+   "name": "Golden egg",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/Golden%20egg.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/RECALL%20AYAM.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "neobeasts",
+   "name": "Neobeasts",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/neobeast.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/RECALL%20NEOBEAST.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "annual_star_angela",
+   "name": "Annual Star Angela",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/Avatar%20of%20time.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/RECALL%20ANUAL%20STAR%20ANGELA.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "m5_3",
+   "name": "M5",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/M5.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/RECALL%20M5.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "yu_zhong_m5_primer",
+   "name": "Yu Zhong M5 Primer",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/yu%20Zhong%20m5%20prime.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/RECALL%20M5%20PRIMER.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "ethereal_butterfly_2",
+   "name": "Ethereal Butterfly",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/Ethereal%20butterfly.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/RECALL%20SELENA%20KUPU2.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "mistbenders",
+   "name": "Mistbenders",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/Mistbennder.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/RECALL%20MISTBENDERS.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "freya_legend_2",
+   "name": "Freya Legend",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/Freya%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/Hiro161123/DataApk/main/RECALL%20FREYA%20LEGEND.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "aot",
+   "name": "AOT",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/IMG_20240607_203543.png",
+   "script": "https://raw.githubusercontent.com/Hiro161123/Apps/main/RECALL%20AOT.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "kof_97",
+   "name": "KOF'97",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/KOF'97.jpg",
+   "script": "https://raw.githubusercontent.com/Hiro161123/INTRO/main/RECALL%20KOF%20'97%20(server%20ori).zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "mrl_v1",
+   "name": "MRL v1",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/Recall%20MRL1.png",
+   "script": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/RECALL%20MRL1.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "mrl_v2",
+   "name": "MRL v2",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/Recall%20MRL2.png",
+   "script": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/RECALL%20MRL2.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "soul_vessels_2",
+   "name": "Soul Vessels",
+   "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/Recall%20soul%20vessel.png",
+   "script": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/RECALL%20SOUL%20VESSEL.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "tnc",
+   "name": "TNC",
+   "image": "https://raw.githubusercontent.com/raflinkk/SC/main/RECCALL%20IMG/Tnc.jpg",
+   "script": "https://raw.githubusercontent.com/Mornwish/EFFECT-RECALL/main/ALL%20RECALL/Recall%20Tnc.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "evos_2",
+   "name": "EVOS",
+   "image": "https://raw.githubusercontent.com/raflinkk/SC/main/RECCALL%20IMG/Evos.jpg",
+   "script": "https://raw.githubusercontent.com/Mornwish/EFFECT-RECALL/main/ALL%20RECALL/Evos.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fcap",
+   "name": "FCAP",
+   "image": "https://raw.githubusercontent.com/raflinkk/SC/main/RECCALL%20IMG/Fcap.jpg",
+   "script": "https://raw.githubusercontent.com/Mornwish/EFFECT-RECALL/main/ALL%20RECALL/Fcap.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "fnop",
+   "name": "FNOP",
+   "image": "https://raw.githubusercontent.com/raflinkk/SC/main/RECCALL%20IMG/Fnop.jpg",
+   "script": "https://raw.githubusercontent.com/Mornwish/EFFECT-RECALL/main/ALL%20RECALL/Fnop.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "geek",
+   "name": "GEEK",
+   "image": "https://raw.githubusercontent.com/raflinkk/SC/main/RECCALL%20IMG/Geek.jpg",
+   "script": "https://raw.githubusercontent.com/Mornwish/EFFECT-RECALL/main/ALL%20RECALL/Geek.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "omg",
+   "name": "OMG",
+   "image": "https://raw.githubusercontent.com/raflinkk/SC/main/RECCALL%20IMG/OMG.jpg",
+   "script": "https://raw.githubusercontent.com/Mornwish/EFFECT-RECALL/main/ALL%20RECALL/Omg.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rbl_2",
+   "name": "RBL",
+   "image": "https://raw.githubusercontent.com/raflinkk/SC/main/RECCALL%20IMG/Rbl.jpg",
+   "script": "https://raw.githubusercontent.com/Mornwish/EFFECT-RECALL/main/ALL%20RECALL/Rbl.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rora",
+   "name": "RORA",
+   "image": "https://raw.githubusercontent.com/raflinkk/SC/main/RECCALL%20IMG/Rora.jpg",
+   "script": "https://raw.githubusercontent.com/Mornwish/EFFECT-RECALL/main/ALL%20RECALL/Rora.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rsg",
+   "name": "RSG",
+   "image": "https://raw.githubusercontent.com/raflinkk/SC/main/RECCALL%20IMG/Rsg.jpg",
+   "script": "https://raw.githubusercontent.com/Mornwish/EFFECT-RECALL/main/ALL%20RECALL/Rsg.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "tlid",
+   "name": "TLID",
+   "image": "https://raw.githubusercontent.com/raflinkk/SC/main/RECCALL%20IMG/Tlid.jpg",
+   "script": "https://raw.githubusercontent.com/Mornwish/EFFECT-RECALL/main/ALL%20RECALL/Tlid.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "tlph",
+   "name": "TLPH",
+   "image": "https://raw.githubusercontent.com/raflinkk/SC/main/RECCALL%20IMG/Tlph.jpg",
+   "script": "https://raw.githubusercontent.com/Mornwish/EFFECT-RECALL/main/ALL%20RECALL/Tlph.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "naruto",
+   "name": "Naruto",
+   "image": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/Recall%20Naruto.jpg",
+   "script": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/RECALL%20NARUTO.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-10-28"
+  }
+ ],
+ "eliminations": [
+  {
+   "id": "alpha_abyss",
+   "name": "Alpha Abyss",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Darkest_Takedown_Elimination_Effect.png/revision/latest?cb=20211204083749",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Eliminasi/main/alpha%20abys.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "aspirants",
+   "name": "Aspirants",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/P0Tu3I1m1n4s1/main/aspirants.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/aspirants.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "blackist",
+   "name": "Blackist",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/P0Tu3I1m1n4s1/main/blacklist.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/blacklist.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "brens",
+   "name": "Brens",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/M2_Champion_Elimination_Effect.png/revision/latest?cb=20211204083823",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Eliminasi/main/brens.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "calamity_end",
+   "name": "Calamity End",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/P0Tu3I1m1n4s1/main/calamity%20end.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/calamity%20end.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "esme_hero",
+   "name": "Esme Hero",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Elimination_of_the_Future_Elimination_Effect.png/revision/latest?cb=20210712121922",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Eliminasi/main/esme.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "evos",
+   "name": "Evos",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/P0Tu3I1m1n4s1/main/evos.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/evos.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "exorcist",
+   "name": "Exorcist",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/P0Tu3I1m1n4s1/main/exorcist2.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/exorcist2.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "ghost",
+   "name": "Ghost",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/P0Tu3I1m1n4s1/main/ghost.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/ghost.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "hellokitty",
+   "name": "HelloKitty",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Knockout_Uh%2C_Next_Time_Elimination_Effect.png/revision/latest?cb=20220307094032",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Eliminasi/main/helokity.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "k_o",
+   "name": "K.O",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/P0Tu3I1m1n4s1/main/k.o.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/k.o.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "k_o_2",
+   "name": "K.o",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/P0Tu3I1m1n4s1/main/kof%20k.o.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/kof%20k.o.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "kishin_densetsu",
+   "name": "Kishin Densetsu",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/P0Tu3I1m1n4s1/main/kishin%20densetsu.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/kishin%20densetsu.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "kungfu",
+   "name": "Kungfu",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/P0Tu3I1m1n4s1/main/kungfu.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/kungfu.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "m3",
+   "name": "M3",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/P0Tu3I1m1n4s1/main/m3.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/m3.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "moskov_abyss",
+   "name": "Moskov Abyss",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Foreboding_Takedown_Elimination_Effect.png/revision/latest?cb=20220626162857",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Eliminasi/main/moskov%20abys.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "mworld",
+   "name": "Mworld",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/P0Tu3I1m1n4s1/main/mworld.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/mworld.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rip",
+   "name": "Rip",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/P0Tu3I1m1n4s1/main/rip.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/rip.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "saint_seiya",
+   "name": "Saint Seiya",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/P0Tu3I1m1n4s1/main/saint%20seiya.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/saint%20seiya.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "selena_abyss",
+   "name": "Selena Abyss",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Enticing_Takedown_Elimination_Effect.png/revision/latest?cb=20220115045440",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Eliminasi/main/selena%20abys.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "spongebob",
+   "name": "Spongebob",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/P0Tu3I1m1n4s1/main/spongebob.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/spongebob.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "stun",
+   "name": "Stun",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/P0Tu3I1m1n4s1/main/stun.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/stun.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "super_kill",
+   "name": "Super Kill",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/P0Tu3I1m1n4s1/main/super%20kill.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/super%20kill.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "the_sword",
+   "name": "The Sword",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/The_Elimination_of_The_Sword_Elimination_Effect.png/revision/latest?cb=20211204075444",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Eliminasi/main/the%20sword.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "thunder_strike",
+   "name": "Thunder Strike",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/P0Tu3I1m1n4s1/main/thunder%20strike.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/thunder%20strike.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "transformers",
+   "name": "Transformers",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Knockout_Elimination_Effect.png/revision/latest?cb=20210907052054",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Eliminasi/main/transformer.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "vale_hero",
+   "name": "Vale Hero",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Return_of_the_Storm_Recall_Effect.png/revision/latest?cb=20211204084352",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-Eliminasi/main/vale.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  }
+ ],
+ "maps": [
+  {
+   "id": "land_of_dawn_original_all",
+   "name": "Land of Dawn (original)",
+   "quality": "All",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-FIX-FRANCO/master/backup%20map.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_all_star_2026",
+   "name": "Sanctum Island – All Star 2026",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/sanctum%20island%20to%20all%20star%202026.jpg",
+   "script": "https://github.com/Opoad55/3f3k/releases/download/assets/sanctum.island.to.all.star.2026.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_all_star_harmonia",
+   "name": "Sanctum Island – All Star Harmonia",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20all%20star%20harmonia.jpg",
+   "script": "https://github.com/n3wz1ips/M4pt/releases/download/assets/sanctum.island.to.all.star.harmonia.zip",
+   "enabled": false,
+   "source": "bs",
+   "broken": "HTTP 404",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_aurora",
+   "name": "Sanctum Island – Aurora",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20aurora.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20aurora.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_beach",
+   "name": "Sanctum Island – Beach",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20pantai.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20pantai.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_beach_2",
+   "name": "Sanctum Island – Beach",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20pantai2.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20pantai2.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_beach_3",
+   "name": "Sanctum Island – Beach",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20pantai%20siang.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20pantai%20siang.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_celestial_palace",
+   "name": "Sanctum Island – Celestial Palace",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/sanctum%20island%20to%20celestial%20palace.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/sanctum%20island%20to%20celestial%20palace.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_china_hd_hd",
+   "name": "Sanctum Island – China HD",
+   "quality": "HD",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20china%20hd.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20china%20hd.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_cloud",
+   "name": "Sanctum Island – Cloud",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20awan.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20awan.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_cosmic",
+   "name": "Sanctum Island – Cosmic",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20cosmic.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20cosmic.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_damaged_roads",
+   "name": "Sanctum Island – Damaged Roads",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20jalan%20rusak.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20jalan%20rusak.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_day_night",
+   "name": "Sanctum Island – Day & Night",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20pantai%20siang%20%26%20malam.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20pantai%20siang%20%26%20malam.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_forest",
+   "name": "Sanctum Island – Forest",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20hutan%20v2.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20hutan%20v2.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_forest_2",
+   "name": "Sanctum Island – Forest",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20hutan.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20hutan.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_golden_m7",
+   "name": "Sanctum Island – Golden M7",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20golden%20m7.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20golden%20m7.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_golden_m7_v2",
+   "name": "Sanctum Island – Golden M7 v2",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20golden%20m7%20v2.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20golden%20m7%20v2.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_green_mountains",
+   "name": "Sanctum Island – Green Mountains",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20pegunungan%20hijau.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20pegunungan%20hijau.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_green_mountains_ultra",
+   "name": "Sanctum Island – Green Mountains",
+   "quality": "Ultra",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20pegunungan%20hijau%20ultra.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20pegunungan%20hijau%20ultra.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_harmonia_night",
+   "name": "Sanctum Island – Harmonia Night",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/sanctum%20island%20to%20harmonia%20night.jpg",
+   "script": "https://github.com/Opoad55/3f3k/releases/download/assets/sanctum.island.to.harmonia.night.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_hello_kitty_island",
+   "name": "Sanctum Island – Hello Kitty Island",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20hello%20kitty.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20hello%20kitty.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_konoha_village_hd",
+   "name": "Sanctum Island – Konoha Village",
+   "quality": "HD",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20desa%20konoha%20hd.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20desa%20konoha%20hd.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_konoha_village",
+   "name": "Sanctum Island – Konoha Village",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20desa%20konoha.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20desa%20konoha.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_konoha_village_2",
+   "name": "Sanctum Island – Konoha Village",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/sanctum%20island%20to%20desa%20konoha.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/sanctum%20island%20to%20desa%20konoha.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_lava",
+   "name": "Sanctum Island – Lava",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20lava.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20lava.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_league_legend",
+   "name": "Sanctum Island – League Legend",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/sanctum%20island%20to%20league%20of%20legend.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/sanctum%20island%20to%20league%20of%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_lotus",
+   "name": "Sanctum Island – Lotus",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20teratai.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20teratai.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_meadow",
+   "name": "Sanctum Island – Meadow",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20padang%20rumput.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20padang%20rumput.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_morning",
+   "name": "Sanctum Island – Morning",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20morning%20island.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20morning%20island.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_night",
+   "name": "Sanctum Island – Night",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20night%20island.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20night%20island.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_shallow_waters",
+   "name": "Sanctum Island – Shallow Waters",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20perairan%20dangkal.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20perairan%20dangkal.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_spring",
+   "name": "Sanctum Island – Spring",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20musim%20semi.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20musim%20semi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_spring_2",
+   "name": "Sanctum Island – Spring",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/sanctum%20island%20to%20musim%20semi.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/sanctum%20island%20to%20musim%20semi.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_sunset",
+   "name": "Sanctum Island – Sunset",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/sanctum%20island%20to%20sunset.jpg",
+   "script": "https://github.com/Opoad55/3f3k/releases/download/assets/sanctum.island.to.sunset.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_winter_afternoon",
+   "name": "Sanctum Island – Winter Afternoon",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20siang%20musim%20dingin.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20siang%20musim%20dingin.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_winter_night",
+   "name": "Sanctum Island – Winter Night",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20malam%20musim%20dingin.jpg.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20malam%20musim%20dingin.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_imperial_sanctuary_lite",
+   "name": "Sanctum Island – imperial Sanctuary",
+   "quality": "Lite",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/sanctum%20island%20to%20imeprial%20sanctuary%20lite.jpg",
+   "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/sanctum%20island%20to%20imeprial%20sanctuary%20lite.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_imperial_sanctuary",
+   "name": "Sanctum Island – imperial Sanctuary",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/sanctum%20island%20to%20imeprial%20sanctuary.jpg",
+   "script": "https://github.com/Opoad55/3f3k/releases/download/assets/sanctum.island.to.imeprial.sanctuary.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_old",
+   "name": "Sanctum Island – old",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20old.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20old.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sanctum_island_night_beach",
+   "name": "Sanctum Island – Night Beach",
+   "quality": "",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20pantai%20malam.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20pantai%20malam.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "night_mode_low",
+   "name": "Night Mode",
+   "quality": "Low",
+   "image": "https://raw.githubusercontent.com/missnapokita/maps/main/image/Picsart_26-07-28_23-26-04-012.jpg",
+   "script": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20low.zip",
+   "enabled": true,
+   "source": "bh",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "night_mode_high",
+   "name": "Night Mode",
+   "quality": "High",
+   "image": "https://raw.githubusercontent.com/missnapokita/maps/main/image/Picsart_26-07-28_23-26-04-012.jpg",
+   "script": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20high.zip",
+   "enabled": true,
+   "source": "bh",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "night_mode_ultra",
+   "name": "Night Mode",
+   "quality": "Ultra",
+   "image": "https://raw.githubusercontent.com/missnapokita/maps/main/image/Picsart_26-07-28_23-26-04-012.jpg",
+   "script": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20ultra.zip",
+   "enabled": true,
+   "source": "bh",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "league_of_legends_high",
+   "name": "League of Legends",
+   "quality": "High",
+   "image": "https://raw.githubusercontent.com/missnapokita/maps/main/image/lol%201.jpg",
+   "script": "https://raw.githubusercontent.com/missnapokita/maps/main/lol/lol%20high.zip",
+   "enabled": true,
+   "source": "bh",
+   "added": "2026-10-28"
+  },
+  {
+   "id": "mpl_high",
+   "name": "MPL",
+   "quality": "High",
+   "image": "https://raw.githubusercontent.com/missnapokita/maps/main/image/mpl%201.jpg",
+   "script": "https://raw.githubusercontent.com/missnapokita/maps/main/mpl%20high.zip",
+   "enabled": true,
+   "source": "bh",
+   "added": "2026-10-28"
+  }
+ ]
+}
