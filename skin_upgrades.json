@@ -19519,12 +19519,13 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero797-portrait.png/revision/latest?cb=20220525165846",
      "script": "https://raw.githubusercontent.com/missnapokita/Nov2024fix/main/rev%20granger%20normal%20to%20legend.zip",
      "type": "upgrade",
-     "enabled": true,
+     "enabled": false,
      "skin_tags": [
       "legend"
      ],
      "added": "2026-10-26",
-     "size": 9076648
+     "size": 9076648,
+     "duplicate_of": "https://raw.githubusercontent.com/missnapokita/July-24-MM-Upgrade/main/granger%20normal%20to%20legend.zip"
     },
     {
      "id": "granger_bardic_whisper_to_biosoldier",
@@ -42214,10 +42215,11 @@
      "image": "https://github.com/MametGaming/GB_support/raw/main/Rafaela%20epic%F0%9F%94%B8flower%20fairy.jpg",
      "script": "https://raw.githubusercontent.com/SourceBMT95/UpSupport/main/RAFAELA%20SEASON%20TO%20EPIC.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "mbs",
      "added": "2026-10-27",
-     "size": 5117873
+     "size": 5117873,
+     "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/UpSupport/main/RAFAELA%20ELITE%20%20TO%20EPIC%F0%9F%94%B8Flower%20Fairy.zip"
     },
     {
      "id": "rafaela_default_to_saber",
@@ -42247,10 +42249,11 @@
      "image": "https://github.com/MametGaming/GB_support/raw/main/Rafaela%20elite%F0%9F%94%B8biomedic.jpg",
      "script": "https://raw.githubusercontent.com/SourceBMT95/UpSupport/main/RAFAELA%20ELITE%20%20TO%20ELITE%F0%9F%94%B8Biomedic.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "mbs",
      "added": "2026-10-27",
-     "size": 3821903
+     "size": 3821903,
+     "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/UpSupport/main/RAFAELA%20SEASON%20TO%20ELITE%20BIOMEDIC.zip"
     },
     {
      "id": "rafaela_default_to_flower_fairy",
@@ -42269,10 +42272,11 @@
      "image": "https://github.com/NewMoba2023/GBsuport/raw/main/Rafaela%F0%9F%94%B8S.A.B.E.R.png",
      "script": "https://raw.githubusercontent.com/SourceBMT95/UpSupport/main/RAFAELA%20ELITE%20%20TO%20S.A.B.E.R.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "mbs",
      "added": "2026-10-27",
-     "size": 4508446
+     "size": 4508446,
+     "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/UpSupport/main/RAFAELA%20SEASON%20TO%20SABER.zip"
     },
     {
      "id": "rafaela_default_to_christmas_carnival",
@@ -42280,10 +42284,11 @@
      "image": "https://github.com/NewMoba2023/GBsuport/raw/main/Rafaela%20christmas.png",
      "script": "https://raw.githubusercontent.com/SourceBMT95/UpSupport/main/RAFAELA%20ELITE%20%20TO%20CHRISTMAS.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "mbs",
      "added": "2026-10-27",
-     "size": 7084964
+     "size": 7084964,
+     "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/UpSupport/main/RAFAELA%20SEASON%20TO%20CHRISTMAS.zip"
     }
    ],
    "source": "mbs"
@@ -45657,10 +45662,11 @@
      "image": "https://github.com/raflinkk/SC/raw/main/ESMERALDA/Vhero.jpg",
      "script": "https://raw.githubusercontent.com/raflinkk/UPGRADESKIN/main/ESMERALDA/Esmeralda%20Dawning%20To%20Basic.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "mbs",
      "added": "2026-10-27",
-     "size": 8077940
+     "size": 8077940,
+     "duplicate_of": "https://raw.githubusercontent.com/raflinkk/UPGRADESKIN/main/ESMERALDA/Esmeralda%20Dawning%20To%20Starlight.zip"
     },
     {
      "id": "esmeralda_default_to_the_foreseer",
@@ -51025,10 +51031,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero096-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164517",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/akai%20elite%20s%20to%20kungfu%20panda.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 8286516
+     "size": 8286516,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/akai%20elite%20to%20kungfu%20panda.zip"
     },
     {
      "id": "akai_elite_to_kungfu_panda",
@@ -52026,10 +52033,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero072-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164436",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/alucard%20basic%20to%20lightborn.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 6076601
+     "size": 6076601,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/alucard%20basic2%20to%20lightborn.zip"
     },
     {
      "id": "alucard_basic_to_luckybox",
@@ -52037,10 +52045,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero072-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164436",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/alucard%20basic%20to%20luckybox.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 12285507
+     "size": 12285507,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/alucard%20basic2%20to%20luckybox.zip"
     },
     {
      "id": "alucard_basic_to_special",
@@ -52059,10 +52068,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero072-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164436",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/alucard%20basic%20to%20star%20wars.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 8477091
+     "size": 8477091,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/alucard%20basic2%20to%20star%20wars.zip"
     },
     {
      "id": "alucard_basic_to_legend",
@@ -52070,10 +52080,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero078-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164443",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/alucard%20basic2%20to%20legend.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 20522028
+     "size": 20522028,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/alucard%20basic%20to%20legend.zip"
     },
     {
      "id": "alucard_basic_to_lightborn",
@@ -53753,10 +53764,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero022-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164259",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/balmond%20basic%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 8535118
+     "size": 8535118,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/balmond%20basic%20to%20collector2.zip"
     },
     {
      "id": "balmond_basic_to_epic",
@@ -53808,10 +53820,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero023-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164302",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/balmond%20elite%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 14462620
+     "size": 14462620,
+     "duplicate_of": "https://raw.githubusercontent.com/Opoad55/upluad2/main/balmond%20elite%20to%20collector%20t.zip"
     },
     {
      "id": "balmond_elite_to_epic",
@@ -53830,10 +53843,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero024-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164306",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/balmond%20elite2%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 14354412
+     "size": 14354412,
+     "duplicate_of": "https://raw.githubusercontent.com/Opoad55/upluad2/main/balmond%20elite%20to%20collector%20t.zip"
     },
     {
      "id": "balmond_elite_to_epic",
@@ -53841,10 +53855,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero024-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164306",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/balmond%20elite2%20to%20epic.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 7003086
+     "size": 7003086,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/balmond%20elite%20to%20epic.zip"
     },
     {
      "id": "balmond_elite_to_star",
@@ -53863,10 +53878,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero024-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164306",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/balmond%20elite2%20to%20collector2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 17823911
+     "size": 17823911,
+     "duplicate_of": "https://raw.githubusercontent.com/Opoad55/upluad2/main/balmond%20elite%20to%20collector%20t.zip"
     },
     {
      "id": "balmond_elite_to_collector",
@@ -53896,10 +53912,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero028-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125721",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/balmond%20epic%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 15792786
+     "size": 15792786,
+     "duplicate_of": "https://raw.githubusercontent.com/Opoad55/upluad2/main/balmond%20epic%20to%20collector%20t.zip"
     },
     {
      "id": "balmond_epic_to_collector",
@@ -53951,10 +53968,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero029-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124123",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/balmond%20special2%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 8570797
+     "size": 8570797,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/balmond%20special%20to%20collector.zip"
     },
     {
      "id": "balmond_special_to_epic",
@@ -53962,10 +53980,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero029-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124123",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/balmond%20special2%20to%20epic.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 7176585
+     "size": 7176585,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/balmond%20special%20to%20epic.zip"
     },
     {
      "id": "balmond_special_to_collector",
@@ -53973,10 +53992,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero026-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164313",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/balmond%20special%20to%20collector2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 10752814
+     "size": 10752814,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/balmond%20special%20to%20collector.zip"
     },
     {
      "id": "balmond_special_to_collector",
@@ -53984,10 +54004,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero029-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124123",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/balmond%20special2%20to%20collector2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 10752812
+     "size": 10752812,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/balmond%20special%20to%20collector.zip"
     }
    ],
    "source": "bs"
@@ -54006,10 +54027,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero027-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164316",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/balmond%20star%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 14955507
+     "size": 14955507,
+     "duplicate_of": "https://raw.githubusercontent.com/Opoad55/upluad2/main/balmond%20star%20to%20collector%20t.zip"
     },
     {
      "id": "balmond_star_to_epic",
@@ -54050,10 +54072,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero113-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164540",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/bane%20basic%20to%20epic2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 9502772
+     "size": 9502772,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/bane%20basic%20to%20epic.zip"
     },
     {
      "id": "bane_basic_to_epic",
@@ -54105,10 +54128,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero115-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164542",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/bane%20elite%20s%20to%20epic2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 9236868
+     "size": 9236868,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/bane%20elite%20s%20to%20epic.zip"
     },
     {
      "id": "bane_elite_to_epic",
@@ -54160,10 +54184,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero114-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164541",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/bane%20season%20to%20epic2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 9021963
+     "size": 9021963,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/bane%20season%20to%20epic.zip"
     },
     {
      "id": "bane_season_to_epic",
@@ -54523,10 +54548,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero704-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165734",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/belerick%20special%20to%20epic.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 9078875
+     "size": 9078875,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/belerick%20special2%20to%20epic.zip"
     },
     {
      "id": "belerick_special_to_epic",
@@ -54556,10 +54582,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero705-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165735",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/belerick%20special2%20to%20star.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 9480701
+     "size": 9480701,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/belerick%20special%20to%20star.zip"
     }
    ],
    "source": "bs"
@@ -55590,10 +55617,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero614-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135031",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/change%20special%20to%20luckybox.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 6428255
+     "size": 6428255,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/change%20special%20s%20to%20luckybox.zip"
     }
    ],
    "source": "bs"
@@ -55711,10 +55739,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero262-portrait.png/revision/latest/scale-to-width-down/150?cb=20220719071254",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20basic%20to%20saint%20seiya%20dragon.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 20393265
+     "size": 20393265,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20basic%20to%20saint%20seiya%20libra.zip"
     },
     {
      "id": "chou_basic_to_saint_seiya",
@@ -55810,10 +55839,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043953",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20champion%20to%20saint%20seiya%20dragon.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 21188855
+     "size": 21188855,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20champion%20to%20saint%20seiya%20libra.zip"
     },
     {
      "id": "chou_champion_to_saint_seiya",
@@ -55876,10 +55906,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164856",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20dawning%20to%20saint%20seiya%20dragon.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 20365019
+     "size": 20365019,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20dawning%20to%20saint%20seiya%20libra.zip"
     },
     {
      "id": "chou_dawning_to_saint_seiya",
@@ -55964,10 +55995,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164852",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20elite%20to%20saint%20seiya%20dragon.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 20189675
+     "size": 20189675,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20elite%20to%20saint%20seiya%20libra.zip"
     },
     {
      "id": "chou_elite_to_saint_seiya",
@@ -56030,10 +56062,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164854",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20kof%20to%20saint%20seiya%20dragon.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 24159607
+     "size": 24159607,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20kof%20to%20saint%20seiya%20libra.zip"
     },
     {
      "id": "chou_kof_to_saint_seiya",
@@ -56096,10 +56129,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164851",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20luckybox%20to%20saint%20seiya%20dragon.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 21102386
+     "size": 21102386,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20luckybox%20to%20saint%20seiya%20libra.zip"
     },
     {
      "id": "chou_luckybox_to_saint_seiya",
@@ -56173,10 +56207,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121517",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20saint%20seiya%20libra%20to%20champion.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 12890350
+     "size": 12890350,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20saint%20seiya%20dragon%20to%20champion.zip"
     },
     {
      "id": "chou_saint_seiya_to_kof",
@@ -56184,10 +56219,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121517",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20saint%20seiya%20libra%20to%20kof.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 9141977
+     "size": 9141977,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20saint%20seiya%20dragon%20to%20kof.zip"
     },
     {
      "id": "chou_saint_seiya_to_saint_seiya",
@@ -56195,10 +56231,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121517",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20saint%20seiya%20libra%20to%20saint%20seiya%20dragon.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 19635936
+     "size": 19635936,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20saint%20seiya%20dragon%20to%20saint%20seiya%20libra.zip"
     },
     {
      "id": "chou_saint_seiya_to_street_fighter",
@@ -56217,10 +56254,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121517",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20saint%20seiya%20libra%20to%20street%20fighter.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 30365421
+     "size": 30365421,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20saint%20seiya%20dragon%20to%20street%20fighter.zip"
     }
    ],
    "source": "bs"
@@ -56283,10 +56321,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero265-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164853",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20special%20to%20saint%20seiya%20dragon.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 20363974
+     "size": 20363974,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20special%20to%20saint%20seiya%20libra.zip"
     },
     {
      "id": "chou_special_to_saint_seiya",
@@ -56382,10 +56421,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero267-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164855",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20star%20to%20saint%20seiya%20dragon.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 20201015
+     "size": 20201015,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20star%20to%20saint%20seiya%20libra.zip"
     },
     {
      "id": "chou_star_to_saint_seiya",
@@ -56470,10 +56510,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164857",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20stun%20to%20saint%20seiya%20dragon.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 20546566
+     "size": 20546566,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/chou%20stun%20to%20saint%20seiya%20libra.zip"
     },
     {
      "id": "chou_stun_to_saint_seiya",
@@ -57713,10 +57754,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero345-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165045",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/estes%20special%20to%20champion.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 12833851
+     "size": 12833851,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/estes%20special2%20to%20champion.zip"
     },
     {
      "id": "estes_special_to_champion",
@@ -59407,10 +59449,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero102-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164523",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/franco%20special%20to%20luckybox.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 18874602
+     "size": 18874602,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/franco%20special2%20to%20luckybox.zip"
     },
     {
      "id": "franco_special_to_special",
@@ -59671,10 +59714,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero413-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165156",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/gatotkaca%20elite%20to%20luckybox.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 18021789
+     "size": 18021789,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/gatotkaca%20elite2%20to%20luckybox.zip"
     },
     {
      "id": "gatotkaca_elite_to_luckybox",
@@ -61452,10 +61496,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero805-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165913",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/guinevere%20special%20to%20aspirants.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 30561652
+     "size": 30561652,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/guinevere%20special2%20to%20aspirants.zip"
     },
     {
      "id": "guinevere_special_to_kof",
@@ -61474,10 +61519,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero805-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165913",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/guinevere%20special%20to%20legend.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 10805962
+     "size": 10805962,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/guinevere%20special2%20to%20legend.zip"
     },
     {
      "id": "guinevere_special_to_luckybox",
@@ -61485,10 +61531,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero805-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165913",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/guinevere%20special%20to%20luckybox.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 5840436
+     "size": 5840436,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/guinevere%20special2%20to%20luckybox.zip"
     },
     {
      "id": "guinevere_special_to_aspirants",
@@ -61540,10 +61587,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero807-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165920",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/guinevere%20special2%20to%20epic%20c.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 12173662
+     "size": 12173662,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/guinevere%20special%20to%20epic%20c.zip"
     },
     {
      "id": "guinevere_special_to_summer",
@@ -61562,10 +61610,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero805-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165913",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/guinevere%20special%20to%20summer.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 10063141
+     "size": 10063141,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/guinevere%20special2%20to%20summer.zip"
     }
    ],
    "source": "bs"
@@ -61782,10 +61831,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero562-portrait.png/revision/latest/scale-to-width-down/150?cb=20220909095408",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/gusion%20basic%20to%20star.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 5176648
+     "size": 5176648,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/gusion%20basic%20to%20star2.zip"
     },
     {
      "id": "gusion_basic_to_minato",
@@ -62145,10 +62195,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero564-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165446",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/gusion%20star%20to%2011.11.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 7779669
+     "size": 7779669,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/gusion%20star2%20to%2011.11.zip"
     },
     {
      "id": "gusion_star_to_collector",
@@ -62156,10 +62207,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero564-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165446",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/gusion%20star%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 15454798
+     "size": 15454798,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/gusion%20star2%20to%20collector.zip"
     },
     {
      "id": "gusion_star_to_epic",
@@ -62178,10 +62230,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero564-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165446",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/gusion%20star%20to%20kof.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 9938737
+     "size": 9938737,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/gusion%20star2%20to%20kof.zip"
     },
     {
      "id": "gusion_star_to_legend",
@@ -62189,10 +62242,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero564-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165446",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/gusion%20star%20to%20legend.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 9010708
+     "size": 9010708,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/gusion%20star2%20to%20legend.zip"
     },
     {
      "id": "gusion_star_to_11_11",
@@ -62244,10 +62298,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero564-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165446",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/gusion%20star%20to%20minato.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 25191981
+     "size": 25191981,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/gusion%20star2%20to%20minato.zip"
     },
     {
      "id": "gusion_star_to_minato",
@@ -62266,10 +62321,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero564-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165446",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/gusion%20star%20to%20dragon.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 23542783
+     "size": 23542783,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/gusion%20star2%20to%20dragon.zip"
     },
     {
      "id": "gusion_star_to_dragon",
@@ -63432,10 +63488,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero422-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165202",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/harley%20basic%20to%20star2%20Painted.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 6944459
+     "size": 6944459,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/harley%20basic%20to%20star2%20Painted2.zip"
     },
     {
      "id": "harley_basic_to_star_painted",
@@ -63509,10 +63566,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Hero424-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165204",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/harley%20special%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 17272788
+     "size": 17272788,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/harley%20special2%20to%20collector.zip"
     },
     {
      "id": "harley_special_to_collector",
@@ -63586,10 +63644,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero423-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165203",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/harley%20star%20to%20star2%20Painted2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 7760644
+     "size": 7760644,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/harley%20star%20to%20star2%20Painted.zip"
     }
    ],
    "source": "bs"
@@ -63685,10 +63744,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6f/Hero212-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164751",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/hayabusa%20basic%20to%20star.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 7380519
+     "size": 7380519,
+     "duplicate_of": "https://raw.githubusercontent.com/Opoad55/upluad2/main/hayabusa%20basic%20to%20star2.zip"
     },
     {
      "id": "hayabusa_basic_to_star",
@@ -63828,10 +63888,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero219-portrait.png/revision/latest/scale-to-width-down/150?cb=20221118130654",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/hayabusa%20elite%20s%20to%20annual%20star.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 16782122
+     "size": 16782122,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/hayabusa%20elite%20to%20annual%20star.zip"
     },
     {
      "id": "hayabusa_elite_to_exorcist",
@@ -63839,10 +63900,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero219-portrait.png/revision/latest/scale-to-width-down/150?cb=20221118130654",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/hayabusa%20elite%20s%20to%20exorcist.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 12033161
+     "size": 12033161,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/hayabusa%20elite%20to%20exorcist.zip"
     },
     {
      "id": "hayabusa_elite_to_kakashi",
@@ -63861,10 +63923,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero219-portrait.png/revision/latest/scale-to-width-down/150?cb=20221118130654",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/hayabusa%20elite%20s%20to%20star.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 7423216
+     "size": 7423216,
+     "duplicate_of": "https://raw.githubusercontent.com/Opoad55/upluad2/main/hayabusa%20elite%20s%20to%20star2.zip"
     },
     {
      "id": "hayabusa_elite_to_11_11",
@@ -63872,10 +63935,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero213-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164752",
      "script": "https://github.com/Opoad55/upluad2/releases/download/assets/hayabusa.elite.to.11.11.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 46116387
+     "size": 46116387,
+     "duplicate_of": "https://github.com/Opoad55/upluad2/releases/download/assets/hayabusa.elite.s.to.11.11.zip"
     },
     {
      "id": "hayabusa_elite_to_annual_star",
@@ -63905,10 +63969,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero213-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164752",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/hayabusa%20elite%20to%20kakashi.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 12590439
+     "size": 12590439,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/hayabusa%20elite%20s%20to%20kakashi.zip"
     },
     {
      "id": "hayabusa_elite_to_star",
@@ -63916,10 +63981,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero213-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164752",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/hayabusa%20elite%20to%20star.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 7381078
+     "size": 7381078,
+     "duplicate_of": "https://raw.githubusercontent.com/Opoad55/upluad2/main/hayabusa%20elite%20s%20to%20star2.zip"
     },
     {
      "id": "hayabusa_elite_to_star",
@@ -63938,10 +64004,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero213-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164752",
      "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/hayabusa%20elite%20to%20star2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 20813814
+     "size": 20813814,
+     "duplicate_of": "https://raw.githubusercontent.com/Opoad55/upluad2/main/hayabusa%20elite%20s%20to%20star2.zip"
     }
    ],
    "source": "bs"
@@ -64169,10 +64236,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero214-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175954",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/hayabusa%20summer%20to%20star.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 8007466
+     "size": 8007466,
+     "duplicate_of": "https://raw.githubusercontent.com/Opoad55/upluad2/main/hayabusa%20summer%20to%20star2.zip"
     },
     {
      "id": "hayabusa_summer_to_star",
@@ -64202,10 +64270,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero512-portrait.png/revision/latest/scale-to-width-down/150?cb=20240524095044",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/helcurt%20basic%20to%20star.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 4320435
+     "size": 4320435,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/helcurt%20basic%20to%20star%20painted.zip"
     },
     {
      "id": "helcurt_basic_to_zodiac",
@@ -64697,10 +64766,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero438-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052814",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/irithel%20star2%20to%20ducati.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 13488461
+     "size": 13488461,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/irithel%20star%20to%20ducati.zip"
     },
     {
      "id": "irithel_star_to_zodiac",
@@ -64708,10 +64778,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero438-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052814",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/irithel%20star2%20to%20zodiac.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 9960152
+     "size": 9960152,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/irithel%20star%20to%20zodiac.zip"
     }
    ],
    "source": "bs"
@@ -64763,10 +64834,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero1212-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125905",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/ixia%20basic%20to%20star.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 10895511
+     "size": 10895511,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/ixia%20basic%20to%20star%20painted2.zip"
     },
     {
      "id": "ixia_basic_to_star",
@@ -64774,10 +64846,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero1212-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125905",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/ixia%20basic%20to%20star%20painted.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 14924290
+     "size": 14924290,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/ixia%20basic%20to%20star%20painted2.zip"
     },
     {
      "id": "ixia_basic_to_star",
@@ -65885,10 +65958,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero253-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164841",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/kagura%20special%20to%20luckybox.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 22001436
+     "size": 22001436,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/kagura%20special2%20to%20luckybox.zip"
     },
     {
      "id": "kagura_special_to_luckybox",
@@ -65918,10 +65992,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero253-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164841",
      "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/kagura%20special%20to%20legend.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 32780502
+     "size": 32780502,
+     "duplicate_of": "https://raw.githubusercontent.com/Opoad55/upluad2/main/kagura%20special%20s%20to%20legend.zip"
     }
    ],
    "source": "bs"
@@ -66270,10 +66345,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero402-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165144",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/karrie%20basic%20to%20epic2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 10263239
+     "size": 10263239,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/karrie%20basic%20to%20epic.zip"
     },
     {
      "id": "karrie_basic_to_kishin_densetsu",
@@ -66314,10 +66390,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero409-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165151",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/karrie%20elite%20s%20to%20annual%20star.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 8765331
+     "size": 8765331,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/karrie%20elite%20to%20annual%20star.zip"
     },
     {
      "id": "karrie_elite_to_luckybox",
@@ -66325,10 +66402,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero409-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165151",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/karrie%20elite%20s%20to%20luckybox.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 5190564
+     "size": 5190564,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/karrie%20elite%20to%20luckybox.zip"
     },
     {
      "id": "karrie_elite_to_annual_star",
@@ -66347,10 +66425,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero403-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165145",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/karrie%20elite%20to%20kishin%20densetsu.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 17081253
+     "size": 17081253,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/karrie%20elite%20s%20to%20kishin%20densetsu.zip"
     },
     {
      "id": "karrie_elite_to_luckybox",
@@ -66391,10 +66470,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero407-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165149",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/karrie%20epic%20to%20annual%20star.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 7414239
+     "size": 7414239,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/karrie%20epic2%20to%20annual%20star.zip"
     },
     {
      "id": "karrie_epic_to_annual_star",
@@ -66413,10 +66493,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero407-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165149",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/karrie%20epic%20to%20kishin%20densetsu.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 24225307
+     "size": 24225307,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/karrie%20epic2%20to%20kishin%20densetsu.zip"
     },
     {
      "id": "karrie_epic_to_kishin_densetsu",
@@ -66688,10 +66769,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero085-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164458",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/karina%20elite2%20to%20zodiac.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 18324514
+     "size": 18324514,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/karina%20elite%20to%20zodiac.zip"
     },
     {
      "id": "karina_elite_to_mcgg",
@@ -66886,10 +66968,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero787-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133740",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/khufra%20elite%20s%20to%20star.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 5588260
+     "size": 5588260,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/khufra%20elite%20to%20star.zip"
     },
     {
      "id": "khufra_elite_to_collector",
@@ -67227,10 +67310,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero718-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114132958",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/kimmy%20special2%20to%20dragon%20tamer.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 6879182
+     "size": 6879182,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/kimmy%20special%20to%20dragon%20tamer.zip"
     },
     {
      "id": "kimmy_special_to_luckybox",
@@ -67238,10 +67322,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero718-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114132958",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/kimmy%20special2%20to%20luckybox.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 7210757
+     "size": 7210757,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/kimmy%20special%20to%20luckybox.zip"
     },
     {
      "id": "kimmy_special_to_starwars",
@@ -67249,10 +67334,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero718-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114132958",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/kimmy%20special2%20to%20starwars.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 10820116
+     "size": 10820116,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/kimmy%20special%20to%20starwars.zip"
     },
     {
      "id": "kimmy_special_to_collector",
@@ -67260,10 +67346,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero715-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165742",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/kimmy%20special%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 26661686
+     "size": 26661686,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/kimmy%20special2%20to%20collector.zip"
     },
     {
      "id": "kimmy_special_to_collector",
@@ -68481,10 +68568,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero182-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164719",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/layla%20basic%20to%20star2%20painted.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 5593769
+     "size": 5593769,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/layla%20basic%20to%20star2.zip"
     },
     {
      "id": "layla_basic_to_star",
@@ -68514,10 +68602,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero182-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164719",
      "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/layla%20basic%20to%20collector2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 10817453
+     "size": 10817453,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/layla%20basic%20to%20collector.zip"
     }
    ],
    "source": "bs"
@@ -68821,10 +68910,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero186-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164723",
      "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/layla%20classic%20to%20collector2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 10817460
+     "size": 10817460,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/layla%20classic%20to%20collector.zip"
     }
    ],
    "source": "bs"
@@ -68931,10 +69021,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero183-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164720",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/layla%20star%20to%20aspirants.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 12082732
+     "size": 12082732,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/layla%20star2%20to%20aspirants.zip"
     },
     {
      "id": "layla_star_to_collector",
@@ -68942,10 +69033,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero183-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164720",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/layla%20star%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 19352497
+     "size": 19352497,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/layla%20star2%20to%20collector.zip"
     },
     {
      "id": "layla_star_to_star",
@@ -68986,10 +69078,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero183-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164720",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/layla%20star%20to%20nexus%20sea.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 32280247
+     "size": 32280247,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/layla%20star2%20to%20nexus%20sea.zip"
     },
     {
      "id": "layla_star_to_nexus_sea",
@@ -69536,10 +69629,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero532-portrait.png/revision/latest/scale-to-width-down/150?cb=20220824141746",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/lesley%20basic%20to%20covenant%20painted.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 10809812
+     "size": 10809812,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/lesley%20basic%20to%20covenant.zip"
     },
     {
      "id": "lesley_basic_to_covenant",
@@ -70768,10 +70862,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero682-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165713",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/lunox%20basic%20to%20epic.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 8327094
+     "size": 8327094,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/lunox%20basic%20to%20epic2.zip"
     },
     {
      "id": "lunox_basic_to_epic",
@@ -70878,10 +70973,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero683-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165714",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/lunox%20elite%20to%20epic.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 7266522
+     "size": 7266522,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/lunox%20elite%20to%20epic2.zip"
     },
     {
      "id": "lunox_elite_to_epic",
@@ -70900,10 +70996,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero683-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165714",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/lunox%20elite%20to%20legend.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 20398687
+     "size": 20398687,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/lunox%20elite%20s%20to%20legend.zip"
     },
     {
      "id": "lunox_elite_to_luckybox",
@@ -70911,10 +71008,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero683-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165714",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/lunox%20elite%20to%20luckybox.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 21511274
+     "size": 21511274,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/lunox%20elite%20s%20to%20luckybox.zip"
     },
     {
      "id": "lunox_elite_to_zodiac",
@@ -70922,10 +71020,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero683-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165714",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/lunox%20elite%20to%20zodiac.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 16052059
+     "size": 16052059,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/lunox%20elite%20s%20to%20zodiac.zip"
     },
     {
      "id": "lunox_elite_to_mpl",
@@ -70944,10 +71043,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero683-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165714",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/lunox%20elite%20to%20mpl.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 5575515
+     "size": 5575515,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/lunox%20elite%20s%20to%20mpl.zip"
     }
    ],
    "source": "bs"
@@ -70966,10 +71066,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero687-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165719",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/lunox%20epic%20to%20legend.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 20165728
+     "size": 20165728,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/lunox%20epic2%20to%20legend.zip"
     },
     {
      "id": "lunox_epic_to_luckybox",
@@ -71010,10 +71111,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero688-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165720",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/lunox%20epic2%20to%20luckybox.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 22091516
+     "size": 22091516,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/lunox%20epic%20to%20luckybox.zip"
     },
     {
      "id": "lunox_epic_to_zodiac",
@@ -71021,10 +71123,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero688-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165720",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/lunox%20epic2%20to%20zodiac.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 17238679
+     "size": 17238679,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/lunox%20epic%20to%20zodiac.zip"
     }
    ],
    "source": "bs"
@@ -71109,10 +71212,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero684-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165715",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/lunox%20star%20to%20epic.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 6500223
+     "size": 6500223,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/lunox%20star%20to%20epic2.zip"
     },
     {
      "id": "lunox_star_to_epic",
@@ -71626,10 +71730,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero583-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165507",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/martis%20star%20to%20aot.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 22007715
+     "size": 22007715,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/martis%20star2%20to%20aot.zip"
     },
     {
      "id": "martis_star_to_luckybox",
@@ -71637,10 +71742,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero583-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165507",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/martis%20star%20to%20luckybox.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 11245595
+     "size": 11245595,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/martis%20star2%20to%20luckybox.zip"
     },
     {
      "id": "martis_star_to_zodiac",
@@ -71648,10 +71754,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero583-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165507",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/martis%20star%20to%20zodiac.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 17364401
+     "size": 17364401,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/martis%20star2%20to%20zodiac.zip"
     },
     {
      "id": "martis_star_to_aot",
@@ -71890,10 +71997,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero192-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164733",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/minotaur%20elite%20to%20zodiac.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 10747613
+     "size": 10747613,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/minotaur%20elite2%20to%20zodiac.zip"
     },
     {
      "id": "minotaur_elite_to_zodiac",
@@ -71923,10 +72031,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero194-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164735",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/minotaur%20elite2%20to%20epic.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 5711226
+     "size": 5711226,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/minotaur%20elite%20to%20epic.zip"
     }
    ],
    "source": "bs"
@@ -72583,10 +72692,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero014-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164219",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/miya%20star%20to%20atomic.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 15203026
+     "size": 15203026,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/miya%20star2%20to%20atomic.zip"
     },
     {
      "id": "miya_star_to_collector",
@@ -72594,10 +72704,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero014-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164219",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/miya%20star%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 7549338
+     "size": 7549338,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/miya%20star2%20to%20collector.zip"
     },
     {
      "id": "miya_star_to_legend",
@@ -73177,10 +73288,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero313-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164959",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/moskov%20star%20to%20abyss.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 11188209
+     "size": 11188209,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/moskov%20star2%20to%20abyss.zip"
     },
     {
      "id": "moskov_star_to_as",
@@ -73199,10 +73311,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero313-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164959",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/moskov%20star%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 25622301
+     "size": 25622301,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/moskov%20star2%20to%20collector.zip"
     },
     {
      "id": "moskov_star_to_luckybox",
@@ -73221,10 +73334,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero103110-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133752",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/moskov%20star2%20to%20as.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 17420895
+     "size": 17420895,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/moskov%20star%20to%20as.zip"
     },
     {
      "id": "moskov_star_to_collector",
@@ -73254,10 +73368,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero313-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164959",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/moskov%20star%20to%20epic.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 17132720
+     "size": 17132720,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/moskov%20star2%20to%20epic.zip"
     },
     {
      "id": "moskov_star_to_epic",
@@ -73397,10 +73512,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero054-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164406",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/nana%20elite2%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 11211553
+     "size": 11211553,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/nana%20elite%20to%20collector.zip"
     },
     {
      "id": "nana_elite_to_mistbenders",
@@ -73408,10 +73524,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero054-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164406",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/nana%20elite2%20to%20mistbenders.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 14800648
+     "size": 14800648,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/nana%20elite%20to%20mistbenders.zip"
     },
     {
      "id": "nana_elite_to_epic",
@@ -73419,10 +73536,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero052-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164404",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/nana%20elite%20to%20epic2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 12681903
+     "size": 12681903,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/nana%20basic%20to%20epic%20th.zip"
     },
     {
      "id": "nana_elite_to_epic",
@@ -73430,10 +73548,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero054-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164406",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/nana%20elite2%20to%20epic2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 11309506
+     "size": 11309506,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/nana%20basic%20to%20epic%20th.zip"
     },
     {
      "id": "nana_elite_to_epic",
@@ -73452,10 +73571,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero052-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164404",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/nana%20elite%20to%20mpl.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 3413020
+     "size": 3413020,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/nana%20elite2%20to%20mpl.zip"
     },
     {
      "id": "nana_elite_to_mpl",
@@ -74057,10 +74177,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1222-portrait.png/revision/latest/scale-to-width-down/150?cb=20231227085831",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/nolan%20basic%20to%20star%20painted.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 9987004
+     "size": 9987004,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/nolan%20basic%20to%20star%20painted2.zip"
     },
     {
      "id": "nolan_basic_to_star",
@@ -74079,10 +74200,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1222-portrait.png/revision/latest/scale-to-width-down/150?cb=20231227085831",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/nolan%20basic%20to%20star.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 8512217
+     "size": 8512217,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/nolan%20basic%20to%20star%20painted2.zip"
     },
     {
      "id": "nolan_basic_to_epic",
@@ -74156,10 +74278,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero1192-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129072018",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/novaria%20basic%20to%20star.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 10591712
+     "size": 10591712,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/novaria%20basic%20to%20star%20painted2.zip"
     },
     {
      "id": "novaria_basic_to_star",
@@ -74167,10 +74290,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero1192-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129072018",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/novaria%20basic%20to%20star%20painted.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 12354346
+     "size": 12354346,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/novaria%20basic%20to%20star%20painted2.zip"
     },
     {
      "id": "novaria_basic_to_star",
@@ -74310,10 +74434,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero1302-portrait.png/revision/latest/scale-to-width-down/150?cb=20250629033055",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/obsidia%20basic%20to%20star.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 3204179
+     "size": 3204179,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/odette%20basic%20to%20star.zip"
     }
    ],
    "source": "bs"
@@ -74717,10 +74842,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero522-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165341",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/pharsa%20basic%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 21200986
+     "size": 21200986,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/pharsa%20basic2%20to%20collector.zip"
     },
     {
      "id": "pharsa_basic_to_epic",
@@ -74750,10 +74876,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero522-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165341",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/pharsa%20basic%20to%20neobeast.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 23191377
+     "size": 23191377,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/pharsa%20basic2%20to%20neobeast.zip"
     },
     {
      "id": "pharsa_basic_to_star",
@@ -74794,10 +74921,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero524-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165343",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/pharsa%20basic2%20to%20star.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 6086705
+     "size": 6086705,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/pharsa%20basic%20to%20star.zip"
     },
     {
      "id": "pharsa_basic_to_al",
@@ -75575,10 +75703,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero392-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165131",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/roger%20basic%20to%20epic2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 6827946
+     "size": 6827946,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/roger%20basic%20to%20epic.zip"
     },
     {
      "id": "roger_basic_to_luckybox",
@@ -75663,10 +75792,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero395-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317100649",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/roger%20epic%20to%20metro%20zero.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 32314053
+     "size": 32314053,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/roger%20epic2%20to%20metro%20zero.zip"
     },
     {
      "id": "roger_epic_to_prime",
@@ -75674,10 +75804,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero395-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317100649",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/roger%20epic%20to%20prime.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 12872986
+     "size": 12872986,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/roger%20epic2%20to%20prime.zip"
     },
     {
      "id": "roger_epic_to_transformers",
@@ -75685,10 +75816,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero395-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317100649",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/roger%20epic%20to%20transformers.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 8877525
+     "size": 8877525,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/roger%20epic2%20to%20transformers.zip"
     },
     {
      "id": "roger_epic_to_metro_zero",
@@ -75971,10 +76103,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero292-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164933",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20basic%20to%20golden%20month2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 3300370
+     "size": 3300370,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20basic%20to%20golden%20month.zip"
     },
     {
      "id": "ruby_basic_to_luckybox",
@@ -76015,10 +76148,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero293-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164934",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20elite%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 10927338
+     "size": 10927338,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20elite2%20to%20collector.zip"
     },
     {
      "id": "ruby_elite_to_golden_month",
@@ -76026,10 +76160,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero293-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164934",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20elite%20to%20golden%20month.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 3763508
+     "size": 3763508,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20elite2%20to%20golden%20month.zip"
     },
     {
      "id": "ruby_elite_to_golden_month",
@@ -76037,10 +76172,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero293-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164934",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20elite%20to%20golden%20month2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 3292892
+     "size": 3292892,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20elite2%20to%20golden%20month.zip"
     },
     {
      "id": "ruby_elite_to_luckybox",
@@ -76048,10 +76184,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero293-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164934",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20elite%20to%20luckybox.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 3581184
+     "size": 3581184,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20elite2%20to%20luckybox.zip"
     },
     {
      "id": "ruby_elite_to_aspirants",
@@ -76059,10 +76196,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero294-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164936",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20elite2%20to%20aspirants.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 10975860
+     "size": 10975860,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20elite%20to%20aspirants.zip"
     },
     {
      "id": "ruby_elite_to_collector",
@@ -76092,10 +76230,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero294-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164936",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20elite2%20to%20golden%20month2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 3503610
+     "size": 3503610,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20elite2%20to%20golden%20month.zip"
     },
     {
      "id": "ruby_elite_to_luckybox",
@@ -76136,10 +76275,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero102911-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154353",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20golden%20month2%20to%20aspirants.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 11563358
+     "size": 11563358,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20golden%20month%20to%20aspirants.zip"
     },
     {
      "id": "ruby_golden_month_to_collector",
@@ -76158,10 +76298,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero102911-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154353",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20golden%20month2%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 18689145
+     "size": 18689145,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20golden%20month%20to%20collector.zip"
     }
    ],
    "source": "bs"
@@ -76213,10 +76354,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero295-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164936",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20luckybox%20to%20golden%20month2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 3706901
+     "size": 3706901,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20luckybox%20to%20golden%20month.zip"
     }
    ],
    "source": "bs"
@@ -76268,10 +76410,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero299-portrait.png/revision/latest/scale-to-width-down/150?cb=20240609013617",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20special%20to%20golden%20month2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 3506163
+     "size": 3506163,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20special%20to%20golden%20month.zip"
     }
    ],
    "source": "bs"
@@ -76323,10 +76466,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero296-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164937",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20star%20to%20golden%20month2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 3396515
+     "size": 3396515,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/ruby%20star%20to%20golden%20month.zip"
     }
    ],
    "source": "bs"
@@ -76367,10 +76511,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero032-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164327",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/saber%20basic%20to%20legend.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 30756077
+     "size": 30756077,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/saber%20basic%20s%20to%20legend.zip"
     },
     {
      "id": "saber_basic_to_luckybox",
@@ -76400,10 +76545,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero038-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164337",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/saber%20basic%20s%20to%20luckybox.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 7815450
+     "size": 7815450,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/saber%20basic%20to%20luckybox.zip"
     }
    ],
    "source": "bs"
@@ -76499,10 +76645,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero033-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164328",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/saber%20star%20to%20legend.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 33744504
+     "size": 33744504,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/saber%20star2%20to%20legend.zip"
     },
     {
      "id": "saber_star_to_luckybox",
@@ -77236,10 +77383,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero124-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164550",
      "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20elite2%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 32429428
+     "size": 32429428,
+     "duplicate_of": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20elite%20to%20collector.zip"
     },
     {
      "id": "bruno_elite_to_collector",
@@ -77433,10 +77581,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero123-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604044855",
      "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20special%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 32176004
+     "size": 32176004,
+     "duplicate_of": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20special2%20to%20collector.zip"
     },
     {
      "id": "bruno_special_to_collector",
@@ -77807,10 +77956,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero382-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714134500",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/vexana%20basic%20to%20epic.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 8509675
+     "size": 8509675,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/vexana%20basic%20to%20epic2.zip"
     },
     {
      "id": "vexana_basic_to_zenith",
@@ -78346,10 +78496,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero063-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164421",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/tigreal%20elite2%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 11501860
+     "size": 11501860,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/tigreal%20elite%20to%20collector.zip"
     },
     {
      "id": "tigreal_elite_to_lightborn",
@@ -78368,10 +78519,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero062-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164420",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/tigreal%20elite%20to%20special.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 5267657
+     "size": 5267657,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/tigreal%20elite2%20to%20special.zip"
     },
     {
      "id": "tigreal_elite_to_star",
@@ -78390,10 +78542,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero063-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164421",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/tigreal%20elite2%20to%20lightborn.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 5005031
+     "size": 5005031,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/tigreal%20elite%20to%20lightborn.zip"
     },
     {
      "id": "tigreal_elite_to_special",
@@ -78874,10 +79027,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero112-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164539",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/bane%20epic%20to%20star.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 15092483
+     "size": 15092483,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/bane%20epic2%20to%20star.zip"
     },
     {
      "id": "bane_epic_to_star",
@@ -78896,10 +79050,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero112-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164539",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/bane%20epic%20to%20epic2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 14544977
+     "size": 14544977,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/bane%20epic2%20to%20epic.zip"
     },
     {
      "id": "bane_epic_to_mr_krabs",
@@ -78984,10 +79139,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero852-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170032",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/dyrroth%20basic%20to%20sf2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 27256042
+     "size": 27256042,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/dyrroth%20basic%20to%20sf.zip"
     },
     {
      "id": "dyrroth_basic_to_gogopass",
@@ -79028,10 +79184,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero272-portrait.png/revision/latest/scale-to-width-down/150?cb=20240131101410",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/sun%20elite%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 23572109
+     "size": 23572109,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/sun%20elite%20to%20collector%20t.zip"
     },
     {
      "id": "sun_elite_to_lunar_fest",
@@ -79237,10 +79394,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero274-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135455",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/sun%20special2%20to%20annual%20star.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 11813247
+     "size": 11813247,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/sun%20special%20to%20annual%20star.zip"
     },
     {
      "id": "sun_special_to_collector",
@@ -79248,10 +79406,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero273-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135350",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/sun%20special%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 23534935
+     "size": 23534935,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/sun%20special2%20to%20collector%20t.zip"
     },
     {
      "id": "sun_special_to_lunar_fest",
@@ -79259,10 +79418,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero273-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135350",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/sun%20special%20to%20lunar%20fest.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 16259374
+     "size": 16259374,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/sun%20special2%20to%20lunar%20fest.zip"
     },
     {
      "id": "sun_special_to_star",
@@ -79270,10 +79430,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero273-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135350",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/sun%20special%20to%20star.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 6377021
+     "size": 6377021,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/sun%20special2%20to%20star.zip"
     },
     {
      "id": "sun_special_to_collector",
@@ -79281,10 +79442,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero274-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135455",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/sun%20special2%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 23567077
+     "size": 23567077,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/sun%20special2%20to%20collector%20t.zip"
     },
     {
      "id": "sun_special_to_lunar_fest",
@@ -79325,10 +79487,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero273-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135350",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/sun%20special%20to%20collector%20t.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 33400103
+     "size": 33400103,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/sun%20special2%20to%20collector%20t.zip"
     }
    ],
    "source": "bs"
@@ -79358,10 +79521,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero277-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164910",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/sun%20lunar%20fest%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 23163754
+     "size": 23163754,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/sun%20lunar%20fest%20to%20collector%20t.zip"
     },
     {
      "id": "sun_lunar_fest_to_collector",
@@ -79413,10 +79577,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero275-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164905",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/sun%20star%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 25433042
+     "size": 25433042,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/sun%20star%20to%20collector%20t.zip"
     },
     {
      "id": "sun_star_to_collector",
@@ -79457,10 +79622,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero276-portrait.png/revision/latest/scale-to-width-down/150?cb=20240418090305",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/sun%20basic%20s%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 23566971
+     "size": 23566971,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/sun%20basic%20s%20to%20collector%20t.zip"
     },
     {
      "id": "sun_basic_to_lunar_fest",
@@ -79798,10 +79964,11 @@
      "image": "https://raw.githubusercontent.com/n3wz1ips/P0tuSk1n/refs/heads/main/hylos%20elite.jpg",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/hylos%20elite%20to%20mythic.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 18898256
+     "size": 18898256,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln2/main/hylos%20elite%20s%20to%20mythic.zip"
     }
    ],
    "source": "bs"
@@ -80304,10 +80471,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero572-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165457",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/valir%20basic%20to%20saint%20seiya.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 17858897
+     "size": 17858897,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/valir%20basic%20to%20saint%20seiya2.zip"
     },
     {
      "id": "valir_basic_to_saint_seiya",
@@ -81096,10 +81264,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero907-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125834",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/silvanna%20elite%20s%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 13326780
+     "size": 13326780,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/silvanna%20elite2%20to%20collector.zip"
     },
     {
      "id": "silvanna_elite_to_mystic",
@@ -81107,10 +81276,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero907-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125834",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/silvanna%20elite%20s%20to%20mystic%20meow.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 17703547
+     "size": 17703547,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/silvanna%20elite2%20to%20mystic%20meow.zip"
     },
     {
      "id": "silvanna_elite_to_collector",
@@ -81118,10 +81288,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero903-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170144",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/silvanna%20elite%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 12723886
+     "size": 12723886,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/silvanna%20elite2%20to%20collector.zip"
     },
     {
      "id": "silvanna_elite_to_mystic",
@@ -81129,10 +81300,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero903-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170144",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/silvanna%20elite%20to%20mystic%20meow.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 17068696
+     "size": 17068696,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/silvanna%20elite2%20to%20mystic%20meow.zip"
     },
     {
      "id": "silvanna_elite_to_valentine",
@@ -81140,10 +81312,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero903-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170144",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/silvanna%20elite%20to%20valentine.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 13367901
+     "size": 13367901,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/silvanna%20elite2%20to%20valentine.zip"
     },
     {
      "id": "silvanna_elite_to_collector",
@@ -82147,10 +82320,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165501",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/valir%20collector%20to%20saint%20seiya.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 21504332
+     "size": 21504332,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/valir%20collector%20to%20saint%20seiya2.zip"
     },
     {
      "id": "valir_collector_to_saint_seiya",
@@ -82202,10 +82376,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165500",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/valir%20dragon%20tamer%20to%20saint%20seiya.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 17582157
+     "size": 17582157,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/valir%20dragon%20tamer%20to%20saint%20seiya2.zip"
     },
     {
      "id": "valir_dragon_tamer_to_saint_seiya",
@@ -82279,10 +82454,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106155738",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/valir%20kof%20to%20saint%20seiya.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 14219627
+     "size": 14219627,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/valir%20kof%20to%20saint%20seiya2.zip"
     },
     {
      "id": "valir_kof_to_saint_seiya",
@@ -82323,10 +82499,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165502",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/valir%20legend%20to%20saint%20seiya.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 21569427
+     "size": 21569427,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/valir%20legend%20to%20saint%20seiya2.zip"
     },
     {
      "id": "valir_legend_to_saint_seiya",
@@ -82378,10 +82555,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121957",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/valir%20saint%20seiya2%20to%20legend.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 20971602
+     "size": 20971602,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/valir%20saint%20seiya%20to%20legend.zip"
     }
    ],
    "source": "bs"
@@ -82422,10 +82600,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero573-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165458",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/valir%20special%20to%20saint%20seiya.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 17859735
+     "size": 17859735,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/valir%20special%20to%20saint%20seiya2.zip"
     },
     {
      "id": "valir_special_to_saint_seiya",
@@ -82499,10 +82678,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero574-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165459",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/valir%20star%20to%20saint%20seiya2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 24568061
+     "size": 24568061,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/valir%20star%20to%20saint%20seiya.zip"
     }
    ],
    "source": "bs"
@@ -83060,10 +83240,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero303-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164950",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/yss%20elite%20to%20epic.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 11830504
+     "size": 11830504,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/yss%20elite2%20to%20epic.zip"
     },
     {
      "id": "yi_sun_shin_elite_to_star",
@@ -83071,10 +83252,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero303-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164950",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/yss%20elite%20to%20star.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 6030718
+     "size": 6030718,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/yss%20elite2%20to%20star.zip"
     },
     {
      "id": "yi_sun_shin_elite_to_collector",
@@ -83082,10 +83264,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero304-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164951",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/yss%20elite2%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 20845066
+     "size": 20845066,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/yss%20elite%20to%20collector.zip"
     },
     {
      "id": "yi_sun_shin_elite_to_epic",
@@ -83115,10 +83298,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero303-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164950",
      "script": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/AnehGamingOfficial-ju7rq7um560yfwu13bhvwaelite%20apocalypse-8799c99vnu7/AnehGamingOfficial.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 14374980
+     "size": 14374980,
+     "duplicate_of": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/AnehGamingOfficial-bzr25pkcno8qt7f6xrpzoelite%20roguish-ofdf1867ub/AnehGamingOfficial.zip"
     },
     {
      "id": "yi_sun_shin_elite_to_old_collector",
@@ -83830,10 +84014,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Hero165-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164648",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/zilong%20elite2%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 21014943
+     "size": 21014943,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/zilong%20elite%20to%20collector.zip"
     },
     {
      "id": "zilong_elite_to_luckybox",
@@ -83841,10 +84026,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Hero165-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164648",
      "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/zilong%20elite2%20to%20luckybox.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 19796940
+     "size": 19796940,
+     "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln3/main/zilong%20elite%20to%20luckybox.zip"
     },
     {
      "id": "zilong_elite_to_create",
@@ -83863,10 +84049,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Hero165-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164648",
      "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/zilong%20elite2%20to%20create.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 21125563
+     "size": 21125563,
+     "duplicate_of": "https://raw.githubusercontent.com/Opoad55/upluad2/main/zilong%20elite%20to%20create.zip"
     }
    ],
    "source": "bs"
@@ -85414,10 +85601,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero1032-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170358",
      "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/paquito%20basic%20to%20sf2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 18160540
+     "size": 18160540,
+     "duplicate_of": "https://github.com/Opoad55/upluad2/releases/download/assets/paquito.basic.to.sf.zip"
     }
    ],
    "source": "bs"
@@ -85458,10 +85646,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163428",
      "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/paquito%20collector%20to%20sf2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 19728922
+     "size": 19728922,
+     "duplicate_of": "https://github.com/Opoad55/upluad2/releases/download/assets/paquito.collector.to.sf.zip"
     }
    ],
    "source": "bs"
@@ -85491,10 +85680,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero1039-portrait.png/revision/latest/scale-to-width-down/150?cb=20240920010138",
      "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/paquito%20fmvp%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 27300719
+     "size": 27300719,
+     "duplicate_of": "https://github.com/Opoad55/upluad2/releases/download/assets/paquito.fmvp.to.sf.zip"
     },
     {
      "id": "paquito_fmvp_to_kof",
@@ -85546,10 +85736,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1038-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024904",
      "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/paquito%20kof%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 28379283
+     "size": 28379283,
+     "duplicate_of": "https://github.com/Opoad55/upluad2/releases/download/assets/paquito.kof.to.sf.zip"
     },
     {
      "id": "paquito_kof_to_ryu",
@@ -85590,10 +85781,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero1033-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170358",
      "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/paquito%20pacquiao%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 25872751
+     "size": 25872751,
+     "duplicate_of": "https://github.com/Opoad55/upluad2/releases/download/assets/paquito.pacquiao.to.sf.zip"
     },
     {
      "id": "paquito_pacquiao_to_kof",
@@ -85645,10 +85837,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1036-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103142",
      "script": "https://github.com/Opoad55/upluad2/releases/download/assets/paquito.special2.to.sf.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 46546694
+     "size": 46546694,
+     "duplicate_of": "https://github.com/Opoad55/upluad2/releases/download/assets/paquito.special.to.sf.zip"
     },
     {
      "id": "paquito_special_to_collector",
@@ -85656,10 +85849,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1034-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170359",
      "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/paquito%20special%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 27206045
+     "size": 27206045,
+     "duplicate_of": "https://github.com/Opoad55/upluad2/releases/download/assets/paquito.special.to.sf.zip"
     },
     {
      "id": "paquito_special_to_kof",
@@ -85689,10 +85883,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1036-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103142",
      "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/paquito%20special2%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 26803804
+     "size": 26803804,
+     "duplicate_of": "https://github.com/Opoad55/upluad2/releases/download/assets/paquito.special.to.sf.zip"
     },
     {
      "id": "paquito_special_to_kof",
@@ -85700,10 +85895,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1036-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103142",
      "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/paquito%20special2%20to%20kof.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 17106809
+     "size": 17106809,
+     "duplicate_of": "https://raw.githubusercontent.com/Opoad55/upluad2/main/paquito%20special%20to%20kof.zip"
     }
    ],
    "source": "bs"
@@ -85733,10 +85929,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1035-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170401",
      "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/paquito%20star%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 26811990
+     "size": 26811990,
+     "duplicate_of": "https://github.com/Opoad55/upluad2/releases/download/assets/paquito.star.to.sf.zip"
     },
     {
      "id": "paquito_star_to_kof",
@@ -86063,10 +86260,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero134-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164558",
      "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/clint%20star%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 30400734
+     "size": 30400734,
+     "duplicate_of": "https://raw.githubusercontent.com/Opoad55/upluad2/main/clint%20star2%20to%20collector.zip"
     },
     {
      "id": "clint_star_to_collector",
@@ -86085,10 +86283,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero134-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164558",
      "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/clint%20star%20to%20m2.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 9687519
+     "size": 9687519,
+     "duplicate_of": "https://raw.githubusercontent.com/Opoad55/upluad2/main/clint%20star2%20to%20m2.zip"
     },
     {
      "id": "clint_star_to_m2",
@@ -86206,10 +86405,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero777-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122044",
      "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/badang%20saint%20seiya%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 32806936
+     "size": 32806936,
+     "duplicate_of": "https://raw.githubusercontent.com/Opoad55/upluad2/main/badang%20saint%20seiya2%20to%20collector.zip"
     },
     {
      "id": "badang_saint_seiya_to_collector",
@@ -86239,10 +86439,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero773-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165819",
      "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/badang%20special%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 32467969
+     "size": 32467969,
+     "duplicate_of": "https://raw.githubusercontent.com/Opoad55/upluad2/main/badang%20special2%20to%20collector.zip"
     },
     {
      "id": "badang_special_to_collector",
@@ -86382,10 +86583,11 @@
      "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero968-portrait.png/revision/latest/scale-to-width-down/150?cb=20250619142204",
      "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/luo%20yi%20create%20to%20collector.zip",
      "type": "skin",
-     "enabled": true,
+     "enabled": false,
      "source": "bs",
      "added": "2026-10-27",
-     "size": 13909754
+     "size": 13909754,
+     "duplicate_of": "https://raw.githubusercontent.com/Opoad55/upluad2/main/luo%20yi%20create2%20to%20collector.zip"
     },
     {
      "id": "luo_yi_create_to_collector",
@@ -146324,5 +146526,5 @@
    "source": "nix"
   }
  ],
- "updated": "2026-11-03"
+ "updated": "2026-11-05"
 }

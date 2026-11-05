@@ -57,10 +57,11 @@
    "name": "Aspirants",
    "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20aspirants%204.0.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/aspirants%204.0.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 774018
+   "size": 774018,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Aspirants.zip"
   },
   {
    "id": "attack_on_titan",
@@ -127,10 +128,11 @@
    "name": "Christmas",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Christmas_Recall_Effect.png/revision/latest?cb=20211204090315",
    "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/christmas.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 857137
+   "size": 857137,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Christmas.zip"
   },
   {
    "id": "dashing_cat",
@@ -157,10 +159,11 @@
    "name": "Dragon Mark",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Dragon_Mark_Recall_Effect.png/revision/latest?cb=20211204083954",
    "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/dragon%20mark.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 807320
+   "size": 807320,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Dragon%20Mark.zip"
   },
   {
    "id": "ducati",
@@ -257,30 +260,33 @@
    "name": "Evos",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/M1_Champion_Recalling_Effect.png/revision/latest?cb=20211204084027",
    "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/evos.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 797027
+   "size": 797027,
+   "duplicate_of": "https://raw.githubusercontent.com/Mornwish/EFFECT-RECALL/main/ALL%20RECALL/Evos.zip"
   },
   {
    "id": "exorcist",
    "name": "Exorcist",
    "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20exorcist.jpg",
    "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/recall%20exorcist.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 684454
+   "size": 684454,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/EXORCIST.zip"
   },
   {
    "id": "exorcist_2",
    "name": "Exorcist",
    "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20exorcist.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/recall%20exorcist.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 245290
+   "size": 245290,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/EXORCIST.zip"
   },
   {
    "id": "fanny_legend",
@@ -297,10 +303,11 @@
    "name": "Fire Crown",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Fire_Crown_Recall_Effect.png/revision/latest?cb=20211204085112",
    "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/fire%20crown.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 1737253
+   "size": 1737253,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Fire%20Crown.zip"
   },
   {
    "id": "flcn",
@@ -377,10 +384,11 @@
    "name": "Halloween",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Halloween_Recall_Effect.png/revision/latest?cb=20211204090139",
    "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/halloween.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 812667
+   "size": 812667,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/halloween%20backup.zip"
   },
   {
    "id": "hellokity",
@@ -397,10 +405,11 @@
    "name": "Homebound Lily",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Homebound_Lily_Recall_Effect.png/revision/latest?cb=20211204082711",
    "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/homebound%20lily.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 807338
+   "size": 807338,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Homebound%20Lily.zip"
   },
   {
    "id": "itachi",
@@ -467,10 +476,11 @@
    "name": "Light & Dark",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Light_%26_Dark_Recall_Effect.png/revision/latest?cb=20211204090039",
    "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/light%20dan%20dark.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 859385
+   "size": 859385,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/light%20%26%20dark%20backup.zip"
   },
   {
    "id": "lucky_golden_egg",
@@ -537,20 +547,22 @@
    "name": "M5",
    "image": "https://raw.githubusercontent.com/rahasia55/tes/main/m5.png",
    "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/m5.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 732210
+   "size": 732210,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20m5.zip"
   },
   {
    "id": "m5_prime",
    "name": "M5 Prime",
    "image": "https://raw.githubusercontent.com/rahasia55/tes/main/m5%20prime.png",
    "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/m5%20prime.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 1023822
+   "size": 1023822,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20M5%20Prime.zip"
   },
   {
    "id": "mcl_tournament",
@@ -667,20 +679,22 @@
    "name": "Party King",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Party_King_Recall_Effect.png/revision/latest?cb=20211204084739",
    "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/party%20king.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 838292
+   "size": 838292,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20party%20king.zip"
   },
   {
    "id": "rbl",
    "name": "Rbl",
    "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/rbl.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/rbl.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 833850
+   "size": 833850,
+   "duplicate_of": "https://raw.githubusercontent.com/Mornwish/EFFECT-RECALL/main/ALL%20RECALL/Rbl.zip"
   },
   {
    "id": "recall_atomic",
@@ -747,10 +761,11 @@
    "name": "SabeR",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/S.A.B.E.R_Skin_Exclusive_Recall_Effect.png/revision/latest?cb=20211204084143",
    "script": "https://raw.githubusercontent.com/rahasia55/New-Default-skin/main/aamon%20x%20star.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 2780
+   "size": 2780,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/SABER.zip"
   },
   {
    "id": "seal_of_enternal_flower",
@@ -807,10 +822,11 @@
    "name": "Snowman",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Snowman_Recall_Effect.png/revision/latest?cb=20211204084915",
    "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/snowman.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 816935
+   "size": 816935,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Snowman.zip"
   },
   {
    "id": "soul_vessels",
@@ -827,10 +843,11 @@
    "name": "Spring Festival",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Spring_Festival_Recall_Effect.png/revision/latest?cb=20211204085645",
    "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/spring%20festival.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 890090
+   "size": 890090,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Spring%20Festival.zip"
   },
   {
    "id": "star",
@@ -847,10 +864,11 @@
    "name": "StarWars",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/MLBB_x_Star_Wars_Recall_Effect.png/revision/latest?cb=20210712121945",
    "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/starwars.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 838237
+   "size": 838237,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20starwars.zip"
   },
   {
    "id": "summer_gala",
@@ -867,10 +885,11 @@
    "name": "Super Return",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Super_Return_Recall_Effect.png/revision/latest?cb=20211204084825",
    "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/super%20return.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 671436
+   "size": 671436,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Super%20Return.zip"
   },
   {
    "id": "thunder_returns",
@@ -887,10 +906,11 @@
    "name": "Transformers",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/We_are_here%2C_we_are_waiting_Recall_Effect.png/revision/latest?cb=20211204082621",
    "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/transformer.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 977365
+   "size": 977365,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Transformers.zip"
   },
   {
    "id": "vale_hero",
@@ -917,10 +937,11 @@
    "name": "Venom",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/V.E.N.O.M_Skin_Exclusive_Recall_Effect.png/revision/latest?cb=20211204084204",
    "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/venom.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 822818
+   "size": 822818,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/VENOM.zip"
   },
   {
    "id": "windsacks",
@@ -1027,10 +1048,11 @@
    "name": "M2 Glory",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/M2_Glory_Recall_Effect.png/revision/latest?cb=20211204084440",
    "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/sanctum%20island.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 232
+   "size": 232,
+   "duplicate_of": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/m2%20glory.zip"
   },
   {
    "id": "m3_glorius_return_on_m3_glorious_return",
@@ -1177,10 +1199,11 @@
    "name": "Fire Crown (on 515 Shuttle!)",
    "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fire%20crown.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/515%20shuttle%20to%20fire%20crown.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 191846
+   "size": 191846,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/515%20Shuttle%20-%20Fire%20Crown.zip"
   },
   {
    "id": "neobeast_v2_on_515_shuttle",
@@ -1277,10 +1300,11 @@
    "name": "Fire Crown (on 5th Anniversary)",
    "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fire%20crown.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/0pTS1kln/main/5th%20anniversary%20to%20fire%20crown.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 478036
+   "size": 478036,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/5th%20Anniversary%20-%20Fire%20Crown.zip"
   },
   {
    "id": "soul_vessel_on_5th_anniversary",
@@ -1317,20 +1341,22 @@
    "name": "Aspirants (on Atomic Pop)",
    "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20aspirants%204.0.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20aspirants%204.0.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 299817
+   "size": 299817,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Atomic%20Pop%20-%20Aspirants.zip"
   },
   {
    "id": "aspirants_on_atomic_pop_2",
    "name": "Aspirants (on Atomic Pop)",
    "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20aspirants%202.0.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20aspirants%202.0.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 197569
+   "size": 197569,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Atomic%20Pop%20-%20Aspirants.zip"
   },
   {
    "id": "attack_on_titan_on_atomic_pop",
@@ -1397,10 +1423,11 @@
    "name": "Fire Crown (on Atomic Pop)",
    "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fire%20crown.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/atomic%20pop%20to%20fire%20crown.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 532601
+   "size": 532601,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Atomic%20Pop%20-%20Fire%20Crown.zip"
   },
   {
    "id": "flcn_on_atomic_pop",
@@ -1657,10 +1684,11 @@
    "name": "Fire Crown (on Blazing West)",
    "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fire%20crown.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/blazing%20west%20to%20fire%20crown.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 205636
+   "size": 205636,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Blazing%20West%20-%20Fire%20Crown.zip"
   },
   {
    "id": "franco_legend_on_blazing_west",
@@ -1847,10 +1875,11 @@
    "name": "Fire Crown (on Halloween)",
    "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fire%20crown.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/halloween%20to%20fire.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 477507
+   "size": 477507,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Halloween%20-%20Fire%20Crown.zip"
   },
   {
    "id": "franco_legend_on_halloween",
@@ -2007,10 +2036,11 @@
    "name": "Light & Dark",
    "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/sario.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/light%20%26%20dark%20to%20sanrio.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 240571
+   "size": 240571,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/light%20%26%20dark%20backup.zip"
   },
   {
    "id": "neobeast_v2_on_light_dark",
@@ -2767,10 +2797,11 @@
    "name": "M7",
    "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/recall%20aspirants%204.0.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/m7%20to%20aspirants%204.0.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 248647
+   "size": 248647,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20m7.zip"
   },
   {
    "id": "navi_on_m7",
@@ -3207,10 +3238,11 @@
    "name": "Fire Crown (on Party King)",
    "image": "https://raw.githubusercontent.com/n3wz1ips/p0tuR3caIl/main/fire%20crown.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/party%20king%20to%20fire%20crown.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 205685
+   "size": 205685,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Party%20King%20-%20Fire%20Crown.zip"
   },
   {
    "id": "franco_legend_on_party_king",
@@ -3827,10 +3859,11 @@
    "name": "M1 Glory",
    "image": "https://raw.githubusercontent.com/bangmamet/new_i-moba/main/M1%20glory.png",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/M1%20GLORY.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 840365
+   "size": 840365,
+   "duplicate_of": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/m1%20glory.zip"
   },
   {
    "id": "blazing_west",
@@ -3857,40 +3890,44 @@
    "name": "Christmas",
    "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Christmas.png",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/CHRISTMASH.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 856279
+   "size": 856279,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Christmas.zip"
   },
   {
    "id": "dragon_mark_2",
    "name": "Dragon Mark",
    "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Dragon%20mark.png",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/DEAGON%20TIMER.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 806534
+   "size": 806534,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Dragon%20Mark.zip"
   },
   {
    "id": "fire_crown_2",
    "name": "Fire crown",
    "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Fire%20crown.png",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/FIRE%20CROWN.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 1735891
+   "size": 1735891,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Fire%20Crown.zip"
   },
   {
    "id": "halloween_3",
    "name": "Halloween",
    "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Hallowen.png",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/HELLOWEN.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 811809
+   "size": 811809,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/halloween%20backup.zip"
   },
   {
    "id": "emerald_royalty",
@@ -3927,10 +3964,11 @@
    "name": "Light & Dark",
    "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Light%20%26%20Dark.png",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/LIGHT%20DARK.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 858491
+   "size": 858491,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/light%20%26%20dark%20backup.zip"
   },
   {
    "id": "lightborn",
@@ -3957,10 +3995,11 @@
    "name": "MCL Tournament",
    "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/MCL%20turnament.png",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/MCL.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 785693
+   "size": 785693,
+   "duplicate_of": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/mcl%20tournament.zip"
   },
   {
    "id": "oriental_fighters",
@@ -3977,20 +4016,22 @@
    "name": "Party king",
    "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Party%20king%20515.png",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/PARTY%20KING.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 837398
+   "size": 837398,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20party%20king.zip"
   },
   {
    "id": "seal_of_anvil_2",
    "name": "Seal of Anvil",
    "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Seal%20Of%20Anvil%20Crawlers.png",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/SEAL%20ANVIL.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 700299
+   "size": 700299,
+   "duplicate_of": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/seal%20of%20anvil%20crawlers.zip"
   },
   {
    "id": "seal_of_eternity",
@@ -4007,30 +4048,33 @@
    "name": "Sky Guardian",
    "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Sky%20guardian.png",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/GUARDIAN.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 829423
+   "size": 829423,
+   "duplicate_of": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/sky%20guardian.zip"
   },
   {
    "id": "snowman_2",
    "name": "Snowman",
    "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Snowman.png",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/SNOWMAN.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 816041
+   "size": 816041,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Snowman.zip"
   },
   {
    "id": "spring_festival_2",
    "name": "Spring Festival",
    "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Spring%20festival.png",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/SPRING.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 889196
+   "size": 889196,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Spring%20Festival.zip"
   },
   {
    "id": "s_a_b_e_r",
@@ -4067,20 +4111,22 @@
    "name": "Summer Gala",
    "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Summer%20Gala.png",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/SUMMER.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 870973
+   "size": 870973,
+   "duplicate_of": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/summer%20gala.zip"
   },
   {
    "id": "super_return_2",
    "name": "Super Return",
    "image": "https://raw.githubusercontent.com/bangmamet/boxview/main/Super%20return.png",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/RETURN%20HERO.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 867349
+   "size": 867349,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Super%20Return.zip"
   },
   {
    "id": "msc_2021",
@@ -4247,20 +4293,22 @@
    "name": "Starwars",
    "image": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Recall%20starwars.png",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/STAR%20WARS.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 837559
+   "size": 837559,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20starwars.zip"
   },
   {
    "id": "bren_esports",
    "name": "Bren Esports",
    "image": "https://raw.githubusercontent.com/MametGaming/GB_EFFECT/main/Recall%20bren%20esport.jpg",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/BREN%20ESPORT.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 722781
+   "size": 722781,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Bren%20Esports.zip"
   },
   {
    "id": "homebound",
@@ -4297,20 +4345,22 @@
    "name": "Transformers",
    "image": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/transformer.jpg",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/TRANSFORMERS.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 976471
+   "size": 976471,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Transformers.zip"
   },
   {
    "id": "valir_legend_2",
    "name": "Valir Legend",
    "image": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/valir%20legend.jpg",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/VALIR%20LEGEND.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 778744
+   "size": 778744,
+   "duplicate_of": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/valir%20legend.zip"
   },
   {
    "id": "wonder_party",
@@ -4397,60 +4447,66 @@
    "name": "Franco Legend",
    "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/franco%20legend.jpg",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/FRANCO%20LEGEND.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 789160
+   "size": 789160,
+   "duplicate_of": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/franco%20legend.zip"
   },
   {
    "id": "atomic_pop_2",
    "name": "Atomic pop",
    "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/Allstar.jpg",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/ALL%20STAR.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 832935
+   "size": 832935,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20atomic%20pop.zip"
   },
   {
    "id": "lunox_legend_2",
    "name": "Lunox Legend",
    "image": "https://raw.githubusercontent.com/Nbs2023/Effect/main/Recall%20lunox%20legend.png",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/LUNOX%20LEGEND.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 1244616
+   "size": 1244616,
+   "duplicate_of": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/lunox%20legend.zip"
   },
   {
    "id": "dragon_2",
    "name": "Dragon",
    "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/dimensional%20dragond.jpg",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Trail/main/RECALL%20DRAGON%20NEW.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 761888
+   "size": 761888,
+   "duplicate_of": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/dragon.zip"
   },
   {
    "id": "ducati_2",
    "name": "Ducati",
    "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/Ducati.jpg",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/DUCATI.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 830160
+   "size": 830160,
+   "duplicate_of": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/ducati.zip"
   },
   {
    "id": "golden_egg_2",
    "name": "Golden egg",
    "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/Golden%20egg.jpg",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/RECALL%20AYAM.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 819654
+   "size": 819654,
+   "duplicate_of": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/lucky%20gold.zip"
   },
   {
    "id": "neobeasts",
@@ -4477,10 +4533,11 @@
    "name": "M5",
    "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/M5.jpg",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/RECALL%20M5.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 731532
+   "size": 731532,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20m5.zip"
   },
   {
    "id": "yu_zhong_m5_primer",
@@ -4497,10 +4554,11 @@
    "name": "Ethereal Butterfly",
    "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/Ethereal%20butterfly.jpg",
    "script": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/RECALL%20SELENA%20KUPU2.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 1003772
+   "size": 1003772,
+   "duplicate_of": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/ethereal%20butterfly.zip"
   },
   {
    "id": "mistbenders",
@@ -4517,10 +4575,11 @@
    "name": "Freya Legend",
    "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/Freya%20legend.jpg",
    "script": "https://raw.githubusercontent.com/Hiro161123/DataApk/main/RECALL%20FREYA%20LEGEND.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 739675
+   "size": 739675,
+   "duplicate_of": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/freya%20legend.zip"
   },
   {
    "id": "aot",
@@ -4537,10 +4596,11 @@
    "name": "KOF'97",
    "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/KOF'97.jpg",
    "script": "https://raw.githubusercontent.com/Hiro161123/INTRO/main/RECALL%20KOF%20'97%20(server%20ori).zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 924386
+   "size": 924386,
+   "duplicate_of": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/kof97.zip"
   },
   {
    "id": "mrl_v1",
@@ -4567,10 +4627,11 @@
    "name": "Soul Vessels",
    "image": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/Recall%20soul%20vessel.png",
    "script": "https://raw.githubusercontent.com/Hiro161123/Gbeffect/main/RECALL%20SOUL%20VESSEL.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-10-28",
-   "size": 1039761
+   "size": 1039761,
+   "duplicate_of": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/soul%20vessels.zip"
   },
   {
    "id": "tnc",
@@ -8277,10 +8338,11 @@
    "name": "Light & Dark",
    "image": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Effects/Recall/Light%20%26%20Dark.png",
    "script": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Light%20%26%20Dark.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "nix",
    "added": "2026-11-03",
-   "size": 2115082
+   "size": 2115082,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/light%20%26%20dark%20backup.zip"
   },
   {
    "id": "mlbb_x_star_wars",
@@ -8627,10 +8689,11 @@
    "name": "Party King",
    "image": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Effects/Recall/Party%20King.png",
    "script": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Party%20King.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "nix",
    "added": "2026-11-03",
-   "size": 2076415
+   "size": 2076415,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20party%20king.zip"
   },
   {
    "id": "5th_anniversary",
@@ -8737,10 +8800,11 @@
    "name": "Halloween",
    "image": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Effects/Recall/Halloween.png",
    "script": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Halloween.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "nix",
    "added": "2026-11-03",
-   "size": 2071077
+   "size": 2071077,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/halloween%20backup.zip"
   },
   {
    "id": "snow_and_ice",
@@ -16169,10 +16233,11 @@
    "name": "K.o",
    "image": "https://raw.githubusercontent.com/n3wz1ips/P0Tu3I1m1n4s1/main/kof%20k.o.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/kof%20k.o.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 57545
+   "size": 57545,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/k.o.zip"
   },
   {
    "id": "kishin_densetsu",
@@ -16229,10 +16294,11 @@
    "name": "Rip",
    "image": "https://raw.githubusercontent.com/n3wz1ips/P0Tu3I1m1n4s1/main/rip.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/rip.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 717541
+   "size": 717541,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Elimination/R.I.P.zip"
   },
   {
    "id": "saint_seiya",
@@ -16279,10 +16345,11 @@
    "name": "Super Kill",
    "image": "https://raw.githubusercontent.com/n3wz1ips/P0Tu3I1m1n4s1/main/super%20kill.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/super%20kill.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 711226
+   "size": 711226,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Elimination/Super%20Kill.zip"
   },
   {
    "id": "the_sword",
@@ -16539,10 +16606,11 @@
    "name": "K.O",
    "image": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Effects/Elimination/K.O.png",
    "script": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Elimination/K.O.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "nix",
    "added": "2026-11-03",
-   "size": 2135814
+   "size": 2135814,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/k.o.zip"
   },
   {
    "id": "knockout_uh_next_time",
@@ -17096,10 +17164,11 @@
    "quality": "",
    "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20pantai.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20pantai.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 10988262
+   "size": 10988262,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20pantai%20siang.zip"
   },
   {
    "id": "sanctum_island_beach_2",
@@ -17107,10 +17176,11 @@
    "quality": "",
    "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20pantai2.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20pantai2.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 10927306
+   "size": 10927306,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20pantai%20siang.zip"
   },
   {
    "id": "sanctum_island_beach_3",
@@ -17206,10 +17276,11 @@
    "quality": "",
    "image": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20hutan.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20hutan.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 25563707
+   "size": 25563707,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20hutan%20v2.zip"
   },
   {
    "id": "sanctum_island_golden_m7",
@@ -17305,10 +17376,11 @@
    "quality": "",
    "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/sanctum%20island%20to%20desa%20konoha.jpg",
    "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/sanctum%20island%20to%20desa%20konoha.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 20219381
+   "size": 20219381,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20desa%20konoha.zip"
   },
   {
    "id": "sanctum_island_lava",
@@ -17404,10 +17476,11 @@
    "quality": "",
    "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/sanctum%20island%20to%20musim%20semi.jpg",
    "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/sanctum%20island%20to%20musim%20semi.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 10593016
+   "size": 10593016,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/M4pt/main/sanctum%20island%20to%20musim%20semi.zip"
   },
   {
    "id": "sanctum_island_sunset",
@@ -20561,12 +20634,13 @@
    "name": "🔥MLBB",
    "image": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-images/384_image.jpg",
    "script": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3/384_MLBB.X.PDIP.MENYALA.ABANGKUH.PADA.MASANYA.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "nix",
    "added": "2026-11-03",
    "category": "TIKTOK",
    "size": 3742517,
-   "preview": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-previews/384_preview.mp4"
+   "preview": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-previews/384_preview.mp4",
+   "duplicate_of": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3/98_MLBB.X.TERBILA.BILA.zip"
   },
   {
    "id": "douyin_china_is_tuing_tuing",
@@ -21425,12 +21499,13 @@
    "name": "🔥BORUTO",
    "image": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-images/309_image.jpg",
    "script": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3/309_BORUTO.X.KAWAKI.LAST.EPS.MENGKECE.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "nix",
    "added": "2026-11-03",
    "category": "ANIME",
    "size": 6557657,
-   "preview": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-previews/309_preview.mp4"
+   "preview": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-previews/309_preview.mp4",
+   "duplicate_of": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3/66_BORUTO.X.NARUTO.MLBB.zip"
   },
   {
    "id": "tensura_slime_the_movie",
@@ -21821,12 +21896,13 @@
    "name": "MLBB",
    "image": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-images/fallback_TIKTOK.png",
    "script": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3/271_MLBB.X.DALAMO.VERSI.ELAINA.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "nix",
    "added": "2026-11-03",
    "category": "TIKTOK",
    "size": 17231365,
-   "preview": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-previews/271_preview.mp4"
+   "preview": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-previews/271_preview.mp4",
+   "duplicate_of": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3/98_MLBB.X.TERBILA.BILA.zip"
   },
   {
    "id": "anaimiya_x_mlbb_ytt_only_tiktok_viral",
@@ -22121,12 +22197,13 @@
    "name": "MLBB",
    "image": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-images/243_image.jpg",
    "script": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3/243_MLBB.X.AYAKA.GENSHIN.IMPACT.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "nix",
    "added": "2026-11-03",
    "category": "GAME",
    "size": 18610733,
-   "preview": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-previews/243_preview.mp4"
+   "preview": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-previews/243_preview.mp4",
+   "duplicate_of": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3/98_MLBB.X.TERBILA.BILA.zip"
   },
   {
    "id": "mlbb_x_aspirants_x_attack_on_titan",
@@ -22385,12 +22462,13 @@
    "name": "MLBB",
    "image": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-images/220_image.jpg",
    "script": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3/220_MLBB.X.IKLAN.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "nix",
    "added": "2026-11-03",
    "category": "TIKTOK",
    "size": 6232312,
-   "preview": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-previews/220_preview.mp4"
+   "preview": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-previews/220_preview.mp4",
+   "duplicate_of": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3/98_MLBB.X.TERBILA.BILA.zip"
   },
   {
    "id": "kamen_rider_x_mlbb",
@@ -22793,12 +22871,13 @@
    "name": "MLBB",
    "image": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-images/182_image.jpg",
    "script": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3/182_MLBB.X.DINDA.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "nix",
    "added": "2026-11-03",
    "category": "TIKTOK",
    "size": 4964831,
-   "preview": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-previews/182_preview.mp4"
+   "preview": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-previews/182_preview.mp4",
+   "duplicate_of": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3/98_MLBB.X.TERBILA.BILA.zip"
   },
   {
    "id": "mlbb_x_diahnovy",
@@ -23152,12 +23231,13 @@
    "name": "MLBB X CANER HAT",
    "image": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-images/148_image.jpg",
    "script": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3/147_MLBB.X.KOBO.KANAERU.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "nix",
    "added": "2026-11-03",
    "category": "TIKTOK",
    "size": 19605859,
-   "preview": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-previews/148_preview.mp4"
+   "preview": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-previews/148_preview.mp4",
+   "duplicate_of": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3/148_MLBB.X.KOBO.KANAERU.zip"
   },
   {
    "id": "ml_x_japanese_goblin",
@@ -23320,12 +23400,13 @@
    "name": "TAKE ON X MLBB",
    "image": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-images/130_image.webp",
    "script": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3/130_TAKT.OP.X.MLBB.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "nix",
    "added": "2026-11-03",
    "category": "ANIME",
    "size": 12419058,
-   "preview": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-previews/131_preview.mp4"
+   "preview": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-previews/131_preview.mp4",
+   "duplicate_of": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3/131_TAKT.OP.X.MLBB.zip"
   },
   {
    "id": "mlbb_x_squid_game",
@@ -23344,12 +23425,13 @@
    "name": "MLBB",
    "image": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-images/128_image.jpg",
    "script": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3/128_MLBB.X.PARGOY.TINGKAT.DEWA.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "nix",
    "added": "2026-11-03",
    "category": "TIKTOK",
    "size": 16737974,
-   "preview": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-previews/128_preview.mp4"
+   "preview": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3-previews/128_preview.mp4",
+   "duplicate_of": "https://github.com/Sparkies01/mlbb-intro/releases/download/v4.1.3/98_MLBB.X.TERBILA.BILA.zip"
   },
   {
    "id": "mlbb_x_opi",
@@ -24537,21 +24619,46 @@
    "name": "Genius! (restore original)",
    "image": "https://github.com/NewMoba2023/eFectAll/raw/main/Cq2Ixlvz1UWACXYTAALyUn4Lhvc2082431.png",
    "script": "https://github.com/Nbs2023/Datemote/raw/main/BACKUP%20EMOTE%20(emote%20genius).zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-11-05",
    "size": 65361,
-   "emote_id": "40200"
+   "emote_id": "40200",
+   "duplicate_of": "https://raw.githubusercontent.com/BANGMAMET1995/emote/main/BACKUP%20EMOTE.zip"
   },
   {
    "id": "genius_restore_original_2",
    "name": "Genius! (restore original)",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Genius%21.png/revision/latest?cb=20240919140102",
    "script": "https://raw.githubusercontent.com/n3wz1ips/3mot3/main/backup%20genius.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-11-05",
    "size": 37335,
+   "emote_id": "40200",
+   "duplicate_of": "https://raw.githubusercontent.com/BANGMAMET1995/emote/main/BACKUP%20EMOTE.zip"
+  },
+  {
+   "id": "genius_restore_original_3",
+   "name": "Genius! (restore original)",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/emote/main/Backup%20emote.png",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/emote/main/1BACKUP%20EMOTE.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 503574,
+   "emote_id": "40200",
+   "duplicate_of": "https://raw.githubusercontent.com/BANGMAMET1995/emote/main/BACKUP%20EMOTE.zip"
+  },
+  {
+   "id": "genius_restore_original_4",
+   "name": "Genius! (restore original)",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/emote/main/Backup%20emote.png",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/emote/main/BACKUP%20EMOTE.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 503894,
    "emote_id": "40200"
   },
   {
@@ -24691,22 +24798,24 @@
    "name": "Alter Ego (on Genius!)",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Alter_Ego.png/revision/latest?cb=20210510080029",
    "script": "https://github.com/rahasia55/AG-EMOTE/raw/main/emote9.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-11-05",
    "size": 121223,
-   "emote_id": "40200"
+   "emote_id": "40200",
+   "duplicate_of": "https://github.com/BANGMAMET1995/emote/raw/main/EMOTE%20ALTEREGO.zip"
   },
   {
    "id": "alter_ego_on_genius_3",
    "name": "Alter Ego (on Genius!)",
    "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/emote%20alter%20ego.jpg",
    "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/genius%20to%20alter%20ego.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-11-05",
    "size": 338289,
-   "emote_id": "40200"
+   "emote_id": "40200",
+   "duplicate_of": "https://github.com/BANGMAMET1995/emote/raw/main/EMOTE%20ALTEREGO.zip"
   },
   {
    "id": "alter_ego_on_heartbreaking",
@@ -24729,6 +24838,17 @@
    "added": "2026-11-05",
    "size": 341882,
    "emote_id": "40201"
+  },
+  {
+   "id": "alter_ego_wow_next_level_bro_on_genius",
+   "name": "Alter Ego (Wow Next Level Bro) (on Genius!)",
+   "image": "https://github.com/BANGMAMET1995/emote/raw/main/Alterego.png",
+   "script": "https://raw.githubusercontent.com/Nbs2023/Datemote/main/NEW%20ALTER%20EGO%20%28wow%20next%20level%20bro%29.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 68375,
+   "emote_id": "40200"
   },
   {
    "id": "alter_ego_jaya_jaya_on_genius",
@@ -24801,11 +24921,12 @@
    "name": "Ara Ara (on Genius!)",
    "image": "https://raw.githubusercontent.com/n3wz1ips/3mot3/main/ara%20ara.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/3mot3/main/genius%20to%20ara%20ara.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-11-05",
    "size": 43743,
-   "emote_id": "40200"
+   "emote_id": "40200",
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/3mot3/main/genius%20to%20ara%20ara2.zip"
   },
   {
    "id": "ara_ara_on_genius_2",
@@ -24856,11 +24977,12 @@
    "name": "Art Of Ice (on Genius!)",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Art_of_Ice.png/revision/latest?cb=20200709125405",
    "script": "https://github.com/rahasia55/AG-EMOTE/raw/main/emote12.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-11-05",
    "size": 91665,
-   "emote_id": "40200"
+   "emote_id": "40200",
+   "duplicate_of": "https://github.com/BANGMAMET1995/emote/raw/main/AURORA%20KOF.zip"
   },
   {
    "id": "aura_fire_on_genius",
@@ -24878,11 +25000,12 @@
    "name": "Aura Fire (on Genius!)",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/AURAFIRE.png/revision/latest?cb=20210510080043",
    "script": "https://github.com/rahasia55/AG-EMOTE/raw/main/emote8.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-11-05",
    "size": 94388,
-   "emote_id": "40200"
+   "emote_id": "40200",
+   "duplicate_of": "https://github.com/BANGMAMET1995/emote/raw/main/EMOTE%20AURA.zip"
   },
   {
    "id": "aura_id_on_genius",
@@ -24955,11 +25078,12 @@
    "name": "Bigetron Alpha (on Genius!)",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Bigetron_Alpha.png/revision/latest?cb=20210510080106",
    "script": "https://github.com/rahasia55/AG-EMOTE/raw/main/emote10.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-11-05",
    "size": 112038,
-   "emote_id": "40200"
+   "emote_id": "40200",
+   "duplicate_of": "https://github.com/BANGMAMET1995/emote/raw/main/EMOTE%20BTR.zip"
   },
   {
    "id": "blacklist_ph_on_genius",
@@ -25097,11 +25221,12 @@
    "name": "Bye Bye (on Genius!)",
    "image": "https://github.com/BANGMAMET1995/emote/raw/main/Lesley%20bye2.png",
    "script": "https://github.com/BANGMAMET1995/emote/raw/main/EMOTE%20LESLEY%20BYE2.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-11-05",
    "size": 79661,
-   "emote_id": "40200"
+   "emote_id": "40200",
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/3mot3/main/genius%20to%20bye%20bye.zip"
   },
   {
    "id": "bye_bye_on_genius_2",
@@ -25141,22 +25266,24 @@
    "name": "Carry Me (on Genius!)",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Carry_Me_to_the_End.png/revision/latest?cb=20220118061358",
    "script": "https://github.com/rahasia55/AG-EMOTE/raw/main/emote20.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-11-05",
    "size": 96138,
-   "emote_id": "40200"
+   "emote_id": "40200",
+   "duplicate_of": "https://github.com/BANGMAMET1995/emote/raw/main/Layla%20Love.zip"
   },
   {
    "id": "choox_tv_on_genius",
    "name": "Choox TV (on Genius!)",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/ChooxTv.png/revision/latest?cb=20220514131353",
    "script": "https://github.com/rahasia55/AG-EMOTE/raw/main/emote25.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-11-05",
    "size": 48311,
-   "emote_id": "40200"
+   "emote_id": "40200",
+   "duplicate_of": "https://github.com/Nbs2023/Datemote/raw/main/NEW%20CHOOXTV.zip"
   },
   {
    "id": "chooxtv_on_genius",
@@ -25174,10 +25301,22 @@
    "name": "Chou KOF (on Genius!)",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Am_I_Scary.png/revision/latest?cb=20200709164919",
    "script": "https://github.com/rahasia55/AG-EMOTE/raw/main/emote2.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-11-05",
    "size": 118520,
+   "emote_id": "40200",
+   "duplicate_of": "https://raw.githubusercontent.com/BANGMAMET1995/emote/main/EMOTE%20CHOU%20KOF.zip"
+  },
+  {
+   "id": "chou_kof_on_genius_2",
+   "name": "Chou KOF (on Genius!)",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/emote/main/Chou%20kof.png",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/emote/main/EMOTE%20CHOU%20KOF.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 120454,
    "emote_id": "40200"
   },
   {
@@ -25207,11 +25346,12 @@
    "name": "Cihuyy (on Genius!)",
    "image": "https://raw.githubusercontent.com/n3wz1ips/3mot3/main/cihuyy.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/3mot3/main/genius%20to%20cihuyy2.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-11-05",
    "size": 330478,
-   "emote_id": "40200"
+   "emote_id": "40200",
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/3mot3/main/genius%20to%20cihuyy.zip"
   },
   {
    "id": "cihuyy_on_genius_2",
@@ -25434,6 +25574,18 @@
    "emote_id": "40200"
   },
   {
+   "id": "echo_ph_on_genius_2",
+   "name": "ECHO PH (on Genius!)",
+   "image": "https://github.com/Rafazam97/Gambar-emote-mlbb/raw/main/echo%20pH%20shesh.png",
+   "script": "https://raw.githubusercontent.com/Nbs2023/Datemote/main/ECHO%20-%20PH.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 80336,
+   "emote_id": "40200",
+   "duplicate_of": "https://github.com/Rafazam97/New-emot/raw/main/Echo%20pH%20sssh.zip"
+  },
+  {
    "id": "echo_sheeshh_on_genius",
    "name": "Echo Sheeshh (on Genius!)",
    "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/1723502783491.png",
@@ -25464,6 +25616,17 @@
    "source": "bs",
    "added": "2026-11-05",
    "size": 347683,
+   "emote_id": "40200"
+  },
+  {
+   "id": "emperor_on_genius",
+   "name": "Emperor (on Genius!)",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/emote/main/Emote%20emperor.png",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/emote/main/EMOTE%20EMPEROR.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 3635654,
    "emote_id": "40200"
   },
   {
@@ -25530,6 +25693,17 @@
    "source": "bs",
    "added": "2026-11-05",
    "size": 75247,
+   "emote_id": "40200"
+  },
+  {
+   "id": "evos_kelazz_on_genius",
+   "name": "EVOS (Kelazz) (on Genius!)",
+   "image": "https://github.com/Rafazam97/Gambar-emote-mlbb/raw/main/evos%20kelas.png",
+   "script": "https://raw.githubusercontent.com/Nbs2023/Datemote/main/NEW%20EVOS%20%28kelazz%29.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 70607,
    "emote_id": "40200"
   },
   {
@@ -25746,11 +25920,12 @@
    "name": "Geek Fam (on Genius!)",
    "image": "https://raw.githubusercontent.com/Opoad55/3f3k/main/geek%20id%202021.jpg",
    "script": "https://raw.githubusercontent.com/Opoad55/3f3k/main/genius%20to%20geek%20id%202021.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-11-05",
    "size": 336952,
-   "emote_id": "40200"
+   "emote_id": "40200",
+   "duplicate_of": "https://github.com/BANGMAMET1995/project_new/raw/main/GEEK%20FAM.zip"
   },
   {
    "id": "geek_fam_on_heartbreaking",
@@ -25773,6 +25948,17 @@
    "added": "2026-11-05",
    "size": 340519,
    "emote_id": "40201"
+  },
+  {
+   "id": "geek_fam_santai_bro_santai_on_genius",
+   "name": "Geek Fam (Santai Bro Santai) (on Genius!)",
+   "image": "https://github.com/Rafazam97/Gambar-emote-mlbb/raw/main/gex%20santai%20bro.png",
+   "script": "https://raw.githubusercontent.com/Nbs2023/Datemote/main/NEW%20GEEK%20FAM%20%28santai%20bro%20santai%29.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 65499,
+   "emote_id": "40200"
   },
   {
    "id": "genflix_on_genius",
@@ -25852,6 +26038,28 @@
    "emote_id": "40200"
   },
   {
+   "id": "guinevere_kof_on_genius",
+   "name": "Guinevere KOF (on Genius!)",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/emote/main/Guinevere%20kof.png",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/emote/main/EMOTE%20GUINEVERE%20KOF.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 95943,
+   "emote_id": "40200"
+  },
+  {
+   "id": "gusion_kof_on_genius",
+   "name": "Gusion KOF (on Genius!)",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/emote/main/Gusion%20kof.png",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/emote/main/EMOTE%20GUSION%20KOF.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 83061,
+   "emote_id": "40200"
+  },
+  {
    "id": "harley_king_on_genius",
    "name": "Harley King (on Genius!)",
    "image": "https://github.com/Nbs2023/gbEmote/raw/main/New%20Emote%20herleking.png",
@@ -25911,11 +26119,12 @@
    "name": "Hello! (on Genius!)",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hello%21.png/revision/latest?cb=20200710050206",
    "script": "https://github.com/rahasia55/AG-EMOTE/raw/main/emote14.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-11-05",
    "size": 101948,
-   "emote_id": "40200"
+   "emote_id": "40200",
+   "duplicate_of": "https://github.com/BANGMAMET1995/emote/raw/main/KARINA%20KOF.zip"
   },
   {
    "id": "here_i_come_bruno_on_genius",
@@ -26164,11 +26373,12 @@
    "name": "LOL (on Genius!)",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/LOL.png/revision/latest?cb=20220118061226",
    "script": "https://github.com/rahasia55/AG-EMOTE/raw/main/emote19.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-11-05",
    "size": 99715,
-   "emote_id": "40200"
+   "emote_id": "40200",
+   "duplicate_of": "https://github.com/BANGMAMET1995/emote/raw/main/Layla%20Laugh.zip"
   },
   {
    "id": "long_legged_chou_on_genius",
@@ -26428,11 +26638,12 @@
    "name": "Nakano (on Genius!)",
    "image": "https://raw.githubusercontent.com/n3wz1ips/3mot3/main/nakano2.jpg",
    "script": "https://raw.githubusercontent.com/n3wz1ips/3mot3/main/genius%20to%20nakano2.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-11-05",
    "size": 151065,
-   "emote_id": "40200"
+   "emote_id": "40200",
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/3mot3/main/genius%20to%20nakano.zip"
   },
   {
    "id": "nakano_itsuki_on_genius",
@@ -26494,11 +26705,12 @@
    "name": "NAVI (on Genius!)",
    "image": "https://github.com/BANGMAMET1995/emote/raw/main/Nxp%20solid.png",
    "script": "https://github.com/BANGMAMET1995/emote/raw/main/EMOTE%20NXP.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-11-05",
    "size": 54626,
-   "emote_id": "40200"
+   "emote_id": "40200",
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/3mot3/main/genius%20to%20navi.zip"
   },
   {
    "id": "navi_on_genius_2",
@@ -26619,6 +26831,17 @@
    "source": "mbs",
    "added": "2026-11-05",
    "size": 53684,
+   "emote_id": "40200"
+  },
+  {
+   "id": "onic_ora_on_genius",
+   "name": "ONIC (Ora) (on Genius!)",
+   "image": "https://github.com/Rafazam97/Gambar-emote-mlbb/raw/main/onic%20ora.png",
+   "script": "https://raw.githubusercontent.com/Nbs2023/Datemote/main/NEW%20ONIC%20ORA.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 71375,
    "emote_id": "40200"
   },
   {
@@ -26765,6 +26988,17 @@
    "emote_id": "40200"
   },
   {
+   "id": "rebellion_tabrak_aja_lah_on_genius",
+   "name": "Rebellion (Tabrak Aja Lah) (on Genius!)",
+   "image": "https://github.com/Rafazam97/Gambar-emote-mlbb/raw/main/rbl%20tabrak%20aja%20lah.png",
+   "script": "https://raw.githubusercontent.com/Nbs2023/Datemote/main/NEW%20REBELION%20%28tabrak%20aja%20lah%29.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 82419,
+   "emote_id": "40200"
+  },
+  {
    "id": "rozan_sho_ryu_ha_on_genius",
    "name": "Rozan Sho Ryu Ha (on Genius!)",
    "image": "https://github.com/Nbs2023/gbEmote/raw/main/Chou%20seiya.png",
@@ -26802,11 +27036,12 @@
    "name": "RRQ Hoshi (on Genius!)",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/RRQ_Hoshi.png/revision/latest?cb=20210510075935",
    "script": "https://github.com/rahasia55/AG-EMOTE/raw/main/emote6.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-11-05",
    "size": 85282,
-   "emote_id": "40200"
+   "emote_id": "40200",
+   "duplicate_of": "https://github.com/BANGMAMET1995/emote/raw/main/EMOTE%20RRQ.zip"
   },
   {
    "id": "rrq_id_mana_suaranya_dek_on_genius",
@@ -26828,6 +27063,17 @@
    "source": "mbs",
    "added": "2026-11-05",
    "size": 86866,
+   "emote_id": "40200"
+  },
+  {
+   "id": "rrq_ni_boss_bek_bek_bek_on_genius",
+   "name": "RRQ Ni Boss (Bek Bek Bek) (on Genius!)",
+   "image": "https://github.com/Rafazam97/Gambar-emote-mlbb/raw/main/rrr%20bek%20bek%20bek.png",
+   "script": "https://raw.githubusercontent.com/Nbs2023/Datemote/main/NEW%20RRQ%20ni%20boss%20%28bek%20bek%20bek%29.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 67165,
    "emote_id": "40200"
   },
   {
@@ -26978,11 +27224,12 @@
    "name": "Soloz (on Genius!)",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Soloz.png/revision/latest?cb=20220515013844",
    "script": "https://github.com/rahasia55/AG-EMOTE/raw/main/emote27.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-11-05",
    "size": 47133,
-   "emote_id": "40200"
+   "emote_id": "40200",
+   "duplicate_of": "https://github.com/Nbs2023/Datemote/raw/main/NEW%20EMOTE%20SOLOZ.zip"
   },
   {
    "id": "sorry_uwu_on_carry_me_to_the_end",
@@ -27231,11 +27478,12 @@
    "name": "TNC PH (on Genius!)",
    "image": "https://github.com/Nbs2023/gbEmote/raw/main/New%20Hey%20you%20i%20i%20i%20love%20you.png",
    "script": "https://github.com/Nbs2023/Datemote/raw/main/NEW%20HEY%20YOU%20I%20I%20I%20LOVE%20YOU.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "mbs",
    "added": "2026-11-05",
    "size": 66986,
-   "emote_id": "40200"
+   "emote_id": "40200",
+   "duplicate_of": "https://raw.githubusercontent.com/Opoad55/3f3k/main/genius%20to%20tnc%20ph.zip"
   },
   {
    "id": "tnc_ph_on_genius_2",
@@ -27436,6 +27684,18 @@
    "emote_id": "40200"
   },
   {
+   "id": "windah_basudara_on_genius_2",
+   "name": "Windah Basudara (on Genius!)",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/emote/main/Emote%20windah%20basudara.png",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/emote/main/EMOTE%20WINDAH%20BASUDARA.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 94452,
+   "emote_id": "40200",
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/3mot3/main/genius%20to%20windah%20basudara.zip"
+  },
+  {
    "id": "windah_basudara_on_heartbreaking",
    "name": "Windah Basudara (on Heartbreaking)",
    "image": "https://raw.githubusercontent.com/n3wz1ips/3mot3/main/windah%20basudara.jpg",
@@ -27488,6 +27748,17 @@
    "source": "bs",
    "added": "2026-11-05",
    "size": 42040,
+   "emote_id": "40200"
+  },
+  {
+   "id": "yamete_kudasai_on_genius",
+   "name": "Yamete Kudasai (on Genius!)",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/emote/main/Emote%20yamete%20kudasai.png",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/emote/main/EMOTE%20YAMETE%20KUDASAI.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 509882,
    "emote_id": "40200"
   },
   {
