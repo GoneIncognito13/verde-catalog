@@ -782,10 +782,11 @@
    "name": "Seal of Anvil",
    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955",
    "script": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/seal%20of%20anvil%20crawlers.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "bs",
    "added": "2026-10-28",
-   "size": 700977
+   "size": 700977,
+   "duplicate_of": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/RECALL%20SEAL%20OF%20ANVIL.zip"
   },
   {
    "id": "seiya",
@@ -8308,10 +8309,11 @@
    "name": "Classic (restore original)",
    "image": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Effects/Recall/Classic.png",
    "script": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Backup.zip",
-   "enabled": true,
+   "enabled": false,
    "source": "nix",
    "added": "2026-11-03",
-   "size": 237207
+   "size": 237207,
+   "duplicate_of": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/BACKUP%20RECALL.zip"
   },
   {
    "id": "seal_of_anvil_crawlers",
@@ -16115,6 +16117,497 @@
    "source": "nix",
    "added": "2026-11-03",
    "size": 2336080
+  },
+  {
+   "id": "mlbb_ducati",
+   "name": "MLBB × Ducati",
+   "image": "https://raw.githubusercontent.com/SourceBMT95/Trail/main/recall%20ducati.jpg",
+   "script": "https://raw.githubusercontent.com/SourceBMT95/Trail/main/RECALL%20DUCATI.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 830160
+  },
+  {
+   "id": "lama_recall_s_t_u_n",
+   "name": "(Lama)Recall S.T.U.N",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/%28LAMA%29RECALL%20S.T.U.N.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 1287751
+  },
+  {
+   "id": "515_party",
+   "name": "515 Party",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/515.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 189566
+  },
+  {
+   "id": "carp_winds_2",
+   "name": "Carp Winds",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Ambil%20crawls.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 263666,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/CARP%20WIND.zip"
+  },
+  {
+   "id": "classic_restore_original_2",
+   "name": "Classic (restore original)",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/BACKUP%20RECALL.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 2108627
+  },
+  {
+   "id": "christmas_4",
+   "name": "Christmas",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Christmas.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 202639,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Christmas.zip"
+  },
+  {
+   "id": "fire_crown_old",
+   "name": "Fire Crown (old)",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/FIRE%20CROWN%20LAMA.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 1824382
+  },
+  {
+   "id": "fire_crown_4",
+   "name": "Fire Crown",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/FIRE%20CROWN.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 1934947,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Fire%20Crown.zip"
+  },
+  {
+   "id": "halloween_5",
+   "name": "Halloween",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Halloween.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 183702,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/halloween%20backup.zip"
+  },
+  {
+   "id": "m1_champion_2019",
+   "name": "M1 Champion 2019",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/M1%202019.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 200662
+  },
+  {
+   "id": "m1_champion_2",
+   "name": "M1 Champion",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/M1%20Champions.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 186656,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/M1%20EVOS.zip"
+  },
+  {
+   "id": "m2_champion_2",
+   "name": "M2 Champion",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/M2.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 143693,
+   "duplicate_of": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/m2%20champion.zip"
+  },
+  {
+   "id": "esmeralda_superhero",
+   "name": "Esmeralda Superhero",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/RECALL%20ESME.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 108970
+  },
+  {
+   "id": "recall_s_t_u_n",
+   "name": "Recall S.T.U.N",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Recall%20S.T.U.N.png",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/RECALL%20S.T.U.N.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 1288455
+  },
+  {
+   "id": "seal_of_anvil_old",
+   "name": "Seal of Anvil (old)",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/RECALL%20SEAL%20OF%20ANVIL%20LAMA.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 2622551
+  },
+  {
+   "id": "seal_of_anvil_3",
+   "name": "Seal of Anvil",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/RECALL%20SEAL%20OF%20ANVIL.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 2623077
+  },
+  {
+   "id": "star_wars",
+   "name": "Star Wars",
+   "image": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Recall%20starwars.png",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/RECALL%20STARWARS.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 216304,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/backup%20starwars.zip"
+  },
+  {
+   "id": "gusion_legend_2",
+   "name": "Gusion Legend",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Recal%20Gs%20%28Baru%29.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 122012,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/GUSION%20LEGEND.zip"
+  },
+  {
+   "id": "alucard_legend_2",
+   "name": "Alucard Legend",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Recall%20Alucard%20legends.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 255494,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/ALUCARD%20LEGEND.zip"
+  },
+  {
+   "id": "gord_legend_2",
+   "name": "Gord Legend",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Recall%20Gord%20Legends.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 249005,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/GORD%20LEGEND.zip"
+  },
+  {
+   "id": "gusion_legend_old",
+   "name": "Gusion Legend (old)",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Recall%20Gs%20%28Lama%29.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 121864
+  },
+  {
+   "id": "lesley_legend_2",
+   "name": "Lesley Legend",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Recall%20Lesley%20Legends.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 334992,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/LESLEY%20LEGEND.zip"
+  },
+  {
+   "id": "miya_legend_2",
+   "name": "Miya Legend",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Recall%20miya%20legends.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 118718,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/MIYA%20LEGEND.zip"
+  },
+  {
+   "id": "saber_legend_2",
+   "name": "Saber Legend",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Recall%20saber%20Legends.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 204533,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/SABER%20LEGEND.zip"
+  },
+  {
+   "id": "snowman_4",
+   "name": "Snowman",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/Snowman.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 215194,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Snowman.zip"
+  },
+  {
+   "id": "bounty_rush_2",
+   "name": "Bounty Rush",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/bounty.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 84176,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/BOUNTY%20RUSH.zip"
+  },
+  {
+   "id": "carp_winds_3",
+   "name": "Carp Winds",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/carp.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 199859,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/CARP%20WIND.zip"
+  },
+  {
+   "id": "chou_hero",
+   "name": "Chou Hero",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/chou%20hero.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 344925
+  },
+  {
+   "id": "dragon_mark_4",
+   "name": "Dragon Mark",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/dragonds%20mark.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 191328,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Dragon%20Mark.zip"
+  },
+  {
+   "id": "emerald_royalty_2",
+   "name": "Emerald Royalty",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/emerald%20road.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 216438,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/EMERALD.zip"
+  },
+  {
+   "id": "seal_of_eternity_2",
+   "name": "Seal of Eternity",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/eternal.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 335568,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/ETERNAL.zip"
+  },
+  {
+   "id": "fire_crown_5",
+   "name": "Fire Crown",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/firecrown.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 249181,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Fire%20Crown.zip"
+  },
+  {
+   "id": "kof",
+   "name": "KOF",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/kof.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 169350,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/KOF.zip"
+  },
+  {
+   "id": "lancelot_hero",
+   "name": "Lancelot Hero",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/lance%20hero.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 273478
+  },
+  {
+   "id": "light_dark_6",
+   "name": "Light & Dark",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/lightdrak.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 241175,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/R3c4Il/main/light%20%26%20dark%20backup.zip"
+  },
+  {
+   "id": "lightborn_2",
+   "name": "Lightborn",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/loghtborn.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 212548,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/LIGHTBORN.zip"
+  },
+  {
+   "id": "mcl_tournament_3",
+   "name": "MCL Tournament",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/mcl.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 166565,
+   "duplicate_of": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/mcl%20tournament.zip"
+  },
+  {
+   "id": "msc",
+   "name": "MSC",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/msc.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 278890
+  },
+  {
+   "id": "oriental_fighters_2",
+   "name": "Oriental Fighters",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/oriental.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 222280,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/ORIENTAL.zip"
+  },
+  {
+   "id": "saber_legend_3",
+   "name": "Saber Legend",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/saber.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 186246,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/SABER%20LEGEND.zip"
+  },
+  {
+   "id": "sky_guardian_3",
+   "name": "Sky Guardian",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/sky.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 204001,
+   "duplicate_of": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/sky%20guardian.zip"
+  },
+  {
+   "id": "spring_festival_4",
+   "name": "Spring Festival",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/spring%20festival.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 247086,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Recall/Classic%20-%20Spring%20Festival.zip"
+  },
+  {
+   "id": "starlight_2",
+   "name": "Starlight",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/starlight.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 86031,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/STARLIGHT.zip"
+  },
+  {
+   "id": "summer_gala_3",
+   "name": "Summer Gala",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/summer.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 246030,
+   "duplicate_of": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/summer%20gala.zip"
+  },
+  {
+   "id": "super_hero",
+   "name": "Super Hero",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/super%20hero.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 255671
+  },
+  {
+   "id": "venom_3",
+   "name": "Venom",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/venom.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 226773,
+   "duplicate_of": "https://raw.githubusercontent.com/SourceBMT95/Recal/main/VENOM.zip"
   }
  ],
  "eliminations": [
@@ -17111,6 +17604,142 @@
    "source": "nix",
    "added": "2026-11-03",
    "size": 2146308
+  },
+  {
+   "id": "lama_eliminasi_s_t_u_n",
+   "name": "(Lama) Eliminasi S.T.U.N",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/%28LAMA%29%20ELIMINASI%20S.T.U.N.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 85989
+  },
+  {
+   "id": "arrival_of_esmeralda",
+   "name": "Arrival of Esmeralda",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/ELEMINASI%20ESME.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 41245
+  },
+  {
+   "id": "515_s_t_u_n",
+   "name": "515 S.T.U.N.",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/ELIMINASI%20STUN.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 86461
+  },
+  {
+   "id": "515_party",
+   "name": "515 Party",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/eliminasi%20515.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 116139
+  },
+  {
+   "id": "chou_hero",
+   "name": "Chou Hero",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/eliminasi%20Chou%20hero.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 158925
+  },
+  {
+   "id": "r_i_p_2",
+   "name": "R.I.P.",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/eliminasi%20RIP.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 111896,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Elimination/R.I.P.zip"
+  },
+  {
+   "id": "calamity_end_2",
+   "name": "Calamity End",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/eliminasi%20calamtys.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 77986,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/calamity%20end.zip"
+  },
+  {
+   "id": "evos_2",
+   "name": "EVOS",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/eliminasi%20evos.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 126304,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/evos.zip"
+  },
+  {
+   "id": "roaming_ghost_2",
+   "name": "Roaming Ghost",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/eliminasi%20ghost.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 61113,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Elimination/Roaming%20Ghost.zip"
+  },
+  {
+   "id": "ko",
+   "name": "KO",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/eliminasi%20ko.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 72959,
+   "duplicate_of": "https://raw.githubusercontent.com/n3wz1ips/3limin4t1/main/k.o.zip"
+  },
+  {
+   "id": "lancelot_hero",
+   "name": "Lancelot Hero",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/eliminasi%20lance.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 127071
+  },
+  {
+   "id": "star_2",
+   "name": "Star",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/eliminasi%20star.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 80009,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Elimination/STAR.zip"
+  },
+  {
+   "id": "super_return",
+   "name": "Super Return",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/eliminasi%20super%20return.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 103606
   }
  ],
  "maps": [
@@ -18587,6 +19216,586 @@
    "source": "nix",
    "added": "2026-11-03",
    "size": 2025390
+  },
+  {
+   "id": "the_arrival",
+   "name": "The Arrival",
+   "image": "https://github.com/Hiro161123/Apps/raw/main/Spawn%20Arrival%20sword.jpg",
+   "script": "https://github.com/BANGMAMET1995/effect_ABC/raw/main/spawn%20arival.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 121253
+  },
+  {
+   "id": "super_descent_bruno_hero",
+   "name": "Super Descent (Bruno Hero)",
+   "image": "https://github.com/Hiro161123/Apps/raw/main/spawn%20super%20descent.jpg",
+   "script": "https://github.com/BANGMAMET1995/effect_ABC/raw/main/spawn%20Bruno%20hero.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 108942
+  },
+  {
+   "id": "m1_glory",
+   "name": "M1 Glory",
+   "image": "https://github.com/Hiro161123/Apps/raw/main/spawn%20M1%20glory.jpg",
+   "script": "https://github.com/BANGMAMET1995/effect_ABC/raw/main/spawn%20M1glory.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 104619
+  },
+  {
+   "id": "evos_m1",
+   "name": "EVOS M1",
+   "image": "https://github.com/Hiro161123/Apps/raw/main/spawn%20evos.jpg",
+   "script": "https://github.com/BANGMAMET1995/effect_ABC/raw/main/spawn%20evos.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 85721
+  },
+  {
+   "id": "halloween",
+   "name": "Halloween",
+   "image": "https://github.com/Hiro161123/Apps/raw/main/spawn%20Halloween.jpg",
+   "script": "https://github.com/BANGMAMET1995/effect_ABC/raw/main/spwan%20Halloween.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 89814
+  },
+  {
+   "id": "mcl_tournament_2",
+   "name": "MCL Tournament",
+   "image": "https://github.com/Hiro161123/Apps/raw/main/spawn%20Mcl.jpg",
+   "script": "https://github.com/BANGMAMET1995/effect_ABC/raw/main/spwan%20mcl.zip",
+   "enabled": false,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 105767,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Respawn/MCL%20Tournament.zip"
+  },
+  {
+   "id": "msc_tournament_2",
+   "name": "MSC Tournament",
+   "image": "https://github.com/Hiro161123/Apps/raw/main/spawn%20Msc.jpg",
+   "script": "https://github.com/BANGMAMET1995/effect_ABC/raw/main/spawn%20msc.zip",
+   "enabled": false,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 139383,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Respawn/MSC%20Tournament.zip"
+  },
+  {
+   "id": "sky_guardian",
+   "name": "Sky Guardian",
+   "image": "https://github.com/Hiro161123/Apps/raw/main/spawn%20sky%20guardian.jpg",
+   "script": "https://github.com/BANGMAMET1995/effect_ABC/raw/main/spawn%20skyguardian.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 135025
+  },
+  {
+   "id": "thunder_arrival_chou_hero",
+   "name": "Thunder Arrival (Chou Hero)",
+   "image": "https://github.com/Hiro161123/Apps/raw/main/spawn%20Arrival%20thunder.jpg",
+   "script": "https://github.com/BANGMAMET1995/effect_ABC/raw/main/spawn%20Chou%20hero.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 130188
+  },
+  {
+   "id": "arrival_of_vale",
+   "name": "Arrival of Vale",
+   "image": "https://github.com/Hiro161123/Apps/raw/main/spawn%20Arrival%20strom.jpg",
+   "script": "https://github.com/BANGMAMET1995/PATCH_BEATRIX/raw/main/Respawn%20Vale.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 149170
+  },
+  {
+   "id": "515_party_s_t_u_n",
+   "name": "515 Party (S.T.U.N.)",
+   "image": "https://github.com/Hiro161123/Apps/raw/main/Respawn%20STUN.jpg",
+   "script": "https://github.com/BANGMAMET1995/effect_ABC/raw/main/SPAWN%20S.T.U.N.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 95544
+  },
+  {
+   "id": "arrival_of_esmeralda",
+   "name": "Arrival of Esmeralda",
+   "image": "https://github.com/Hiro161123/Apps/raw/main/spawn%20Arrival%20future.jpg",
+   "script": "https://github.com/BANGMAMET1995/effect_ABC/raw/main/SPAWN%20ESME.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 33278
+  },
+  {
+   "id": "m2_champion_bren",
+   "name": "M2 Champion (Bren)",
+   "image": "https://github.com/Hiro161123/Apps/raw/main/spawn%20m2%20bren.jpg",
+   "script": "https://github.com/imoba/All_effect/raw/main/spawn%20bren.zip",
+   "enabled": false,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "broken": "HTTP 404"
+  },
+  {
+   "id": "combat_ready_transformers",
+   "name": "Combat Ready (Transformers)",
+   "image": "https://github.com/Hiro161123/Apps/raw/main/spawn%20transformer.jpg",
+   "script": "https://github.com/imoba/All_effect/raw/main/spawn%20transformer.zip",
+   "enabled": false,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "broken": "HTTP 404"
+  },
+  {
+   "id": "darkest_arrival_abyss",
+   "name": "Darkest Arrival (Abyss)",
+   "image": "https://github.com/Hiro161123/Apps/raw/main/spawn%20arrival%20darkest.jpg",
+   "script": "https://github.com/imoba/All_effect/raw/main/Spawn%20Abyss.zip",
+   "enabled": false,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "broken": "HTTP 404"
+  },
+  {
+   "id": "hello_kitty",
+   "name": "Hello Kitty",
+   "image": "https://github.com/Hiro161123/Apps/raw/main/spawn%20Hello%20Kitty.jpg",
+   "script": "https://github.com/imoba/All_effect/raw/main/RESPAWN%20HELO%20KITTY.zip",
+   "enabled": false,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "broken": "HTTP 404"
+  },
+  {
+   "id": "foreboding_arrival_moskov_abyss",
+   "name": "Foreboding Arrival (Moskov Abyss)",
+   "image": "https://github.com/Hiro161123/Apps/raw/main/spawn%20moskov%20abyss.jpg",
+   "script": "https://github.com/imoba/EFFECT/raw/main/MOSKOV%20SPAWN.zip",
+   "enabled": false,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "broken": "HTTP 404"
+  },
+  {
+   "id": "enticing_arrival_selena_abyss",
+   "name": "Enticing Arrival (Selena Abyss)",
+   "image": "https://github.com/Hiro161123/Apps/raw/main/spawn%20Selena%20abyss.jpg",
+   "script": "https://github.com/imoba/EFFECT/raw/main/Spawn%20Selena%20Abyys.zip",
+   "enabled": false,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "broken": "HTTP 404"
+  },
+  {
+   "id": "the_exorcist",
+   "name": "The Exorcist",
+   "image": "https://github.com/Hiro161123/Apps/raw/main/respawn%20exorcist.jpg",
+   "script": "https://github.com/imoba/AllEffect/raw/main/SPAWN%20EXORCIST.zip",
+   "enabled": false,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "broken": "HTTP 404"
+  },
+  {
+   "id": "saint_seiya",
+   "name": "Saint Seiya",
+   "image": "https://github.com/Hiro161123/Apps/raw/main/spawn%20saint%20seiya.jpg",
+   "script": "https://github.com/imoba/AllEffect/raw/main/SPAWN%20SAINSEIYA.zip",
+   "enabled": false,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "broken": "HTTP 404"
+  },
+  {
+   "id": "kusanagi_s_arrival_kof_97",
+   "name": "Kusanagi's Arrival (KOF 97)",
+   "image": "https://github.com/Hiro161123/Apps/raw/main/Respawn%20kof.jpg",
+   "script": "https://github.com/Hiro161123/INTRO/raw/main/SPAWN%20KOF%2097.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 100184
+  },
+  {
+   "id": "alpha_abyss",
+   "name": "Alpha Abyss",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Darkest_Arrival_Spawn_Effect.png/revision/latest?cb=20211204082940",
+   "script": "https://github.com/rahasia55/AG-RESPAWN/raw/main/alpha%20abyss.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 78698
+  },
+  {
+   "id": "enticing_arrival_selena_abyss_2",
+   "name": "Enticing Arrival (Selena Abyss)",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Enticing_Arrival_Spawn_Effect.png/revision/latest?cb=20220115045422",
+   "script": "https://github.com/rahasia55/AG-RESPAWN/raw/main/selena%20abyss.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 34252
+  },
+  {
+   "id": "foreboding_arrival_moskov_abyss_2",
+   "name": "Foreboding Arrival (Moskov Abyss)",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Foreboding_Arrival_Spawn_Effect.png/revision/latest?cb=20220626162847",
+   "script": "https://github.com/rahasia55/AG-RESPAWN/raw/main/moskov%20abyss.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 46100
+  },
+  {
+   "id": "transformers",
+   "name": "Transformers",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Combat_ready_Spawn_Effect.png/revision/latest?cb=20211203125703",
+   "script": "https://github.com/rahasia55/AG-RESPAWN/raw/main/transformer.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 55368
+  },
+  {
+   "id": "arrival_of_esmeralda_2",
+   "name": "Arrival of Esmeralda",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Arrival_of_the_Future_Spawn_Effect.png/revision/latest?cb=20210712122350",
+   "script": "https://github.com/rahasia55/AG-RESPAWN/raw/main/esmeralda.zip",
+   "enabled": false,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 31234,
+   "duplicate_of": "https://github.com/BANGMAMET1995/effect_ABC/raw/main/SPAWN%20ESME.zip"
+  },
+  {
+   "id": "hello_kitty_2",
+   "name": "Hello Kitty",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Arrival_Hello_Kitty%21_Spawn_Effect.png/revision/latest?cb=20220307094007",
+   "script": "https://github.com/rahasia55/AG-RESPAWN/raw/main/helokity.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 128299
+  },
+  {
+   "id": "arrival_of_the_sword",
+   "name": "Arrival of the Sword",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Thunder_Arrives_Spawn_Effect.png/revision/latest?cb=20211203154825",
+   "script": "https://github.com/rahasia55/AG-RESPAWN/raw/main/arival%20sword.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 113511
+  },
+  {
+   "id": "arrival_of_vale_2",
+   "name": "Arrival of Vale",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Arrival_of_the_Storm_Spawn_Effect.png/revision/latest?cb=20211203160708",
+   "script": "https://github.com/rahasia55/AG-RESPAWN/raw/main/vale.zip",
+   "enabled": false,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 142173,
+   "duplicate_of": "https://github.com/BANGMAMET1995/PATCH_BEATRIX/raw/main/Respawn%20Vale.zip"
+  },
+  {
+   "id": "evos_m1_2",
+   "name": "EVOS M1",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/M1_Champion_Spawn_Effect.png/revision/latest?cb=20211203154612",
+   "script": "https://github.com/rahasia55/AG-RESPAWN/raw/main/evos.zip",
+   "enabled": false,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 81499,
+   "duplicate_of": "https://github.com/BANGMAMET1995/effect_ABC/raw/main/spawn%20evos.zip"
+  },
+  {
+   "id": "m1_glory_2",
+   "name": "M1 Glory",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/2019_M1_Glory_Spawn_Effect.png/revision/latest?cb=20211203154450",
+   "script": "https://github.com/rahasia55/AG-RESPAWN/raw/main/m1%20glory.zip",
+   "enabled": false,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 98460,
+   "duplicate_of": "https://github.com/BANGMAMET1995/effect_ABC/raw/main/spawn%20M1glory.zip"
+  },
+  {
+   "id": "515_party_s_t_u_n_2",
+   "name": "515 Party (S.T.U.N.)",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/515_eParty_Spawn_Effect.png/revision/latest?cb=20211203160805",
+   "script": "https://github.com/rahasia55/AG-RESPAWN/raw/main/stun.zip",
+   "enabled": false,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 88721,
+   "duplicate_of": "https://github.com/BANGMAMET1995/effect_ABC/raw/main/SPAWN%20S.T.U.N.zip"
+  },
+  {
+   "id": "msc_tournament_3",
+   "name": "MSC Tournament",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/MSC_Tournament_Spawn_Effect.png/revision/latest?cb=20211203152026",
+   "script": "https://github.com/rahasia55/AG-RESPAWN/raw/main/msc.zip",
+   "enabled": false,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 133013,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Respawn/MSC%20Tournament.zip"
+  },
+  {
+   "id": "mcl_tournament_3",
+   "name": "MCL Tournament",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/MCL_Tournament_Spawn_Effect.png/revision/latest?cb=20211203152003",
+   "script": "https://github.com/rahasia55/AG-RESPAWN/raw/main/mcl.zip",
+   "enabled": false,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 100040,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Respawn/MCL%20Tournament.zip"
+  },
+  {
+   "id": "halloween_2",
+   "name": "Halloween",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Candy%21_Candy%21_Spawn_Effect.png/revision/latest?cb=20211203172418",
+   "script": "https://github.com/rahasia55/AG-RESPAWN/raw/main/helloween.zip",
+   "enabled": false,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 84735,
+   "duplicate_of": "https://github.com/BANGMAMET1995/effect_ABC/raw/main/spwan%20Halloween.zip"
+  },
+  {
+   "id": "sky_guardian_2",
+   "name": "Sky Guardian",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Sky_Guardian_Spawn_Effect.png/revision/latest?cb=20211203152114",
+   "script": "https://github.com/rahasia55/AG-RESPAWN/raw/main/guardian.zip",
+   "enabled": false,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 126824,
+   "duplicate_of": "https://github.com/BANGMAMET1995/effect_ABC/raw/main/spawn%20skyguardian.zip"
+  },
+  {
+   "id": "super_hero",
+   "name": "Super Hero",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Super_Descent_Spawn_Effect.png/revision/latest?cb=20211203154549",
+   "script": "https://github.com/rahasia55/AG-RESPAWN/raw/main/super%20hero.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 103506
+  },
+  {
+   "id": "classic_restore_original_2",
+   "name": "Classic (restore original)",
+   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Classic_Spawn_Effect.png/revision/latest?cb=20211203144023",
+   "script": "https://github.com/rahasia55/AG-RESPAWN/raw/main/respawn%20backup.zip",
+   "enabled": false,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 158867,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Respawn/Backup.zip"
+  },
+  {
+   "id": "jujutsu_kaisen",
+   "name": "Jujutsu Kaisen",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/km_20240810-1_1080p_60f_20240810_194107.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/spawn%20jjk.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 560904
+  },
+  {
+   "id": "the_exorcist_2",
+   "name": "The Exorcist",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/Sp4wn/main/exorcist2.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/Sp4wn/main/exorcist2.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 820731
+  },
+  {
+   "id": "kusanagi_s_arrival_kof_97_2",
+   "name": "Kusanagi's Arrival (KOF 97)",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/Sp4wn/main/kusanagis.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/Sp4wn/main/kusanagis.zip",
+   "enabled": false,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 97312,
+   "duplicate_of": "https://github.com/Hiro161123/INTRO/raw/main/SPAWN%20KOF%2097.zip"
+  },
+  {
+   "id": "m3",
+   "name": "M3",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/Sp4wn/main/m3.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/Sp4wn/main/M3%20Respawn.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 671686
+  },
+  {
+   "id": "saint_seiya_2",
+   "name": "Saint Seiya",
+   "image": "https://raw.githubusercontent.com/n3wz1ips/Sp4wn/main/saint%20seiya.jpg",
+   "script": "https://raw.githubusercontent.com/n3wz1ips/Sp4wn/main/saint%20seiya.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 758842
+  },
+  {
+   "id": "m2_champion_bren_2",
+   "name": "M2 Champion (Bren)",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-RESPAWN/main/brens.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 28230
+  },
+  {
+   "id": "thunder_arrival_chou_hero_2",
+   "name": "Thunder Arrival (Chou Hero)",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/rahasia55/AG-RESPAWN/main/chou.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 123384,
+   "duplicate_of": "https://github.com/BANGMAMET1995/effect_ABC/raw/main/spawn%20Chou%20hero.zip"
+  },
+  {
+   "id": "lama_spawn_s_t_u_n",
+   "name": "(Lama)Spawn S.T.U.N",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/%28LAMA%29SPAWN%20S.T.U.N.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 95072
+  },
+  {
+   "id": "christmas_2",
+   "name": "Christmas",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/spawn%20Christmas.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 97128,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Respawn/Christmas.zip"
+  },
+  {
+   "id": "angel",
+   "name": "Angel",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/spawn%20angel.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 119960
+  },
+  {
+   "id": "cool_summer_2",
+   "name": "Cool Summer",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/spawn%20cool%20summer.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 87567,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Respawn/Cool%20Summer.zip"
+  },
+  {
+   "id": "emerald_royalty",
+   "name": "Emerald Royalty",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/spawn%20emerald.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 98866
+  },
+  {
+   "id": "gacha_party",
+   "name": "Gacha Party",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/spawn%20gacha%20party.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 122753
+  },
+  {
+   "id": "light_dark_2",
+   "name": "Light & Dark",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/spawn%20light%26dark.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 115637,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Respawn/Light%20%26%20Dark.zip"
+  },
+  {
+   "id": "spring_festival_2",
+   "name": "Spring Festival",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/spawn%20springfestival.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 129875,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Respawn/Spring%20Festival.zip"
+  },
+  {
+   "id": "starlight_2",
+   "name": "Starlight",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/spawn%20starlight.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 78470,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Respawn/Starlight.zip"
+  },
+  {
+   "id": "summer_gala_2",
+   "name": "Summer Gala",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/spawn%20summer%20gala.zip",
+   "enabled": false,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 138607,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Respawn/Summer%20Gala.zip"
+  },
+  {
+   "id": "wave_world",
+   "name": "Wave World",
+   "image": "",
+   "script": "https://raw.githubusercontent.com/BANGMAMET1995/effect_ABC/main/spawn%20waveWord.zip",
+   "enabled": true,
+   "source": "repo",
+   "added": "2026-11-05",
+   "size": 88473
   }
  ],
  "trails": [
@@ -19329,6 +20538,450 @@
    "source": "nix",
    "added": "2026-11-03",
    "size": 2156911
+  },
+  {
+   "id": "obsidian_blade_alucard_legend",
+   "name": "Obsidian Blade (Alucard Legend)",
+   "image": "https://github.com/SourceBMT95/Trail/raw/main/trail%20Alucard%20legend.jpg",
+   "script": "https://github.com/SourceBMT95/Trail/raw/main/TRAIL%20ALUCARD%20LEGEND.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 15181
+  },
+  {
+   "id": "star_enforcer_alpha_starlight",
+   "name": "Star Enforcer (Alpha Starlight)",
+   "image": "https://github.com/SourceBMT95/Trail/raw/main/trail%20Alpha%20starlight.jpg",
+   "script": "https://github.com/SourceBMT95/Trail/raw/main/TRAIL%20ALPHA%20STARLIGHT.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 14501
+  },
+  {
+   "id": "stellar_brilliance_beatrix_m4",
+   "name": "Stellar Brilliance (Beatrix M4)",
+   "image": "https://github.com/SourceBMT95/Trail/raw/main/trail%20Beatrix%20M4%20pass.jpg",
+   "script": "https://github.com/SourceBMT95/Trail/raw/main/TRAIL%20BEATRIX%20M4%20PASS.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 38777
+  },
+  {
+   "id": "ancient_warden_edith_starlight",
+   "name": "Ancient Warden (Edith Starlight)",
+   "image": "https://github.com/SourceBMT95/Trail/raw/main/trail%20Edith%20starlight.jpg",
+   "script": "https://github.com/SourceBMT95/Trail/raw/main/TRAIL%20EDITH%20STARLIGHT.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 28714
+  },
+  {
+   "id": "king_of_hell_franco_legend",
+   "name": "King of Hell (Franco Legend)",
+   "image": "https://github.com/SourceBMT95/Trail/raw/main/trail%20Franco%20legend.jpg",
+   "script": "https://github.com/SourceBMT95/Trail/raw/main/TRAIL%20FRANCO%20LEGEND.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 42348
+  },
+  {
+   "id": "conqueror_gord_legend",
+   "name": "Conqueror (Gord Legend)",
+   "image": "https://github.com/SourceBMT95/Trail/raw/main/trail%20Gord%20legend.jpg",
+   "script": "https://github.com/SourceBMT95/Trail/raw/main/TRAIL%20GORD%20LEGEND.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 38614
+  },
+  {
+   "id": "cosmic_gleam_gusion_legend",
+   "name": "Cosmic Gleam (Gusion Legend)",
+   "image": "https://github.com/SourceBMT95/Trail/raw/main/trail%20Gusion%20legend.jpg",
+   "script": "https://github.com/SourceBMT95/Trail/raw/main/TRAIL%20GUSION%20LEGEND.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 20506
+  },
+  {
+   "id": "divine_goddess_lunox_legend",
+   "name": "Divine Goddess (Lunox Legend)",
+   "image": "https://github.com/SourceBMT95/Trail/raw/main/trail%20Lunox%20legend.jpg",
+   "script": "https://github.com/SourceBMT95/Trail/raw/main/TRAIL%20LUNOX%20LEGEND.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 37902
+  },
+  {
+   "id": "glorious_m3",
+   "name": "Glorious M3",
+   "image": "https://github.com/SourceBMT95/Trail/raw/main/trail%20M3%20Glorious.jpg",
+   "script": "https://github.com/SourceBMT95/Trail/raw/main/TRAIL%20M3%20GLORIOUS.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 46424
+  },
+  {
+   "id": "m4_glory_2",
+   "name": "M4 Glory",
+   "image": "https://github.com/SourceBMT95/Trail/raw/main/trail%20M4%20glory.jpg",
+   "script": "https://github.com/SourceBMT95/Trail/raw/main/TRAIL%20M4%20GLORY.zip",
+   "enabled": false,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 49298,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Trail/M4%20Glory.zip"
+  },
+  {
+   "id": "crimson_light_minsitthar_starlight",
+   "name": "Crimson Light (Minsitthar Starlight)",
+   "image": "https://github.com/SourceBMT95/Trail/raw/main/trail%20Minsitthar%20starlight.jpg",
+   "script": "https://github.com/SourceBMT95/Trail/raw/main/TRAIL%20MINSITTHAR%20STARLIGHT.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 28029
+  },
+  {
+   "id": "modena_butterfly_miya_legend",
+   "name": "Modena Butterfly (Miya Legend)",
+   "image": "https://github.com/SourceBMT95/Trail/raw/main/trail%20Miya%20legend.jpg",
+   "script": "https://github.com/SourceBMT95/Trail/raw/main/TRAIL%20MIYA%20LEGEND.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 49637
+  },
+  {
+   "id": "violet_spear_moskov_starlight",
+   "name": "Violet Spear (Moskov Starlight)",
+   "image": "https://github.com/SourceBMT95/Trail/raw/main/trail%20Moskov%20starlight.jpg",
+   "script": "https://github.com/SourceBMT95/Trail/raw/main/TRAIL%20MOSKOV%20STARLIGHT.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 22742
+  },
+  {
+   "id": "fiend_haunter_roger_m3",
+   "name": "Fiend Haunter (Roger M3)",
+   "image": "https://github.com/SourceBMT95/Trail/raw/main/trail%20Roger%20M3%20pass.jpg",
+   "script": "https://github.com/SourceBMT95/Trail/raw/main/TRAIL%20ROGER%20M3%20PASS.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 27381
+  },
+  {
+   "id": "codename_storm_saber_legend",
+   "name": "Codename Storm (Saber Legend)",
+   "image": "https://github.com/SourceBMT95/Trail/raw/main/trail%20Saber%20legend.jpg",
+   "script": "https://github.com/SourceBMT95/Trail/raw/main/TRAIL%20SABER%20LEGEND.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 19977
+  },
+  {
+   "id": "iron_hound_saber_starlight",
+   "name": "Iron Hound (Saber Starlight)",
+   "image": "https://github.com/SourceBMT95/Trail/raw/main/trail%20Saber%20starlight.jpg",
+   "script": "https://github.com/SourceBMT95/Trail/raw/main/TRAIL%20SABER%20STARLIGHT.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 18323
+  },
+  {
+   "id": "sanctified_seraph_thamuz_starlight",
+   "name": "Sanctified Seraph (Thamuz Starlight)",
+   "image": "https://github.com/SourceBMT95/Trail/raw/main/trail%20Thamuz%20starlight.jpg",
+   "script": "https://github.com/SourceBMT95/Trail/raw/main/TRAIL%20THAMUZ%20STARLIGHT.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 38067
+  },
+  {
+   "id": "cyber_agent_valentina_starlight",
+   "name": "Cyber Agent (Valentina Starlight)",
+   "image": "https://github.com/SourceBMT95/Trail/raw/main/trail%20Valentina%20starlight.jpg",
+   "script": "https://github.com/SourceBMT95/Trail/raw/main/TRAIL%20VALENTINA%20STARLIGHT.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 15345
+  },
+  {
+   "id": "infernal_blaze_valir_legend",
+   "name": "Infernal Blaze (Valir Legend)",
+   "image": "https://github.com/SourceBMT95/Trail/raw/main/trail%20Valir%20legend.jpg",
+   "script": "https://github.com/SourceBMT95/Trail/raw/main/TRAIL%20VALIR%20LEGEND.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 42569
+  },
+  {
+   "id": "eternal_guardian_yin_starlight",
+   "name": "Eternal Guardian (Yin Starlight)",
+   "image": "https://github.com/SourceBMT95/Trail/raw/main/trail%20Yin%20starlight.jpg",
+   "script": "https://github.com/SourceBMT95/Trail/raw/main/TRAIL%20YIN%20STARLIGHT.zip",
+   "enabled": true,
+   "source": "mbs",
+   "added": "2026-11-05",
+   "size": 11309
+  },
+  {
+   "id": "alucard_legend",
+   "name": "Alucard Legend",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/trail alucard legend.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/Trail%20Alucard%20Legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 14795
+  },
+  {
+   "id": "arlot_starlight",
+   "name": "Arlot Starlight",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/arlot starlight.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/trail%20arlot%20starlight.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 17784
+  },
+  {
+   "id": "beatrix_m4",
+   "name": "beatrix M4",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/beatrix m4.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/trail%20beatrix%20m4.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 46858
+  },
+  {
+   "id": "edith_starlight",
+   "name": "Edith Starlight",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/edith starlight.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/trail%20edith%20starlight.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 28013
+  },
+  {
+   "id": "franco_legend",
+   "name": "Franco Legend",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/franco legend.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/trail%20franco%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 39602
+  },
+  {
+   "id": "gord_legend",
+   "name": "Gord Legend",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/gord legend.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/trail%20gord%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 114037
+  },
+  {
+   "id": "gusion_legend",
+   "name": "Gusion Legend",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/gusion legend.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/trail%20gusion%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 20244
+  },
+  {
+   "id": "layla_starlight",
+   "name": "Layla Starlight",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/layla starlight.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/trail%20layla%20starlight.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 16684
+  },
+  {
+   "id": "melissa_starlight",
+   "name": "Melissa Starlight",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/melissa starlight.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/trail%20melissa%20starlight.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 10980
+  },
+  {
+   "id": "minsitthar_starlight",
+   "name": "Minsitthar Starlight",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/minitstar starlight.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/trail%20ministar%20starlight.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 27252
+  },
+  {
+   "id": "roger_m3",
+   "name": "Roger M3",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/roger m3.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/trail%20roger%20m3.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 44044
+  },
+  {
+   "id": "roger_prime",
+   "name": "Roger Prime",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/roger prime.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/trail%20roger%20prime.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 25744
+  },
+  {
+   "id": "saber_legend",
+   "name": "Saber Legend",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/saber legend.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/trail%20saber%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 19485
+  },
+  {
+   "id": "thamuz_starlight",
+   "name": "Thamuz Starlight",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/thamuz starlight.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/trail%20thamuz%20starlight.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 37503
+  },
+  {
+   "id": "valir_legend",
+   "name": "Valir Legend",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/valir legend.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/trail%20valir%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 39740
+  },
+  {
+   "id": "yuzhong_m5",
+   "name": "YuZhong M5",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/yu zhong m5.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/trail%20yuzhong%20m5.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 43434
+  },
+  {
+   "id": "yuzhong_prime",
+   "name": "YuZhong Prime",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/yuzhong prime.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/trail%20yuzhong%20prime.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 24142
+  },
+  {
+   "id": "cyber_agent_2",
+   "name": "Cyber Agent",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/km_20240824_1080p_60f_20240824_140406.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/cyber%20agent.zip",
+   "enabled": false,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 54823,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Trail/Cyber%20Agent.zip"
+  },
+  {
+   "id": "divine_goddess",
+   "name": "Divine Goddess",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/km_20240824_1080p_60f_20240824_141023.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/divine%20goddess.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 49177
+  },
+  {
+   "id": "enternal_guardian",
+   "name": "Enternal Guardian",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/km_20240824_1080p_60f_20240824_141351.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/enternal%20guardian.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 68442
+  },
+  {
+   "id": "iron_hound",
+   "name": "Iron Hound",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/km_20240824_1080p_60f_20240824_141923.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/iron%20hound.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 18749
+  },
+  {
+   "id": "miya_legend",
+   "name": "Miya Legend",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/km_20240824_1080p_60f_20240824_142029.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/miya%20legend.zip",
+   "enabled": true,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 46387
+  },
+  {
+   "id": "star_enforcer_2",
+   "name": "Star Enforcer",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/km_20240824_1080p_60f_20240824_142617.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/star%20enforcer.zip",
+   "enabled": false,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 55656,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Trail/Star%20Enforcer.zip"
+  },
+  {
+   "id": "violet_spear_2",
+   "name": "Violet Spear",
+   "image": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/km_20240824_1080p_60f_20240824_142708.gif",
+   "script": "https://github.com/jtsonnl/L3Engk4pps/raw/main/uploads/violet%20spear.zip",
+   "enabled": false,
+   "source": "bs",
+   "added": "2026-11-05",
+   "size": 69437,
+   "duplicate_of": "https://raw.githubusercontent.com/Sparkies01/DownloadScript/main/Effects/Trail/Violet%20Spear.zip"
   }
  ],
  "intros": [
