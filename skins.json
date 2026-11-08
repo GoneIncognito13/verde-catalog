@@ -4144,6 +4144,43 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "alucard_055",
+     "skin_name": "Roger",
+     "image": "https://images7.alphacoders.com/132/1323417.jpeg",
+     "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/47eb3733-mvbyo844-1-w0uc3-alu-roger.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "alucard",
+       "name": "alucard",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 5811335,
+     "check": "caution",
+     "check_date": "2026-11-08",
+     "check_notes": [
+      "1 empty file(s), e.g. war2alucard_cakra.unity3d – an effect switched off by the modder"
+     ]
     }
    ]
   },
@@ -6093,6 +6130,148 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "argus_051",
+     "skin_name": "Denji",
+     "image": "https://wallpapers.com/images/hd/all-anime-chainsaw-man-denji-bcum1oc88t5mw92t.jpg",
+     "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/c323f92a-mvbyocxz-1-i3q9g-argus-denji.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "argus",
+       "name": "argus",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 25030486,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "argus_052",
+     "skin_name": "Guts",
+     "image": "https://i.pinimg.com/736x/d9/ca/67/d9ca679e5874fabb2cba91437c767a66.jpg",
+     "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/6d5f6bdf-mvbyoltn-1-wa9et-argus-guts.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "argus",
+       "name": "argus",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 40467240,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "argus_053",
+     "skin_name": "Kenpatchi",
+     "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/argus%20kenpatchi.png",
+     "script": "https://raw.githubusercontent.com/missnapokita/meow/main/argus%20kenpachi.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "argus",
+       "name": "argus",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 11514952,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "argus_054",
+     "skin_name": "Lizard",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaz7Pbu7MUihBvevNrGRbyc9-4lXO9FK7uh7w6fqkiAeZfz0HqOHd7S9g&s=10",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/argus%20lizard.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "argus",
+       "name": "argus",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 4607761,
+     "check": "faulty",
+     "check_date": "2026-11-08",
+     "check_notes": [
+      "1 game file(s) are not Unity bundles (broken), e.g. 45_argus_Keep_daoguang_xiaosan.unity3d"
+     ]
     }
    ]
   },
@@ -6696,6 +6875,41 @@
      "source": "nix",
      "added": "2026-11-03",
      "size": 6698928,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "arlott_029",
+     "skin_name": "Gojo",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnUrCk0zZVFGRw3_JmKdYxzcsY0cSfxoTKRiLycavaRZxd4nE7VrzkR4Iv&s=10",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/arlott%20gojo.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "arlott",
+       "name": "arlott",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 9778332,
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
@@ -7679,6 +7893,41 @@
      "check_notes": [
       "1 empty file(s), e.g. Aulus_cityaction_huzi_add.unity3d – an effect switched off by the modder"
      ]
+    },
+    {
+     "id": "aulus_022",
+     "skin_name": "Renguko",
+     "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/refs/heads/main/img/aulos%20renguko.png",
+     "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/aulos%20renguko.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "aulus",
+       "name": "aulus",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 16429944,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
     }
    ]
   },
@@ -8272,6 +8521,41 @@
      "source": "nix",
      "added": "2026-11-03",
      "size": 4741818,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "aurora_027",
+     "skin_name": "Keshin Dinetsu",
+     "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/aurora%20keshin.png",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/aurora%20keshin.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "aurora",
+       "name": "aurora",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 31086723,
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
@@ -8982,6 +9266,76 @@
      "source": "nix",
      "added": "2026-11-03",
      "size": 4168130,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "badang_033",
+     "skin_name": "Jotaro Black",
+     "image": "https://wallpapercat.com/w/full/1/1/2/813045-3840x2160-desktop-4k-jotaro-kujo-wallpaper-photo.jpg",
+     "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/9899bec1-mvjpizdz-1-rp8l3-badang-jotaro.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "badang",
+       "name": "badang",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 12393170,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "badang_034",
+     "skin_name": "Katakuri",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTggObA6mFbYxGF0bRY5mHiBtOiJZ-FRdnFXKIUstU4ndwRvmBp1zAH4eOU&s=10",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/badang%20katakori.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "badang",
+       "name": "badang",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 9591508,
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
@@ -10158,6 +10512,41 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "bane_026",
+     "skin_name": "Escanor",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cBRng4NkDaV-6H91fLjhKxht71-JXPY3NxOThX-sQurzeRvHcrPknac&s=10",
+     "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/b7f9203a-mvjpjt97-1-pmrzh-bane-escanor.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "bane",
+       "name": "bane",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 19938819,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
     }
    ]
   },
@@ -10554,6 +10943,76 @@
      "source": "nix",
      "added": "2026-11-03",
      "size": 5750303,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "barats_019",
+     "skin_name": "Dinosaur",
+     "image": "https://i.pinimg.com/236x/7c/c5/83/7cc5838fccaf5d54b574c4b11d975d38.jpg",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/barats%20dino.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "barats",
+       "name": "barats",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "tank",
+       "name": "tank",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 3846014,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "barats_020",
+     "skin_name": "Iron Hide",
+     "image": "https://i.pinimg.com/736x/2c/50/be/2c50be4d1845937df549b4ca6513d43c.jpg",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/barats%20iron%20hide.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "barats",
+       "name": "barats",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "tank",
+       "name": "tank",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 4944137,
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
@@ -17763,6 +18222,111 @@
      "source": "nix",
      "added": "2026-11-03",
      "size": 32160289,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "chou_077",
+     "skin_name": "Michael Jackson",
+     "image": "https://github.com/missnapokita/bagong-custom-skins/blob/main/michael-jackson-portrait-v0-6544v66elo6g1.png?raw=true",
+     "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/chou%20mj.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "chou",
+       "name": "chou",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 4977349,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "chou_078",
+     "skin_name": "Mario",
+     "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/2600001.jpg",
+     "script": "https://raw.githubusercontent.com/mlbb-toolkit/tikloot-bblm/main/26/2600001.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "chou",
+       "name": "chou",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 764716,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "chou_079",
+     "skin_name": "Flash",
+     "image": "https://w0.peakpx.com/wallpaper/458/35/HD-wallpaper-flash-art.jpg",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/chou%20flash.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "chou",
+       "name": "chou",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 995293,
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
@@ -25117,6 +25681,41 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "fanny_050",
+     "skin_name": "Levi",
+     "image": "https://i.pinimg.com/474x/cf/d8/21/cfd821a87c6c5987720df8e4f3c92e16.jpg",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/fanny%20levi.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fanny",
+       "name": "fanny",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "assassin",
+       "name": "assassin",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 13647984,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
     }
    ]
   },
@@ -28420,6 +29019,41 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "gatotkaca_031",
+     "skin_name": "Jiraya",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwfJ2XB5rxNNcbFJc5GDi2ZKjl5Ii8qvWxNW-bBuIcMMOo3hWac9bwh_k&s=10",
+     "script": "https://raw.githubusercontent.com/azizboy2007/DESKTOP-GERMA/main/gatot%20jiraya.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "gatotkaca",
+       "name": "gatotkaca",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "tank",
+       "name": "tank",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 28881404,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
     }
    ]
   },
@@ -29358,6 +29992,41 @@
      "source": "nix",
      "added": "2026-11-03",
      "size": 61966914,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "gord_027",
+     "skin_name": "Ironman",
+     "image": "https://wallpapercave.com/wp/wp11799657.jpg",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/gord%20ironman.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "gord",
+       "name": "gord",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 2100654,
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
@@ -37738,6 +38407,76 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "helcurt_030",
+     "skin_name": "Legend Dog",
+     "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/hc%20dog.png",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/hc%20dog.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "helcurt",
+       "name": "helcurt",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "assassin",
+       "name": "assassin",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 9912856,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "helcurt_031",
+     "skin_name": "Cockroach",
+     "image": "https://c1.wallpaperflare.com/preview/103/890/570/beast-beetle-cockroach.jpg",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/hc%20ipis.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "helcurt",
+       "name": "helcurt",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "assassin",
+       "name": "assassin",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 532055,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
     }
    ]
   },
@@ -41520,6 +42259,41 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "johnson_059",
+     "skin_name": "Bumble bee",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170001",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/js%20bumble%20bee.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "johnson",
+       "name": "johnson",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "tank",
+       "name": "tank",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 1369117,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
     }
    ]
   },
@@ -42711,6 +43485,41 @@
      "source": "nix",
      "added": "2026-11-03",
      "size": 9681607,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "julian_026",
+     "skin_name": "Fushiguro HOK",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLhMkwo203KKiDkLO1nyZBYD1mEPdG5RZMiau9UOKjsF3iLDg-dAFa29Y&s=10",
+     "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/julian%20hok%20fushiguro.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "julian",
+       "name": "julian",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "assassin",
+       "name": "assassin",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 5283648,
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
@@ -44933,6 +45742,41 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "kaja_018",
+     "skin_name": "Spiderman",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QVqHsa5H-7DNTxVsoCfw5x222cjISdYkQsW4Myu1HZyj8VnKjaPva0uj&s=10",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/kaja%20spiderman.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "kaja",
+       "name": "kaja",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "support",
+       "name": "support",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 10585651,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
     }
    ]
   },
@@ -45465,6 +46309,41 @@
      "source": "nix",
      "added": "2026-11-03",
      "size": 9621655,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "karina_025",
+     "skin_name": "Arkle",
+     "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/karina.png",
+     "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/karina%20arkle.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "karina",
+       "name": "karina",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "assassin",
+       "name": "assassin",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 1833294,
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
@@ -48962,6 +49841,41 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "lancelot_051",
+     "skin_name": "Charlotte",
+     "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/lance.png",
+     "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/lance%20charlotte.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "lancelot",
+       "name": "lancelot",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "assassin",
+       "name": "assassin",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 1554160,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
     }
    ]
   },
@@ -50576,6 +51490,41 @@
      "source": "nix",
      "added": "2026-11-03",
      "size": 5071331,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "layla_047",
+     "skin_name": "Lady Sun",
+     "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/layla.png",
+     "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/layla%20lady%20sun.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "layla",
+       "name": "layla",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "marksman",
+       "name": "marksman",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 1956390,
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
@@ -53806,6 +54755,41 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "lukas_012",
+     "skin_name": "Guko",
+     "image": "https://wallpapercave.com/wp/wp4529480.jpg",
+     "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/89e16203-mvmgkk70-1-0bgnf-lukas-guko.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "lukas",
+       "name": "lukas",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 7911773,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
     }
    ]
   },
@@ -56778,6 +57762,41 @@
      "source": "nix",
      "added": "2026-11-03",
      "size": 8078883,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "martis_034",
+     "skin_name": "Allain",
+     "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/martis.png",
+     "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/martis%20allain.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "martis",
+       "name": "martis",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 4360891,
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
@@ -60134,7 +61153,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 15736576
     }
    ]
   },
@@ -60981,6 +62001,41 @@
      "source": "nix",
      "added": "2026-11-03",
      "size": 16743097,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "moskov_036",
+     "skin_name": "Naruto",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBqqyvV5_21KDeexQQIGsjwihvuNcLrzFYZKeniJeL5Re30fbLQ-WiawtT&s=10",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/moskov%20naruto.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "moskov",
+       "name": "moskov",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "marksman",
+       "name": "marksman",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 16609194,
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
@@ -64261,6 +65316,41 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "obsidia_009",
+     "skin_name": "Blazing West",
+     "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/img/obsidia%20blazing.png",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/obsidia%20blazing.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "obsidia",
+       "name": "obsidia",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "marksman",
+       "name": "marksman",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 4958448,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
     }
    ]
   },
@@ -66467,6 +67557,41 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "paquito_037",
+     "skin_name": "Naruto",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero1273-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101452",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/paquito%20naruto.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "paquito",
+       "name": "paquito",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 10881210,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
     }
    ]
   },
@@ -67706,6 +68831,76 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "phoveus_025",
+     "skin_name": "Jiraya",
+     "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/phov%20jiraya.png",
+     "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/phov%20jiraya.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "phoveus",
+       "name": "phoveus",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 14025537,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "phoveus_026",
+     "skin_name": "Ace",
+     "image": "https://images8.alphacoders.com/872/thumb-1920-872837.jpg",
+     "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/064ba4ee-mvbynylf-1-ywo5u-ace-x-phov.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "phoveus",
+       "name": "phoveus",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 34157272,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
     }
    ]
   },
@@ -68291,6 +69486,41 @@
      "source": "nix",
      "added": "2026-11-03",
      "size": 7126335,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "popol-and-kupa_027",
+     "skin_name": "Ted Lutz",
+     "image": "https://pbs.twimg.com/amplify_video_thumb/1922713264217022464/img/2bm5ub3gyXvb4Q0p?format=webp&name=medium",
+     "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/anime/popol%20x%20subway.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "popol-and-kupa",
+       "name": "popol-and-kupa",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "marksman",
+       "name": "marksman",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 3642190,
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
@@ -70704,6 +71934,41 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "ruby_037",
+     "skin_name": "Mori",
+     "image": "https://images.steamusercontent.com/ugc/1686021626145135169/6AD1E4B4CDCE624E6D2903C938CCDEF800A2FDA7/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/ruby%20mori%20calliope.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "ruby",
+       "name": "ruby",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 6168826,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
     }
    ]
   },
@@ -72945,6 +74210,41 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "silvanna_030",
+     "skin_name": "Ying",
+     "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/silvana.png",
+     "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/silvana%20ying.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "silvanna",
+       "name": "silvanna",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 4149050,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
     }
    ]
   },
@@ -73916,6 +75216,41 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "suyou_015",
+     "skin_name": "Yuuta",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvKGEjRby544ltz5VdmgrNWb1qRnULg-kGcX3YARLDiq2gIfgDOysNv40&s=10",
+     "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/7b046b4e-mvbypj2d-1-5fnef-suyou-yuta.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "suyou",
+       "name": "suyou",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "assassin",
+       "name": "assassin",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 27829825,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
     }
    ]
   },
@@ -74371,6 +75706,41 @@
      "source": "nix",
      "added": "2026-11-03",
      "size": 22745680,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "terizla_021",
+     "skin_name": "Mario",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1q1Gsupvn9NZy3VOcUmjV_giW3ecjGg0b-dA6upnmHmc26rtc1cA8mD1C&s=10",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/terizla%20mario.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "terizla",
+       "name": "terizla",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 4536207,
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
@@ -75970,6 +77340,41 @@
      "source": "nix",
      "added": "2026-11-03",
      "size": 3699618,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "uranus_019",
+     "skin_name": "Mozi",
+     "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/uranos.png",
+     "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/uranos%20mozzy.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "uranus",
+       "name": "uranus",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "tank",
+       "name": "tank",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 961539,
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
@@ -80914,6 +82319,41 @@
      "source": "nix",
      "added": "2026-11-03",
      "size": 7174535,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "yi-sun-shin_025",
+     "skin_name": "Kazuma Soto",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR60e7QhFvh-DPl1QbckCgnGig5FOd1T_ZdhP0gmGC9IQNWSEugH10B3dc&s=10",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/yss%20kazuma%20soto.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "yi-sun-shin",
+       "name": "yi-sun-shin",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "assassin",
+       "name": "assassin",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 10623620,
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []

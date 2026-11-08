@@ -15242,7 +15242,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 38349033
     },
     {
      "id": "miya_burning_bow_to_beyond_the_clouds",
@@ -15528,7 +15529,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 38282952
     }
    ],
    "skin_tags": []
@@ -15797,7 +15799,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 34823986
     },
     {
      "id": "miya_jungle_ranger_to_beyond_the_clouds",
@@ -16083,7 +16086,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 36695728
     }
    ],
    "skin_tags": []
@@ -16337,7 +16341,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 38552185
     }
    ],
    "skin_tags": []
@@ -16590,7 +16595,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 36597439
     }
    ],
    "skin_tags": []
@@ -16829,7 +16835,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 40232082
     }
    ],
    "skin_tags": []
@@ -18310,7 +18317,8 @@
      "added": "2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 13444815
     }
    ],
    "skin_tags": []
@@ -18515,7 +18523,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "2 empty file(s), e.g. war2shooter_attack_qiangkou2_skin02_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "size": 13056975
     }
    ],
    "skin_tags": []
@@ -18719,7 +18728,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 13413336
     }
    ],
    "skin_tags": []
@@ -24585,7 +24595,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 33129539
     },
     {
      "id": "granger_doomsday_terminator_to_soul_vessels",
@@ -25003,7 +25014,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 34175881
     }
    ],
    "skin_tags": []
@@ -32012,6 +32024,21 @@
      "source": "nix",
      "added": "2026-11-03",
      "broken": "HTTP 404"
+    },
+    {
+     "id": "harith_savannah_cat_to_backup",
+     "name": "Backup",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero732-portrait.png/revision/latest?cb=20220525165754",
+     "script": "https://raw.githubusercontent.com/WarlitoTools2024/Mage/main/Harith%20Backup.zip",
+     "type": "backup",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "masterkit",
+     "added": "2026-11-08",
+     "size": 4203747,
+     "check": "good",
+     "check_date": "2026-11-08",
+     "check_notes": []
     }
    ],
    "skin_tags": []
@@ -32859,7 +32886,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 6930287
     },
     {
      "id": "luo_yi_yin_yang_mage_to_lady_dragon",
@@ -33000,7 +33028,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 11456793
     }
    ],
    "skin_tags": []
@@ -33142,7 +33171,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 13077519
     }
    ],
    "skin_tags": []
@@ -33312,7 +33342,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 16192399
     }
    ],
    "skin_tags": [
@@ -43460,7 +43491,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 19107831
     },
     {
      "id": "guinevere_lotus_to_daybreak_halo",
@@ -43706,7 +43738,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 19070483
     },
     {
      "id": "guinevere_amethyst_dance_to_daybreak_halo",
@@ -45387,7 +45420,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 11954491
     }
    ],
    "skin_tags": []
@@ -45569,7 +45603,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 11905998
     }
    ],
    "skin_tags": []
@@ -45943,7 +45978,8 @@
      "added": "2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 12522341
     }
    ],
    "skin_tags": []
@@ -49264,7 +49300,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 18354633
     }
    ]
   },
@@ -49488,7 +49525,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 19102635
     },
     {
      "id": "guinevere_elegant_butterfly_to_daybreak_halo",
@@ -49948,7 +49986,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 19074042
     },
     {
      "id": "guinevere_sakura_wishes_to_daybreak_halo",
@@ -50139,7 +50178,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 17108199
     },
     {
      "id": "paquito_manny_pacquiao_to_demontech_striker",
@@ -50155,7 +50195,8 @@
      "added": "2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 14208893
     }
    ]
   },
@@ -50720,7 +50761,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 8663080
     }
    ]
   },
@@ -50867,7 +50909,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 3099197
     }
    ]
   },
@@ -51675,7 +51718,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 5588430
     },
     {
      "id": "grock_grave_guardian_to_tremor_of_the_deep",
@@ -51822,7 +51866,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 5975437
     },
     {
      "id": "grock_v_e_n_o_m_monitor_lizard_to_tremor_of_the_deep",
@@ -51969,7 +52014,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 6209466
     },
     {
      "id": "grock_codename_rhino_to_tremor_of_the_deep",
@@ -52116,7 +52162,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 4480061
     }
    ]
   },
@@ -52759,7 +52806,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 4554151
     },
     {
      "id": "lylia_future_star_to_phantasmal_revelry",
@@ -52981,7 +53029,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 8424843
     }
    ]
   },
@@ -132463,7 +132512,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 35203837
     }
    ],
    "source": "nix"
@@ -144601,7 +144651,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 18537624
     }
    ],
    "source": "nix"
@@ -148984,7 +149035,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "2 empty file(s), e.g. war2shooter_skill03_hit1_skin03_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "size": 15775887
     }
    ],
    "source": "nix"
@@ -149191,7 +149243,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "2 empty file(s), e.g. war2shooter_skill03_hit1_skin06_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "size": 14609313
     }
    ],
    "source": "nix"
@@ -149784,7 +149837,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "2 empty file(s), e.g. war2shooter_attack_qiangkou2_skin09_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "size": 14975881
     }
    ],
    "source": "nix"
@@ -154753,7 +154807,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 13900918
     },
     {
      "id": "luo_yi_dawning_fortune_to_oracle_of_sol",
@@ -154769,7 +154824,8 @@
      "added": "2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 10953033
     },
     {
      "id": "luo_yi_dawning_fortune_to_starborne_matron",
@@ -154801,7 +154857,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 13077551
     }
    ],
    "source": "nix"
@@ -155181,7 +155238,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 18487231
     },
     {
      "id": "lylia_magitech_arsenal_to_phantasmal_revelry",
@@ -158253,7 +158311,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 38263214
     }
    ],
    "source": "nix"
@@ -158774,7 +158833,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 37597036
     }
    ],
    "source": "nix"
@@ -159026,7 +159086,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 40511583
     }
    ],
    "source": "nix"
@@ -159233,7 +159294,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 37961998
     }
    ],
    "source": "nix"
@@ -175467,7 +175529,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 18056720
     }
    ],
    "source": "nix"
@@ -175569,7 +175632,8 @@
      "added": "2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 18060526
     }
    ],
    "source": "nix"
@@ -175798,7 +175862,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 18737452
     }
    ],
    "source": "nix"
@@ -181845,7 +181910,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 14740905
     },
     {
      "id": "balmond_bloody_beast_to_god_of_mountains",
@@ -181930,7 +181996,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 17982901
     },
     {
      "id": "balmond_bloody_beast_to_big_smoke",
@@ -181974,7 +182041,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 19532324
     }
    ],
    "source": "nut"
@@ -182000,7 +182068,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 8045834
     },
     {
      "id": "saber_wandering_sword_to_codename_storm",
@@ -182019,7 +182088,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 33525199
     },
     {
      "id": "saber_wandering_sword_to_s_a_b_e_r_regulator",
@@ -182095,7 +182165,8 @@
      "added": "2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 18630371
     },
     {
      "id": "alice_queen_of_blood_to_wizardry_teacher",
@@ -182341,7 +182412,8 @@
      "added": "2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 12027648
     },
     {
      "id": "tigreal_warrior_of_dawn_to_lightborn_defender",
@@ -182505,7 +182577,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 24807374
     },
     {
      "id": "alucard_demon_hunter_to_lightborn_striker",
@@ -183526,7 +183599,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 27360082
     }
    ],
    "source": "nut"
@@ -183643,7 +183717,8 @@
      "added": "2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 9492637
     },
     {
      "id": "rafaela_wings_of_holiness_to_s_a_b_e_r_savior",
@@ -183734,7 +183809,8 @@
      "added": "2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 17020955
     },
     {
      "id": "eudora_lightning_weaver_to_christmas_carnival",
@@ -183900,7 +183976,8 @@
      "added": "2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 8110487
     },
     {
      "id": "zilong_spear_of_the_dragon_to_eastern_warrior",
@@ -184032,7 +184109,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 23200048
     },
     {
      "id": "zilong_spear_of_the_dragon_to_downfall_dragon",
@@ -184126,7 +184204,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 3083153
     },
     {
      "id": "fanny_blade_dancer_to_summer_rescue",
@@ -184247,7 +184326,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 30503094
     },
     {
      "id": "fanny_blade_dancer_to_p_ace_fanny",
@@ -184288,7 +184368,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 5104099
     },
     {
      "id": "fanny_summer_rescue_to_blade_of_kibou",
@@ -184341,7 +184422,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 31463605
     }
    ],
    "source": "nut"
@@ -184367,7 +184449,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 7850780
     },
     {
      "id": "fanny_p_ace_fanny_to_mikasa",
@@ -184402,7 +184485,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 32429206
     }
    ],
    "source": "nut"
@@ -184543,7 +184627,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 non-game file(s) named .unity3d (modder watermark, ignored), e.g. special_moba_act.unity3d"
-     ]
+     ],
+     "size": 31614580
     },
     {
      "id": "layla_energy_gunner_to_prismatic_rhythm",
@@ -184560,7 +184645,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "2 empty file(s), e.g. shooter_skin_ctl_shandianBone011_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "size": 13461558
     }
    ],
    "source": "nut"
@@ -184915,7 +185001,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 30589486
     },
     {
      "id": "freya_valkyrie_to_starborn_resolve",
@@ -184962,7 +185049,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 37663375
     }
    ],
    "source": "nut"
@@ -185344,7 +185432,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 62504644
     },
     {
      "id": "kagura_onmyouji_master_to_venom_kagura",
@@ -186295,7 +186384,8 @@
      "added": "2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 14168802
     },
     {
      "id": "yi_sun_shin_paenlong_legend_to_azure_sentry",
@@ -188200,7 +188290,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 4963395
     },
     {
      "id": "grock_fortress_titan_to_v_e_n_o_m_monitor_lizard",
@@ -188300,7 +188391,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 21723243
     }
    ],
    "source": "nut"
@@ -188325,7 +188417,8 @@
      "added": "2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 5026945
     },
     {
      "id": "grock_ancient_totem_to_codename_rhino",
@@ -188374,7 +188467,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 24840572
     }
    ],
    "source": "nut"
@@ -189488,7 +189582,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 37662556
     },
     {
      "id": "lesley_deadly_sniper_to_lethal_lady",
@@ -190003,7 +190098,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "2 empty file(s), e.g. next_Gusion_huicheng_load_skin07_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "size": 12579127
     },
     {
      "id": "gusion_holy_blade_to_night_owl",
@@ -191095,7 +191191,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 18103979
     },
     {
      "id": "selena_abyssal_witch_to_silverbolt_raiko",
@@ -191141,7 +191238,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 5068724
     },
     {
      "id": "aldous_soul_contractor_to_king_of_supremacy",
@@ -191260,7 +191358,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "2 empty file(s), e.g. landing_effect_1641_1.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "size": 43799617
     },
     {
      "id": "aldous_soul_contractor_to_saitama",
@@ -191467,7 +191566,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 24575255
     }
    ],
    "source": "nut"
@@ -192069,7 +192169,8 @@
      "added": "2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 17800173
     }
    ],
    "source": "nut"
@@ -192097,7 +192198,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 17081531
     }
    ],
    "source": "nut"
@@ -192379,7 +192481,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 28062465
     }
    ],
    "source": "nut"
@@ -192625,7 +192728,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 6575867
     },
     {
      "id": "kadita_ocean_goddess_to_hydromancer",
@@ -193082,7 +193186,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 4944832
     },
     {
      "id": "granger_death_chanter_to_biosoldier",
@@ -193196,7 +193301,8 @@
      "added": "2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 15116041
     },
     {
      "id": "granger_death_chanter_to_alluring_enigma",
@@ -193245,7 +193351,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 31312614
     },
     {
      "id": "granger_death_chanter_to_soul_vessels",
@@ -193343,7 +193450,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 15903487
     },
     {
      "id": "granger_thunder_ascendant_to_cosmic_finality",
@@ -193360,7 +193468,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 35253758
     }
    ],
    "source": "nut"
@@ -193489,7 +193598,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 16629192
     },
     {
      "id": "guinevere_ms_violet_to_chun_li_outfit_1",
@@ -194367,7 +194477,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 3773039
     },
     {
      "id": "lylia_little_witch_to_neobeast_lylia",
@@ -194570,7 +194681,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 18893613
     },
     {
      "id": "masha_wild_oats_fist_to_combat_maiden",
@@ -195464,7 +195576,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 7425552
     },
     {
      "id": "luo_yi_yin_yang_geomancer_to_siren_priestess",
@@ -195481,7 +195594,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 7621129
     },
     {
      "id": "luo_yi_yin_yang_geomancer_to_elysium_guardian",
@@ -195516,7 +195630,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 10932236
     },
     {
      "id": "luo_yi_yin_yang_geomancer_to_starborne_matron",
@@ -195988,7 +196103,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 20255752
     },
     {
      "id": "brody_the_lone_star_to_kanzutora_hanemiya",
@@ -196063,7 +196179,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 4751672
     },
     {
      "id": "mathilda_swift_plume_to_dream_groove",
@@ -196140,7 +196257,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "39 bundle(s) carry extra trailing bytes (watermark)"
-     ]
+     ],
+     "size": 17968577
     },
     {
      "id": "paquito_the_heavenly_fist_to_underground_boxer",
@@ -196193,7 +196311,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 8534227
     },
     {
      "id": "paquito_the_heavenly_fist_to_terry_bogard",
@@ -196210,7 +196329,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 16337339
     },
     {
      "id": "paquito_the_heavenly_fist_to_fist_of_glory",
@@ -196242,7 +196362,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 11954442
     },
     {
      "id": "paquito_the_heavenly_fist_to_ryu_outfit_2",
@@ -196319,7 +196440,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 16200413
     },
     {
      "id": "paquito_fists_of_light_to_manny_pacquiao",
@@ -196335,7 +196457,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "33 bundle(s) carry extra trailing bytes (watermark)"
-     ]
+     ],
+     "size": 17704848
     },
     {
      "id": "paquito_fists_of_light_to_blazing_tiger",
@@ -196352,7 +196475,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 8577665
     },
     {
      "id": "paquito_fists_of_light_to_terry_bogard",
@@ -196371,7 +196495,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 empty file(s), e.g. pakuite_cityaction_02_skin05_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "size": 12306979
     },
     {
      "id": "paquito_fists_of_light_to_demontech_striker",
@@ -196387,7 +196512,8 @@
      "added": "2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 11869090
     }
    ],
    "source": "nut"
@@ -196413,7 +196539,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 19871299
     },
     {
      "id": "paquito_demontech_striker_to_terry_bogard",
@@ -197178,7 +197305,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 14547341
     }
    ],
    "source": "nut"
@@ -197204,7 +197332,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 5034958
     },
     {
      "id": "valentina_grand_gala_to_jewel_of_envy",
@@ -197865,7 +197994,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 19517950
     }
    ],
    "source": "nut"
@@ -198349,7 +198479,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 21777546
     },
     {
      "id": "nolan_cosmic_wayfinder_to_kento_nanami",
@@ -198552,7 +198683,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 24666769
     },
     {
      "id": "suyou_mask_of_the_immortal_to_frostblade_duelist",
@@ -198571,7 +198703,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "2 empty file(s), e.g. kaijiacike_CityAction_mianjuxiaosan03_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "size": 24030350
     },
     {
      "id": "suyou_mask_of_the_immortal_to_sasuke_uchiha_2",
@@ -198659,7 +198792,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 20910328
     },
     {
      "id": "khalea_surging_wave_to_shimmering_waves",
@@ -198673,7 +198807,8 @@
      "added": "2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 12735130
     },
     {
      "id": "khalea_surging_wave_to_sakura_haruno",
@@ -198731,7 +198866,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 27732951
     },
     {
      "id": "khalea_tideborn_sailor_to_sakura_haruno",
@@ -198818,7 +198954,8 @@
      "unverified": "github.com release link; HEAD blocked from the build sandbox 2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 7445565
     },
     {
      "id": "obsidia_sovereign_of_dark_s_end_to_imperatrix_arashi",
@@ -198836,7 +198973,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "size": 63368993
     }
    ],
    "source": "nut"
@@ -198861,7 +198999,8 @@
      "added": "2026-11-08",
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "size": 9282935
     },
     {
      "id": "obsidia_magitech_wraith_to_imperatrix_arashi",
