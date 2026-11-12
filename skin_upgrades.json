@@ -65894,6 +65894,19 @@
      "check_notes": [
       "1 empty file(s), e.g. zzp1_newfiremagic_skill02_xvrnnch_skin10_add.unity3d – an effect switched off by the modder"
      ]
+    },
+    {
+     "id": "alucard_basic_to_kyo_kusanagi",
+     "name": "Kyo Kusanagi",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero072-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164436",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/alucard%20basic%20x%20kyo%20kusanagi.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 8907839,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ],
    "source": "bs"
@@ -66083,6 +66096,21 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "alucard_season_to_legend",
+     "name": "Legend",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero073-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164437",
+     "script": "https://raw.githubusercontent.com/AnehTempAcc/tempjson/main/aleufhdvs933.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 9625141,
+     "check": "faulty",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "1 game file(s) are not Unity bundles (broken), e.g. war2alucard_beidong_skin02_add.unity3d"
+     ]
     }
    ],
    "source": "bs"
@@ -96617,6 +96645,34 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "bruno_dawning_to_halo_striker",
+     "name": "Halo Striker",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164552",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20dawning%20to%20halo%20stiker.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 15306204,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
+    },
+    {
+     "id": "bruno_dawning_to_neymar_jr",
+     "name": "Neymar Jr",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164552",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20dawning%20to%20neymar%20jr.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 8913488,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "1 empty file(s), e.g. qiuyuan_cityaction_qiu01_skin05_add.unity3d – an effect switched off by the modder"
+     ]
     }
    ],
    "source": "bs"
@@ -96656,6 +96712,92 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "bruno_elite_to_dawning",
+     "name": "Dawning",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero122-portrait.png/revision/latest/scale-to-width-down/150?cb=20260917014302",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20elite%20to%20dawning.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 8672803,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "1 empty file(s), e.g. recall_effect_1121_1.unity3d – an effect switched off by the modder"
+     ]
+    },
+    {
+     "id": "bruno_elite_to_halo_striker",
+     "name": "Halo Striker",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero122-portrait.png/revision/latest/scale-to-width-down/150?cb=20260917014302",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20elite%20to%20halo%20stiker.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 14334026,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
+    },
+    {
+     "id": "bruno_elite_to_neymar_jr",
+     "name": "Neymar Jr",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero122-portrait.png/revision/latest/scale-to-width-down/150?cb=20260917014302",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20elite%20to%20neymar%20jr.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 8764165,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "1 empty file(s), e.g. recall_effect_1121_1.unity3d – an effect switched off by the modder"
+     ]
+    },
+    {
+     "id": "bruno_elite_to_dawning",
+     "name": "Dawning",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero124-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164550",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20elite2%20to%20dawning.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 8733040,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "2 empty file(s), e.g. qiuyuan_cityaction_tuowei_skin03_add.unity3d – an effect switched off by the modder"
+     ]
+    },
+    {
+     "id": "bruno_elite_to_striker",
+     "name": "Striker",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero124-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164550",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20elite2%20to%20halo%20stiker.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 14361625,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
+    },
+    {
+     "id": "bruno_elite_to_neymar_jr",
+     "name": "Neymar Jr",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero124-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164550",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20elite2%20to%20neymar%20jr.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 8764798,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "3 empty file(s), e.g. recall_effect_1121_1.unity3d – an effect switched off by the modder"
+     ]
     }
    ],
    "source": "bs"
@@ -96856,6 +96998,34 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "bruno_neymar_jr_to_dawning",
+     "name": "Dawning",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero129-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134235",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20neymar%20jr%20to%20dawning.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 8672915,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "1 empty file(s), e.g. recall_effect_1121_1.unity3d – an effect switched off by the modder"
+     ]
+    },
+    {
+     "id": "bruno_neymar_jr_to_halo_striker",
+     "name": "Halo Striker",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero129-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134235",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20neymar%20jr%20to%20halo%20stiker.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 14334133,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ],
    "source": "bs"
@@ -96895,6 +97065,92 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "bruno_special_to_dawning",
+     "name": "Dawning",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero123-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604044855",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20special%20to%20dawning.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 8733075,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "2 empty file(s), e.g. qiuyuan_cityaction_erji2_skin02_high_add.unity3d – an effect switched off by the modder"
+     ]
+    },
+    {
+     "id": "bruno_special_to_halo_striker",
+     "name": "Halo Striker",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero123-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604044855",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20special%20to%20halo%20stiker.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 14361657,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
+    },
+    {
+     "id": "bruno_special_to_neymar_jr",
+     "name": "Neymar Jr",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero123-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604044855",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20special%20to%20neymar%20jr.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 8764819,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "3 empty file(s), e.g. recall_effect_1121_1.unity3d – an effect switched off by the modder"
+     ]
+    },
+    {
+     "id": "bruno_special_to_dawning",
+     "name": "Dawning",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero125-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164551",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20special2%20to%20dawning.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 8733299,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "3 empty file(s), e.g. qiuyuan_cityaction_foot01_skin04_add.unity3d – an effect switched off by the modder"
+     ]
+    },
+    {
+     "id": "bruno_special_to_halo_striker",
+     "name": "Halo Striker",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero125-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164551",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20special2%20to%20halo%20stiker.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 14364925,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
+    },
+    {
+     "id": "bruno_special_to_neymar_jr",
+     "name": "Neymar Jr",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero125-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164551",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20special2%20to%20neymar%20jr.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 8765036,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "4 empty file(s), e.g. recall_effect_1121_1.unity3d – an effect switched off by the modder"
+     ]
     }
    ],
    "source": "bs"
@@ -96920,6 +97176,51 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "bruno_star_to_dawning",
+     "name": "Dawning",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero127-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114091333",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20star%20to%20dawning.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 9541751,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "4 empty file(s), e.g. qiuyuan_CityAction_03_skin06_add.unity3d – an effect switched off by the modder"
+     ]
+    },
+    {
+     "id": "bruno_star_to_halo_striker",
+     "name": "Halo Striker",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero127-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114091333",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20star%20to%20halo%20stiker.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 15357572,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "1 empty file(s), e.g. qiuyuan_CityAction_idleFX_skin06_add.unity3d – an effect switched off by the modder"
+     ]
+    },
+    {
+     "id": "bruno_star_to_neymar_jr",
+     "name": "Neymar Jr",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero127-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114091333",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20star%20to%20neymar%20jr.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 8859744,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "4 empty file(s), e.g. recall_effect_1121_1.unity3d – an effect switched off by the modder"
+     ]
     }
    ],
    "source": "bs"
@@ -106481,6 +106782,19 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "paquito_basic_to_fmvp",
+     "name": "Fmvp",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero1032-portrait.png/revision/latest/scale-to-width-down/150?cb=20260925092856",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/paquito%20basic%20to%20fmvp.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 12722233,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ],
    "source": "bs"
@@ -106725,6 +107039,19 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "paquito_pacquiao_to_fmvp",
+     "name": "Fmvp",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero1033-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170358",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/paquito%20pacquiao%20to%20fmvp.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 13745638,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ],
    "source": "bs"
@@ -106834,6 +107161,34 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "paquito_special_to_fmvp",
+     "name": "Fmvp",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1034-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170359",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/paquito%20special%20to%20fmvp.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 12637219,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
+    },
+    {
+     "id": "paquito_special_to_fmvp",
+     "name": "Fmvp",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1036-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103142",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/paquito%20special2%20to%20fmvp.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 12637439,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "1 empty file(s), e.g. pakuite_cityaction_02_skin05_add.unity3d – an effect switched off by the modder"
+     ]
     }
    ],
    "source": "bs"
@@ -106901,6 +107256,19 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "paquito_star_to_fmvp",
+     "name": "Fmvp",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1035-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170401",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/paquito%20star%20to%20fmvp.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 13719068,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ],
    "source": "bs"
@@ -106927,6 +107295,21 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "2 empty file(s), e.g. pakuite_cityaction_Bip001Spine_skin09_add.unity3d – an effect switched off by the modder"
+     ]
+    },
+    {
+     "id": "paquito_epic_to_fmvp",
+     "name": "Fmvp",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/paquito%20epic.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/paquito%20epic%20to%20fmvp.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 13753452,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "2 empty file(s), e.g. pakuite_cityaction_bone000_skin09_add.unity3d – an effect switched off by the modder"
      ]
     }
    ],
@@ -107092,6 +107475,19 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "clint_epic_to_soul_vessel",
+     "name": "Soul Vessel",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero101310-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144300",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/clint%20epic%20to%20soul%20vessel.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 23601742,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ],
    "source": "bs"
@@ -107116,6 +107512,19 @@
      "size": 32087530,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "clint_m2_to_soul_vessel",
+     "name": "Soul Vessel",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero137-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603013029",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/clint%20m2%20to%20soul%20vessel.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 23598769,
+     "check": "good",
+     "check_date": "2026-11-12",
      "check_notes": []
     }
    ],
@@ -107156,6 +107565,19 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "clint_mythic_to_soul_vessel",
+     "name": "Soul Vessel",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero101312-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073228",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/clint%20mythic%20to%20soul%20vessel.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 23578770,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ],
    "source": "bs"
@@ -107195,6 +107617,19 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "clint_season_to_soul_vessel",
+     "name": "Soul Vessel",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero136-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164601",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/clint%20season%20to%20soul%20vessel.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 21295286,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ],
    "source": "bs"
@@ -107233,6 +107668,19 @@
      "size": 12364231,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "clint_special_to_soul_vessel",
+     "name": "Soul Vessel",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero135-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164559",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/clint%20special%20to%20soul%20vessel.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 21825649,
+     "check": "good",
+     "check_date": "2026-11-12",
      "check_notes": []
     }
    ],
@@ -107301,6 +107749,32 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "clint_star_to_soul_vessel",
+     "name": "Soul Vessel",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero134-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164558",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/clint%20star%20to%20soul%20vessel.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 20631530,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
+    },
+    {
+     "id": "clint_star_to_soul_vessel",
+     "name": "Soul Vessel",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero138-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164603",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/clint%20star2%20to%20soul%20vessel.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 23463209,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ],
    "source": "bs"
@@ -107339,6 +107813,19 @@
      "size": 9559568,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "clint_summer_to_soul_vessel",
+     "name": "Soul Vessel",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero132-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604050832",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/clint%20summer%20to%20soul%20vessel.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 23588672,
+     "check": "good",
+     "check_date": "2026-11-12",
      "check_notes": []
     }
    ],
@@ -107404,6 +107891,19 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "badang_mpl_to_zodiac",
+     "name": "Zodiac",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero779-portrait.png/revision/latest/scale-to-width-down/150?cb=20260626040143",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/badang%20mpl%20to%20zodiac.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 11345846,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ],
    "source": "bs"
@@ -107443,6 +107943,34 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "badang_saint_seiya_to_zodiac",
+     "name": "Zodiac",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero777-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122044",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/badang%20saint%20seiya%20to%20zodiac.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 13668084,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
+    },
+    {
+     "id": "badang_saint_seiya_to_zodiac",
+     "name": "Zodiac",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero778-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122047",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/badang%20saint%20seiya2%20to%20zodiac.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 13666435,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "3 empty file(s), e.g. next_badang_changzhu1_skin07_add.unity3d – an effect switched off by the modder"
+     ]
     }
    ],
    "source": "bs"
@@ -107481,6 +108009,32 @@
      "size": 32801179,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "badang_special_to_zodiac",
+     "name": "Zodiac",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero773-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165819",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/badang%20special%20to%20zodiac.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 11298129,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
+    },
+    {
+     "id": "badang_special_to_zodiac",
+     "name": "Zodiac",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero775-portrait.png/revision/latest/scale-to-width-down/150?cb=20250703151409",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/badang%20special2%20to%20zodiac.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 11233169,
+     "check": "good",
+     "check_date": "2026-11-12",
      "check_notes": []
     }
    ],
@@ -107904,6 +108458,21 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "clint_collector_to_soul_vessel",
+     "name": "Soul Vessel",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/clint%20collector%20to%20soul%20vessel.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 23598899,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "2 empty file(s), e.g. cowboy_cityaction_skin08_special_idle_add.unity3d – an effect switched off by the modder"
+     ]
     }
    ],
    "source": "bs"
@@ -117820,6 +118389,36 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "bruno_halo_striker_to_dawning",
+     "name": "Dawning",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero128-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134233",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20halo%20striker%20to%20dawning.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 11069859,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "5 empty file(s), e.g. 12_qiuyuan_cityaction_fx_Bip001RFoot_add.unity3d – an effect switched off by the modder"
+     ]
+    },
+    {
+     "id": "bruno_halo_striker_to_neymar_jr",
+     "name": "Neymar Jr",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero128-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134233",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/bruno%20halo%20striker%20to%20neymar%20jr.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 10707953,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "4 empty file(s), e.g. 12_qiuyuan_cityaction_fx_Dummy001_add.unity3d – an effect switched off by the modder"
+     ]
     }
    ],
    "source": "nix"
@@ -144653,6 +145252,21 @@
      "check_date": "2026-11-08",
      "check_notes": [],
      "size": 18537624
+    },
+    {
+     "id": "kagura_lady_parasol_to_feast_of_enternity",
+     "name": "Feast of Enternity",
+     "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+     "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/c77ec03c-mwcyky0j-1-ykpuz-kag-spe-lad-to-legend.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "masterkit",
+     "added": "2026-11-12",
+     "size": 41507055,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ],
    "source": "nix"
@@ -199024,7 +199638,107 @@
     }
    ],
    "source": "nut"
+  },
+  {
+   "id": "badang_basic",
+   "hero": "Badang",
+   "base_name": "Basic",
+   "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero772-portrait.png/revision/latest/scale-to-width-down/150?cb=20260919021856",
+   "backup_script": "",
+   "enabled": true,
+   "targets": [
+    {
+     "id": "badang_basic_to_zodiac",
+     "name": "Zodiac",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero772-portrait.png/revision/latest/scale-to-width-down/150?cb=20260919021856",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/badang%20basic%20to%20zodiac.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 11232510,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
+    }
+   ],
+   "source": "bs"
+  },
+  {
+   "id": "badang_collector",
+   "hero": "Badang",
+   "base_name": "Collector",
+   "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604050333",
+   "backup_script": "",
+   "enabled": true,
+   "targets": [
+    {
+     "id": "badang_collector_to_zodiac",
+     "name": "Zodiac",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604050333",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/badang%20collector%20to%20zodiac.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 11871030,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "1 empty file(s), e.g. nextbadang_changzhu_skin05_add.unity3d – an effect switched off by the modder"
+     ]
+    }
+   ],
+   "source": "bs"
+  },
+  {
+   "id": "clint_basic",
+   "hero": "Clint",
+   "base_name": "Basic",
+   "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero101311-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052550",
+   "backup_script": "",
+   "enabled": true,
+   "targets": [
+    {
+     "id": "clint_basic_to_soul_vessel",
+     "name": "Soul Vessel",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero101311-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052550",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/clint%20basic%20to%20soul%20vessel.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 21812275,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
+    }
+   ],
+   "source": "bs"
+  },
+  {
+   "id": "clint_valentine",
+   "hero": "Clint",
+   "base_name": "Valentine",
+   "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero133-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164557",
+   "backup_script": "",
+   "enabled": true,
+   "targets": [
+    {
+     "id": "clint_valentine_to_soul_vessel",
+     "name": "Soul Vessel",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero133-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164557",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad2/main/clint%20valentine%20to%20soul%20vessel.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 23215825,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "17 bundle(s) carry extra trailing bytes (watermark)"
+     ]
+    }
+   ],
+   "source": "bs"
   }
  ],
- "updated": "2026-11-08"
+ "updated": "2026-11-12"
 }

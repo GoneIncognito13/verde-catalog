@@ -1803,6 +1803,21 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "aldous_039",
+     "skin_name": "Oni Kabuto",
+     "image": "https://bmt95.store/wp-content/uploads/2026/11/Aldous-ASL.jpg",
+     "script": "https://bmt95.store/wp-content/uploads/2026/11/ALDOUS-ONI-KABUTO.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "mbs",
+     "size": 24966491,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ]
   },
@@ -2116,7 +2131,7 @@
     },
     {
      "id": "alice_012",
-     "skin_name": "Steam Glider",
+     "skin_name": "Steam Glidere",
      "image": "https://github.com/MametGaming/GB_MAGE/raw/main/Alice%20starlight.jpg",
      "script": "https://raw.githubusercontent.com/BANGMAMET1995/SC_MAGE2021/main/ALICE%20STARLIGHT.zip",
      "featured": false,
@@ -4180,6 +4195,23 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 empty file(s), e.g. war2alucard_cakra.unity3d – an effect switched off by the modder"
+     ]
+    },
+    {
+     "id": "alucard_056",
+     "skin_name": "Obsidian Blade",
+     "image": "https://raw.githubusercontent.com/n3wz1ips/P0tuSk1n/refs/heads/main/alucard%20legend.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/Uploads/Files/alfeduifesincf84439i54htbr.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 11687569,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "10 non-game file(s) named .unity3d (modder watermark, ignored), e.g. ._war2alucard_skill03.unity3d"
      ]
     }
    ]
@@ -6272,6 +6304,76 @@
      "check_notes": [
       "1 game file(s) are not Unity bundles (broken), e.g. 45_argus_Keep_daoguang_xiaosan.unity3d"
      ]
+    },
+    {
+     "id": "argus_055",
+     "skin_name": "Ken Kaneki",
+     "image": "https://images7.alphacoders.com/565/565455.jpg",
+     "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/e26f0841-mwcyegnn-1-aov6y-argus-ken-kaniki.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "argus",
+       "name": "argus",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-12",
+     "size": 18798246,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
+    },
+    {
+     "id": "argus_056",
+     "skin_name": "Orochimaru",
+     "image": "https://getwallpapers.com/wallpaper/full/6/1/d/1140699-orochimaru-wallpapers-3840x2160-for-4k.jpg",
+     "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/Nov/argus%20orutsimaru.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "argus",
+       "name": "argus",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-12",
+     "size": 832319,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ]
   },
@@ -6385,7 +6487,7 @@
     },
     {
      "id": "arlott_004",
-     "skin_name": "Wandering S",
+     "skin_name": "Wandering Spear",
      "image": "https://github.com/NewMoba2023/GBass/raw/main/Basic%20skin%20arlot.jpg",
      "script": "https://raw.githubusercontent.com/Nbs2023/NewFighter/main/BASIC%20SKIN%20ARLOT.zip",
      "featured": false,
@@ -7173,7 +7275,7 @@
     },
     {
      "id": "atlas_011",
-     "skin_name": "Rune sentin",
+     "skin_name": "Rune Sentinel",
      "image": "https://github.com/Nbs2023/Newtank/raw/main/Atlas%20MSC.png",
      "script": "https://raw.githubusercontent.com/Nbs2023/Newtank/main/ATLAS%20MSC.zip",
      "featured": false,
@@ -8936,7 +9038,7 @@
     },
     {
      "id": "badang_016",
-     "skin_name": "Quantum com",
+     "skin_name": "Quantum Commando",
      "image": "https://raw.githubusercontent.com/Nbs2023/DATA2025/refs/heads/main/DATA2026/Badang%20mpl.jpg",
      "script": "https://raw.githubusercontent.com/Nbs2023/DATA2025/main/DATA2026/BADANG%20MPL.zip",
      "featured": false,
@@ -9338,6 +9440,21 @@
      "size": 9591508,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "badang_035",
+     "skin_name": "Leo",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero774-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125824",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/badang%20zodiac.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 11873574,
+     "check": "good",
+     "check_date": "2026-11-12",
      "check_notes": []
     }
    ]
@@ -10546,6 +10663,21 @@
      "size": 19938819,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "bane_027",
+     "skin_name": "MR.Krabs",
+     "image": "https://bmt95.store/wp-content/uploads/2026/11/Bane-Mr-krabs.jpg",
+     "script": "https://bmt95.store/wp-content/uploads/2026/11/BANE-MR-KRABS.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "mbs",
+     "size": 47403512,
+     "check": "good",
+     "check_date": "2026-11-12",
      "check_notes": []
     }
    ]
@@ -12138,6 +12270,22 @@
      "check_notes": [
       "40 bundle(s) carry extra trailing bytes (watermark)"
      ]
+    },
+    {
+     "id": "beatrix_033",
+     "skin_name": "Stellar Brilliance",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Beatrix_%28Stellar_Briliance%29.jpg/revision/latest?cb=20230308110739",
+     "script": "https://github.com/Johnkurt200/Skin/releases/download/v1777816842392/beatrixprime.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zen",
+     "added": "2026-11-12",
+     "size": 36109496,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ]
   },
@@ -14611,6 +14759,55 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "bruno_033",
+     "skin_name": "Neymar Jr",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero129-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134235",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/bruno%20neymar%20jr.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 8764161,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "3 empty file(s), e.g. recall_effect_1121_1.unity3d – an effect switched off by the modder"
+     ]
+    },
+    {
+     "id": "bruno_034",
+     "skin_name": "Halo Striker",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero128-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134233",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/bruno%20halo%20stiker.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 15312962,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
+    },
+    {
+     "id": "bruno_035",
+     "skin_name": "Firebolt",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164552",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/bruno%20dawning.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 9295912,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "2 empty file(s), e.g. nextqiuyuan_cityaction_cam_add.unity3d – an effect switched off by the modder"
+     ]
     }
    ]
   },
@@ -14774,7 +14971,7 @@
     },
     {
      "id": "carmilla_006",
-     "skin_name": "Wisteria Co",
+     "skin_name": "Wisteria Countess",
      "image": "https://github.com/MametGaming/GB_support/raw/main/Basic%20camila.jpg",
      "script": "https://raw.githubusercontent.com/BANGMAMET1995/SUPPORT_ABC/main/CARMILA%20SKIN%20BIASA.zip",
      "featured": false,
@@ -15411,7 +15608,7 @@
     },
     {
      "id": "cecilion_013",
-     "skin_name": "Hisoka",
+     "skin_name": "Hisoka Morow",
      "image": "https://github.com/Mornwish/GAMBAR/raw/main/CECILION/Cecilion%20HxH.png",
      "script": "https://raw.githubusercontent.com/Mornwish/Default/main/CECILION/CECILION%20HxH.zip",
      "featured": false,
@@ -18330,6 +18527,72 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "chou_080",
+     "skin_name": "Champion",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chou_%28ECHO%29.jpg/revision/latest?cb=20230819020214",
+     "script": "https://raw.githubusercontent.com/xoni-developer-mlb/Skkk/main/Champion.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zen",
+     "added": "2026-11-12",
+     "size": 14513339,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
+    },
+    {
+     "id": "chou_081",
+     "skin_name": "Chou X Michael Jackson",
+     "image": "https://github.com/Johnkurt200/Skin/releases/download/drone_v1782868383262/1000238839.jpg",
+     "script": "https://github.com/Johnkurt200/Skin/releases/download/v1782868349040/ChouXMichaelJackson1.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zen",
+     "added": "2026-11-12",
+     "size": 20450499,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
+    },
+    {
+     "id": "chou_082",
+     "skin_name": "Chou X Michael Jackson { RED }",
+     "image": "https://github.com/Johnkurt200/Skin/releases/download/drone_v1782868538376/1000238553.jpg",
+     "script": "https://github.com/Johnkurt200/Skin/releases/download/v1782868577426/ChouXMichaelJacksonFullRed.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zen",
+     "added": "2026-11-12",
+     "size": 23696152,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
+    },
+    {
+     "id": "chou_083",
+     "skin_name": "Stun",
+     "image": "https://i.pinimg.com/736x/b1/f3/04/b1f304fa6a388651975468a7c7380b38.jpg",
+     "script": "https://raw.githubusercontent.com/xoni-developer-mlb/Skkk/main/stun.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zen",
+     "added": "2026-11-12",
+     "size": 15337174,
+     "check": "faulty",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "1 game file(s) are not Unity bundles (broken), e.g. kongfu_skill2_mianshang.unity3d"
+     ]
     }
    ]
   },
@@ -19198,7 +19461,7 @@
     },
     {
      "id": "claude_017",
-     "skin_name": "Earth's Mightiest",
+     "skin_name": "Earth's MightiestM",
      "image": "https://github.com/MametGaming/GB_MM/raw/main/Claude%20special%F0%9F%94%B8msc.jpg",
      "script": "https://raw.githubusercontent.com/BANGMAMET1995/SC_NEWSKIN/main/CLAUDE%20SPECIAL%F0%9F%94%B9MSC.zip",
      "featured": false,
@@ -20516,6 +20779,21 @@
      "size": 4964013,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "clint_039",
+     "skin_name": "Vessel of Ruin",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/refs/heads/main/clint%20soul%20vessel.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/clint%20soul%20vessel.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 23578216,
+     "check": "good",
+     "check_date": "2026-11-12",
      "check_notes": []
     }
    ]
@@ -22267,6 +22545,22 @@
      "size": 4435248,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "dyrroth_034",
+     "skin_name": "\"Gon\" Hunter X Hunter",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMBf0f6alnf5PG8bcz6ldRKyCILRNLk4TNCCDQFJOLapAeeyucRXOmZXA&s=10",
+     "script": "https://raw.githubusercontent.com/c9akcpn-jpg/Marksman/main/dyrrothgon.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zen",
+     "added": "2026-11-12",
+     "size": 13248458,
+     "check": "good",
+     "check_date": "2026-11-12",
      "check_notes": []
     }
    ]
@@ -25150,7 +25444,7 @@
     },
     {
      "id": "fanny_023",
-     "skin_name": "Mikasa Acke",
+     "skin_name": "Mikasa Ackerman",
      "image": "https://bmt95.store/wp-content/uploads/2026/09/FANNY-AOT.jpg",
      "script": "https://bmt95.store/wp-content/uploads/2026/09/FANNY-AOT.zip",
      "featured": false,
@@ -29054,6 +29348,52 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "gatotkaca_032",
+     "skin_name": "Solar Spark",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Gatotkaca_%28Solar_Spark%29.png/revision/latest?cb=20260102002735",
+     "script": "https://github.com/Johnkurt200/Skin/releases/download/v1778334332118/gatotkacaspecial.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zen",
+     "added": "2026-11-12",
+     "size": 14771943,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
+    },
+    {
+     "id": "gatotkaca_033",
+     "skin_name": "Hulk",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/gatotkaca%20x%20hulk.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/gatotkaca%20x%20hulk.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 9940104,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
+    },
+    {
+     "id": "gatotkaca_034",
+     "skin_name": "Venom",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/gatotkaca%20x%20venom.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/gatotkaca%20x%20venom.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 37181360,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ]
   },
@@ -29201,7 +29541,7 @@
     },
     {
      "id": "gloo_005",
-     "skin_name": "Verdant enc",
+     "skin_name": "Verdant Enchanter",
      "image": "https://github.com/MametGaming/GB_TANK/raw/main/GLOO%20Basic%20skin.jpg",
      "script": "https://raw.githubusercontent.com/BANGMAMET1995/Update24/main/GLOO%20Basic%20skin.zip",
      "featured": false,
@@ -33505,7 +33845,7 @@
     },
     {
      "id": "gusion_017",
-     "skin_name": "V.E.N.O.M Emperor",
+     "skin_name": "V.E.N.O.M. Emperor Scorpion",
      "image": "https://github.com/NewMoba2023/GBass/raw/main/Gusion%20venom.png",
      "script": "https://raw.githubusercontent.com/NewMoba2023/ASSASIN2023/main/GUSION%20VENOM.zip",
      "featured": false,
@@ -33617,7 +33957,7 @@
     },
     {
      "id": "gusion_024",
-     "skin_name": "Minato Nami",
+     "skin_name": "Minato Namikaze",
      "image": "https://bmt95.store/wp-content/uploads/2026/09/Gusion-Minato.png",
      "script": "https://bmt95.store/wp-content/uploads/2026/09/GUSION-MINATO.zip",
      "featured": false,
@@ -34119,6 +34459,38 @@
      "size": 7509267,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "gusion_049",
+     "skin_name": "KOF",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Gusion_%28K%27%29.jpg/revision/latest?cb=20211011033239",
+     "script": "https://raw.githubusercontent.com/Johnkurt200/glowing-guacamole/main/kdash.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zen",
+     "added": "2026-11-12",
+     "size": 11573544,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
+    },
+    {
+     "id": "gusion_050",
+     "skin_name": "Skill Damage Up",
+     "image": "https://github.com/Johnkurt200/Skin/releases/download/cover_1788594091157/1000528195.png",
+     "script": "https://github.com/Johnkurt200/Skin/releases/download/music_1788687683044/dragon2017.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zen",
+     "added": "2026-11-12",
+     "size": 6834468,
+     "check": "good",
+     "check_date": "2026-11-12",
      "check_notes": []
     }
    ]
@@ -36988,7 +37360,7 @@
     },
     {
      "id": "hayabusa_012",
-     "skin_name": "Future Enforcer",
+     "skin_name": "Future Enforcer - Iron",
      "image": "https://github.com/MametGaming/GB_ASS/raw/main/Haya%20elite.jpg",
      "script": "https://raw.githubusercontent.com/NewMoba2023/ASSASIN2023/main/HAYA%20ELITE.zip",
      "featured": false,
@@ -37020,7 +37392,7 @@
     },
     {
      "id": "hayabusa_014",
-     "skin_name": "Sushi Master",
+     "skin_name": "Sushi Master - Purple",
      "image": "https://github.com/NewMoba2023/GBass/raw/main/Hayabusa%20summer.png",
      "script": "https://raw.githubusercontent.com/SourceBMT95/NEWASSASSIN/main/HAYABUSA%20SUMMER.zip",
      "featured": false,
@@ -37782,6 +38154,22 @@
      "size": 12312093,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "hayabusa_053",
+     "skin_name": "Minato Namikaze",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Gusion_%28Minato_Namikaze%29.jpg/revision/latest?cb=20260322234004",
+     "script": "https://raw.githubusercontent.com/Johnkurt200/Skin/main/hayabusaxminato.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zen",
+     "added": "2026-11-12",
+     "size": 8785149,
+     "check": "good",
+     "check_date": "2026-11-12",
      "check_notes": []
     }
    ]
@@ -38656,7 +39044,7 @@
     },
     {
      "id": "hilda_007",
-     "skin_name": "Flower of t",
+     "skin_name": "Flower of the Wastes",
      "image": "https://github.com/MametGaming/GB_TANK/raw/main/Hilda%20S5.jpg",
      "script": "https://raw.githubusercontent.com/BANGMAMET1995/TANK_ABC/main/HILDA%20S5.zip",
      "featured": false,
@@ -38903,6 +39291,22 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "hilda_019",
+     "skin_name": "Bass Crazy",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hilda_Bass_Craze.jpg/revision/latest?cb=20251208222718",
+     "script": "https://github.com/Johnkurt200/Skin/releases/download/v1779368835051/hildaspecial.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zen",
+     "added": "2026-11-12",
+     "size": 3963555,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ]
   },
@@ -39122,7 +39526,7 @@
     },
     {
      "id": "hylos_008",
-     "skin_name": "Jungle watc",
+     "skin_name": "Jungle Watcher",
      "image": "https://github.com/MametGaming/GB_TANK/raw/main/Hylos%20S13.jpg",
      "script": "https://raw.githubusercontent.com/BANGMAMET1995/TANK_ABC/main/HYLOS%20S13.zip",
      "featured": false,
@@ -40141,7 +40545,7 @@
     },
     {
      "id": "ixia_005",
-     "skin_name": "Shifting Sa",
+     "skin_name": "Shifting Sand",
      "image": "https://github.com/Nbs2023/NewMm/raw/main/Basic%20skin%20ixia.jpg",
      "script": "https://raw.githubusercontent.com/Nbs2023/NewMm/main/BASIC%20SKIN%20IXIA.zip",
      "featured": false,
@@ -43735,7 +44139,7 @@
     },
     {
      "id": "kadita_008",
-     "skin_name": "Atlantean p",
+     "skin_name": "Atlantean Princess",
      "image": "https://github.com/MametGaming/GB_MAGE/raw/main/Basic%20kadita.jpg",
      "script": "https://raw.githubusercontent.com/BANGMAMET1995/MAGE_ABC/main/KADITA%20SKIN%20BIASA.zip",
      "featured": false,
@@ -44218,6 +44622,23 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "kadita_030",
+     "skin_name": "Orca",
+     "image": "https://github.com/Opoad55/upluad/raw/main/Uploads/Images/Hero968_7674937789652307992.png",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/Uploads/Files/3058349t0urgjij.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 26551855,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "10 non-game file(s) named .unity3d (modder watermark, ignored), e.g. ._heroshow_ip10_add.unity3d"
+     ]
     }
    ]
   },
@@ -44718,7 +45139,7 @@
     },
     {
      "id": "kagura_020",
-     "skin_name": "Feast of Eternity",
+     "skin_name": "Feast of Eternity Form 2",
      "image": "https://bmt95.store/wp-content/uploads/2026/10/Kagura-legend.jpg",
      "script": "https://bmt95.store/wp-content/uploads/2026/10/KAGURA-LEGEND.zip",
      "featured": false,
@@ -45307,6 +45728,23 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "3 empty file(s), e.g. nextkagura_san_tuowei.unity3d – an effect switched off by the modder"
+     ]
+    },
+    {
+     "id": "kagura_051",
+     "skin_name": "Feast of Eternity Form 2",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/kagura%20legend%20form2.jpg",
+     "script": "https://github.com/Opoad55/upluad/releases/download/assets/kagura.legend.form2.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 49194048,
+     "check": "caution",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "1 empty file(s), e.g. hero_kagura_skin_stock.unity3d – an effect switched off by the modder"
      ]
     }
    ]
@@ -45948,7 +46386,7 @@
     },
     {
      "id": "karina_008",
-     "skin_name": "Spider lily",
+     "skin_name": "Spider Lily - Winter",
      "image": "https://github.com/MametGaming/GB_ASS/raw/main/Karina%20elite%F0%9F%94%B8spider%20lily.jpg",
      "script": "https://raw.githubusercontent.com/NewMoba2023/ASSASIN2023/main/KARINA%20ELITE%F0%9F%94%B9spider%20lyli.zip",
      "featured": false,
@@ -50226,7 +50664,7 @@
     },
     {
      "id": "lapu-lapu_015",
-     "skin_name": "Aurora Gaming",
+     "skin_name": "Aurora Gaming PH",
      "image": "https://bmt95.store/wp-content/uploads/2026/10/Lapu2-champion.jpg",
      "script": "https://bmt95.store/wp-content/uploads/2026/10/LAPU-LAPU-CHAMPION.zip",
      "featured": false,
@@ -52099,6 +52537,22 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "leomord_025",
+     "skin_name": "Twilight Horseman",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Leomord_Twilight_Horseman.png/revision/latest?cb=20251208222905",
+     "script": "https://raw.githubusercontent.com/c9akcpn-jpg/Marksman/main/leomordepic.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zen",
+     "added": "2026-11-12",
+     "size": 20099286,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ]
   },
@@ -53010,6 +53464,41 @@
      "size": 11110885,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "lesley_041",
+     "skin_name": "Skin",
+     "image": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/lesley_legendPort.png",
+     "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/4a663137-mwcyn02q-1-r0md8-les-legend.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "legend",
+       "name": "Legend",
+       "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+       "file": "Legend Skin Tag.png"
+      },
+      {
+       "id": "lesley",
+       "name": "lesley",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "marksman",
+       "name": "marksman",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-12",
+     "size": 52717524,
+     "check": "good",
+     "check_date": "2026-11-12",
      "check_notes": []
     }
    ]
@@ -56653,7 +57142,7 @@
     },
     {
      "id": "lylia_013",
-     "skin_name": "Magitech Arsena",
+     "skin_name": "Magitech Arsenal",
      "image": "https://github.com/Hiro161123/Mage/raw/main/Lylia%20starlight.png",
      "script": "https://raw.githubusercontent.com/Hiro161123/Mage/main/LYLIA%20STARLIGHT.zip",
      "featured": false,
@@ -56959,6 +57448,21 @@
      "size": 4227693,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "lylia_028",
+     "skin_name": "Dragon Charmer",
+     "image": "https://bmt95.store/wp-content/uploads/2026/11/Lylia-collector.jpg",
+     "script": "https://bmt95.store/wp-content/uploads/2026/11/LYLIA-DRAGON-CHARMER.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "mbs",
+     "size": 33744093,
+     "check": "good",
+     "check_date": "2026-11-12",
      "check_notes": []
     }
    ]
@@ -58396,7 +58900,7 @@
     },
     {
      "id": "mathilda_006",
-     "skin_name": "Unrestraine",
+     "skin_name": "Unrestrained Delight",
      "image": "https://github.com/MametGaming/GB_support/raw/main/Basic%20mathilda.jpg",
      "script": "https://raw.githubusercontent.com/BANGMAMET1995/SUPPORT_ABC/main/NORMAL%20SKIN%20MATHILDA.zip",
      "featured": false,
@@ -60590,7 +61094,7 @@
     },
     {
      "id": "miya_023",
-     "skin_name": "Arrow of Spring",
+     "skin_name": "Arrow of Springs",
      "image": "https://bmt95.store/wp-content/uploads/2026/09/Miya-arrow-of-spring.jpg",
      "script": "https://bmt95.store/wp-content/uploads/2026/09/MIYA-SEASONS-NEW.zip",
      "featured": false,
@@ -60606,7 +61110,7 @@
     },
     {
      "id": "miya_024",
-     "skin_name": "Dragon of V",
+     "skin_name": "Dragon of Verdant Wind",
      "image": "https://bmt95.store/wp-content/uploads/2026/09/Miya-elemental-dragon.jpg",
      "script": "https://bmt95.store/wp-content/uploads/2026/09/MIYA-ELEMENTAL-DRAGON.zip",
      "featured": false,
@@ -61155,6 +61659,24 @@
       "bundles are not inside Art/ UI/ Scenes/ folders"
      ],
      "size": 15736576
+    },
+    {
+     "id": "miya_048",
+     "skin_name": "Nightowl Sentiel",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Miya_Nightowl_Sentiel.png/revision/latest?cb=20260207235605",
+     "script": "https://raw.githubusercontent.com/Johnkurt200/Skin/main/1777774251654_miya_starlight1.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zen",
+     "added": "2026-11-12",
+     "size": 9209631,
+     "check": "faulty",
+     "check_date": "2026-11-12",
+     "check_notes": [
+      "6 game file(s) are not Unity bundles (broken), e.g. gongjianshou_skin_ctl_smoke_add.unity3d"
+     ]
     }
    ]
   },
@@ -63199,7 +63721,7 @@
     },
     {
      "id": "natalia_009",
-     "skin_name": "Deadly mamb",
+     "skin_name": "Deadly Mamba",
      "image": "https://github.com/MametGaming/GB_ASS/raw/main/Nata%20elite.jpg",
      "script": "https://raw.githubusercontent.com/BANGMAMET1995/SC_ASSASSIN2021/main/NATALIA%20ELITE.zip",
      "featured": false,
@@ -65203,7 +65725,7 @@
     },
     {
      "id": "obsidia_004",
-     "skin_name": "Imperatrix ",
+     "skin_name": "Imperatrix Arashi",
      "image": "https://bmt95.store/wp-content/uploads/2026/09/obsidia-aspirants.jpg",
      "script": "https://bmt95.store/wp-content/uploads/2026/09/OBSIDIA-ASPIRANTS.zip",
      "featured": false,
@@ -65350,6 +65872,21 @@
      "size": 4958448,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "obsidia_010",
+     "skin_name": "Aspirants",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/obsidia%20aspirants.png",
+     "script": "https://github.com/AnehGamingOfficial/temp-ml/releases/download/Aneh/obci",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 85612704,
+     "check": "good",
+     "check_date": "2026-11-12",
      "check_notes": []
     }
    ]
@@ -65667,7 +66204,7 @@
     },
     {
      "id": "odette_011",
-     "skin_name": "Butterfly g",
+     "skin_name": "Butterfly Goddess",
      "image": "https://github.com/MametGaming/GB_MAGE/raw/main/Odet%20special%F0%9F%94%B8butterfly%20goddes.jpg",
      "script": "https://raw.githubusercontent.com/Nbs2023/MAGE2023/main/ODETTE%20SPECIAL%F0%9F%94%B8Butterfly.zip",
      "featured": false,
@@ -67592,6 +68129,21 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "paquito_038",
+     "skin_name": "Fist of Glory",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero1039-portrait.png/revision/latest/scale-to-width-down/150?cb=20240920010138",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/paquito%20fmvp.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 12722199,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ]
   },
@@ -68302,6 +68854,22 @@
      "size": 23244407,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "pharsa_031",
+     "skin_name": "Empress",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Pharsa_%28Empress_Phoenix%29.jpg/revision/latest?cb=20260323000616",
+     "script": "https://github.com/Johnkurt200/Skin/releases/download/v1777897900445/pharsacol.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zen",
+     "added": "2026-11-12",
+     "size": 8854622,
+     "check": "good",
+     "check_date": "2026-11-12",
      "check_notes": []
     }
    ]
@@ -69102,7 +69670,7 @@
     },
     {
      "id": "popol-and-kupa_007",
-     "skin_name": "Hunting Pal",
+     "skin_name": "Hunting Pals",
      "image": "https://github.com/MametGaming/GB_MM/raw/main/Basic%20popol.jpg",
      "script": "https://raw.githubusercontent.com/BANGMAMET1995/SC_MM2021/main/POPOL%20%26%20KUPA%20NORMAL%20SKIN.zip",
      "featured": false,
@@ -72879,7 +73447,7 @@
     },
     {
      "id": "selena_016",
-     "skin_name": "Wraith butt",
+     "skin_name": "Wraith Butterfly",
      "image": "https://github.com/SourceBMT95/NEWASSASSIN/raw/main/Selena%20Epic%20New.jpg",
      "script": "https://raw.githubusercontent.com/SourceBMT95/NEWASSASSIN/main/SELENA%20EPIC%F0%9F%94%B8wraith%20butterfly.zip",
      "featured": false,
@@ -73781,7 +74349,7 @@
     },
     {
      "id": "silvanna_009",
-     "skin_name": "Midnight Ju",
+     "skin_name": "Midnight Justice",
      "image": "https://github.com/MametGaming/GB_FIGHTER/raw/main/Silvana%20elite.jpg",
      "script": "https://raw.githubusercontent.com/BANGMAMET1995/SC_FIGHTER2021/main/SILVANA%20ELITE.zip",
      "featured": false,
@@ -75251,6 +75819,21 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "suyou_016",
+     "skin_name": "Frostblade Duelist",
+     "image": "https://bmt95.store/wp-content/uploads/2026/11/Soyou-starlight.jpg",
+     "script": "https://bmt95.store/wp-content/uploads/2026/11/SOYOU-FROSTBLADE-DUELIST.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "mbs",
+     "size": 29364107,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ]
   },
@@ -76545,7 +77128,7 @@
     },
     {
      "id": "tigreal_007",
-     "skin_name": "Fallen guar",
+     "skin_name": "Fallen Guard",
      "image": "https://github.com/MametGaming/GB_TANK/raw/main/Tigreal%20elite%F0%9F%94%B8fallen%20guard.jpg",
      "script": "https://raw.githubusercontent.com/BANGMAMET1995/SC_TANK2021/main/TRIGEAL%20ELITE%F0%9F%94%B9Fallen%20Guard.zip",
      "featured": false,
@@ -77627,7 +78210,7 @@
     },
     {
      "id": "vale_008",
-     "skin_name": "Cerulean wi",
+     "skin_name": "Cerulean Winds",
      "image": "https://github.com/MametGaming/GB_MAGE/raw/main/Basic%20vale.jpg",
      "script": "https://raw.githubusercontent.com/BANGMAMET1995/MAGE_ABC/main/VALE%20NORMAL%20SKIN.zip",
      "featured": false,
@@ -78464,6 +79047,21 @@
      "size": 15276758,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "valentina_022",
+     "skin_name": "Jewel of Envy",
+     "image": "https://bmt95.store/wp-content/uploads/2026/11/Valentina-Mythic.jpg",
+     "script": "https://bmt95.store/wp-content/uploads/2026/11/VALENTINE-JEWEL-OF-ENVY.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "mbs",
+     "size": 30098213,
+     "check": "good",
+     "check_date": "2026-11-12",
      "check_notes": []
     }
    ]
@@ -79325,6 +79923,41 @@
      "check_notes": [
       "6 empty file(s), e.g. schwanzml.unity3d – an effect switched off by the modder"
      ]
+    },
+    {
+     "id": "valir_038",
+     "skin_name": "Deidara",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Bk8g2SQy0ePa1Sm9wQKYIdq4AQKe0ZF9UEyOAmoQP86tTCzhBxq5EuM&s=10",
+     "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/Nov/valir%20dadira.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "valir",
+       "name": "valir",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-12",
+     "size": 1846076,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ]
   },
@@ -79937,6 +80570,22 @@
      "check_notes": [
       "2 empty file(s), e.g. next_vexana_cityaction_fazhang_idle_add.unity3d – an effect switched off by the modder"
      ]
+    },
+    {
+     "id": "vexana_028",
+     "skin_name": "Eternal Vow",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Vexana_Eternal_Vow.png/revision/latest?cb=20260206235411",
+     "script": "https://github.com/Johnkurt200/Skin/releases/download/v1777896681798/vexanaepic2.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zen",
+     "added": "2026-11-12",
+     "size": 21037238,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ]
   },
@@ -81271,6 +81920,41 @@
      "check_notes": [
       "38 bundle(s) carry extra trailing bytes (watermark)"
      ]
+    },
+    {
+     "id": "x-borg_025",
+     "skin_name": "Pain",
+     "image": "https://images8.alphacoders.com/820/thumb-1920-820039.png",
+     "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/3e0a5d3e-mwcyoioq-1-ld0fr-xb-x-pain.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "fanmade",
+       "name": "Fan-made",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "x-borg",
+       "name": "x-borg",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "masterkit",
+     "added": "2026-11-12",
+     "size": 15106975,
+     "check": "good",
+     "check_date": "2026-11-12",
+     "check_notes": []
     }
    ]
   },
@@ -82018,7 +82702,7 @@
     },
     {
      "id": "yi-sun-shin_009",
-     "skin_name": "Major Gener",
+     "skin_name": "Major General",
      "image": "https://github.com/MametGaming/GB_MM/raw/main/Basic%20skin%20yss.jpg",
      "script": "https://raw.githubusercontent.com/BANGMAMET1995/UPDATE-23/main/YSS%20NORMAL%20SKIN.zip",
      "featured": false,
@@ -84357,7 +85041,7 @@
     },
     {
      "id": "zetian_005",
-     "skin_name": "Sunset Lumi",
+     "skin_name": "Sunset Luminance",
      "image": "https://bmt95.store/wp-content/uploads/2026/09/Zetian-starlight.jpg",
      "script": "https://bmt95.store/wp-content/uploads/2026/09/ZETIAN-STARLIGHT.zip",
      "featured": false,
@@ -86207,5 +86891,5 @@
    ]
   }
  ],
- "updated": "2026-11-08"
+ "updated": "2026-11-12"
 }
