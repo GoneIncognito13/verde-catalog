@@ -22995,6 +22995,16 @@
    "check_notes": [
     "2 bundle(s) carry extra trailing bytes (watermark)"
    ]
+  },
+  {
+   "id": "rhythmic_echo_recall_effect_on_beyond_legacy_asian_glory_recall_effect",
+   "name": "Rhythmic Echo Recall Effect (on Beyond Legacy! Asian Glory Recall Effect)",
+   "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20RYTHMETIC%20ECHO.png",
+   "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/newemotes/Beyond.Legacy.to.Rhyth-catalog.zip",
+   "enabled": true,
+   "source": "nut",
+   "added": "2026-11-17",
+   "size": 493185
   }
  ],
  "eliminations": [

@@ -24154,6 +24154,18 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "kimmy_frost_wing_to_starbound_sentry",
+     "name": "Starbound Sentry",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero107110-portrait.png/revision/latest?cb=20260603223114",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/ups/107110-to-1716.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "nut",
+     "added": "2026-11-17",
+     "size": 14316423
     }
    ],
    "skin_tags": []
@@ -126957,6 +126969,20 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "esmeralda_lady_thief_to_light_envoy",
+     "name": "Light Envoy",
+     "image": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1818/portrait.webp",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/ups/1818-to-1814.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [
+      "collector"
+     ],
+     "source": "nut",
+     "added": "2026-11-17",
+     "size": 13142182
     }
    ],
    "source": "nix"
@@ -153383,6 +153409,20 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "ling_m_world_ling_to_lord_shen",
+     "name": "Lord Shen",
+     "image": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1848/portrait.webp",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/ups/1848-to-1847.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [
+      "kung_fu_panda"
+     ],
+     "source": "nut",
+     "added": "2026-11-17",
+     "size": 13003507
     }
    ],
    "source": "nix"
@@ -166672,6 +166712,20 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "popol_and_kupa_tribal_howl_to_spirit_of_the_brush",
+     "name": "Spirit of the Brush",
+     "image": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1946/portrait.webp",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/ups/1946-to-1943.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [
+      "collector"
+     ],
+     "source": "nut",
+     "added": "2026-11-17",
+     "size": 12665083
     }
    ],
    "source": "nix"
@@ -166728,6 +166782,32 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "popol_and_kupa_trouble_makers_to_soundwave_ravage",
+     "name": "Soundwave & Ravage",
+     "image": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1945/portrait.webp",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/ups/1945-to-1944.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "nut",
+     "added": "2026-11-17",
+     "size": 14372913
+    },
+    {
+     "id": "popol_and_kupa_trouble_makers_to_spirit_of_the_brush",
+     "name": "Spirit of the Brush",
+     "image": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1946/portrait.webp",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/ups/1946-to-1944.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [
+      "collector"
+     ],
+     "source": "nut",
+     "added": "2026-11-17",
+     "size": 13538627
     }
    ],
    "source": "nix"
@@ -193045,6 +193125,18 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "kimmy_hoverjet_outrider_to_starbound_sentry",
+     "name": "Starbound Sentry",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero107110-portrait.png/revision/latest?cb=20260603223114",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/ups/107110-to-1711.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "nut",
+     "added": "2026-11-17",
+     "size": 14352510
     }
    ],
    "source": "nut"
@@ -199785,7 +199877,214 @@
     }
    ],
    "source": "bs"
+  },
+  {
+   "id": "clint_scarlet_musketeer",
+   "hero": "Clint",
+   "base_name": "Scarlet Musketeer",
+   "base_image": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1137/portrait.webp",
+   "backup_script": "",
+   "enabled": true,
+   "targets": [
+    {
+     "id": "clint_scarlet_musketeer_to_shadow_omen",
+     "name": "Shadow Omen",
+     "image": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1137/portrait.webp",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/ups/1137-to-101311.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [
+      "m2"
+     ],
+     "source": "nut",
+     "added": "2026-11-17",
+     "size": 5479359
+    },
+    {
+     "id": "clint_scarlet_musketeer_to_vessel_of_ruin",
+     "name": "Vessel of Ruin",
+     "image": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/101313/portrait.webp",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/ups/101313-to-101311.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "nut",
+     "added": "2026-11-17",
+     "size": 21172278
+    }
+   ],
+   "source": "nut"
+  },
+  {
+   "id": "layla_blue_specter",
+   "hero": "Layla",
+   "base_name": "Blue Specter",
+   "base_image": "https://raw.githubusercontent.com/nutcx/app-content/9d5f2801724aa93628599183ab63b07d1b93acb9/media/skins/101813/portrait-292db8fa55fb4fbb.webp",
+   "backup_script": "https://github.com/Mr-Nutcracker/ntx/releases/download/Backups/1185.zip",
+   "enabled": true,
+   "targets": [
+    {
+     "id": "layla_blue_specter_to_backup",
+     "name": "Backup",
+     "image": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1185/portrait.webp",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/Backups/1185.zip",
+     "type": "backup",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "nut",
+     "added": "2026-11-17",
+     "size": 4840942
+    },
+    {
+     "id": "layla_blue_specter_to_prismatic_rhythm",
+     "name": "Prismatic Rhythm",
+     "image": "https://raw.githubusercontent.com/nutcx/app-content/9d5f2801724aa93628599183ab63b07d1b93acb9/media/skins/101813/portrait-292db8fa55fb4fbb.webp",
+     "script": "https://github.com/nutcx/app-content/releases/download/prismatic-resplendent-1232.1-20261112/101813-to-1185-resplendent-1232.1-359374321861.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "nut",
+     "added": "2026-11-17",
+     "size": 27110504
+    }
+   ],
+   "source": "nut"
+  },
+  {
+   "id": "martis_warlord_king",
+   "hero": "Martis",
+   "base_name": "Warlord King",
+   "base_image": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1587/portrait.webp",
+   "backup_script": "",
+   "enabled": true,
+   "targets": [
+    {
+     "id": "martis_warlord_king_to_levi",
+     "name": "Levi",
+     "image": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1587/portrait.webp",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/ups/1587-to-1589.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [
+      "attack_on_titan"
+     ],
+     "source": "nut",
+     "added": "2026-11-17",
+     "size": 12138984
+    }
+   ],
+   "source": "nut"
+  },
+  {
+   "id": "martis_wild_renegade",
+   "hero": "Martis",
+   "base_name": "Wild Renegade",
+   "base_image": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1587/portrait.webp",
+   "backup_script": "",
+   "enabled": true,
+   "targets": [
+    {
+     "id": "martis_wild_renegade_to_levi",
+     "name": "Levi",
+     "image": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1587/portrait.webp",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/ups/1587-to-105810.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [
+      "attack_on_titan"
+     ],
+     "source": "nut",
+     "added": "2026-11-17",
+     "size": 13161530
+    }
+   ],
+   "source": "nut"
+  },
+  {
+   "id": "ling_phantom_current",
+   "hero": "Ling",
+   "base_name": "Phantom Current",
+   "base_image": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1848/portrait.webp",
+   "backup_script": "",
+   "enabled": true,
+   "targets": [
+    {
+     "id": "ling_phantom_current_to_lord_shen",
+     "name": "Lord Shen",
+     "image": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1848/portrait.webp",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/ups/1848-to-108412.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [
+      "kung_fu_panda"
+     ],
+     "source": "nut",
+     "added": "2026-11-17",
+     "size": 12196059
+    }
+   ],
+   "source": "nut"
+  },
+  {
+   "id": "popol_and_kupa_proto_hunter",
+   "hero": "Popol and Kupa",
+   "base_name": "Proto Hunter",
+   "base_image": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1945/portrait.webp",
+   "backup_script": "",
+   "enabled": true,
+   "targets": [
+    {
+     "id": "popol_and_kupa_proto_hunter_to_soundwave_ravage",
+     "name": "Soundwave & Ravage",
+     "image": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1945/portrait.webp",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/ups/1945-to-1947.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "nut",
+     "added": "2026-11-17",
+     "size": 13664468
+    },
+    {
+     "id": "popol_and_kupa_proto_hunter_to_spirit_of_the_brush",
+     "name": "Spirit of the Brush",
+     "image": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1946/portrait.webp",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/ups/1946-to-1947.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [
+      "collector"
+     ],
+     "source": "nut",
+     "added": "2026-11-17",
+     "size": 12764803
+    }
+   ],
+   "source": "nut"
+  },
+  {
+   "id": "suyou_frostblade_duelist",
+   "hero": "Suyou",
+   "base_name": "Frostblade Duelist",
+   "base_image": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2263/portrait.webp",
+   "backup_script": "",
+   "enabled": true,
+   "targets": [
+    {
+     "id": "suyou_frostblade_duelist_to_sasuke_uchiha",
+     "name": "Sasuke Uchiha",
+     "image": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2263/portrait.webp",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/ups/2263-to-2265.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "nut",
+     "added": "2026-11-17",
+     "size": 16438561
+    }
+   ],
+   "source": "nut"
   }
  ],
- "updated": "2026-11-15"
+ "updated": "2026-11-17"
 }
