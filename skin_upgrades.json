@@ -65906,7 +65906,8 @@
      "size": 8907839,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -66110,7 +66111,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "1 game file(s) are not Unity bundles (broken), e.g. war2alucard_beidong_skin02_add.unity3d"
-     ]
+     ],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -96657,7 +96659,8 @@
      "size": 15306204,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     },
     {
      "id": "bruno_dawning_to_neymar_jr",
@@ -96672,7 +96675,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "1 empty file(s), e.g. qiuyuan_cityaction_qiu01_skin05_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -96726,7 +96730,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "1 empty file(s), e.g. recall_effect_1121_1.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     },
     {
      "id": "bruno_elite_to_halo_striker",
@@ -96739,7 +96744,8 @@
      "size": 14334026,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     },
     {
      "id": "bruno_elite_to_neymar_jr",
@@ -96754,7 +96760,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "1 empty file(s), e.g. recall_effect_1121_1.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     },
     {
      "id": "bruno_elite_to_dawning",
@@ -96769,7 +96776,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "2 empty file(s), e.g. qiuyuan_cityaction_tuowei_skin03_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     },
     {
      "id": "bruno_elite_to_striker",
@@ -96782,7 +96790,8 @@
      "size": 14361625,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     },
     {
      "id": "bruno_elite_to_neymar_jr",
@@ -96797,7 +96806,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "3 empty file(s), e.g. recall_effect_1121_1.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -97012,7 +97022,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "1 empty file(s), e.g. recall_effect_1121_1.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     },
     {
      "id": "bruno_neymar_jr_to_halo_striker",
@@ -97025,7 +97036,8 @@
      "size": 14334133,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -97079,7 +97091,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "2 empty file(s), e.g. qiuyuan_cityaction_erji2_skin02_high_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     },
     {
      "id": "bruno_special_to_halo_striker",
@@ -97092,7 +97105,8 @@
      "size": 14361657,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     },
     {
      "id": "bruno_special_to_neymar_jr",
@@ -97107,7 +97121,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "3 empty file(s), e.g. recall_effect_1121_1.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     },
     {
      "id": "bruno_special_to_dawning",
@@ -97122,7 +97137,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "3 empty file(s), e.g. qiuyuan_cityaction_foot01_skin04_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     },
     {
      "id": "bruno_special_to_halo_striker",
@@ -97135,7 +97151,8 @@
      "size": 14364925,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     },
     {
      "id": "bruno_special_to_neymar_jr",
@@ -97150,7 +97167,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "4 empty file(s), e.g. recall_effect_1121_1.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -97190,7 +97208,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "4 empty file(s), e.g. qiuyuan_CityAction_03_skin06_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     },
     {
      "id": "bruno_star_to_halo_striker",
@@ -97205,7 +97224,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "1 empty file(s), e.g. qiuyuan_CityAction_idleFX_skin06_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     },
     {
      "id": "bruno_star_to_neymar_jr",
@@ -97220,7 +97240,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "4 empty file(s), e.g. recall_effect_1121_1.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -106794,7 +106815,8 @@
      "size": 12722233,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -107051,7 +107073,8 @@
      "size": 13745638,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -107173,7 +107196,8 @@
      "size": 12637219,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     },
     {
      "id": "paquito_special_to_fmvp",
@@ -107188,7 +107212,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "1 empty file(s), e.g. pakuite_cityaction_02_skin05_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -107268,7 +107293,8 @@
      "size": 13719068,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -107310,7 +107336,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "2 empty file(s), e.g. pakuite_cityaction_bone000_skin09_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -107487,7 +107514,8 @@
      "size": 23601742,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -107525,7 +107553,8 @@
      "size": 23598769,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -107577,7 +107606,8 @@
      "size": 23578770,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -107629,7 +107659,8 @@
      "size": 21295286,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -107681,7 +107712,8 @@
      "size": 21825649,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -107761,7 +107793,8 @@
      "size": 20631530,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     },
     {
      "id": "clint_star_to_soul_vessel",
@@ -107774,7 +107807,8 @@
      "size": 23463209,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -107826,7 +107860,8 @@
      "size": 23588672,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -107903,7 +107938,8 @@
      "size": 11345846,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -107955,7 +107991,8 @@
      "size": 13668084,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     },
     {
      "id": "badang_saint_seiya_to_zodiac",
@@ -107970,7 +108007,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "3 empty file(s), e.g. next_badang_changzhu1_skin07_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -108022,7 +108060,8 @@
      "size": 11298129,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     },
     {
      "id": "badang_special_to_zodiac",
@@ -108035,7 +108074,8 @@
      "size": 11233169,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -108472,7 +108512,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "2 empty file(s), e.g. cowboy_cityaction_skin08_special_idle_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -118403,7 +118444,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "5 empty file(s), e.g. 12_qiuyuan_cityaction_fx_Bip001RFoot_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     },
     {
      "id": "bruno_halo_striker_to_neymar_jr",
@@ -118418,7 +118460,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "4 empty file(s), e.g. 12_qiuyuan_cityaction_fx_Dummy001_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     }
    ],
    "source": "nix"
@@ -199658,7 +199701,8 @@
      "size": 11232510,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -199684,7 +199728,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "1 empty file(s), e.g. nextbadang_changzhu_skin05_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -199708,7 +199753,8 @@
      "size": 21812275,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
@@ -199734,11 +199780,12 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "17 bundle(s) carry extra trailing bytes (watermark)"
-     ]
+     ],
+     "added": "2026-11-15"
     }
    ],
    "source": "bs"
   }
  ],
- "updated": "2026-11-12"
+ "updated": "2026-11-15"
 }

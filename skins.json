@@ -1817,7 +1817,8 @@
      "size": 24966491,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ]
   },
@@ -4212,7 +4213,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "10 non-game file(s) named .unity3d (modder watermark, ignored), e.g. ._war2alucard_skill03.unity3d"
-     ]
+     ],
+     "added": "2026-11-15"
     }
    ]
   },
@@ -9455,7 +9457,8 @@
      "size": 11873574,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ]
   },
@@ -10073,6 +10076,35 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "balmond_028",
+     "skin_name": "Ironhide Berserker",
+     "image": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Balmond-Ironhide-Berserker.png",
+     "script": "https://github.com/Sparkies01/DownloadScript/releases/download/visual-balmond/Balmond-Ironhide-Berserker.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "balmond",
+       "name": "balmond",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "nix",
+     "added": "2026-11-15",
+     "size": 26237834,
+     "check": "good",
+     "check_date": "2026-11-15",
+     "check_notes": []
     }
    ]
   },
@@ -10678,7 +10710,34 @@
      "size": 47403512,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
+    },
+    {
+     "id": "bane_028",
+     "skin_name": "Mr Crab",
+     "image": "https://github.com/Mexi23/nov_2026/raw/refs/heads/main/bane.jpg",
+     "script": "https://raw.githubusercontent.com/Mexi23/nov_2026/main/bane_def_MrCrab.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "bane",
+       "name": "bane",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "skinix",
+     "added": "2026-11-17",
+     "size": 17490994
     }
    ]
   },
@@ -14775,7 +14834,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "3 empty file(s), e.g. recall_effect_1121_1.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     },
     {
      "id": "bruno_034",
@@ -14790,7 +14850,8 @@
      "size": 15312962,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     },
     {
      "id": "bruno_035",
@@ -14807,7 +14868,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "2 empty file(s), e.g. nextqiuyuan_cityaction_cam_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
     }
    ]
   },
@@ -20794,7 +20856,8 @@
      "size": 23578216,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ]
   },
@@ -29378,7 +29441,8 @@
      "size": 9940104,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     },
     {
      "id": "gatotkaca_034",
@@ -29393,7 +29457,8 @@
      "size": 37181360,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ]
   },
@@ -33360,6 +33425,32 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "guinevere_062",
+     "skin_name": "Malupiton- Chun Li",
+     "image": "https://cdn.jsdelivr.net/gh/Mexi23/custom_funny_skins@main/file_00000000fd5c723084c0c2b9b60f5dd2.png",
+     "script": "https://raw.githubusercontent.com/Mexica23/Funny-Skins/main/Malupiton-Chunli.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "guinevere",
+       "name": "guinevere",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "skinix",
+     "added": "2026-11-17",
+     "size": 37350594
     }
    ]
   },
@@ -44638,7 +44729,8 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "10 non-game file(s) named .unity3d (modder watermark, ignored), e.g. ._heroshow_ip10_add.unity3d"
-     ]
+     ],
+     "added": "2026-11-15"
     }
    ]
   },
@@ -45745,7 +45837,43 @@
      "check_date": "2026-11-12",
      "check_notes": [
       "1 empty file(s), e.g. hero_kagura_skin_stock.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "added": "2026-11-15"
+    },
+    {
+     "id": "kagura_052",
+     "skin_name": "Amethyst Wizard",
+     "image": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Kagura-Amethyst-Wizard.png",
+     "script": "https://github.com/Sparkies01/DownloadScript/releases/download/visual-kagura/Kagura-Amethyst-Wizard.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Tags/Painted.png",
+       "file": ""
+      },
+      {
+       "id": "kagura",
+       "name": "kagura",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "nix",
+     "added": "2026-11-15",
+     "size": 15291549,
+     "check": "good",
+     "check_date": "2026-11-15",
+     "check_notes": []
     }
    ]
   },
@@ -57463,7 +57591,8 @@
      "size": 33744093,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ]
   },
@@ -65887,7 +66016,8 @@
      "size": 85612704,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ]
   },
@@ -68143,7 +68273,8 @@
      "size": 12722199,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ]
   },
@@ -75485,6 +75616,37 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "sun_029",
+     "skin_name": "Street King",
+     "image": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Sun-Street-King.png",
+     "script": "https://github.com/Sparkies01/DownloadScript/releases/download/visual-sun/Sun-Street-King.zip",
+     "featured": false,
+     "enabled": false,
+     "tags": [
+      {
+       "id": "sun",
+       "name": "sun",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "nix",
+     "added": "2026-11-15",
+     "broken": "HTTP 404",
+     "check": "broken",
+     "check_date": "2026-11-15",
+     "check_notes": [
+      "ZIP not uploaded by source yet (NIX lists it); auto-enables when the file appears"
+     ]
     }
    ]
   },
@@ -75833,7 +75995,8 @@
      "size": 29364107,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ]
   },
@@ -79062,7 +79225,8 @@
      "size": 30098213,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "added": "2026-11-15"
     }
    ]
   },
@@ -85182,6 +85346,32 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "zetian_012",
+     "skin_name": "Starlight",
+     "image": "https://cdn.jsdelivr.net/gh/Mexi23/others_2026@main/20260309_133923.jpg",
+     "script": "https://raw.githubusercontent.com/Mexi23/others_2026/main/zetia_starlight.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "zetian",
+       "name": "zetian",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "skinix",
+     "added": "2026-11-17",
+     "size": 25761713
     }
    ]
   },
@@ -86887,9 +87077,38 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "zilong_040",
+     "skin_name": "Argenta Warrior",
+     "image": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Zilong-Argenta-Warrior.png",
+     "script": "https://github.com/Sparkies01/DownloadScript/releases/download/visual-zilong/Zilong-Argenta-Warrior.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "zilong",
+       "name": "zilong",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "nix",
+     "added": "2026-11-15",
+     "size": 7017783,
+     "check": "good",
+     "check_date": "2026-11-15",
+     "check_notes": []
     }
    ]
   }
  ],
- "updated": "2026-11-12"
+ "updated": "2026-11-17"
 }
