@@ -952,7 +952,8 @@
      "size": 10178978,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "akai_025",
@@ -2953,7 +2954,8 @@
      "size": 17615576,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "alpha_027",
@@ -3043,6 +3045,58 @@
      "size": 7737690,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "alpha_031",
+     "skin_name": "Homelander",
+     "image": "https://raw.githubusercontent.com/n3wz1ips/P0tuSk1n/main/alpha%20x%20homelander.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/alpha%20x%20homelander%20d.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 29056325,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
+    },
+    {
+     "id": "alpha_032",
+     "skin_name": "Galactic Enforcer",
+     "image": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Galactic%20Enforcer.png",
+     "script": "https://raw.githubusercontent.com/Nbs2023/Painted/main/ALPHA%20PAINTED%20STARLIGHT.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "alpha",
+       "name": "alpha",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 17805590,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -4215,6 +4269,54 @@
       "10 non-game file(s) named .unity3d (modder watermark, ignored), e.g. ._war2alucard_skill03.unity3d"
      ],
      "added": "2026-11-15"
+    },
+    {
+     "id": "alucard_057",
+     "skin_name": "Giyu Tamioka",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/alucard%20x%20giyu%20tamioka.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/alucard%20x%20giyu%20tamioka.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 5785570,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
+    },
+    {
+     "id": "alucard_058",
+     "skin_name": "Ichigo Tbyw",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/alucard%20x%20ichigo%20tbyw.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/alucard%20x%20ichigo%20tbyw.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 11202579,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
+    },
+    {
+     "id": "alucard_059",
+     "skin_name": "Vasto Lorde Ichigo",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/alucard%20x%20vasto%20lorde%20ichigo.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/alucard%20x%20vasto%20lorde%20ichigo.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 8565108,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
     }
    ]
   },
@@ -5994,7 +6096,8 @@
      "size": 10640126,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "argus_046",
@@ -6376,6 +6479,104 @@
      "check": "good",
      "check_date": "2026-11-12",
      "check_notes": []
+    },
+    {
+     "id": "argus_057",
+     "skin_name": "Dante",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/argus%20x%20dante.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/argus%20x%20dante.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 11853940,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
+    },
+    {
+     "id": "argus_058",
+     "skin_name": "Denji v2",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/argus%20x%20denji2.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/argus%20x%20denji2.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 24070127,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
+    },
+    {
+     "id": "argus_059",
+     "skin_name": "Hidan v4",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/argus%20x%20hidan4.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/argus%20x%20hidan4.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 20666750,
+     "check": "caution",
+     "check_date": "2026-11-21",
+     "check_notes": [
+      "1 bundle(s) carry extra trailing bytes (watermark)"
+     ],
+     "added": "2026-11-21"
+    },
+    {
+     "id": "argus_060",
+     "skin_name": "Kaneki",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/argus%20x%20kaneki.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/argus%20x%20kaneki.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 28226287,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
+    },
+    {
+     "id": "argus_061",
+     "skin_name": "Okarun",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/zilong%20x%20okarun.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/argus%20x%20okarun.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 27841345,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
+    },
+    {
+     "id": "argus_062",
+     "skin_name": "Guts",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/argus%20x%20guts.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/argus%20x%20guts.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 40472178,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
     }
    ]
   },
@@ -6853,7 +7054,8 @@
      "size": 11835207,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "arlott_025",
@@ -7016,6 +7218,42 @@
      "size": 9778332,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "arlott_030",
+     "skin_name": "Scorn of the Deep",
+     "image": "https://raw.githubusercontent.com/Mornwish/GAMBAR/main/PAINTED%20SKIN%20IMG/IMG-20241107-WA0002.jpg",
+     "script": "https://raw.githubusercontent.com/Mornwish/PAINTED-SKIN/main/ARLOT/ARLOT%20STAR%20PAINTED1.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "arlott",
+       "name": "arlott",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 8564189,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -8032,6 +8270,22 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "aulus_023",
+     "skin_name": "Tanjiro Kamado",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/aulus%20x%20tanjiro2.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/aulus%20x%20tanjiro2.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 13190096,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
     }
    ]
   },
@@ -9459,6 +9713,22 @@
      "check_date": "2026-11-12",
      "check_notes": [],
      "added": "2026-11-15"
+    },
+    {
+     "id": "badang_036",
+     "skin_name": "Hashirama",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/badang%20x%20hashirama.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/badang%20x%20hashirama.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 12487093,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
     }
    ]
   },
@@ -10046,7 +10316,8 @@
      "size": 6770837,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "balmond_027",
@@ -10103,7 +10374,7 @@
      "added": "2026-11-15",
      "size": 26237834,
      "check": "good",
-     "check_date": "2026-11-15",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -10737,7 +11008,58 @@
      "name": "",
      "source": "skinix",
      "added": "2026-11-17",
-     "size": 17490994
+     "size": 17490994,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
+    },
+    {
+     "id": "bane_029",
+     "skin_name": "Escanor",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/bane%20x%20escanor.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/bane%20x%20escanor.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 24452130,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
+    },
+    {
+     "id": "bane_030",
+     "skin_name": "Escanor v2",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/bane%20x%20escanor2.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/bane%20x%20escanor2.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 18449260,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
+    },
+    {
+     "id": "bane_031",
+     "skin_name": "Flying Dutchman",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/bane%20x%20flying%20dutchman.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/bane%20x%20flying%20dutchman.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 21458703,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
     }
    ]
   },
@@ -11059,7 +11381,8 @@
      "size": 19200973,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "barats_015",
@@ -12252,7 +12575,8 @@
      "size": 25638568,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "beatrix_030",
@@ -12344,6 +12668,42 @@
      "size": 36109496,
      "check": "good",
      "check_date": "2026-11-12",
+     "check_notes": []
+    },
+    {
+     "id": "beatrix_034",
+     "skin_name": "Light Seeker",
+     "image": "https://raw.githubusercontent.com/Mornwish/GAMBAR/main/BEATRIX/IMG-20241127-WA0000.jpg",
+     "script": "https://raw.githubusercontent.com/Mornwish/PAINTED-SKIN/main/BEATRIX/BEATRIX%20M4.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "beatrix",
+       "name": "beatrix",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "marksman",
+       "name": "marksman",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 25999948,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -12728,7 +13088,8 @@
      "size": 6986595,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "belerick_018",
@@ -14753,7 +15114,8 @@
      "size": 9814426,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "bruno_031",
@@ -14788,7 +15150,8 @@
      "size": 10294708,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "bruno_032",
@@ -18079,7 +18442,8 @@
      "size": 7599767,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "chou_065",
@@ -18114,7 +18478,8 @@
      "size": 8153552,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "chou_066",
@@ -18655,6 +19020,78 @@
      "check_notes": [
       "1 game file(s) are not Unity bundles (broken), e.g. kongfu_skill2_mianshang.unity3d"
      ]
+    },
+    {
+     "id": "chou_084",
+     "skin_name": "Undefeated Champion",
+     "image": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Undefeated%20Champion.png",
+     "script": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Chou%20Elite%20painted.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "chou",
+       "name": "chou",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 4618600,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
+    },
+    {
+     "id": "chou_085",
+     "skin_name": "Red Tiger",
+     "image": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Red%20Tiger.png",
+     "script": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Chou%20special%20Painted.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "chou",
+       "name": "chou",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 4737160,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
     }
    ]
   },
@@ -18942,7 +19379,8 @@
      "size": 9615505,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "cici_014",
@@ -19028,7 +19466,8 @@
      "size": 17213010,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "cici_017",
@@ -19057,6 +19496,42 @@
      "size": 4792238,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "cici_018",
+     "skin_name": "Circus Fantasy",
+     "image": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/PAINTED/Painted%20Cici.png",
+     "script": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/PAINTED/CICI%20STAR%20PAINTED1.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "cici",
+       "name": "cici",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 9751117,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -19775,7 +20250,8 @@
      "size": 19676892,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "claude_033",
@@ -19877,7 +20353,8 @@
      "size": 8977639,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "claude_037",
@@ -19912,7 +20389,8 @@
      "size": 26393037,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "claude_038",
@@ -19976,6 +20454,113 @@
      "size": 5015351,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "claude_040",
+     "skin_name": "Earth's Mightiest",
+     "image": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Claude-Earth-s-Mightiest.png",
+     "script": "https://github.com/Sparkies01/DownloadScript/releases/download/visual-claude/Claude-Earth-s-Mightiest.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "msc_2021",
+       "name": "MSC 2021",
+       "icon": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Tags/MSC%202021.png",
+       "file": ""
+      },
+      {
+       "id": "claude",
+       "name": "claude",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "marksman",
+       "name": "marksman",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "nix",
+     "added": "2026-11-21",
+     "size": 8318559,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
+    },
+    {
+     "id": "claude_041",
+     "skin_name": "Chill Summer",
+     "image": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Chill%20Summer.png",
+     "script": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Claude%20Summer%20painted.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "claude",
+       "name": "claude",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "marksman",
+       "name": "marksman",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 6336149,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
+    },
+    {
+     "id": "claude_042",
+     "skin_name": "Challenger's Flare",
+     "image": "https://raw.githubusercontent.com/Mornwish/GAMBAR/main/CLAUDE/IMG-20241127-WA0001.jpg",
+     "script": "https://raw.githubusercontent.com/Mornwish/PAINTED-SKIN/main/CLAUDE/CLAUDE%20M6.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "claude",
+       "name": "claude",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "marksman",
+       "name": "marksman",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 19827708,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -20812,7 +21397,8 @@
      "size": 8388622,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "clint_038",
@@ -20858,6 +21444,24 @@
      "check_date": "2026-11-12",
      "check_notes": [],
      "added": "2026-11-15"
+    },
+    {
+     "id": "clint_040",
+     "skin_name": "Operator CL",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero138-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164603",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/clint%20star2.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 7212449,
+     "check": "caution",
+     "check_date": "2026-11-21",
+     "check_notes": [
+      "1 empty file(s), e.g. 4013_CityAction_qiang_fg_add.unity3d – an effect switched off by the modder"
+     ],
+     "added": "2026-11-21"
     }
    ]
   },
@@ -21474,7 +22078,8 @@
      "size": 8613945,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "cyclops_030",
@@ -21827,7 +22432,8 @@
      "size": 7688324,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "diggie_015",
@@ -23068,7 +23674,8 @@
      "size": 15995070,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "edith_019",
@@ -23158,6 +23765,42 @@
      "check_notes": [
       "4 empty file(s), e.g. Idun_cityaction_03_add.unity3d – an effect switched off by the modder"
      ]
+    },
+    {
+     "id": "edith_022",
+     "skin_name": "Golden Warden",
+     "image": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Golden%20Warden.png",
+     "script": "https://raw.githubusercontent.com/Nbs2023/Painted/main/EDITH%20STARLIGHT%20PAINTED.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "edith",
+       "name": "edith",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "tank",
+       "name": "tank",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 16252419,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
     }
    ]
   },
@@ -23781,7 +24424,8 @@
      "size": 9324010,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "esmeralda_029",
@@ -23816,7 +24460,8 @@
      "size": 13815159,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "esmeralda_030",
@@ -23845,6 +24490,42 @@
      "size": 3766917,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "esmeralda_031",
+     "skin_name": "Scene Stealer",
+     "image": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Scene%20stealer.png",
+     "script": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Esme%20Valentine%20painted.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "esmeralda",
+       "name": "esmeralda",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "tank",
+       "name": "tank",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 5891141,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -24410,7 +25091,8 @@
      "size": 8244006,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "estes_024",
@@ -24445,7 +25127,8 @@
      "size": 13601859,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "estes_025",
@@ -25090,7 +25773,8 @@
      "size": 11356587,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "eudora_025",
@@ -26512,6 +27196,22 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "faramis_018",
+     "skin_name": "Subaru",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/faramis%20x%20subaru.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/faramis%20x%20subaru.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 11292618,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
     }
    ]
   },
@@ -27645,7 +28345,8 @@
      "size": 9584438,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "franco_030",
@@ -27738,6 +28439,42 @@
      "size": 7991749,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "franco_033",
+     "skin_name": "Luminous Nightmare",
+     "image": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Luminous%20Nightmare.png",
+     "script": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Franco%20Halloween%20painted.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "franco",
+       "name": "franco",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "tank",
+       "name": "tank",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 6548613,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -28157,7 +28894,8 @@
      "size": 22072375,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "fredrinn_021",
@@ -29289,7 +30027,8 @@
      "size": 8419158,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "gatotkaca_027",
@@ -29324,7 +30063,8 @@
      "size": 14046596,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "gatotkaca_028",
@@ -29507,6 +30247,42 @@
      "check_date": "2026-11-12",
      "check_notes": [],
      "added": "2026-11-15"
+    },
+    {
+     "id": "gatotkaca_035",
+     "skin_name": "Nutcracker – painted 1",
+     "image": "https://raw.githubusercontent.com/Mornwish/GAMBAR/main/PAINTED%20SKIN%20IMG/IMG-20241107-WA0001.jpg",
+     "script": "https://raw.githubusercontent.com/Mornwish/PAINTED-SKIN/main/GATOTKACA/GATOTKACA%20STAR%20PAINTED1.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "gatotkaca",
+       "name": "gatotkaca",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "tank",
+       "name": "tank",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 4796946,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
     }
    ]
   },
@@ -30447,7 +31223,8 @@
      "size": 61966914,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "gord_027",
@@ -32073,7 +32850,8 @@
      "size": 9510283,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "grock_026",
@@ -32131,6 +32909,42 @@
      "size": 6267043,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "grock_028",
+     "skin_name": "Royal Guard",
+     "image": "https://raw.githubusercontent.com/raflinkk/SC/main/GROCK/Grock%20elite.jpg",
+     "script": "https://raw.githubusercontent.com/Mornwish/PAINTED-SKIN/main/GROCK/Painted%20Skin%20Gorok%20Elite.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "grock",
+       "name": "grock",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "tank",
+       "name": "tank",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 4446946,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -33231,7 +34045,8 @@
      "size": 8688463,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "guinevere_055",
@@ -33498,7 +34313,48 @@
      "name": "",
      "source": "skinix",
      "added": "2026-11-17",
-     "size": 37350594
+     "size": 37350594,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
+    },
+    {
+     "id": "guinevere_063",
+     "skin_name": "Scarlet Dance",
+     "image": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Scarlet%20Dance.png",
+     "script": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Guin%20Special%20Painted.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "guinevere",
+       "name": "guinevere",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 4832684,
+     "check": "caution",
+     "check_date": "2026-11-21",
+     "check_notes": [
+      "1 empty file(s), e.g. guinevere_cityaction_Bule_Ball1_add.unity3d – an effect switched off by the modder"
+     ]
     }
    ]
   },
@@ -34366,7 +35222,8 @@
      "size": 8235557,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "gusion_041",
@@ -34382,7 +35239,8 @@
      "size": 5349076,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "gusion_042",
@@ -34470,7 +35328,8 @@
      "size": 11099830,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "gusion_045",
@@ -34505,7 +35364,8 @@
      "size": 15910895,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "gusion_046",
@@ -34630,6 +35490,94 @@
      "size": 6834468,
      "check": "good",
      "check_date": "2026-11-12",
+     "check_notes": []
+    },
+    {
+     "id": "gusion_051",
+     "skin_name": "Kakashi",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/gusion%20x%20kakashi.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/gusion%20x%20kakashi.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 19237458,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
+    },
+    {
+     "id": "gusion_052",
+     "skin_name": "Royal Spider",
+     "image": "https://raw.githubusercontent.com/Mornwish/GAMBAR/main/PAINTED%20SKIN%20IMG/IMG-20241107-WA0000.jpg",
+     "script": "https://raw.githubusercontent.com/Mornwish/PAINTED-SKIN/main/GUSION/GUSION%20STAR%202024%20PAINTED1.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "gusion",
+       "name": "gusion",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "assassin",
+       "name": "assassin",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 5481675,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
+    },
+    {
+     "id": "gusion_053",
+     "skin_name": "Romantic Liaison",
+     "image": "https://raw.githubusercontent.com/raflinkk/SC/main/GUSION/gusion%20Valentine.jpg",
+     "script": "https://raw.githubusercontent.com/Mornwish/PAINTED-SKIN/main/GUSION/Gusion%20Valentine%20Painted.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "gusion",
+       "name": "gusion",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "assassin",
+       "name": "assassin",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 8355772,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -35319,7 +36267,8 @@
      "size": 21338773,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "hanabi_032",
@@ -35738,7 +36687,8 @@
      "size": 14481806,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "hanzo_018",
@@ -35773,7 +36723,8 @@
      "size": 31786725,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "hanzo_019",
@@ -35802,6 +36753,42 @@
      "size": 7193719,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "hanzo_020",
+     "skin_name": "Evil Tutor",
+     "image": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Evil%20Tutor.png",
+     "script": "https://raw.githubusercontent.com/Nbs2023/Painted/main/HANZO%20SPECIAL%20PAINTED.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "hanzo",
+       "name": "hanzo",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "assassin",
+       "name": "assassin",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 7048608,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -36344,7 +37331,8 @@
      "size": 5502628,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "harith_025",
@@ -36463,6 +37451,42 @@
      "size": 17575914,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "harith_030",
+     "skin_name": "Wayfarer",
+     "image": "https://raw.githubusercontent.com/raflinkk/SC/main/HARITS/Harith%20elite.jpg",
+     "script": "https://raw.githubusercontent.com/Mornwish/PAINTED-SKIN/main/HARITS/Painted%20Skin%20Harits%20Elite.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "harith",
+       "name": "harith",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 5571801,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -37015,7 +38039,8 @@
      "size": 8726199,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "harley_026",
@@ -37031,7 +38056,8 @@
      "size": 7464629,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "harley_027",
@@ -37125,6 +38151,44 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "harley_030",
+     "skin_name": "Redcard Referee",
+     "image": "https://raw.githubusercontent.com/raflinkk/SC/main/HARLEY/Harley%20Special.jpg",
+     "script": "https://raw.githubusercontent.com/Mornwish/PAINTED-SKIN/main/HARLEY/Harley%20Special%20Painted%20Skin.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "harley",
+       "name": "harley",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "assassin",
+       "name": "assassin",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 4514237,
+     "check": "caution",
+     "check_date": "2026-11-21",
+     "check_notes": [
+      "12 bundle(s) carry extra trailing bytes (watermark)"
+     ]
     }
    ]
   },
@@ -37511,7 +38575,8 @@
      "size": 5350423,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "hayabusa_013",
@@ -37543,7 +38608,8 @@
      "size": 11691900,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "hayabusa_015",
@@ -38089,7 +39155,8 @@
      "size": 32600539,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "hayabusa_047",
@@ -38124,7 +39191,8 @@
      "size": 36787166,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "hayabusa_048",
@@ -38159,7 +39227,8 @@
      "size": 40163405,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "hayabusa_049",
@@ -38194,7 +39263,8 @@
      "size": 39601625,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "hayabusa_050",
@@ -38309,6 +39379,58 @@
      "size": 8785149,
      "check": "good",
      "check_date": "2026-11-12",
+     "check_notes": []
+    },
+    {
+     "id": "hayabusa_054",
+     "skin_name": "Patrick",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero1044-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603005929",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/hayabusa%20x%20patrick.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 18045392,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
+    },
+    {
+     "id": "hayabusa_055",
+     "skin_name": "Sushi Master - Purple",
+     "image": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Sushi%20Master%20-%20Purple.png",
+     "script": "https://raw.githubusercontent.com/Nbs2023/Painted/main/HAYABUSA%20SUMMER%20PAINTED.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "hayabusa",
+       "name": "hayabusa",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "assassin",
+       "name": "assassin",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 8698002,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -38745,7 +39867,8 @@
      "size": 4963251,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "helcurt_022",
@@ -38779,7 +39902,8 @@
      "size": 5928583,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "helcurt_024",
@@ -39003,6 +40127,42 @@
      "size": 532055,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "helcurt_032",
+     "skin_name": "Phantom Prowler",
+     "image": "https://raw.githubusercontent.com/Mornwish/GAMBAR/main/PAINTED%20SKIN%20IMG/20241107_120832.jpg",
+     "script": "https://raw.githubusercontent.com/Mornwish/PAINTED-SKIN/main/HELCURT/HELCURT%20STAR%20PAINTED.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "helcurt",
+       "name": "helcurt",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "assassin",
+       "name": "assassin",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 5101537,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -40365,7 +41525,8 @@
      "size": 9897695,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "irithel_021",
@@ -40461,7 +41622,8 @@
      "size": 19098625,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "irithel_025",
@@ -40496,7 +41658,8 @@
      "size": 21121586,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "irithel_026",
@@ -40554,6 +41717,42 @@
      "size": 10693940,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "irithel_028",
+     "skin_name": "Starlight – painted 1",
+     "image": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/PAINTED/Painted%20Irithel.png",
+     "script": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/PAINTED/IRITHEL%20STAR%20NEW%20PAINTED1.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "irithel",
+       "name": "irithel",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "marksman",
+       "name": "marksman",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 10036315,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -40794,7 +41993,8 @@
      "size": 15870776,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "ixia_012",
@@ -40810,7 +42010,8 @@
      "size": 14611042,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "ixia_013",
@@ -40868,6 +42069,42 @@
      "size": 18545175,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "ixia_015",
+     "skin_name": "Dynamic Flair",
+     "image": "https://raw.githubusercontent.com/Mornwish/GAMBAR/main/PAINTED%20SKIN%20IMG/20241107_120908.jpg",
+     "script": "https://raw.githubusercontent.com/Mornwish/PAINTED-SKIN/main/IXIA/IXIA%20STAR%20PAINTED1.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "ixia",
+       "name": "ixia",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "marksman",
+       "name": "marksman",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 14823613,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -41470,7 +42707,8 @@
      "size": 9323625,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "jawhead_026",
@@ -41505,7 +42743,8 @@
      "size": 26333025,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "jawhead_027",
@@ -41627,6 +42866,42 @@
      "size": 12877388,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "jawhead_031",
+     "skin_name": "Proto Sentinel",
+     "image": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/JAWHEAD/Jawhead%20allstar%20paintednew.png",
+     "script": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/JAWHEAD/JAWHEAD%20ALLSTAR%20PAINTED.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "jawhead",
+       "name": "jawhead",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 24608584,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -43257,7 +44532,8 @@
      "size": 11474483,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "joy_021",
@@ -43273,7 +44549,8 @@
      "size": 11460461,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "joy_022",
@@ -43435,6 +44712,78 @@
      "size": 10452003,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "joy_028",
+     "skin_name": "Exostar Runner",
+     "image": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/JOY/Joy%20Exostar%20Runner.png",
+     "script": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/JOY/JOY%20EXOSTAR%20RUNNER.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "joy",
+       "name": "joy",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "assassin",
+       "name": "assassin",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 11800242,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
+    },
+    {
+     "id": "joy_029",
+     "skin_name": "Exostar Ranger",
+     "image": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/JOY/Joy%20Exostar%20Ranger.png",
+     "script": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/JOY/JOY%20EXOSTAR%20RANGER.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "joy",
+       "name": "joy",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "assassin",
+       "name": "assassin",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 11786635,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -44562,7 +45911,8 @@
      "size": 14217812,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "kadita_024",
@@ -44597,7 +45947,8 @@
      "size": 29121930,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "kadita_025",
@@ -44632,7 +45983,8 @@
      "size": 29148202,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "kadita_026",
@@ -44779,6 +46131,132 @@
       "10 non-game file(s) named .unity3d (modder watermark, ignored), e.g. ._heroshow_ip10_add.unity3d"
      ],
      "added": "2026-11-15"
+    },
+    {
+     "id": "kadita_031",
+     "skin_name": "Water Lily",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/kadita%20x%20water%20lily.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/kadita%20x%20water%20lily.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 21153421,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
+    },
+    {
+     "id": "kadita_032",
+     "skin_name": "Violet Orchid",
+     "image": "https://raw.githubusercontent.com/raflinkk/SC/main/KADITA/Kadita%20special.jpg",
+     "script": "https://raw.githubusercontent.com/Mornwish/PAINTED-SKIN/main/KADITA/Painted%20Skin%20Kadita%20Special.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "kadita",
+       "name": "kadita",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 4298593,
+     "check": "caution",
+     "check_date": "2026-11-21",
+     "check_notes": [
+      "1 empty file(s), e.g. kadita_cityaction_wei_add.unity3d – an effect switched off by the modder"
+     ]
+    },
+    {
+     "id": "kadita_033",
+     "skin_name": "Lady of the Tide",
+     "image": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/KADITA/Kadita%20star%20painted1new.png",
+     "script": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/KADITA/KADITA%20STAR%20PAINTED1.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "kadita",
+       "name": "kadita",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 19164659,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
+    },
+    {
+     "id": "kadita_034",
+     "skin_name": "Muse of the Tide",
+     "image": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/KADITA/Kadita%20star%20painted2new.png",
+     "script": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/KADITA/KADITA%20STAR%20PAINTED2.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "kadita",
+       "name": "kadita",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 19289812,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
     }
    ]
   },
@@ -45681,7 +47159,8 @@
      "size": 7492098,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "kagura_045",
@@ -45920,7 +47399,80 @@
      "added": "2026-11-15",
      "size": 15291549,
      "check": "good",
-     "check_date": "2026-11-15",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "painted": true
+    },
+    {
+     "id": "kagura_053",
+     "skin_name": "Amethyst Wizard",
+     "image": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Amethyst%20Wizard.png",
+     "script": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Kagura%20special%20painted.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "kagura",
+       "name": "kagura",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 9475641,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
+    },
+    {
+     "id": "kagura_054",
+     "skin_name": "Pink Summer Festival",
+     "image": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Pink%20Summer%20Festival.png",
+     "script": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Kagura%20summer%20painted.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "kagura",
+       "name": "kagura",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 7485661,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -46326,7 +47878,8 @@
      "size": 11362419,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "kaja_017",
@@ -46574,7 +48127,8 @@
      "size": 3428931,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "karina_009",
@@ -46925,7 +48479,8 @@
      "size": 9621655,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "karina_025",
@@ -48802,7 +50357,8 @@
      "size": 6767659,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "khufra_025",
@@ -51014,7 +52570,8 @@
      "size": 9395540,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "lapu-lapu_024",
@@ -51863,7 +53420,8 @@
      "size": 5794179,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "layla_039",
@@ -53483,7 +55041,8 @@
      "size": 9473456,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "lesley_036",
@@ -53553,7 +55112,8 @@
      "size": 27439573,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "lesley_038",
@@ -53675,6 +55235,42 @@
      "size": 52717524,
      "check": "good",
      "check_date": "2026-11-12",
+     "check_notes": []
+    },
+    {
+     "id": "lesley_042",
+     "skin_name": "Romantic Love",
+     "image": "https://raw.githubusercontent.com/raflinkk/SC/main/LESLEY/Lesley%20Valentine.jpg",
+     "script": "https://raw.githubusercontent.com/Mornwish/PAINTED-SKIN/main/LESLEY/Lesley%20Valentine%20Painted%20Skin.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "lesley",
+       "name": "lesley",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "marksman",
+       "name": "marksman",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 9600917,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -54661,6 +56257,22 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "ling_044",
+     "skin_name": "Byakuya",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/ling%20x%20byakuya.jpg",
+     "script": "https://github.com/Opoad55/upluad/releases/download/assets/ling.x.byakuya.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 84005110,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
     }
    ]
   },
@@ -55455,6 +57067,22 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "lukas_013",
+     "skin_name": "Goku",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/lukas%20x%20goku.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/lukas%20x%20goku.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 7913055,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
     }
    ]
   },
@@ -57560,7 +59188,8 @@
      "size": 9298858,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "lylia_026",
@@ -57595,7 +59224,8 @@
      "size": 18362299,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "lylia_027",
@@ -58212,7 +59842,8 @@
      "size": 6843440,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "martis_026",
@@ -58294,7 +59925,8 @@
      "size": 17525795,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "martis_029",
@@ -58480,6 +60112,60 @@
      "size": 4360891,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "martis_035",
+     "skin_name": "Tengen",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/martis%20x%20tengen%20uzai.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/martis%20x%20tengen%20uzai.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 16648535,
+     "check": "caution",
+     "check_date": "2026-11-21",
+     "check_notes": [
+      "1 empty file(s), e.g. asura_attack_02.unity3d – an effect switched off by the modder"
+     ],
+     "added": "2026-11-21"
+    },
+    {
+     "id": "martis_036",
+     "skin_name": "Bloodtide Terror",
+     "image": "https://raw.githubusercontent.com/Mornwish/GAMBAR/main/PAINTED%20SKIN%20IMG/20241107_120927.jpg",
+     "script": "https://raw.githubusercontent.com/Mornwish/PAINTED-SKIN/main/MARTIS/MARTIS%20STAR%20PAINTED1.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "martis",
+       "name": "martis",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 6923694,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -58914,6 +60600,22 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "masha_020",
+     "skin_name": "Chainsawman",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/refs/heads/main/argus%20x%20denji%20chainsaw.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/masha%20x%20chainsawman.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 6676215,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
     }
    ]
   },
@@ -59695,7 +61397,8 @@
      "size": 11602978,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "melissa_019",
@@ -59730,7 +61433,8 @@
      "size": 29392302,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "melissa_020",
@@ -60630,7 +62334,8 @@
      "size": 9263080,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "minsitthar_016",
@@ -60746,6 +62451,42 @@
      "size": 14027052,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "minsitthar_020",
+     "skin_name": "Radiant Lion",
+     "image": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Radiant%20Lion.png",
+     "script": "https://raw.githubusercontent.com/Nbs2023/Painted/main/MINSITTAR%20STARLIGHT%20PIANTED.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "minsitthar",
+       "name": "minsitthar",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 9479219,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -61628,7 +63369,8 @@
      "size": 6654020,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "miya_042",
@@ -61663,7 +63405,8 @@
      "size": 19748983,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "miya_043",
@@ -61698,7 +63441,8 @@
      "size": 19962871,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "miya_044",
@@ -62609,7 +64353,8 @@
      "size": 10763329,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "moskov_033",
@@ -62644,7 +64389,8 @@
      "size": 20230222,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "moskov_034",
@@ -62737,6 +64483,42 @@
      "size": 16609194,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "moskov_037",
+     "skin_name": "Spear of Dystopia",
+     "image": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Spear%20of%20Dystopia.png",
+     "script": "https://raw.githubusercontent.com/Nbs2023/Painted/main/MOSKOV%20STARLIGHT%20PAINTED.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "moskov",
+       "name": "moskov",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "marksman",
+       "name": "marksman",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 9860929,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -64217,7 +65999,8 @@
      "size": 6090956,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "natalia_026",
@@ -64252,7 +66035,8 @@
      "size": 7865683,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "natalia_027",
@@ -65296,7 +67080,8 @@
      "size": 11521402,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "nolan_015",
@@ -65312,7 +67097,8 @@
      "size": 10765141,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "nolan_016",
@@ -65408,6 +67194,42 @@
      "size": 15198774,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "nolan_020",
+     "skin_name": "Fashion Tycoon",
+     "image": "https://raw.githubusercontent.com/Mornwish/GAMBAR/main/PAINTED%20SKIN%20IMG/IMG-20241107-WA0003.jpg",
+     "script": "https://raw.githubusercontent.com/Mornwish/PAINTED-SKIN/main/NOLAN/NOLAN%20STAR%20PAINTED1.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "nolan",
+       "name": "nolan",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "assassin",
+       "name": "assassin",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 11689111,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -65724,7 +67546,8 @@
      "size": 12994361,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "novaria_016",
@@ -65756,7 +67579,8 @@
      "size": 11076146,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "novaria_018",
@@ -65820,6 +67644,42 @@
      "size": 14775281,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "novaria_020",
+     "skin_name": "Honey Glaze",
+     "image": "https://raw.githubusercontent.com/Mornwish/GAMBAR/main/PAINTED%20SKIN%20IMG/IMG-20241107-WA0004.jpg",
+     "script": "https://raw.githubusercontent.com/Mornwish/PAINTED-SKIN/main/NOVARIA/NOVARIA%20STAR%20PAINTED1.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "novaria",
+       "name": "novaria",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 11306480,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -67141,7 +69001,8 @@
      "size": 14914073,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "odette_053",
@@ -67176,7 +69037,8 @@
      "size": 14897848,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "odette_054",
@@ -67428,6 +69290,22 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "odette_061",
+     "skin_name": "The Bird Empress",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/odette%20x%20the%20bird%20empress.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/odette%20x%20the%20bird%20empress.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 19221769,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
     }
    ]
   },
@@ -69465,7 +71343,8 @@
      "size": 11912512,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "phoveus_017",
@@ -69481,7 +71360,8 @@
      "size": 11544523,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "phoveus_018",
@@ -69761,6 +71641,78 @@
      "size": 34157272,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "phoveus_027",
+     "skin_name": "Painted 1",
+     "image": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/PHOVEUS/Painted1.png",
+     "script": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/PHOVEUS/PAINTED1.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "phoveus",
+       "name": "phoveus",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 12049772,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
+    },
+    {
+     "id": "phoveus_028",
+     "skin_name": "Painted 2",
+     "image": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/PHOVEUS/Painted2.png",
+     "script": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/PHOVEUS/PAINTED2.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "phoveus",
+       "name": "phoveus",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 11672038,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -70227,7 +72179,8 @@
      "size": 15151527,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "popol-and-kupa_023",
@@ -70384,6 +72337,42 @@
      "size": 3642190,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "popol-and-kupa_028",
+     "skin_name": "Proto Stalker",
+     "image": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/POPOL/Popolkupa%20allstar%20painted.png",
+     "script": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/POPOL/POPOL%20KUPA%20ALLSTAR%20PAINTED.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "popol-and-kupa",
+       "name": "popol-and-kupa",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "marksman",
+       "name": "marksman",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 15273753,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -71769,7 +73758,8 @@
      "size": 15017048,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "roger_035",
@@ -71981,6 +73971,42 @@
      "size": 26171265,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "roger_043",
+     "skin_name": "Raging Hunter",
+     "image": "https://raw.githubusercontent.com/Mornwish/GAMBAR/main/PAINTED%20SKIN%20IMG/IMG-20241107-WA0005.jpg",
+     "script": "https://raw.githubusercontent.com/Mornwish/PAINTED-SKIN/main/ROGER/ROGER%20EPIC%F0%9F%94%B8Phantom%20PAINTED.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "roger",
+       "name": "roger",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 15226048,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -72765,7 +74791,8 @@
      "size": 5981318,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "ruby_036",
@@ -73245,7 +75272,8 @@
      "size": 9017468,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "saber_025",
@@ -73303,6 +75331,42 @@
      "size": 2881832,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "saber_027",
+     "skin_name": "Steel of Hound",
+     "image": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Steel%20of%20hound.png",
+     "script": "https://raw.githubusercontent.com/Nbs2023/Painted/main/SABER%20STARLIGHT%20PAINTED.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "saber",
+       "name": "saber",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "assassin",
+       "name": "assassin",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 9154882,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -74393,6 +76457,22 @@
      "check_notes": [],
      "size": 82803740,
      "added": "2026-11-17"
+    },
+    {
+     "id": "selena_049",
+     "skin_name": "All Star",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/selena%20x%20all%20star.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/selena%20x%20all%20star.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 14684206,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
     }
    ]
   },
@@ -74999,7 +77079,8 @@
      "size": 16572107,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "silvanna_027",
@@ -75162,6 +77243,22 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": []
+    },
+    {
+     "id": "sora_003",
+     "skin_name": "Luffy v2",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/sora%20x%20luffy2.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/sora%20x%20luffy2.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 12190821,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
     }
    ]
   },
@@ -75825,6 +77922,22 @@
      "check_notes": [
       "ZIP not uploaded by source yet (NIX lists it); auto-enables when the file appears"
      ]
+    },
+    {
+     "id": "sun_030",
+     "skin_name": "Rabbids",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/sun%20x%20rabbids.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/sun%20x%20rabbids.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 7223323,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
     }
    ]
   },
@@ -76574,7 +78687,8 @@
      "size": 7593839,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "terizla_019",
@@ -77096,7 +79210,8 @@
      "size": 11604671,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "thamuz_020",
@@ -77131,7 +79246,8 @@
      "size": 18073353,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "thamuz_021",
@@ -77253,6 +79369,42 @@
      "size": 4885324,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "thamuz_025",
+     "skin_name": "Sanctified Inferno",
+     "image": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Sanctified%20Inferno.png",
+     "script": "https://raw.githubusercontent.com/Nbs2023/Painted/main/THAMUZ%20STARLIGHT%20PAINTED.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "thamuz",
+       "name": "thamuz",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 12097528,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -77788,7 +79940,8 @@
      "size": 8091736,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "tigreal_024",
@@ -78237,7 +80390,8 @@
      "size": 11075808,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "uranus_018",
@@ -79302,7 +81456,7 @@
     },
     {
      "id": "valentina_018",
-     "skin_name": "Digital Echantress",
+     "skin_name": "Digital Enchantress",
      "image": "https://raw.githubusercontent.com/n3wz1ips/P0tuSk1n/refs/heads/main/valentina%20star%20painted.jpg",
      "script": "https://raw.githubusercontent.com/n3wz1ips/D3f4ultSk1n/main/valentina%20star%20painted.zip",
      "featured": false,
@@ -79314,7 +81468,8 @@
      "size": 5258852,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "valentina_019",
@@ -79405,6 +81560,42 @@
      "check_date": "2026-11-12",
      "check_notes": [],
      "added": "2026-11-15"
+    },
+    {
+     "id": "valentina_023",
+     "skin_name": "Digital Enchantress",
+     "image": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Digital%20Enchantress.png",
+     "script": "https://raw.githubusercontent.com/Nbs2023/Painted/main/VALENTINA%20STARLIGHT%20PAINTED.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "valentina",
+       "name": "valentina",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 5386665,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
     }
    ]
   },
@@ -80300,6 +82491,22 @@
      "check": "good",
      "check_date": "2026-11-12",
      "check_notes": []
+    },
+    {
+     "id": "valir_039",
+     "skin_name": "Deidara",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/valir%20x%20deidara.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/valir%20x%20deidara.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 2809935,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
     }
    ]
   },
@@ -81575,7 +83782,8 @@
      "size": 8441285,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "wanwan_030",
@@ -81668,6 +83876,42 @@
      "size": 7334404,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "wanwan_033",
+     "skin_name": "Azure Commander",
+     "image": "https://raw.githubusercontent.com/raflinkk/SC/main/WAN%20WAN/WAN%20WAN%20elite.jpg",
+     "script": "https://raw.githubusercontent.com/Mornwish/PAINTED-SKIN/main/WAN%20WAN/Painted%20Skin%20Wan%20Wan%20Elite.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "wanwan",
+       "name": "wanwan",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "marksman",
+       "name": "marksman",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 6041195,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -82297,6 +84541,38 @@
      "check": "good",
      "check_date": "2026-11-12",
      "check_notes": []
+    },
+    {
+     "id": "x-borg_026",
+     "skin_name": "Charizard",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/xborg%20x%20charizard.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/xborg%20x%20charizard.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 8746499,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
+    },
+    {
+     "id": "x-borg_027",
+     "skin_name": "Pain",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/xborg%20x%20pain.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/xborg%20x%20pain.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 9826736,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
     }
    ]
   },
@@ -82720,7 +84996,8 @@
      "size": 12265406,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "xavier_019",
@@ -83318,7 +85595,8 @@
      "size": 10167997,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "yi-sun-shin_024",
@@ -83910,7 +86188,8 @@
      "size": 7674679,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "yin_026",
@@ -84401,6 +86680,42 @@
      "size": 20379997,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "yin_047",
+     "skin_name": "Immortal Guardian",
+     "image": "https://raw.githubusercontent.com/raflinkk/PAINTED/main/Immortal%20Guardian.png",
+     "script": "https://raw.githubusercontent.com/Nbs2023/Painted/main/YIN%20STARLIGHT%20PAINTED.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "yin",
+       "name": "yin",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "fighter",
+       "name": "fighter",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 11669367,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -85254,7 +87569,8 @@
      "size": 22723999,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "yve_012",
@@ -85549,7 +87865,28 @@
      "name": "",
      "source": "skinix",
      "added": "2026-11-17",
-     "size": 25761713
+     "size": 25761713,
+     "check": "faulty",
+     "check_date": "2026-11-21",
+     "check_notes": [
+      "2 game file(s) are not Unity bundles (broken), e.g. wuzetian_CityAction_fenwei_add.unity3d"
+     ]
+    },
+    {
+     "id": "zetian_013",
+     "skin_name": "All Star",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/zetian%20x%20all%20star.jpg",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/zetian%20x%20all%20star.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 16459629,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
     }
    ]
   },
@@ -85970,7 +88307,8 @@
      "size": 13295998,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "zhask_018",
@@ -86005,7 +88343,8 @@
      "size": 14434789,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "zhask_019",
@@ -86306,7 +88645,8 @@
      "size": 12016295,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "zhuxin_013",
@@ -86341,6 +88681,58 @@
      "size": 19219892,
      "check": "good",
      "check_date": "2026-11-08",
+     "check_notes": []
+    },
+    {
+     "id": "zhuxin_014",
+     "skin_name": "Ethereal Phoenix",
+     "image": "https://raw.githubusercontent.com/Opoad55/upluad/main/zhuxin%20x%20ethereal%20phoenix.jpg",
+     "script": "https://github.com/Opoad55/upluad/releases/download/assets/zhuxin.x.ethereal.phoenix.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "bs",
+     "size": 51397952,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
+    },
+    {
+     "id": "zhuxin_015",
+     "skin_name": "Starlight – painted 1",
+     "image": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/PAINTED/Painted%20Zhuxin.png",
+     "script": "https://raw.githubusercontent.com/raflinkk/DYRROTH/main/PAINTED/ZHUXIN%20STAR%20PAINTED1.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [
+      {
+       "id": "painted",
+       "name": "Painted",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "zhuxin",
+       "name": "zhuxin",
+       "icon": "",
+       "file": ""
+      },
+      {
+       "id": "mage",
+       "name": "mage",
+       "icon": "",
+       "file": ""
+      }
+     ],
+     "name": "",
+     "source": "mbs",
+     "added": "2026-11-21",
+     "painted": true,
+     "size": 12261753,
+     "check": "good",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
@@ -87167,7 +89559,8 @@
      "size": 7040698,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "painted": true
     },
     {
      "id": "zilong_037",
@@ -87282,11 +89675,11 @@
      "added": "2026-11-15",
      "size": 7017783,
      "check": "good",
-     "check_date": "2026-11-15",
+     "check_date": "2026-11-21",
      "check_notes": []
     }
    ]
   }
  ],
- "updated": "2026-11-17"
+ "updated": "2026-11-21"
 }

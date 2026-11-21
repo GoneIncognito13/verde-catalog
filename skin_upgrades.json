@@ -24165,7 +24165,10 @@
      "skin_tags": [],
      "source": "nut",
      "added": "2026-11-17",
-     "size": 14316423
+     "size": 14316423,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
     }
    ],
    "skin_tags": []
@@ -126982,7 +126985,10 @@
      ],
      "source": "nut",
      "added": "2026-11-17",
-     "size": 13142182
+     "size": 13142182,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
     }
    ],
    "source": "nix"
@@ -153422,7 +153428,12 @@
      ],
      "source": "nut",
      "added": "2026-11-17",
-     "size": 13003507
+     "size": 13003507,
+     "check": "caution",
+     "check_date": "2026-11-21",
+     "check_notes": [
+      "2 empty file(s), e.g. 84_zeo_cityaction_foot_skin06_add.unity3d – an effect switched off by the modder"
+     ]
     }
    ],
    "source": "nix"
@@ -166725,7 +166736,12 @@
      ],
      "source": "nut",
      "added": "2026-11-17",
-     "size": 12665083
+     "size": 12665083,
+     "check": "caution",
+     "check_date": "2026-11-21",
+     "check_notes": [
+      "2 empty file(s), e.g. BBsheshou_cityaction_skin02_05_add.unity3d – an effect switched off by the modder"
+     ]
     }
    ],
    "source": "nix"
@@ -166793,7 +166809,10 @@
      "skin_tags": [],
      "source": "nut",
      "added": "2026-11-17",
-     "size": 14372913
+     "size": 14372913,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
     },
     {
      "id": "popol_and_kupa_trouble_makers_to_spirit_of_the_brush",
@@ -166807,7 +166826,10 @@
      ],
      "source": "nut",
      "added": "2026-11-17",
-     "size": 13538627
+     "size": 13538627,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
     }
    ],
    "source": "nix"
@@ -193136,7 +193158,12 @@
      "skin_tags": [],
      "source": "nut",
      "added": "2026-11-17",
-     "size": 14352510
+     "size": 14352510,
+     "check": "caution",
+     "check_date": "2026-11-21",
+     "check_notes": [
+      "4 empty file(s), e.g. Jimmy_CityAction_ren04_add.unity3d – an effect switched off by the modder"
+     ]
     }
    ],
    "source": "nut"
@@ -199898,7 +199925,10 @@
      ],
      "source": "nut",
      "added": "2026-11-17",
-     "size": 5479359
+     "size": 5479359,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
     },
     {
      "id": "clint_scarlet_musketeer_to_vessel_of_ruin",
@@ -199910,7 +199940,10 @@
      "skin_tags": [],
      "source": "nut",
      "added": "2026-11-17",
-     "size": 21172278
+     "size": 21172278,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
     }
    ],
    "source": "nut"
@@ -199933,7 +199966,10 @@
      "skin_tags": [],
      "source": "nut",
      "added": "2026-11-17",
-     "size": 4840942
+     "size": 4840942,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
     },
     {
      "id": "layla_blue_specter_to_prismatic_rhythm",
@@ -199945,7 +199981,12 @@
      "skin_tags": [],
      "source": "nut",
      "added": "2026-11-17",
-     "size": 27110504
+     "size": 27110504,
+     "check": "caution",
+     "check_date": "2026-11-21",
+     "check_notes": [
+      "bundles are not inside Art/ UI/ Scenes/ folders"
+     ]
     }
    ],
    "source": "nut"
@@ -199970,7 +200011,12 @@
      ],
      "source": "nut",
      "added": "2026-11-17",
-     "size": 12138984
+     "size": 12138984,
+     "check": "caution",
+     "check_date": "2026-11-21",
+     "check_notes": [
+      "1 empty file(s), e.g. hero_asura_afterimage_skin08_add.unity3d – an effect switched off by the modder"
+     ]
     }
    ],
    "source": "nut"
@@ -199995,7 +200041,12 @@
      ],
      "source": "nut",
      "added": "2026-11-17",
-     "size": 13161530
+     "size": 13161530,
+     "check": "caution",
+     "check_date": "2026-11-21",
+     "check_notes": [
+      "1 empty file(s), e.g. hero_asura_afterimage_skin09_add.unity3d – an effect switched off by the modder"
+     ]
     }
    ],
    "source": "nut"
@@ -200020,7 +200071,12 @@
      ],
      "source": "nut",
      "added": "2026-11-17",
-     "size": 12196059
+     "size": 12196059,
+     "check": "caution",
+     "check_date": "2026-11-21",
+     "check_notes": [
+      "6 empty file(s), e.g. zeo_cityaction_BoneWeapon_005_skin11_add.unity3d – an effect switched off by the modder"
+     ]
     }
    ],
    "source": "nut"
@@ -200043,7 +200099,12 @@
      "skin_tags": [],
      "source": "nut",
      "added": "2026-11-17",
-     "size": 13664468
+     "size": 13664468,
+     "check": "caution",
+     "check_date": "2026-11-21",
+     "check_notes": [
+      "1 empty file(s), e.g. next_BBsheshou_skin_ci_skin06_add.unity3d – an effect switched off by the modder"
+     ]
     },
     {
      "id": "popol_and_kupa_proto_hunter_to_spirit_of_the_brush",
@@ -200057,7 +200118,12 @@
      ],
      "source": "nut",
      "added": "2026-11-17",
-     "size": 12764803
+     "size": 12764803,
+     "check": "caution",
+     "check_date": "2026-11-21",
+     "check_notes": [
+      "1 empty file(s), e.g. next_BBsheshou_skin_ci_skin06_add.unity3d – an effect switched off by the modder"
+     ]
     }
    ],
    "source": "nut"
@@ -200080,11 +200146,39 @@
      "skin_tags": [],
      "source": "nut",
      "added": "2026-11-17",
-     "size": 16438561
+     "size": 16438561,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": []
     }
    ],
    "source": "nut"
+  },
+  {
+   "id": "kadita_basic",
+   "hero": "Kadita",
+   "base_name": "Basic",
+   "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero752-portrait.png/revision/latest/scale-to-width-down/150?cb=20260925091540",
+   "backup_script": "",
+   "enabled": true,
+   "targets": [
+    {
+     "id": "kadita_basic_to_water_lily",
+     "name": "Water Lily",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero752-portrait.png/revision/latest/scale-to-width-down/150?cb=20260925091540",
+     "script": "https://raw.githubusercontent.com/Opoad55/upluad/main/kadita%20basic%20x%20water%20lily.zip",
+     "type": "skin",
+     "enabled": true,
+     "source": "bs",
+     "size": 21153421,
+     "check": "good",
+     "check_date": "2026-11-21",
+     "check_notes": [],
+     "added": "2026-11-21"
+    }
+   ],
+   "source": "bs"
   }
  ],
- "updated": "2026-11-17"
+ "updated": "2026-11-21"
 }
