@@ -1348,6 +1348,7 @@
    "check": "faulty",
    "check_date": "2026-11-08",
    "check_notes": [
+    "Audit: No game files in this download (a wrong or nested archive).",
     "no game files inside (no .unity3d / .mp4 / .bnk / loading picture)"
    ]
   },
@@ -23008,6 +23009,7 @@
    "check": "caution",
    "check_date": "2026-11-21",
    "check_notes": [
+    "Audit: Packed package: needs Verde 3.6.4 or newer.",
     "bundles are not inside Art/ UI/ Scenes/ folders"
    ]
   }
