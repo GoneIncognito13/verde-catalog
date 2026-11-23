@@ -1,0 +1,35 @@
+{
+ "version": 1,
+ "updated": "2026-11-23",
+ "base_emote": 40200,
+ "templates": [
+  {
+   "id": "bounce",
+   "name": "Bounce",
+   "file": "emote_templates/bounce.zip",
+   "sha256": "d7ddca34d4062130c3fc0f8442fb4d1a90a98c60fc01f8b17d5f72fce9b25e32",
+   "size": 817899
+  },
+  {
+   "id": "float",
+   "name": "Float",
+   "file": "emote_templates/float.zip",
+   "sha256": "7d68fefd38f8aaf9029f956ee14cbafd276eea6b3ab489c5aea2afee2b5b3efb",
+   "size": 822815
+  },
+  {
+   "id": "quick-pop",
+   "name": "Quick pop",
+   "file": "emote_templates/quick-pop.zip",
+   "sha256": "6e7f2350e0cec08b90f36dc9027749228f567fd5f206b6cec12290280aa92701",
+   "size": 821505
+  },
+  {
+   "id": "soft-pop",
+   "name": "Soft pop",
+   "file": "emote_templates/soft-pop.zip",
+   "sha256": "bf84194970717ed6610303173a00a7aa6a499a1ca1d2fc0264d8550e3d32deac",
+   "size": 855528
+  }
+ ]
+}
