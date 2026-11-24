@@ -18793,6 +18793,23 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 25030285
+    },
+    {
+     "id": "khufra_desert_owl_to_cursed_doll",
+     "name": "Cursed Doll",
+     "image": "https://i.imgur.com/ZNi2sX4.png",
+     "script": "https://raw.githubusercontent.com/missnapokita/Emote-ni-malupiton/main/khufra%20normal%20to%20epic.zip",
+     "type": "upgrade",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 5541059,
+     "check": "faulty",
+     "check_date": "2026-11-24",
+     "check_notes": [
+      "2 bundle(s) are cut off (shorter than their header says), e.g. munaiyi_cityaction_Arm_add.unity3d"
+     ]
     }
    ],
    "skin_tags": []
@@ -34277,6 +34294,23 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 12884130
+    },
+    {
+     "id": "kimmy_steam_researcher_to_starbound",
+     "name": "Starbound",
+     "image": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2025/12/Review-Skin-Collector-Kimmy.jpg?w=1200&ssl=1",
+     "script": "https://raw.githubusercontent.com/missnapokita/git-uploader/main/uploads/1777920828136_kim%20nor%20to%20collector.zip",
+     "type": "upgrade",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 19481817,
+     "check": "faulty",
+     "check_date": "2026-11-24",
+     "check_notes": [
+      "1 game file(s) are not Unity bundles (broken), e.g. Jimmy_CityAction_zd_add.unity3d"
+     ]
     }
    ],
    "skin_tags": [
@@ -34494,6 +34528,21 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 13435490
+    },
+    {
+     "id": "kimmy_bio_frontier_to_starbound",
+     "name": "Starbound",
+     "image": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2025/12/Review-Skin-Collector-Kimmy.jpg?w=1200&ssl=1",
+     "script": "https://raw.githubusercontent.com/missnapokita/git-uploader/main/uploads/1777920851800_kim%20star%20to%20collector.zip",
+     "type": "upgrade",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 19193513,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ],
    "skin_tags": [
@@ -34700,6 +34749,21 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 13432217
+    },
+    {
+     "id": "kimmy_charge_leader_to_starbound",
+     "name": "Starbound",
+     "image": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2025/12/Review-Skin-Collector-Kimmy.jpg?w=1200&ssl=1",
+     "script": "https://raw.githubusercontent.com/missnapokita/git-uploader/main/uploads/1777920812140_kim%20elite%20to%20collector.zip",
+     "type": "upgrade",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 19144916,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ],
    "skin_tags": [
@@ -48286,6 +48350,21 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 22814234
+    },
+    {
+     "id": "lylia_school_idol_to_phantasmal_mischief",
+     "name": "Phantasmal Mischief",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWSHnqmU0WcgcOmDRLfnIglp1sHuqZUYmW_f629PXrgpOGXwbztvPbgUM&s=10",
+     "script": "https://raw.githubusercontent.com/missnapokita/aug-squad/main/lylia%20nor%20to%20cove.zip",
+     "type": "upgrade",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 20192428,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ],
    "skin_tags": []
@@ -48485,6 +48564,21 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 26305034
+    },
+    {
+     "id": "lylia_star_student_to_phantasmal_mischief",
+     "name": "Phantasmal Mischief",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWSHnqmU0WcgcOmDRLfnIglp1sHuqZUYmW_f629PXrgpOGXwbztvPbgUM&s=10",
+     "script": "https://raw.githubusercontent.com/missnapokita/aug-squad/main/lylia%20elite%20to%20cove.zip",
+     "type": "upgrade",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 20258792,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ],
    "skin_tags": []
@@ -199000,6 +199094,21 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 16579758
+    },
+    {
+     "id": "hilda_power_of_wildness_to_guardian_battalion",
+     "name": "Guardian Battalion",
+     "image": "https://pbs.twimg.com/media/G3D4Ws7aoAA70EX.jpg",
+     "script": "https://raw.githubusercontent.com/missnapokita/aug-squad/main/hil%20nor%20to%20star.zip",
+     "type": "upgrade",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 16829575,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ],
    "source": "nix"
@@ -199125,6 +199234,21 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 17899002
+    },
+    {
+     "id": "hilda_flower_of_the_wastes_to_guardian_battalion",
+     "name": "Guardian Battalion",
+     "image": "https://pbs.twimg.com/media/G3D4Ws7aoAA70EX.jpg",
+     "script": "https://raw.githubusercontent.com/missnapokita/aug-squad/main/hil%20s%20to%20star.zip",
+     "type": "upgrade",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 16198534,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ],
    "source": "nix"
@@ -324742,5 +324866,5 @@
    "source": "nix"
   }
  ],
- "updated": "2026-11-21"
+ "updated": "2026-11-24"
 }

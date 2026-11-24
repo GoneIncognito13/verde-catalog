@@ -6668,6 +6668,70 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 6659233
+    },
+    {
+     "id": "alucard_085",
+     "skin_name": "Tanjiro Kamado",
+     "image": "https://github.com/io-rmdragneel/Custom-Skin/raw/main/assets/portrait/demon_slayer_tanjiro.jpg",
+     "script": "https://raw.githubusercontent.com/missnapokita/march-2025/main/alu%20tanjiro.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 3578329,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
+    },
+    {
+     "id": "alucard_086",
+     "skin_name": "Gol D. Roger",
+     "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/_0700003.jpg",
+     "script": "https://raw.githubusercontent.com/mlbb-toolkit/tikloot-bblm/main/7/_0700003.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 2227422,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
+    },
+    {
+     "id": "alucard_087",
+     "skin_name": "Mihawk",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
+     "script": "https://raw.githubusercontent.com/injctr/CUST0W-SK1N/main/Alucard%20-%20Mihawk.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "vinzz",
+     "added": "2026-11-24",
+     "size": 3052773,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
+    },
+    {
+     "id": "alucard_088",
+     "skin_name": "Old Epic",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
+     "script": "https://raw.githubusercontent.com/injctr/CUST0W-SK1N/main/Alucard%20-%20Old%20Epic.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "vinzz",
+     "added": "2026-11-24",
+     "size": 3967590,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -14519,6 +14583,38 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 9956174
+    },
+    {
+     "id": "badang_052",
+     "skin_name": "Uchiha Madara",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDw7OTHD711NgpBKs8JRnoah9J23avbVq96w&usqp=CAU",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime-July-2024/main/badang%20x%20madara.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "escanor",
+     "added": "2026-11-24",
+     "size": 3765556,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
+    },
+    {
+     "id": "badang_053",
+     "skin_name": "Jiraiya",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20220525165815",
+     "script": "https://raw.githubusercontent.com/injctr/CUST0W-SK1N/main/Badang%20-%20Jiraiya.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "vinzz",
+     "added": "2026-11-24",
+     "size": 2718559,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -15819,7 +15915,10 @@
      "name": "",
      "source": "bs",
      "added": "2026-10-27",
-     "size": 11485735
+     "size": 11485735,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     },
     {
      "id": "bane_016",
@@ -16463,6 +16562,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 9680952
+    },
+    {
+     "id": "bane_043",
+     "skin_name": "Mr. Cravs",
+     "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/1100001.jpg",
+     "script": "https://raw.githubusercontent.com/mlbb-toolkit/tikloot-bblm/main/11/1100001.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 2714993,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -20734,6 +20849,40 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 28885103
+    },
+    {
+     "id": "benedetta_048",
+     "skin_name": "Soul of Pride",
+     "image": "https://github.com/tin0521/dec2025/raw/refs/heads/main/benedetta_vessels.png",
+     "script": "https://raw.githubusercontent.com/tin0521/dec2025/main/benedetta_soulvessel.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "escanor",
+     "added": "2026-11-24",
+     "size": 24490027,
+     "check": "caution",
+     "check_date": "2026-11-24",
+     "check_notes": [
+      "40 bundle(s) carry extra trailing bytes (watermark)"
+     ]
+    },
+    {
+     "id": "benedetta_049",
+     "skin_name": "Shinobu Kocho",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwVvzISgFuQk7mPuOzYJB9u3oGDvUmv7JFhwDi4xJwtDU1lcVeZibIz6M5&s=10",
+     "script": "https://raw.githubusercontent.com/missnapokita/march-2025/main/bene%20shino.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 4011131,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -28506,6 +28655,38 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 12399329
+    },
+    {
+     "id": "chou_117",
+     "skin_name": "Vinsmoke Sanji",
+     "image": "https://github.com/injector-origin/Custom-Skin/raw/main/assets/portrait/one_piece_sanji.jpg",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime-July-2024/main/chou%20x%20sanji.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "escanor",
+     "added": "2026-11-24",
+     "size": 3166104,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
+    },
+    {
+     "id": "chou_118",
+     "skin_name": "Yuji Itadori",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1134-portrait.png/revision/latest?cb=20230212035447",
+     "script": "https://raw.githubusercontent.com/missnapokita/Fix/main/chou%20x%20yuji.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "escanor",
+     "added": "2026-11-24",
+     "size": 2550047,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -31809,6 +31990,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 7074980
+    },
+    {
+     "id": "clint_057",
+     "skin_name": "Sheriff Woody",
+     "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/1300001.jpg",
+     "script": "https://raw.githubusercontent.com/mlbb-toolkit/tikloot-bblm/main/13/1300001.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 823695,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -34649,6 +34846,72 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 15863432
+    },
+    {
+     "id": "dyrroth_055",
+     "skin_name": "Angry Toman",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20240111124052",
+     "script": "https://raw.githubusercontent.com/injctr/CUST0W-SK1N/main/Dyrroth%20-%20Angry%20Toman.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "vinzz",
+     "added": "2026-11-24",
+     "size": 5492464,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
+    },
+    {
+     "id": "dyrroth_056",
+     "skin_name": "Infernal Demon",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20240111124052",
+     "script": "https://raw.githubusercontent.com/injctr/CUST0W-SK1N/main/Dyrroth%20-%20Infernal%20Demon.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "vinzz",
+     "added": "2026-11-24",
+     "size": 9001721,
+     "check": "caution",
+     "check_date": "2026-11-24",
+     "check_notes": [
+      "1 non-game file(s) named .unity3d (modder watermark, ignored), e.g. aldirtx234_inferno.unity3d"
+     ]
+    },
+    {
+     "id": "dyrroth_057",
+     "skin_name": "Tanjiro",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20240111124052",
+     "script": "https://raw.githubusercontent.com/injctr/CUST0W-SK1N/main/Dyrroth%20-%20Tanjiro.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "vinzz",
+     "added": "2026-11-24",
+     "size": 6773249,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
+    },
+    {
+     "id": "dyrroth_058",
+     "skin_name": "Twilight Lightning",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20240111124052",
+     "script": "https://raw.githubusercontent.com/injctr/CUST0W-SK1N/main/Dyrroth%20-%20Twilight%20Lightning.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "vinzz",
+     "added": "2026-11-24",
+     "size": 7798459,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -38184,6 +38447,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 10204096
+    },
+    {
+     "id": "eudora_036",
+     "skin_name": "Nami",
+     "image": "https://github.com/io-rmdragneel/Custom-Skin/raw/main/assets/portrait/one_piece_nami.jpg",
+     "script": "https://raw.githubusercontent.com/missnapokita/Fix/main/eudora%20x%20nami.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "escanor",
+     "added": "2026-11-24",
+     "size": 4039718,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -39687,6 +39966,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 17625226
+    },
+    {
+     "id": "fanny_068",
+     "skin_name": "Old Epic Skylark",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20240605151224",
+     "script": "https://raw.githubusercontent.com/injctr/CUST0W-SK1N/main/Fanny%20-%20Old%20Epic%20Skylark.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "vinzz",
+     "added": "2026-11-24",
+     "size": 6404675,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -42901,6 +43196,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 22112118
+    },
+    {
+     "id": "fredrinn_033",
+     "skin_name": "White Beard",
+     "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/11700001.png",
+     "script": "https://raw.githubusercontent.com/mlbb-toolkit/tikloot-bblm/main/117/11700001.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 3129603,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -53860,6 +54171,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 17370657
+    },
+    {
+     "id": "hanabi_050",
+     "skin_name": "Ino Yamanaka",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRydP3zREFiviQM0P-gE-vF8ek37Ch6RmJ_GQ6-T40HKYLN6m3L4LkrwUGv&s=10",
+     "script": "https://raw.githubusercontent.com/missnapokita/Fix/main/hanabi%20x%20ino.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "escanor",
+     "added": "2026-11-24",
+     "size": 6412529,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -55553,6 +55880,22 @@
      "added": "2026-11-23",
      "size": 7122904,
      "painted": true
+    },
+    {
+     "id": "harith_041",
+     "skin_name": "Boruto",
+     "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/7300001.png",
+     "script": "https://raw.githubusercontent.com/mlbb-toolkit/tikloot-bblm/main/73/7300001.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 4637651,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -63985,7 +64328,10 @@
      "name": "",
      "source": "bs",
      "added": "2026-10-27",
-     "size": 3984862
+     "size": 3984862,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     },
     {
      "id": "johnson_048",
@@ -65287,6 +65633,54 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 25628271
+    },
+    {
+     "id": "johnson_095",
+     "skin_name": "Orange Ranger",
+     "image": "https://i.imgur.com/nk0l52h.png",
+     "script": "https://raw.githubusercontent.com/RheaAbode/swap/main/JS%20ORANGE%20RANGER.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 4271635,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
+    },
+    {
+     "id": "johnson_096",
+     "skin_name": "Green Ranger",
+     "image": "https://i.imgur.com/cvgKW1k.png",
+     "script": "https://raw.githubusercontent.com/RheaAbode/hdud/main/green%20flash.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 3324119,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
+    },
+    {
+     "id": "johnson_097",
+     "skin_name": "Red Ranger",
+     "image": "https://i.imgur.com/BYiFCzo.png",
+     "script": "https://raw.githubusercontent.com/RheaAbode/swap/main/JS%20RED%20RANGER.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 7525013,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -67285,6 +67679,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 10862605
+    },
+    {
+     "id": "julian_040",
+     "skin_name": "Fatcat",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf8PipG4eGxtGmddTf-qtR_lp_9LGqU-h6uYCWsAiSaveOfxOZSA9Djvyz&s=10",
+     "script": "https://raw.githubusercontent.com/JhoweeMylab/New-Skin-2025/main/Julian%20Fatcat.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 9681607,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -70326,6 +70736,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 17891212
+    },
+    {
+     "id": "kagura_079",
+     "skin_name": "Valentine",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero251-portrait.png/revision/latest?cb=20240504224342",
+     "script": "https://raw.githubusercontent.com/injctr/CUST0W-SK1N/main/Kagura%20-%20Valentine.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "vinzz",
+     "added": "2026-11-24",
+     "size": 14368491,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -71787,6 +72213,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 7893417
+    },
+    {
+     "id": "karina_035",
+     "skin_name": "Sakura",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkbmrF_5hfdLTazoq13XBtk8zkQZ3ipqktWkatpn9APeIIC9qZOK0UBqM&s=10",
+     "script": "https://raw.githubusercontent.com/missnapokita/Fix/main/karina%20x%20sakura.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "escanor",
+     "added": "2026-11-24",
+     "size": 4359826,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -74451,6 +74893,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 15936818
+    },
+    {
+     "id": "khufra_035",
+     "skin_name": "Cursed Doll",
+     "image": "https://i.imgur.com/ZNi2sX4.png",
+     "script": "https://raw.githubusercontent.com/missnapokita/Emote-ni-malupiton/main/khufra%20epic.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 9373485,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -75336,6 +75794,22 @@
       "Audit: Skill effects only: this package has no hero model, so the hero's look does not change."
      ],
      "check": "caution"
+    },
+    {
+     "id": "kimmy_035",
+     "skin_name": "Starbound",
+     "image": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2025/12/Review-Skin-Collector-Kimmy.jpg?w=1200&ssl=1",
+     "script": "https://raw.githubusercontent.com/missnapokita/git-uploader/main/uploads/1777920803005_kim%20collector.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 22352721,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -77089,6 +77563,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 9176186
+    },
+    {
+     "id": "lancelot_075",
+     "skin_name": "Old Epic Royal",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb=20240501053243",
+     "script": "https://raw.githubusercontent.com/injctr/CUST0W-SK1N/main/Lancelot%20-%20Old%20Epic%20Royal.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "vinzz",
+     "added": "2026-11-24",
+     "size": 5683832,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -77912,6 +78402,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 9443444
+    },
+    {
+     "id": "lapu-lapu_034",
+     "skin_name": "Inosuke",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png/revision/latest?cb=20220525165107",
+     "script": "https://raw.githubusercontent.com/injctr/CUST0W-SK1N/main/Lapu%20Lapu%20-%20Inosuke.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "vinzz",
+     "added": "2026-11-24",
+     "size": 10968191,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -81805,6 +82311,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 19264838
+    },
+    {
+     "id": "lesley_058",
+     "skin_name": "Fatcat",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero105312-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052552",
+     "script": "https://raw.githubusercontent.com/JhoweeMylab/New-Skin-2025/main/Lesly%20Flatcat.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 11110885,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -83226,6 +83748,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 7277263
+    },
+    {
+     "id": "ling_060",
+     "skin_name": "Levi Ackerman",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero587-portrait.png/revision/latest?cb=20240129101655",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime-July-2024/main/ling%20x%20levi.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 9574830,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -87307,6 +87845,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 7398479
+    },
+    {
+     "id": "lylia_038",
+     "skin_name": "Phantasmal Mischief",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWSHnqmU0WcgcOmDRLfnIglp1sHuqZUYmW_f629PXrgpOGXwbztvPbgUM&s=10",
+     "script": "https://raw.githubusercontent.com/missnapokita/aug-squad/main/lylia%20cove.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 18675319,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -89240,6 +89794,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 11049788
+    },
+    {
+     "id": "masha_028",
+     "skin_name": "Nezuko Kamado",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest?cb=20220525170858",
+     "script": "https://raw.githubusercontent.com/injctr/CUST0W-SK1N/main/Masha%20-%20Nezuko%20Kamado.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "vinzz",
+     "added": "2026-11-24",
+     "size": 7009405,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -93490,6 +94060,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 7295932
+    },
+    {
+     "id": "miya_065",
+     "skin_name": "Sasha Braus",
+     "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/_0100002.jpg",
+     "script": "https://raw.githubusercontent.com/mlbb-toolkit/tikloot-bblm/main/1/_0100002.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 1502101,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -94812,6 +95398,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 9798064
+    },
+    {
+     "id": "moskov_052",
+     "skin_name": "Satoru Gojo",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero1153-portrait.png/revision/latest?cb=20230212035449",
+     "script": "https://raw.githubusercontent.com/missnapokita/Feb-24-anime/main/moskov%20x%20gojo.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 17794036,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -101885,6 +102487,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 9830608
+    },
+    {
+     "id": "odette_090",
+     "skin_name": "Queen Frost",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero461-portrait.png/revision/latest?cb=20220525165233",
+     "script": "https://raw.githubusercontent.com/injctr/CUST0W-SK1N/main/Odette%20-%20Queen%20Frost.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "vinzz",
+     "added": "2026-11-24",
+     "size": 5815621,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -106536,6 +107154,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 12094990
+    },
+    {
+     "id": "popol-and-kupa_045",
+     "skin_name": "Steve and Dog",
+     "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/9400001.jpg",
+     "script": "https://raw.githubusercontent.com/mlbb-toolkit/tikloot-bblm/main/94/9400001.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 2183106,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -111220,6 +111854,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 3763825
+    },
+    {
+     "id": "saber_042",
+     "skin_name": "Onimaru(Old)",
+     "image": "https://pbs.twimg.com/media/GWtJJdvaYAAbPit?format=jpg&name=large",
+     "script": "https://raw.githubusercontent.com/Maharlikoders/some-default-skin/main/SABER/Saber%20Onimaru%20Revamp%20To%20Default%20Skin.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "escanor",
+     "added": "2026-11-24",
+     "size": 12396116,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -112817,6 +113467,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 12616038
+    },
+    {
+     "id": "selena_067",
+     "skin_name": "Nezuko",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6R7Mokkz1hwx38zdWNDXsjJ3wU5e5MEqnt9-1_-d4qcNvB8y7t9R5ey4&s=10",
+     "script": "https://raw.githubusercontent.com/missnapokita/march-2025/main/selena%20nezuko.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 2365938,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -115111,6 +115777,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 19757772
+    },
+    {
+     "id": "sun_046",
+     "skin_name": "Uzumaki Naruto",
+     "image": "https://github.com/io-rmdragneel/Custom-Skin/raw/main/assets/portrait/naruto.jpg",
+     "script": "https://raw.githubusercontent.com/missnapokita/Fix/main/sun%20x%20naruto.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "escanor",
+     "added": "2026-11-24",
+     "size": 6491725,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -115781,6 +116463,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 7561773
+    },
+    {
+     "id": "suyou_029",
+     "skin_name": "Sasuke (custom)",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1261-portrait.png/revision/latest?cb=20241021140902",
+     "script": "https://raw.githubusercontent.com/injctr/CUST0W-SK1N/main/Suyou%20Custom%20Sasuke%20-%20Default.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "vinzz",
+     "added": "2026-11-24",
+     "size": 7327711,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -118226,6 +118924,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 5958337
+    },
+    {
+     "id": "tigreal_036",
+     "skin_name": "Honor of Kings",
+     "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/_0600001.jpg",
+     "script": "https://raw.githubusercontent.com/mlbb-toolkit/tikloot-bblm/main/6/_0600001.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 1612099,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -122887,6 +123601,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 23780908
+    },
+    {
+     "id": "vexana_041",
+     "skin_name": "Old hero",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero381-portrait.png/revision/latest?cb=20240501104511",
+     "script": "https://raw.githubusercontent.com/injctr/CUST0W-SK1N/main/Vexana%20-%20Old%20hero.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "vinzz",
+     "added": "2026-11-24",
+     "size": 5922013,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -123949,6 +124679,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 7908432
+    },
+    {
+     "id": "wanwan_044",
+     "skin_name": "Tenten",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero891-portrait.png/revision/latest?cb=20220525171214",
+     "script": "https://raw.githubusercontent.com/injctr/CUST0W-SK1N/main/Wanwan%20-%20Tenten.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "vinzz",
+     "added": "2026-11-24",
+     "size": 2915440,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -125462,6 +126208,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 7820219
+    },
+    {
+     "id": "xavier_027",
+     "skin_name": "Doflamingo",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1151-portrait.png/revision/latest?cb=20220525172250",
+     "script": "https://raw.githubusercontent.com/injctr/CUST0W-SK1N/main/Xavier%20-%20Doflamingo.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "vinzz",
+     "added": "2026-11-24",
+     "size": 1707197,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -127971,6 +128733,54 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 65409195
+    },
+    {
+     "id": "yin_071",
+     "skin_name": "Gojo Satoru",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero1153-portrait.png/revision/latest?cb=20230212035449",
+     "script": "https://raw.githubusercontent.com/missnapokita/anime-July-2024/main/yin%20x%20gojo.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "escanor",
+     "added": "2026-11-24",
+     "size": 7887681,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
+    },
+    {
+     "id": "yin_072",
+     "skin_name": "Gojo Purple",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png/revision/latest?cb=20240122084641",
+     "script": "https://raw.githubusercontent.com/injctr/CUST0W-SK1N/main/Yin%20-%20Gojo%20Purple.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "vinzz",
+     "added": "2026-11-24",
+     "size": 7797482,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
+    },
+    {
+     "id": "yin_073",
+     "skin_name": "Naruto Rikudou",
+     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png/revision/latest?cb=20240122084641",
+     "script": "https://raw.githubusercontent.com/injctr/CUST0W-SK1N/main/Yin%20-%20Naruto%20Rikudou.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "vinzz",
+     "added": "2026-11-24",
+     "size": 9955965,
+     "check": "good",
+     "check_date": "2026-11-24",
+     "check_notes": []
     }
    ]
   },
@@ -129402,6 +130212,24 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 8151039
+    },
+    {
+     "id": "yve_017",
+     "skin_name": "Flame Lutos",
+     "image": "https://raw.githubusercontent.com/missnapokita/oct25/refs/heads/main/20251013_180125.jpg",
+     "script": "https://raw.githubusercontent.com/missnapokita/oct25/main/yve%20star.zip",
+     "featured": false,
+     "enabled": true,
+     "tags": [],
+     "name": "",
+     "source": "zenhub",
+     "added": "2026-11-24",
+     "size": 11661622,
+     "check": "caution",
+     "check_date": "2026-11-24",
+     "check_notes": [
+      "40 bundle(s) carry extra trailing bytes (watermark)"
+     ]
     }
    ]
   },
@@ -132232,5 +133060,5 @@
    ]
   }
  ],
- "updated": "2026-11-21"
+ "updated": "2026-11-24"
 }
