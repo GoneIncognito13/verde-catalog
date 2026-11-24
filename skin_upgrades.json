@@ -1520,7 +1520,8 @@
      "size": 10730025,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_campus_youth_to_royal_cavalry",
@@ -1678,7 +1679,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 27307681
+     "size": 27307681,
+     "anime": true
     },
     {
      "id": "fanny_campus_youth_to_p_ace_fanny",
@@ -1845,7 +1847,8 @@
      "size": 10489814,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_punk_princess_to_christmas_carnival",
@@ -2055,7 +2058,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 27909022
+     "size": 27909022,
+     "anime": true
     },
     {
      "id": "fanny_punk_princess_to_p_ace_fanny",
@@ -2199,7 +2203,8 @@
      "size": 12741267,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_lifeguard_to_christmas_carnival",
@@ -2373,7 +2378,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 25247729
+     "size": 25247729,
+     "anime": true
     },
     {
      "id": "fanny_lifeguard_to_p_ace_fanny",
@@ -2444,7 +2450,8 @@
      "size": 10760495,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_royal_cavalry_to_skylark",
@@ -2654,7 +2661,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 25211445
+     "size": 25211445,
+     "anime": true
     },
     {
      "id": "fanny_royal_cavalry_to_p_ace_fanny",
@@ -2749,7 +2757,8 @@
      "size": 15966733,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_lightborn_ranger_to_skylark",
@@ -2951,7 +2960,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 25211161
+     "size": 25211161,
+     "anime": true
     },
     {
      "id": "fanny_lightborn_ranger_to_p_ace_fanny",
@@ -3046,7 +3056,8 @@
      "size": 12741288,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_christmas_carnival_fanny_to_galactic_starhawk",
@@ -3096,7 +3107,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 12491609
+     "size": 12491609,
+     "anime": true
     }
    ],
    "skin_tags": [
@@ -3171,7 +3183,8 @@
      "size": 10730023,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_imperial_warrior_to_skylark",
@@ -3333,7 +3346,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24913205
+     "size": 24913205,
+     "anime": true
     },
     {
      "id": "fanny_imperial_warrior_to_p_ace_fanny",
@@ -3556,7 +3570,8 @@
      "size": 28339710,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_heart_afloat_to_backup_2",
@@ -3707,7 +3722,8 @@
      "size": 19608094,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_future_enforcer_to_kitsune_s_shadow",
@@ -3886,7 +3902,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 37687321
+     "size": 37687321,
+     "anime": true
     },
     {
      "id": "hayabusa_future_enforcer_to_kakashi",
@@ -3898,7 +3915,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 14353634
+     "size": 14353634,
+     "anime": true
     },
     {
      "id": "hayabusa_future_enforcer_to_kitsune_s_shadow_2",
@@ -4059,7 +4077,8 @@
      "size": 19600048,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_techie_ninja_to_kitsune_s_shadow",
@@ -4265,7 +4284,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 14242966
+     "size": 14242966,
+     "anime": true
     },
     {
      "id": "hayabusa_techie_ninja_to_kitsune_s_shadow_2",
@@ -4426,7 +4446,8 @@
      "size": 19720183,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_spacetime_shadow_to_summer_festival",
@@ -4785,7 +4806,8 @@
      "size": 20197567,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_biological_weapon_to_future_enforcer",
@@ -4983,7 +5005,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 37687408
+     "size": 37687408,
+     "anime": true
     },
     {
      "id": "hayabusa_biological_weapon_to_kakashi",
@@ -4995,7 +5018,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 15492246
+     "size": 15492246,
+     "anime": true
     },
     {
      "id": "hayabusa_biological_weapon_to_shadow_of_obscurity_2",
@@ -5144,7 +5168,8 @@
      "size": 20823169,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_sushi_master_to_kitsune_s_shadow",
@@ -5323,7 +5348,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 37690645
+     "size": 37690645,
+     "anime": true
     },
     {
      "id": "hayabusa_sushi_master_to_kitsune_s_shadow_2",
@@ -5426,7 +5452,8 @@
      "size": 16637511,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_shadow_of_obscurity_to_future_enforcer",
@@ -5654,7 +5681,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 40485702
+     "size": 40485702,
+     "anime": true
     },
     {
      "id": "hayabusa_shadow_of_obscurity_to_spacetime_shadow",
@@ -9079,7 +9107,8 @@
      "size": 25022428,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_hairstylist_to_moonlight_sonata",
@@ -9229,7 +9258,8 @@
      "size": 25018475,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_hairstylist_to_backup_2",
@@ -9301,7 +9331,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 25008496
+     "size": 25008496,
+     "anime": true
     },
     {
      "id": "gusion_hairstylist_to_minato_namikaze_2",
@@ -9313,7 +9344,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20489100
+     "size": 20489100,
+     "anime": true
     },
     {
      "id": "gusion_hairstylist_to_minato_2",
@@ -9325,7 +9357,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 25008496
+     "size": 25008496,
+     "anime": true
     },
     {
      "id": "gusion_hairstylist_to_romantic_liaison_skin_13",
@@ -9528,7 +9561,8 @@
      "size": 24850005,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_moonlight_sonata_to_hairstylist",
@@ -9663,7 +9697,8 @@
      "size": 24846084,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_moonlight_sonata_to_backup_2",
@@ -9783,7 +9818,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24835961
+     "size": 24835961,
+     "anime": true
     },
     {
      "id": "gusion_moonlight_sonata_to_minato_namikaze_2",
@@ -9795,7 +9831,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21817080
+     "size": 21817080,
+     "anime": true
     },
     {
      "id": "gusion_moonlight_sonata_to_minato_2",
@@ -9807,7 +9844,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24835961
+     "size": 24835961,
+     "anime": true
     },
     {
      "id": "gusion_moonlight_sonata_to_naruto_shippuden",
@@ -9819,7 +9857,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24835961
+     "size": 24835961,
+     "anime": true
     },
     {
      "id": "gusion_moonlight_sonata_to_night_owl_2",
@@ -9998,7 +10037,8 @@
      "size": 24908695,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_soul_revelation_to_moonlight_sonata",
@@ -10148,7 +10188,8 @@
      "size": 24905022,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_soul_revelation_to_backup_2",
@@ -10244,7 +10285,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20513670
+     "size": 20513670,
+     "anime": true
     },
     {
      "id": "gusion_soul_revelation_to_minato_2",
@@ -10256,7 +10298,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24894467
+     "size": 24894467,
+     "anime": true
     },
     {
      "id": "gusion_soul_revelation_to_night_owl_2",
@@ -10419,7 +10462,8 @@
      "size": 25198017,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_cyber_ops_to_moonlight_sonata",
@@ -10569,7 +10613,8 @@
      "size": 25194206,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_cyber_ops_to_backup_2",
@@ -10665,7 +10710,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 25184083
+     "size": 25184083,
+     "anime": true
     },
     {
      "id": "gusion_cyber_ops_to_minato_namikaze_2",
@@ -10677,7 +10723,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20489617
+     "size": 20489617,
+     "anime": true
     },
     {
      "id": "gusion_cyber_ops_to_minato_2",
@@ -10689,7 +10736,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 25184083
+     "size": 25184083,
+     "anime": true
     },
     {
      "id": "gusion_cyber_ops_to_night_owl_2",
@@ -11017,7 +11065,8 @@
      "size": 24703584,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_v_e_n_o_m_emperor_scorpion_to_backup_2",
@@ -11089,7 +11138,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20513245
+     "size": 20513245,
+     "anime": true
     },
     {
      "id": "gusion_v_e_n_o_m_emperor_scorpion_to_night_owl_2",
@@ -11266,7 +11316,8 @@
      "size": 26460692,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_dangerous_liaison_to_moonlight_sonata",
@@ -11386,7 +11437,8 @@
      "size": 26457297,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_dangerous_liaison_to_backup_2",
@@ -11482,7 +11534,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20489205
+     "size": 20489205,
+     "anime": true
     },
     {
      "id": "gusion_dangerous_liaison_to_minato_2",
@@ -11494,7 +11547,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 26447102
+     "size": 26447102,
+     "anime": true
     },
     {
      "id": "gusion_dangerous_liaison_to_romantic_liaison_skin_13",
@@ -11784,7 +11838,8 @@
      "size": 27059197,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_desert_spider_to_backup_2",
@@ -11868,7 +11923,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20490023
+     "size": 20490023,
+     "anime": true
     },
     {
      "id": "gusion_desert_spider_to_night_owl_2",
@@ -14879,7 +14935,8 @@
      "size": 15388994,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_silent_edge_to_reversed_string",
@@ -14907,7 +14964,8 @@
      "size": 18080957,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_silent_edge_to_itachi",
@@ -14921,7 +14979,8 @@
      "size": 29098346,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_silent_edge_to_meowkin_tracker",
@@ -14951,7 +15010,8 @@
      "size": 39480020,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_silent_edge_to_backup_2",
@@ -14987,7 +15047,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 29069364
+     "size": 29069364,
+     "anime": true
     },
     {
      "id": "julian_silent_edge_to_kurapika_of_kurta",
@@ -14999,7 +15060,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 15384580
+     "size": 15384580,
+     "anime": true
     },
     {
      "id": "julian_silent_edge_to_kurapika_2",
@@ -15011,7 +15073,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 31001679
+     "size": 31001679,
+     "anime": true
     },
     {
      "id": "julian_silent_edge_to_kurupika",
@@ -15035,7 +15098,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17067141
+     "size": 17067141,
+     "anime": true
     },
     {
      "id": "julian_silent_edge_to_reversed_string_2",
@@ -15321,7 +15385,8 @@
      "size": 22916355,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "suyou_venerated_vigilance_to_frostblade_duelist",
@@ -15360,7 +15425,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 31359951
+     "size": 31359951,
+     "anime": true
     }
    ],
    "skin_tags": []
@@ -22226,7 +22292,8 @@
      "size": 20212605,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "kalea_shimmering_waves_to_tideborn_sailor",
@@ -38445,7 +38512,8 @@
      "size": 13983419,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "melissa_twinge_weaver_to_umbra_bloom",
@@ -38545,7 +38613,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 25449117
+     "size": 25449117,
+     "anime": true
     },
     {
      "id": "melissa_twinge_weaver_to_umbra_bloom_2",
@@ -45286,7 +45355,8 @@
      "size": 12735745,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_pale_flame_to_kyo_kusanagi",
@@ -45362,7 +45432,8 @@
      "size": 21446361,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_pale_flame_to_arcane_seeker",
@@ -45420,7 +45491,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 9909339
+     "size": 9909339,
+     "anime": true
     },
     {
      "id": "valir_pale_flame_to_backup_2",
@@ -45492,7 +45564,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 30799162
+     "size": 30799162,
+     "anime": true
     },
     {
      "id": "valir_pale_flame_to_shikigami_envoy",
@@ -45573,7 +45646,8 @@
      "size": 13153540,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_dictator_to_kyo_kusanagi",
@@ -45650,7 +45724,8 @@
      "size": 24953029,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_dictator_to_arcane_seeker",
@@ -45749,7 +45824,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 33525163
+     "size": 33525163,
+     "anime": true
     },
     {
      "id": "valir_dictator_to_pale_flame",
@@ -45812,7 +45888,8 @@
      "size": 12310816,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "vale_cerulean_winds_to_blizzard_storm",
@@ -45933,7 +46010,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 25095714
+     "size": 25095714,
+     "anime": true
     },
     {
      "id": "vale_cerulean_winds_to_kannagi",
@@ -46020,7 +46098,8 @@
      "size": 13992712,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "vale_blizzard_storm_to_concerto_of_light",
@@ -46097,7 +46176,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 25594044
+     "size": 25594044,
+     "anime": true
     },
     {
      "id": "vale_blizzard_storm_to_kannagi",
@@ -46186,7 +46266,8 @@
      "size": 12898276,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "vale_kannagi_to_rising_winds",
@@ -46333,7 +46414,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20008977
+     "size": 20008977,
+     "anime": true
     },
     {
      "id": "vale_kannagi_to_vale_detected_skin_02",
@@ -46386,7 +46468,8 @@
      "size": 15161942,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "vale_soaring_devata_to_rising_winds",
@@ -46506,7 +46589,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20008972
+     "size": 20008972,
+     "anime": true
     },
     {
      "id": "vale_soaring_devata_to_vale_detected_skin_02",
@@ -47259,7 +47343,8 @@
      "size": 16256020,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "harith_fashion_expert_to_savannah_cat",
@@ -47367,7 +47452,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19091725
+     "size": 19091725,
+     "anime": true
     },
     {
      "id": "harith_fashion_expert_to_killua_zoldyck",
@@ -47379,7 +47465,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 15827615
+     "size": 15827615,
+     "anime": true
     },
     {
      "id": "harith_fashion_expert_to_killua_2",
@@ -47391,7 +47478,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 30818312
+     "size": 30818312,
+     "anime": true
     },
     {
      "id": "harith_fashion_expert_to_kilua",
@@ -47498,7 +47586,8 @@
      "size": 17575937,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "harith_savannah_cat_to_stardust",
@@ -47621,7 +47710,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 15891410
+     "size": 15891410,
+     "anime": true
     },
     {
      "id": "harith_savannah_cat_to_killua_2",
@@ -47633,7 +47723,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 26527857
+     "size": 26527857,
+     "anime": true
     },
     {
      "id": "harith_savannah_cat_to_kilua",
@@ -47744,7 +47835,8 @@
      "size": 12844975,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "harith_stardust_to_savannah_cat",
@@ -47840,7 +47932,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19091729
+     "size": 19091729,
+     "anime": true
     },
     {
      "id": "harith_stardust_to_killua_zoldyck",
@@ -47852,7 +47945,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 12646062
+     "size": 12646062,
+     "anime": true
     },
     {
      "id": "harith_stardust_to_killua_2",
@@ -47864,7 +47958,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 30818360
+     "size": 30818360,
+     "anime": true
     },
     {
      "id": "harith_stardust_to_kilua",
@@ -47958,7 +48053,8 @@
      "size": 17429777,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "harith_lightborn_inspirer_to_savannah_cat",
@@ -48084,7 +48180,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17030046
+     "size": 17030046,
+     "anime": true
     },
     {
      "id": "harith_lightborn_inspirer_to_killua_2",
@@ -48096,7 +48193,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 30784970
+     "size": 30784970,
+     "anime": true
     },
     {
      "id": "harith_lightborn_inspirer_to_rebel_emberfang",
@@ -48619,7 +48717,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "3 empty file(s), e.g. couplemage_cityaction_camera_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "cecilion_wisteria_count_to_the_illusionist",
@@ -48711,7 +48810,8 @@
      "size": 31673999,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cecilion_wisteria_count_to_backup_2",
@@ -48735,7 +48835,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 8684471
+     "size": 8684471,
+     "anime": true
     },
     {
      "id": "cecilion_wisteria_count_to_hisoka_2",
@@ -48747,7 +48848,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17698066
+     "size": 17698066,
+     "anime": true
     },
     {
      "id": "cecilion_wisteria_count_to_suguru_geto_2",
@@ -48759,7 +48861,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 31673208
+     "size": 31673208,
+     "anime": true
     },
     {
      "id": "cecilion_wisteria_count_to_vessels_of_gluttony",
@@ -49911,7 +50014,8 @@
      "size": 12364597,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "xavier_verdict_of_light_to_hardlight_artificer",
@@ -50016,7 +50120,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 32950569
+     "size": 32950569,
+     "anime": true
     },
     {
      "id": "xavier_verdict_of_light_to_sun_born_monarch",
@@ -50089,7 +50194,8 @@
      "size": 22231001,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "xavier_hardlight_artificer_to_verdict_of_light",
@@ -50181,7 +50287,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 34591628
+     "size": 34591628,
+     "anime": true
     },
     {
      "id": "xavier_hardlight_artificer_to_sun_born_monarch",
@@ -53993,7 +54100,8 @@
      "size": 12523466,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_king_of_muay_thai_to_thunderfist",
@@ -54079,7 +54187,8 @@
      "size": 17441936,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_king_of_muay_thai_to_furious_tiger",
@@ -54235,7 +54344,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19892869
+     "size": 19892869,
+     "anime": true
     },
     {
      "id": "chou_king_of_muay_thai_to_echo_2",
@@ -54283,7 +54393,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 34625041
+     "size": 34625041,
+     "anime": true
     },
     {
      "id": "chou_king_of_muay_thai_to_s_t_u_n_chou_2",
@@ -54428,7 +54539,8 @@
      "size": 15755987,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_dragon_boy_to_hip_hop_boy",
@@ -54518,7 +54630,8 @@
      "size": 19892709,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_dragon_boy_to_ken_outfit_1",
@@ -54638,7 +54751,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 34624896
+     "size": 34624896,
+     "anime": true
     },
     {
      "id": "chou_dragon_boy_to_s_t_u_n_chou_2",
@@ -54706,7 +54820,8 @@
      "size": 17571772,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_hip_hop_boy_to_thunderfist",
@@ -54800,7 +54915,8 @@
      "size": 17571772,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_hip_hop_boy_to_furious_tiger",
@@ -54936,7 +55052,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 4400609
+     "size": 4400609,
+     "anime": true
     },
     {
      "id": "chou_hip_hop_boy_to_stun_chou",
@@ -54996,7 +55113,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 18671559
+     "size": 18671559,
+     "anime": true
     },
     {
      "id": "chou_hip_hop_boy_to_dragon_siryu",
@@ -55080,7 +55198,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 32865916
+     "size": 32865916,
+     "anime": true
     },
     {
      "id": "chou_hip_hop_boy_to_libra_siryu",
@@ -55187,7 +55306,8 @@
      "size": 14552465,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_go_ballistic_to_thunderfist",
@@ -55332,7 +55452,8 @@
      "size": 19892886,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_go_ballistic_to_ken_outfit_1",
@@ -55464,7 +55585,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 34628311
+     "size": 34628311,
+     "anime": true
     },
     {
      "id": "chou_go_ballistic_to_ryu_2",
@@ -55600,7 +55722,8 @@
      "size": 15632356,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_s_t_u_n_chou_to_ryu",
@@ -55708,7 +55831,8 @@
      "size": 19892690,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_s_t_u_n_chou_to_echo",
@@ -55819,7 +55943,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 34628119
+     "size": 34628119,
+     "anime": true
     },
     {
      "id": "chou_s_t_u_n_chou_to_ryu_2",
@@ -55935,7 +56060,8 @@
      "size": 15551578,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_furious_tiger_to_libra_shiryu",
@@ -55951,7 +56077,8 @@
      "size": 15206188,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_furious_tiger_to_ryu",
@@ -56126,7 +56253,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19892933
+     "size": 19892933,
+     "anime": true
     },
     {
      "id": "chou_furious_tiger_to_echo_2",
@@ -56162,7 +56290,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 34628317
+     "size": 34628317,
+     "anime": true
     },
     {
      "id": "chou_furious_tiger_to_ryu_2",
@@ -59581,7 +59710,8 @@
      "size": 11592142,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_light_of_dawn_to_argus_unreleased_skin_06",
@@ -59653,7 +59783,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 11591791
+     "size": 11591791,
+     "anime": true
     },
     {
      "id": "argus_light_of_dawn_to_winged",
@@ -59784,7 +59915,8 @@
      "size": 10864153,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_catastrophe_to_argus_unreleased_skin_06",
@@ -59844,7 +59976,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 10863059
+     "size": 10863059,
+     "anime": true
     }
    ],
    "skin_tags": []
@@ -59976,7 +60109,8 @@
      "size": 10209707,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_winged_nightmare_to_argus_unreleased_skin_06",
@@ -60036,7 +60170,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 10207563
+     "size": 10207563,
+     "anime": true
     }
    ],
    "skin_tags": []
@@ -60898,7 +61033,8 @@
      "size": 15593343,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "martis_tyrant_to_capricorn",
@@ -61078,7 +61214,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 32384211
+     "size": 32384211,
+     "anime": true
     },
     {
      "id": "martis_tyrant_to_nethersea_terror_painted_02",
@@ -61181,7 +61318,8 @@
      "size": 13432731,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "martis_searing_maw_to_capricorn",
@@ -61362,7 +61500,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 35268418
+     "size": 35268418,
+     "anime": true
     },
     {
      "id": "martis_searing_maw_to_nethersea_terror_painted_02",
@@ -61456,7 +61595,8 @@
      "size": 13432979,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "martis_deathrock_to_capricorn",
@@ -61614,7 +61754,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 35268509
+     "size": 35268509,
+     "anime": true
     },
     {
      "id": "martis_deathrock_to_nethersea_terror_painted_02",
@@ -64291,7 +64432,8 @@
      "size": 11113983,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_ironfist_to_leo",
@@ -64355,7 +64497,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 10973410
+     "size": 10973410,
+     "anime": true
     }
    ],
    "skin_tags": []
@@ -64413,7 +64556,8 @@
      "size": 11406279,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_susanoo_to_leo",
@@ -64462,7 +64606,8 @@
      "size": 24496322,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_susanoo_to_backup_2",
@@ -64522,7 +64667,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 10116674
+     "size": 10116674,
+     "anime": true
     },
     {
      "id": "badang_susanoo_to_sagitarius_seiya",
@@ -64534,7 +64680,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 11254798
+     "size": 11254798,
+     "anime": true
     },
     {
      "id": "badang_susanoo_to_sagittarius_seiya_2",
@@ -64546,7 +64693,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 22102016
+     "size": 22102016,
+     "anime": true
     },
     {
      "id": "badang_susanoo_to_steel_arms",
@@ -64833,7 +64981,8 @@
      "size": 23692284,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "guinevere_fleur_de_bleau_to_christmas_carnival",
@@ -64937,7 +65086,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 23480832
+     "size": 23480832,
+     "anime": true
     },
     {
      "id": "guinevere_fleur_de_bleau_to_psion_of_tommorow",
@@ -66235,7 +66385,8 @@
      "size": 15941077,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyroth_scalebore_to_guile",
@@ -66346,7 +66497,8 @@
      "size": 14513074,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyroth_ruins_scavenger_to_guile",
@@ -68773,7 +68925,8 @@
      "size": 11763463,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_m_world_yin_to_fists_of_valor",
@@ -68820,7 +68973,8 @@
      "size": 21701666,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_m_world_yin_to_backup_2",
@@ -68844,7 +68998,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 76345131
+     "size": 76345131,
+     "anime": true
     },
     {
      "id": "yin_m_world_yin_to_eternal_guardian",
@@ -68892,7 +69047,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 87732061
+     "size": 87732061,
+     "anime": true
     }
    ],
    "skin_tags": []
@@ -68931,7 +69087,8 @@
      "size": 10309279,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_fists_of_valor_to_m_world_yin",
@@ -68995,7 +69152,8 @@
      "size": 25709045,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_fists_of_valor_to_dauntless_battlelord",
@@ -69038,7 +69196,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 74140680
+     "size": 74140680,
+     "anime": true
     },
     {
      "id": "yin_fists_of_valor_to_eternal_guardian_2",
@@ -69086,7 +69245,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 83086011
+     "size": 83086011,
+     "anime": true
     }
    ],
    "skin_tags": []
@@ -69125,7 +69285,8 @@
      "size": 12592591,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_eternal_guardian_to_fists_of_valor",
@@ -69172,7 +69333,8 @@
      "size": 27054491,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_eternal_guardian_to_dauntless_battlelord",
@@ -69213,7 +69375,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 76345136
+     "size": 76345136,
+     "anime": true
     },
     {
      "id": "yin_eternal_guardian_to_immortal_guardian_skin_06",
@@ -69237,7 +69400,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 85130697
+     "size": 85130697,
+     "anime": true
     }
    ],
    "skin_tags": []
@@ -69754,7 +69918,8 @@
      "size": 22963181,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lukas_ardent_roar_to_backup_2",
@@ -69778,7 +69943,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 35516178
+     "size": 35516178,
+     "anime": true
     }
    ],
    "skin_tags": []
@@ -70128,7 +70294,8 @@
      "size": 31078903,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_meowkin_tracker_to_silent_edge",
@@ -70158,7 +70325,8 @@
      "size": 21528451,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_meowkin_tracker_to_kurapika",
@@ -70173,7 +70341,8 @@
      "size": 35239227,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_meowkin_tracker_to_itachi_uchiha",
@@ -70188,7 +70357,8 @@
      "size": 44985506,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_meowkin_tracker_to_backup_2",
@@ -70212,7 +70382,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 31058120
+     "size": 31058120,
+     "anime": true
     }
    ],
    "skin_tags": []
@@ -70274,7 +70445,8 @@
      "size": 18675003,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_scalebore_to_naraka_flame_2",
@@ -70387,7 +70559,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 26906826
+     "size": 26906826,
+     "anime": true
     },
     {
      "id": "dyrroth_scalebore_to_guile_2",
@@ -70508,7 +70681,8 @@
      "size": 18523744,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_ruins_scavenger_to_naraka_flame",
@@ -70623,7 +70797,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 30523065
+     "size": 30523065,
+     "anime": true
     },
     {
      "id": "dyrroth_ruins_scavenger_to_guile_2",
@@ -70712,7 +70887,8 @@
      "size": 24372617,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_v_e_n_o_m_cobra_to_orochi_chris",
@@ -70812,7 +70988,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 30522835
+     "size": 30522835,
+     "anime": true
     },
     {
      "id": "dyrroth_v_e_n_o_m_cobra_to_guile",
@@ -75844,7 +76021,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 26753914
+     "size": 26753914,
+     "anime": true
     },
     {
      "id": "badang_steel_arms_to_sagittarius_seiya",
@@ -75856,7 +76034,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 27979376
+     "size": 27979376,
+     "anime": true
     },
     {
      "id": "badang_steel_arms_to_susanoo",
@@ -80292,7 +80471,8 @@
      "size": 15708198,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "mbs"
@@ -81376,7 +81556,8 @@
      "size": 9929861,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_pa_to_leo_ikki",
@@ -81390,7 +81571,8 @@
      "size": 12735745,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_pa_to_shikigami",
@@ -81457,7 +81639,8 @@
      "size": 13153532,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "mbs"
@@ -81524,7 +81707,8 @@
      "size": 13153540,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "mbs"
@@ -82041,7 +82225,8 @@
      "size": 7122675,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cecilion_default_to_backup",
@@ -82079,7 +82264,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20767717
+     "size": 20767717,
+     "anime": true
     },
     {
      "id": "cecilion_default_to_soul_vessels",
@@ -82472,7 +82658,8 @@
      "size": 12364597,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "xavier_b_to_btc",
@@ -82527,7 +82714,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "4 empty file(s), e.g. xavier_idle_Bip001_Spine2_skin04_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "xavier_btc_default_to_backup",
@@ -83345,7 +83533,8 @@
      "size": 12071412,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "mbs"
@@ -83412,7 +83601,8 @@
      "size": 19276186,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "mbs"
@@ -83479,7 +83669,8 @@
      "size": 19276175,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "mbs"
@@ -83518,7 +83709,8 @@
      "size": 19913864,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "mbs"
@@ -86100,7 +86292,8 @@
      "size": 11406279,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_s_to_leo",
@@ -86141,7 +86334,8 @@
      "size": 11945145,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "mbs"
@@ -87093,7 +87287,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "3 bundle(s) are cut off (shorter than their header says), e.g. yin_cityaction_02_skin04_add.unity3d"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "yin_infe_to_yuji_itodari",
@@ -87107,7 +87302,8 @@
      "size": 12305356,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "mbs"
@@ -87132,7 +87328,8 @@
      "size": 15761777,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_m_wo_to_yuji_itodari",
@@ -87146,7 +87343,8 @@
      "size": 11476228,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_m_wo_to_infernal_guardian",
@@ -88218,7 +88416,8 @@
      "size": 10356021,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "melissa_default_to_nightwalker",
@@ -88284,7 +88483,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16613016
+     "size": 16613016,
+     "anime": true
     }
    ],
    "source": "mbs"
@@ -89266,7 +89466,8 @@
      "size": 15551578,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "mbs"
@@ -90876,7 +91077,8 @@
      "size": 11435214,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "mbs"
@@ -90901,7 +91103,8 @@
      "size": 12394412,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "mbs"
@@ -93477,7 +93680,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 empty file(s), e.g. zzp1_newfiremagic_skill02_xvrnnch_skin10_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "alucard_basic_to_rengoku",
@@ -93493,7 +93697,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 empty file(s), e.g. zzp1_newfiremagic_skill02_xvrnnch_skin10_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "alucard_basic_to_kyo_kusanagi",
@@ -95411,7 +95616,8 @@
      "size": 4364876,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_basic_to_epic",
@@ -95467,7 +95673,8 @@
      "size": 24921862,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_basic_to_hidan",
@@ -95483,7 +95690,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 empty file(s), e.g. 45_argus_skill03_Keep_01.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "argus_basic_to_aspirants",
@@ -95596,7 +95804,8 @@
      "size": 6248236,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_elite_to_epic",
@@ -95711,7 +95920,8 @@
      "size": 6813504,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_season_to_epic",
@@ -95778,7 +95988,8 @@
      "size": 6471741,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_star_to_epic",
@@ -95859,7 +96070,8 @@
      "size": 1732926,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "arlott_basic_to_kakashi",
@@ -95873,7 +96085,8 @@
      "size": 11694073,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "arlott_basic_to_aeon_of_twilight",
@@ -95972,7 +96185,8 @@
      "size": 11682130,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "bs"
@@ -98453,7 +98667,8 @@
      "size": 6128000,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "benedetta_basic_to_collector_2",
@@ -98885,7 +99100,8 @@
      "size": 3938355,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "benedetta_mpl_to_collector_2",
@@ -99249,7 +99465,8 @@
      "size": 2696732,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "bs"
@@ -99351,7 +99568,8 @@
      "size": 7950009,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cecilion_basic_to_star",
@@ -99403,7 +99621,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19523810
+     "size": 19523810,
+     "anime": true
     },
     {
      "id": "cecilion_basic_to_soul_vessels",
@@ -99440,7 +99659,8 @@
      "size": 11950803,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cecilion_collector_to_soul_vessel",
@@ -99466,7 +99686,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24838804
+     "size": 24838804,
+     "anime": true
     },
     {
      "id": "cecilion_collector_to_soul_vessels",
@@ -99517,7 +99738,8 @@
      "size": 8262111,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cecilion_elite_to_soul_vessel",
@@ -99555,7 +99777,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21493728
+     "size": 21493728,
+     "anime": true
     },
     {
      "id": "cecilion_elite_to_soul_vessels",
@@ -99647,7 +99870,8 @@
      "size": 11853954,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cecilion_star_to_soul_vessel",
@@ -99700,7 +99924,8 @@
      "size": 10469584,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cecilion_valentine_to_star",
@@ -99752,7 +99977,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19376413
+     "size": 19376413,
+     "anime": true
     },
     {
      "id": "cecilion_valentine_to_soul_vessels",
@@ -100512,7 +100738,8 @@
      "size": 20393265,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_basic_to_saint_seiya",
@@ -100526,7 +100753,8 @@
      "size": 25072931,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_basic_to_stun",
@@ -100586,7 +100814,8 @@
      "size": 5951538,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_basic_to_naruto",
@@ -100600,7 +100829,8 @@
      "size": 15137730,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_basic_to_champion_2",
@@ -100636,7 +100866,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17794019
+     "size": 17794019,
+     "anime": true
     },
     {
      "id": "chou_basic_to_echo",
@@ -100700,7 +100931,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 25065855
+     "size": 25065855,
+     "anime": true
     },
     {
      "id": "chou_basic_to_luckybox_2",
@@ -100748,7 +100980,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20388765
+     "size": 20388765,
+     "anime": true
     },
     {
      "id": "chou_basic_to_saint_seiya_gold",
@@ -100760,7 +100993,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 25065855
+     "size": 25065855,
+     "anime": true
     },
     {
      "id": "chou_basic_to_street_fighter_1",
@@ -100835,7 +101069,8 @@
      "size": 21188855,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_champion_to_saint_seiya",
@@ -100849,7 +101084,8 @@
      "size": 26173510,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_champion_to_street_fighter",
@@ -100929,7 +101165,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 15739169
+     "size": 15739169,
+     "anime": true
     },
     {
      "id": "chou_champion_to_s_t_u_n",
@@ -100953,7 +101190,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21184615
+     "size": 21184615,
+     "anime": true
     },
     {
      "id": "chou_champion_to_saint_seiya_gold",
@@ -100965,7 +101203,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 26155052
+     "size": 26155052,
+     "anime": true
     },
     {
      "id": "chou_champion_to_street_fighter_1",
@@ -101042,7 +101281,8 @@
      "size": 20365019,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_dawning_to_saint_seiya",
@@ -101056,7 +101296,8 @@
      "size": 29543862,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_dawning_to_street_fighter",
@@ -101120,7 +101361,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20360103
+     "size": 20360103,
+     "anime": true
     },
     {
      "id": "chou_dawning_to_saint_seiya_gold",
@@ -101132,7 +101374,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 29536214
+     "size": 29536214,
+     "anime": true
     },
     {
      "id": "chou_dawning_to_street_fighter_1",
@@ -101237,7 +101480,8 @@
      "size": 20189675,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_elite_to_saint_seiya",
@@ -101251,7 +101495,8 @@
      "size": 24142773,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_elite_to_stun",
@@ -101319,7 +101564,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17349505
+     "size": 17349505,
+     "anime": true
     },
     {
      "id": "chou_elite_to_echo",
@@ -101383,7 +101629,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24136529
+     "size": 24136529,
+     "anime": true
     },
     {
      "id": "chou_elite_to_luckybox_2",
@@ -101431,7 +101678,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20173776
+     "size": 20173776,
+     "anime": true
     },
     {
      "id": "chou_elite_to_saint_seiya_gold",
@@ -101443,7 +101691,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24136529
+     "size": 24136529,
+     "anime": true
     },
     {
      "id": "chou_elite_to_street_fighter_1",
@@ -101518,7 +101767,8 @@
      "size": 24159607,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_kof_to_saint_seiya",
@@ -101532,7 +101782,8 @@
      "size": 33500527,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_kof_to_street_fighter",
@@ -101594,7 +101845,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24140361
+     "size": 24140361,
+     "anime": true
     },
     {
      "id": "chou_kof_to_saint_seiya_gold",
@@ -101606,7 +101858,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 33467593
+     "size": 33467593,
+     "anime": true
     },
     {
      "id": "chou_kof_to_street_fighter_1",
@@ -101683,7 +101936,8 @@
      "size": 21102386,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_luckybox_to_saint_seiya",
@@ -101697,7 +101951,8 @@
      "size": 25784586,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_luckybox_to_street_fighter",
@@ -101801,7 +102056,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 25765246
+     "size": 25765246,
+     "anime": true
     },
     {
      "id": "chou_luckybox_to_s_t_u_n",
@@ -101825,7 +102081,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21086081
+     "size": 21086081,
+     "anime": true
     },
     {
      "id": "chou_luckybox_to_saint_seiya_gold",
@@ -101837,7 +102094,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 25765246
+     "size": 25765246,
+     "anime": true
     },
     {
      "id": "chou_luckybox_to_street_fighter_1",
@@ -101914,7 +102172,8 @@
      "size": 28620186,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_saint_seiya_to_champion",
@@ -101956,7 +102215,8 @@
      "size": 19635936,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_saint_seiya_to_street_fighter",
@@ -102065,7 +102325,8 @@
      "size": 20363974,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_special_to_saint_seiya",
@@ -102079,7 +102340,8 @@
      "size": 24960878,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_special_to_stun",
@@ -102145,7 +102407,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 15462034
+     "size": 15462034,
+     "anime": true
     },
     {
      "id": "chou_special_to_echo",
@@ -102209,7 +102472,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24953958
+     "size": 24953958,
+     "anime": true
     },
     {
      "id": "chou_special_to_luckybox",
@@ -102257,7 +102521,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20347713
+     "size": 20347713,
+     "anime": true
     },
     {
      "id": "chou_special_to_saint_seiya_gold",
@@ -102269,7 +102534,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24953958
+     "size": 24953958,
+     "anime": true
     },
     {
      "id": "chou_special_to_street_fighter_1",
@@ -102386,7 +102652,8 @@
      "size": 20201015,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_star_to_saint_seiya",
@@ -102400,7 +102667,8 @@
      "size": 24650219,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_star_to_stun",
@@ -102499,7 +102767,8 @@
      "size": 20546566,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_stun_to_saint_seiya",
@@ -102513,7 +102782,8 @@
      "size": 29682335,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_stun_to_street_fighter",
@@ -102553,7 +102823,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21509694
+     "size": 21509694,
+     "anime": true
     },
     {
      "id": "chou_stun_to_s_t_u_n_chou",
@@ -102622,7 +102893,8 @@
      "size": 30560572,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cici_basic_to_p_ace_cici",
@@ -104280,7 +104552,8 @@
      "size": 8952828,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "esmeralda_basic_to_blazing_bounties",
@@ -105737,7 +106010,8 @@
      "size": 20789186,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_basic_to_aspirants",
@@ -105927,7 +106201,8 @@
      "size": 21674972,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_aspirants_to_anniversary",
@@ -105980,7 +106255,8 @@
      "size": 22128506,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_christmas_to_aspirants",
@@ -106048,7 +106324,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 22121886
+     "size": 22121886,
+     "anime": true
     },
     {
      "id": "fanny_christmas_to_blade_of_kibou",
@@ -106108,7 +106385,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 22121886
+     "size": 22121886,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -106133,7 +106411,8 @@
      "size": 20784211,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_elite_to_aspirants",
@@ -106243,7 +106522,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20777711
+     "size": 20777711,
+     "anime": true
     },
     {
      "id": "fanny_elite_to_blade_of_kibou",
@@ -106363,7 +106643,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20777711
+     "size": 20777711,
+     "anime": true
     },
     {
      "id": "fanny_elite_to_skylark",
@@ -106412,7 +106693,8 @@
      "size": 19978818,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_lightborn_to_christmas",
@@ -106508,7 +106790,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19972630
+     "size": 19972630,
+     "anime": true
     },
     {
      "id": "fanny_lightborn_to_backup",
@@ -106640,7 +106923,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19972630
+     "size": 19972630,
+     "anime": true
     },
     {
      "id": "fanny_lightborn_to_skylark",
@@ -106689,7 +106973,8 @@
      "size": 20067046,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_season_to_aspirants",
@@ -106812,7 +107097,8 @@
      "size": 21125377,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_star_to_aspirants",
@@ -106935,7 +107221,8 @@
      "size": 22206239,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_summer_to_aspirants",
@@ -107017,7 +107304,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 22199271
+     "size": 22199271,
+     "anime": true
     },
     {
      "id": "fanny_summer_to_blade_of_kibou",
@@ -107125,7 +107413,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 22199271
+     "size": 22199271,
+     "anime": true
     },
     {
      "id": "fanny_summer_to_skylark",
@@ -107174,7 +107463,8 @@
      "size": 19913676,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_valentine_to_anniversary",
@@ -107228,7 +107518,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19906952
+     "size": 19906952,
+     "anime": true
     },
     {
      "id": "fanny_valentine_to_legend_2",
@@ -113067,7 +113358,8 @@
      "size": 24843859,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_basic_to_dragon",
@@ -113203,7 +113495,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24835961
+     "size": 24835961,
+     "anime": true
     },
     {
      "id": "gusion_basic_to_night_owl",
@@ -113330,7 +113623,8 @@
      "size": 31043382,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_collector_to_11_11_2",
@@ -113378,7 +113672,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 31034720
+     "size": 31034720,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -113459,7 +113754,8 @@
      "size": 25016290,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_elite_to_dragon",
@@ -113571,7 +113867,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 25008496
+     "size": 25008496,
+     "anime": true
     },
     {
      "id": "gusion_elite_to_night_owl",
@@ -113678,7 +113975,8 @@
      "size": 24902677,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_epic_to_dragon",
@@ -113790,7 +114088,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24894467
+     "size": 24894467,
+     "anime": true
     },
     {
      "id": "gusion_epic_to_night_owl",
@@ -113881,7 +114180,8 @@
      "size": 28561738,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_kof_to_11_11_2",
@@ -113917,7 +114217,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 28553736
+     "size": 28553736,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -113984,7 +114285,8 @@
      "size": 28972642,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_legend_to_11_11_2",
@@ -114020,7 +114322,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 28964172
+     "size": 28964172,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -114171,7 +114474,8 @@
      "size": 25191981,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_star_to_minato",
@@ -114185,7 +114489,8 @@
      "size": 27056852,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_star_to_dragon",
@@ -114312,7 +114617,8 @@
      "size": 26455052,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_valentine_to_dragon",
@@ -114436,7 +114742,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 26447102
+     "size": 26447102,
+     "anime": true
     },
     {
      "id": "gusion_valentine_to_night_owl",
@@ -114555,7 +114862,8 @@
      "size": 24701319,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_venom_to_cosmic_gleam",
@@ -115787,7 +116095,8 @@
      "size": 12875348,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "harith_basic_to_lightborn",
@@ -115904,7 +116213,8 @@
      "size": 12872546,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "harith_515_to_lightborn",
@@ -115968,7 +116278,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 22098684
+     "size": 22098684,
+     "anime": true
     },
     {
      "id": "harith_515_to_starlight_2026",
@@ -116019,7 +116330,8 @@
      "size": 20491403,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "harith_champion_to_star",
@@ -116057,7 +116369,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20486643
+     "size": 20486643,
+     "anime": true
     },
     {
      "id": "harith_champion_to_starlight_2026",
@@ -116108,7 +116421,8 @@
      "size": 14204499,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "harith_christmas_to_star",
@@ -116158,7 +116472,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 23052223
+     "size": 23052223,
+     "anime": true
     },
     {
      "id": "harith_christmas_to_starlight_2026",
@@ -116195,7 +116510,8 @@
      "size": 23234827,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "harith_collector_to_star",
@@ -116233,7 +116549,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 23229611
+     "size": 23229611,
+     "anime": true
     },
     {
      "id": "harith_collector_to_starlight_2026",
@@ -116298,7 +116615,8 @@
      "size": 12872522,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "harith_elite_to_lightborn",
@@ -116440,7 +116758,8 @@
      "size": 14219578,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "harith_lightborn_to_star",
@@ -116490,7 +116809,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21377828
+     "size": 21377828,
+     "anime": true
     },
     {
      "id": "harith_lightborn_to_starlight_2026",
@@ -116941,7 +117261,8 @@
      "size": 14042819,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_basic_to_luckybox",
@@ -117057,7 +117378,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19699691
+     "size": 19699691,
+     "anime": true
     },
     {
      "id": "hayabusa_basic_to_luckybox_2",
@@ -117081,7 +117403,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16922913
+     "size": 16922913,
+     "anime": true
     },
     {
      "id": "hayabusa_basic_to_shadow_of_obscurity",
@@ -117154,7 +117477,8 @@
      "size": 28458397,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_11_11_to_luckybox",
@@ -117230,7 +117554,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16672143
+     "size": 16672143,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -117269,7 +117594,8 @@
      "size": 18932366,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_annual_star_to_luckybox",
@@ -117364,7 +117690,8 @@
      "size": 12590551,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_elite_to_star",
@@ -117436,7 +117763,8 @@
      "size": 12590439,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_elite_to_star",
@@ -117528,7 +117856,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19587634
+     "size": 19587634,
+     "anime": true
     },
     {
      "id": "hayabusa_elite_to_shadow_of_obscurity",
@@ -117577,7 +117906,8 @@
      "size": 22762728,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_exorcist_to_star",
@@ -117653,7 +117983,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19505974
+     "size": 19505974,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -117706,7 +118037,8 @@
      "size": 22450719,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_luckybox_to_11_11_2",
@@ -117754,7 +118086,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 22418185
+     "size": 22418185,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -117807,7 +118140,8 @@
      "size": 12317250,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_star_to_luckybox",
@@ -117902,7 +118236,8 @@
      "size": 12589836,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_summer_to_luckybox",
@@ -118018,7 +118353,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20803012
+     "size": 20803012,
+     "anime": true
     },
     {
      "id": "hayabusa_summer_to_luckybox_2",
@@ -118042,7 +118378,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 18118556
+     "size": 18118556,
+     "anime": true
     },
     {
      "id": "hayabusa_summer_to_shadow_of_obscurity",
@@ -120357,7 +120694,8 @@
      "size": 23166250,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_basic_to_jjk",
@@ -120371,7 +120709,8 @@
      "size": 18441863,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_basic_to_mystic",
@@ -120399,7 +120738,8 @@
      "size": 28982924,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_basic_to_fatcat_julian",
@@ -120423,7 +120763,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 22450152
+     "size": 22450152,
+     "anime": true
     },
     {
      "id": "julian_basic_to_jujutsu_kaisen",
@@ -120435,7 +120776,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 18429226
+     "size": 18429226,
+     "anime": true
     },
     {
      "id": "julian_basic_to_kurapika",
@@ -120447,7 +120789,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 15384520
+     "size": 15384520,
+     "anime": true
     },
     {
      "id": "julian_basic_to_megumi_fushiguro",
@@ -120459,7 +120802,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 15439587
+     "size": 15439587,
+     "anime": true
     },
     {
      "id": "julian_basic_to_mystic_meow",
@@ -120483,7 +120827,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 28972940
+     "size": 28972940,
+     "anime": true
     },
     {
      "id": "julian_basic_to_silent_edge",
@@ -120520,7 +120865,8 @@
      "size": 20855907,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_hxh_to_mystic",
@@ -120548,7 +120894,8 @@
      "size": 31332049,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "bs"
@@ -120573,7 +120920,8 @@
      "size": 13225592,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_jjk_to_mystic",
@@ -120601,7 +120949,8 @@
      "size": 27386508,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "bs"
@@ -124505,7 +124854,8 @@
      "size": 3439305,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lancelot_basic_to_soul_vessel",
@@ -124535,7 +124885,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "2 empty file(s), e.g. nextlancelot_skill01_2.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "lancelot_basic_to_bren_esports",
@@ -130803,7 +131154,8 @@
      "size": 24446468,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lukas_basic_to_minato",
@@ -130817,7 +131169,8 @@
      "size": 26429538,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lukas_basic_to_ardent_roar",
@@ -130841,7 +131194,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 25511425
+     "size": 25511425,
+     "anime": true
     },
     {
      "id": "lukas_basic_to_naruto_2",
@@ -130853,7 +131207,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 23429144
+     "size": 23429144,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -132112,7 +132467,8 @@
      "size": 22357894,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "martis_basic_to_luckybox",
@@ -132180,7 +132536,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 22350962
+     "size": 22350962,
+     "anime": true
     },
     {
      "id": "martis_basic_to_capricorn",
@@ -132228,7 +132585,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 22350962
+     "size": 22350962,
+     "anime": true
     },
     {
      "id": "martis_basic_to_tyrant",
@@ -132302,7 +132660,8 @@
      "size": 22405551,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "martis_luckybox_to_zodiac",
@@ -132328,7 +132687,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 22398635
+     "size": 22398635,
+     "anime": true
     },
     {
      "id": "martis_luckybox_to_zodiac_2",
@@ -132365,7 +132725,8 @@
      "size": 22017368,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "martis_special_to_luckybox",
@@ -132405,7 +132766,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 22011112
+     "size": 22011112,
+     "anime": true
     },
     {
      "id": "martis_special_to_capricorn",
@@ -132478,7 +132840,8 @@
      "size": 22007715,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "martis_star_to_luckybox",
@@ -132520,7 +132883,8 @@
      "size": 22916663,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "martis_star_to_luckybox",
@@ -132573,7 +132937,8 @@
      "size": 19079621,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "martis_zodiac_to_attack_on_titan",
@@ -132585,7 +132950,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 23856941
+     "size": 23856941,
+     "anime": true
     },
     {
      "id": "martis_zodiac_to_capricorn",
@@ -132609,7 +132975,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 23856941
+     "size": 23856941,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -132648,7 +133015,8 @@
      "size": 16624514,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "melissa_basic_to_sparkle",
@@ -132702,7 +133070,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16613023
+     "size": 16613023,
+     "anime": true
     },
     {
      "id": "melissa_basic_to_nightwalker",
@@ -132726,7 +133095,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 15862321
+     "size": 15862321,
+     "anime": true
     },
     {
      "id": "melissa_basic_to_sparkle_melissa",
@@ -132787,7 +133157,8 @@
      "size": 18418980,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "melissa_collector_to_jujutsu_kaisen",
@@ -132799,7 +133170,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 18407031
+     "size": 18407031,
+     "anime": true
     },
     {
      "id": "melissa_collector_to_nobara_kugisaki",
@@ -132811,7 +133183,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16714541
+     "size": 16714541,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -132875,7 +133248,8 @@
      "size": 17951826,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "melissa_sparkle_to_collector_2",
@@ -132899,7 +133273,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17940184
+     "size": 17940184,
+     "anime": true
     },
     {
      "id": "melissa_sparkle_to_nobara_kugisaki",
@@ -132911,7 +133286,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16828007
+     "size": 16828007,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -132950,7 +133326,8 @@
      "size": 18291273,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "bs"
@@ -142617,7 +142994,8 @@
      "size": 18383815,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_collector_to_kof",
@@ -142645,7 +143023,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 18280191
+     "size": 18280191,
+     "anime": true
     },
     {
      "id": "dyrroth_collector_to_kof_2",
@@ -142787,7 +143166,8 @@
      "size": 24044588,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_kof_to_collector_2",
@@ -142811,7 +143191,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 23833017
+     "size": 23833017,
+     "anime": true
     },
     {
      "id": "dyrroth_kof_to_street_fighter_1",
@@ -142888,7 +143269,8 @@
      "size": 18510641,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_star_to_kof",
@@ -142969,7 +143351,8 @@
      "size": 24342194,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_venom_to_kof",
@@ -143060,7 +143443,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "2 empty file(s), e.g. lanbote_changzhu01.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "harith_starlight_to_collector",
@@ -145354,7 +145738,8 @@
      "size": 24578087,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_mystic_to_jjk",
@@ -145368,7 +145753,8 @@
      "size": 19158895,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_mystic_to_itachi",
@@ -145382,7 +145768,8 @@
      "size": 31072658,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_mystic_to_meow_hunter_x_hunter",
@@ -145394,7 +145781,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24571923
+     "size": 24571923,
+     "anime": true
     },
     {
      "id": "julian_mystic_to_meow_jujutsu_kaisen",
@@ -145406,7 +145794,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19146350
+     "size": 19146350,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -145731,7 +146120,8 @@
      "size": 25705492,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_basic_to_jjk",
@@ -145745,7 +146135,8 @@
      "size": 18502055,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_basic_to_mworld",
@@ -145812,7 +146203,8 @@
      "size": 27050938,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_star_to_jjk",
@@ -145826,7 +146218,8 @@
      "size": 20907418,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_star_to_mworld",
@@ -146396,7 +146789,8 @@
      "size": 18504023,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_basic_to_kof",
@@ -146492,7 +146886,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 13320055
+     "size": 13320055,
+     "anime": true
     },
     {
      "id": "dyrroth_basic_to_hunter_x_hunter",
@@ -146504,7 +146899,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 18351739
+     "size": 18351739,
+     "anime": true
     },
     {
      "id": "dyrroth_basic_to_kof_2",
@@ -146720,7 +147116,8 @@
      "size": 19947775,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "xavier_basic_to_beyond_the_clouds_xavier",
@@ -146780,7 +147177,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16955867
+     "size": 16955867,
+     "anime": true
     },
     {
      "id": "xavier_basic_to_satoru_gojo",
@@ -146792,7 +147190,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16955867
+     "size": 16955867,
+     "anime": true
     },
     {
      "id": "xavier_basic_to_starlight_2024",
@@ -146881,7 +147280,8 @@
      "size": 20843271,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "bs"
@@ -146920,7 +147320,8 @@
      "size": 22175924,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "xavier_clouds_to_collector_2",
@@ -146944,7 +147345,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17496781
+     "size": 17496781,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -148285,7 +148687,8 @@
      "size": 28967627,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_11_11_to_kof",
@@ -148321,7 +148724,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 28958897
+     "size": 28958897,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -148781,7 +149185,8 @@
      "size": 17858897,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_basic_to_saint_seiya",
@@ -148795,7 +149200,8 @@
      "size": 24582271,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_basic_to_douma",
@@ -148859,7 +149265,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17854241
+     "size": 17854241,
+     "anime": true
     },
     {
      "id": "valir_basic_to_saint_seiya_gold",
@@ -148871,7 +149278,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20434061
+     "size": 20434061,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -151272,7 +151680,8 @@
      "size": 12484582,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "vale_basic_to_annual_starlight",
@@ -151320,7 +151729,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 12479552
+     "size": 12479552,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -151359,7 +151769,8 @@
      "size": 20032454,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "bs"
@@ -151412,7 +151823,8 @@
      "size": 18107127,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "vale_collector_to_annual_starlight",
@@ -151448,7 +151860,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19517257
+     "size": 19517257,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -151487,7 +151900,8 @@
      "size": 19395368,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "bs"
@@ -151554,7 +151968,8 @@
      "size": 13070524,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "vale_elite_to_annual_starlight",
@@ -151602,7 +152017,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 13065240
+     "size": 13065240,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -151669,7 +152085,8 @@
      "size": 15287828,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "vale_epic_to_annual_starlight",
@@ -151717,7 +152134,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 15282284
+     "size": 15282284,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -151959,7 +152377,8 @@
      "size": 15336402,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "bs"
@@ -152316,7 +152735,8 @@
      "size": 21504332,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_collector_to_saint_seiya",
@@ -152330,7 +152750,8 @@
      "size": 28910283,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_collector_to_legend_2",
@@ -152354,7 +152775,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21499012
+     "size": 21499012,
+     "anime": true
     },
     {
      "id": "valir_collector_to_saint_seiya_gold",
@@ -152366,7 +152788,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24758684
+     "size": 24758684,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -152419,7 +152842,8 @@
      "size": 17582157,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_dragon_tamer_to_saint_seiya",
@@ -152433,7 +152857,8 @@
      "size": 24353542,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_dragon_tamer_to_kof",
@@ -152495,7 +152920,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17577201
+     "size": 17577201,
+     "anime": true
     },
     {
      "id": "valir_dragon_tamer_to_saint_seiya_gold",
@@ -152507,7 +152933,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20204842
+     "size": 20204842,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -152546,7 +152973,8 @@
      "size": 24900076,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_elite_to_collector",
@@ -152594,7 +153022,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 18171818
+     "size": 18171818,
+     "anime": true
     },
     {
      "id": "valir_elite_to_saint_seiya_gold",
@@ -152606,7 +153035,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20751577
+     "size": 20751577,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -152631,7 +153061,8 @@
      "size": 14219627,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_kof_to_saint_seiya",
@@ -152645,7 +153076,8 @@
      "size": 29554895,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_kof_to_collector",
@@ -152681,7 +153113,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 22775541
+     "size": 22775541,
+     "anime": true
     },
     {
      "id": "valir_kof_to_saint_seiya_gold",
@@ -152693,7 +153126,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 25384090
+     "size": 25384090,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -152732,7 +153166,8 @@
      "size": 21569427,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_legend_to_saint_seiya",
@@ -152746,7 +153181,8 @@
      "size": 26420651,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_legend_to_collector",
@@ -152782,7 +153218,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21563435
+     "size": 21563435,
+     "anime": true
     },
     {
      "id": "valir_legend_to_saint_seiya_gold",
@@ -152794,7 +153231,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24637007
+     "size": 24637007,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -152833,7 +153271,8 @@
      "size": 23611470,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_saint_seiya_to_legend",
@@ -152859,7 +153298,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19463588
+     "size": 19463588,
+     "anime": true
     },
     {
      "id": "valir_saint_seiya_to_gold_saint_seiya_bronze",
@@ -152871,7 +153311,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16848046
+     "size": 16848046,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -152924,7 +153365,8 @@
      "size": 17859735,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_special_to_saint_seiya",
@@ -152938,7 +153380,8 @@
      "size": 24580264,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_special_to_collector",
@@ -152986,7 +153429,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17854939
+     "size": 17854939,
+     "anime": true
     },
     {
      "id": "valir_special_to_saint_seiya_gold",
@@ -152998,7 +153442,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20431913
+     "size": 20431913,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -153065,7 +153510,8 @@
      "size": 26594761,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_star_to_saint_seiya",
@@ -153079,7 +153525,8 @@
      "size": 24568061,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "bs"
@@ -154650,7 +155097,8 @@
      "size": 27253197,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_jjk_to_mworld",
@@ -154703,7 +155151,8 @@
      "size": 20667103,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_aot_to_mworld",
@@ -154742,7 +155191,8 @@
      "size": 29847489,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_mworld_to_jjk",
@@ -154756,7 +155206,8 @@
      "size": 18912904,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_mworld_to_star",
@@ -155893,7 +156344,8 @@
      "size": 15263988,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "bs"
@@ -156442,7 +156894,8 @@
      "size": 1340443,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_starwars_to_collector",
@@ -156772,7 +157225,8 @@
      "size": 21966846,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "bs"
@@ -156797,7 +157251,8 @@
      "size": 20994541,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "xavier_collector_to_jujutsu_kaisen",
@@ -156809,7 +157264,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20982641
+     "size": 20982641,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -156884,7 +157340,8 @@
      "size": 9682878,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "suyou_basic_to_yuta_v2",
@@ -156912,7 +157369,8 @@
      "size": 10916632,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "suyou_basic_to_star",
@@ -156938,7 +157396,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19810088
+     "size": 19810088,
+     "anime": true
     },
     {
      "id": "suyou_basic_to_sasuke_uchiha",
@@ -156950,7 +157409,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21530735
+     "size": 21530735,
+     "anime": true
     },
     {
      "id": "suyou_basic_to_venerated_vigilance",
@@ -157501,7 +157961,8 @@
      "size": 20384084,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "martis_elite_to_zodiac",
@@ -159424,7 +159885,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 11635955
+     "size": 11635955,
+     "anime": true
     },
     {
      "id": "badang_saint_seiya_to_gold_saint_seiya_bronze",
@@ -159436,7 +159898,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16022137
+     "size": 16022137,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -159551,7 +160014,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 10116674
+     "size": 10116674,
+     "anime": true
     },
     {
      "id": "badang_special_to_saint_seiya_bronze",
@@ -159563,7 +160027,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17896629
+     "size": 17896629,
+     "anime": true
     },
     {
      "id": "badang_special_to_saint_seiya_gold",
@@ -159575,7 +160040,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 10639601
+     "size": 10639601,
+     "anime": true
     },
     {
      "id": "badang_special_to_susanoo",
@@ -159636,7 +160102,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 23146239
+     "size": 23146239,
+     "anime": true
     },
     {
      "id": "badang_zodiac_to_saint_seiya_gold",
@@ -159648,7 +160115,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 11377309
+     "size": 11377309,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -160387,7 +160855,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 27373006
+     "size": 27373006,
+     "anime": true
     }
    ],
    "source": "bs"
@@ -167050,7 +167519,8 @@
      "size": 22884367,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_ironfists_to_sagittarius_seiya",
@@ -167065,7 +167535,8 @@
      "size": 22611290,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_ironfists_to_beta_skin_08_detected_in_beta_mirror",
@@ -167101,7 +167572,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 8857034
+     "size": 8857034,
+     "anime": true
     },
     {
      "id": "badang_ironfists_to_saggitarius_seiya",
@@ -167113,7 +167585,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20706195
+     "size": 20706195,
+     "anime": true
     },
     {
      "id": "badang_ironfists_to_sagitarius_seiya",
@@ -167125,7 +167598,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 8706980
+     "size": 8706980,
+     "anime": true
     },
     {
      "id": "badang_ironfists_to_steel_arms",
@@ -167223,7 +167697,8 @@
      "size": 24496120,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_leo_to_sagittarius_seiya",
@@ -167238,7 +167713,8 @@
      "size": 24490068,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_leo_to_beta_skin_08_detected_in_beta_mirror",
@@ -167262,7 +167738,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 11781651
+     "size": 11781651,
+     "anime": true
     },
     {
      "id": "badang_leo_to_steel_arms",
@@ -167360,7 +167837,8 @@
      "size": 24496271,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_fist_of_zen_to_sagittarius_seiya",
@@ -167375,7 +167853,8 @@
      "size": 24490247,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_fist_of_zen_to_beta_skin_08_detected_in_beta_mirror",
@@ -167500,7 +167979,8 @@
      "size": 24475364,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_pegasus_seiya_to_beta_skin_08_detected_in_beta_mirror",
@@ -167625,7 +168105,8 @@
      "size": 24481343,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_sagittarius_seiya_to_beta_skin_08_detected_in_beta_mirror",
@@ -172051,7 +172532,8 @@
      "size": 21109540,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cecilion_the_illusionist_to_vessel_of_gluttony",
@@ -172179,7 +172661,8 @@
      "size": 21109524,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cecilion_phantom_count_to_vessel_of_gluttony",
@@ -172307,7 +172790,8 @@
      "size": 21124646,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cecilion_stargazer_to_vessel_of_gluttony",
@@ -172435,7 +172919,8 @@
      "size": 21124328,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cecilion_crimson_wings_to_vessel_of_gluttony",
@@ -172682,7 +173167,8 @@
      "size": 21193324,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "nix"
@@ -174517,7 +175003,8 @@
      "size": 21214528,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_iori_yagami_to_libra_shiryu",
@@ -174532,7 +175019,8 @@
      "size": 35782059,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_iori_yagami_to_echo",
@@ -174765,7 +175253,8 @@
      "size": 19892699,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_thunderfist_to_libra_shiryu",
@@ -174780,7 +175269,8 @@
      "size": 34628088,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_thunderfist_to_echo",
@@ -175028,7 +175518,8 @@
      "size": 35758177,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_dragon_shiryu_to_echo",
@@ -175175,7 +175666,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 28585732
+     "size": 28585732,
+     "anime": true
     },
     {
      "id": "chou_dragon_shiryu_to_street_fighter_1",
@@ -175360,7 +175852,8 @@
      "size": 21190705,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_libra_shiryu_to_echo",
@@ -175507,7 +176000,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19615719
+     "size": 19615719,
+     "anime": true
     },
     {
      "id": "chou_libra_shiryu_to_saint_seiya_gold",
@@ -175519,7 +176013,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 30358713
+     "size": 30358713,
+     "anime": true
     },
     {
      "id": "chou_libra_shiryu_to_street_fighter_1",
@@ -175704,7 +176199,8 @@
      "size": 19892648,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_echo_to_libra_shiryu",
@@ -175719,7 +176215,8 @@
      "size": 34627974,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_echo_to_ken_outfit_1",
@@ -175952,7 +176449,8 @@
      "size": 19892627,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_ken_outfit_2_to_libra_shiryu",
@@ -175967,7 +176465,8 @@
      "size": 34627960,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_ken_outfit_2_to_echo",
@@ -181058,7 +181557,8 @@
      "size": 30522849,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_orochi_chris_to_guile_outfit_2",
@@ -181198,7 +181698,8 @@
      "size": 30522871,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_naraka_flame_to_guile_outfit_2",
@@ -181493,7 +181994,8 @@
      "size": 30600612,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "nix"
@@ -184182,7 +184684,8 @@
      "size": 20190034,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_skylark_to_p_ace_fanny",
@@ -184382,7 +184885,8 @@
      "size": 25211443,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_christmas_carnival_to_galactic_starhawk",
@@ -184598,7 +185102,8 @@
      "size": 28339731,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_blade_of_kibou_to_galactic_starhawk",
@@ -185030,7 +185535,8 @@
      "size": 28371841,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_galactic_starhawk_to_summer_rescue",
@@ -193423,7 +193929,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21188293
+     "size": 21188293,
+     "anime": true
     },
     {
      "id": "gusion_cosmic_gleam_to_romantic_liaison_skin_13",
@@ -193686,7 +194193,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20187622
+     "size": 20187622,
+     "anime": true
     },
     {
      "id": "gusion_night_owl_to_romantic_liaison_skin_13",
@@ -193945,7 +194453,8 @@
      "size": 28970136,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_dimension_walker_to_gothic_hairstylist_painted_01",
@@ -193981,7 +194490,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21189402
+     "size": 21189402,
+     "anime": true
     },
     {
      "id": "gusion_dimension_walker_to_romantic_liaison_skin_13",
@@ -195959,7 +196469,8 @@
      "size": 30785117,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "harith_evos_legends_to_wayfarer",
@@ -195983,7 +196494,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 11236365
+     "size": 11236365,
+     "anime": true
     },
     {
      "id": "harith_evos_legends_to_rebel_emberfang",
@@ -196126,7 +196638,8 @@
      "size": 30818193,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "harith_psychic_to_wayfarer",
@@ -196281,7 +196794,8 @@
      "size": 30818376,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "harith_christmas_carnival_to_wayfarer",
@@ -197590,7 +198104,8 @@
      "size": 40489043,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_shura_to_kitsune_s_shadow",
@@ -198495,7 +199010,8 @@
      "size": 40796221,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_future_enforcer_iron_to_future_enforcer",
@@ -203142,7 +203658,8 @@
      "size": 35437259,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_megumi_fushiguro_to_itachi_uchiha",
@@ -203157,7 +203674,8 @@
      "size": 44989472,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "nix"
@@ -203213,7 +203731,8 @@
      "size": 21528421,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_kurapika_to_meowkin_tracker",
@@ -203243,7 +203762,8 @@
      "size": 44989537,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "nix"
@@ -203299,7 +203819,8 @@
      "size": 21528404,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_itachi_uchiha_to_meowkin_tracker",
@@ -203329,7 +203850,8 @@
      "size": 35437255,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "nix"
@@ -218039,7 +218561,8 @@
      "size": 35268347,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "martis_god_of_war_to_darkwater_terror",
@@ -218239,7 +218762,8 @@
      "size": 35238753,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "martis_capricorn_to_darkwater_terror",
@@ -218678,7 +219202,8 @@
      "size": 35268522,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "martis_darkwater_terror_to_nethersea_terror_painted_01",
@@ -218884,7 +219409,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 36968661
+     "size": 36968661,
+     "anime": true
     },
     {
      "id": "martis_nethersea_terror_skin_08_to_nethersea_terror_painted_02",
@@ -219042,7 +219568,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 36831289
+     "size": 36831289,
+     "anime": true
     },
     {
      "id": "martis_bloodtide_terror_skin_09_to_nethersea_terror_painted_02",
@@ -219950,7 +220477,8 @@
      "size": 26741551,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "melissa_nightwalker_to_sparkle_melissa",
@@ -220051,7 +220579,8 @@
      "size": 28914693,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "melissa_sparkle_melissa_to_nightwalker",
@@ -220152,7 +220681,8 @@
      "size": 28914719,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "melissa_umbra_bloom_to_nightwalker",
@@ -230053,7 +230583,8 @@
      "size": 13317494,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "phoveus_monolith_watcher_to_jiraiya",
@@ -230065,7 +230596,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 13169855
+     "size": 13169855,
+     "anime": true
     },
     {
      "id": "phoveus_monolith_watcher_to_matrix_marauder",
@@ -240762,7 +241294,8 @@
      "size": 17032312,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "nix"
@@ -240878,7 +241411,8 @@
      "size": 20008791,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "vale_supernal_tempest_to_beta_skin_09_detected_in_beta_mirror",
@@ -241042,7 +241576,8 @@
      "size": 20008847,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "vale_keeper_of_the_winds_to_beta_skin_09_detected_in_beta_mirror",
@@ -241206,7 +241741,8 @@
      "size": 20008768,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "vale_concerto_of_light_to_beta_skin_09_detected_in_beta_mirror",
@@ -241876,7 +242412,8 @@
      "size": 24920215,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_shikigami_sumonner_to_leo_ikki",
@@ -241891,7 +242428,8 @@
      "size": 33498596,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_shikigami_sumonner_to_arcane_seeker",
@@ -242046,7 +242584,8 @@
      "size": 24952879,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_draconic_flame_to_leo_ikki",
@@ -242061,7 +242600,8 @@
      "size": 33525096,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_draconic_flame_to_arcane_seeker",
@@ -242213,7 +242753,8 @@
      "size": 26038312,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_demonlord_to_leo_ikki",
@@ -242228,7 +242769,8 @@
      "size": 34883156,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_demonlord_to_arcane_seeker",
@@ -242395,7 +242937,8 @@
      "size": 33662497,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_infernal_blaze_to_arcane_seeker",
@@ -242577,7 +243120,8 @@
      "size": 34861524,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_phoenix_ikki_to_arcane_seeker",
@@ -242759,7 +243303,8 @@
      "size": 26016797,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_leo_ikki_to_arcane_seeker",
@@ -242914,7 +243459,8 @@
      "size": 25020139,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_arcane_seeker_to_leo_ikki",
@@ -242929,7 +243475,8 @@
      "size": 33580664,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_arcane_seeker_to_kyo_kusanagi",
@@ -243084,7 +243631,8 @@
      "size": 25053620,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_kyo_kusanagi_to_leo_ikki",
@@ -243099,7 +243647,8 @@
      "size": 33698531,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_kyo_kusanagi_to_arcane_seeker",
@@ -244805,7 +245354,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 34591629
+     "size": 34591629,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -245066,7 +245616,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 76345130
+     "size": 76345130,
+     "anime": true
     },
     {
      "id": "yin_yuji_itadori_to_eternal_guardian",
@@ -245173,7 +245724,8 @@
      "size": 87732395,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_eren_to_immortal_guardian_painted_01",
@@ -245274,7 +245826,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 76501211
+     "size": 76501211,
+     "anime": true
     },
     {
      "id": "yin_immortal_guardian_skin_06_to_eternal_guardian",
@@ -245334,7 +245887,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 69416235
+     "size": 69416235,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -249490,7 +250044,8 @@
      "size": 12986868,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "nana_sweet_leonin_to_chibi",
@@ -250090,7 +250645,8 @@
      "size": 3022271,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "alucard_demon_hunter_to_ichigo_kurosaki",
@@ -250107,7 +250663,8 @@
      "size": 5298523,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "alucard_demon_hunter_to_kokushibo",
@@ -250126,7 +250683,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "2 empty file(s), e.g. war2alucard_cityaction_3_01_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "alucard_demon_hunter_to_kyo_kusanagi",
@@ -250177,7 +250735,8 @@
      "size": 11325323,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "alucard_demon_hunter_to_alucard_exorcist_2",
@@ -250419,7 +250978,8 @@
      "size": 4359826,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "karina_shadow_blade_to_backup_2",
@@ -252565,7 +253125,8 @@
      "size": 21860637,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_blade_dancer_to_galactic_starhawk",
@@ -252697,7 +253258,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21852341
+     "size": 21852341,
+     "anime": true
     },
     {
      "id": "fanny_blade_dancer_to_p_ace_fanny_2",
@@ -252782,7 +253344,8 @@
      "size": 22208143,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_summer_rescue_to_galactic_starhawk",
@@ -252911,7 +253474,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 27755588
+     "size": 27755588,
+     "anime": true
     },
     {
      "id": "fanny_summer_rescue_to_p_ace_fanny",
@@ -253003,7 +253567,8 @@
      "size": 22202534,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_p_ace_fanny_to_galactic_starhawk",
@@ -253143,7 +253708,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 30447720
+     "size": 30447720,
+     "anime": true
     },
     {
      "id": "fanny_p_ace_fanny_to_punk_princess",
@@ -253802,7 +254368,8 @@
      "size": 23881780,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_crimson_shadow_to_itachi_uchiha",
@@ -253819,7 +254386,8 @@
      "size": 1842825,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_crimson_shadow_to_namikaze_minato",
@@ -253836,7 +254404,8 @@
      "size": 8783067,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_crimson_shadow_to_backup",
@@ -253932,7 +254501,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 23861958
+     "size": 23861958,
+     "anime": true
     },
     {
      "id": "hayabusa_crimson_shadow_to_kakashi",
@@ -253944,7 +254514,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 14386213
+     "size": 14386213,
+     "anime": true
     },
     {
      "id": "hayabusa_crimson_shadow_to_shadow_of_obscurity_2",
@@ -254871,7 +255442,8 @@
      "size": 5665864,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "kagura_onmyouji_master_to_backup_2",
@@ -255135,7 +255707,8 @@
      "size": 11466652,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_kung_fu_boy_to_libra_shiryu",
@@ -255150,7 +255723,8 @@
      "size": 13241756,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_kung_fu_boy_to_echo",
@@ -255218,7 +255792,8 @@
      "size": 4485016,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_kung_fu_boy_to_sanji",
@@ -255235,7 +255810,8 @@
      "size": 3166104,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_kung_fu_boy_to_portgas_ace",
@@ -255252,7 +255828,8 @@
      "size": 3773509,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_kung_fu_boy_to_ken_ryuguji",
@@ -255271,7 +255848,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 bundle(s) carry extra trailing bytes (watermark)"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "chou_kung_fu_boy_to_mcdonalds",
@@ -255457,7 +256035,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 13095354
+     "size": 13095354,
+     "anime": true
     },
     {
      "id": "chou_kung_fu_boy_to_echo_2",
@@ -255541,7 +256120,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 15107515
+     "size": 15107515,
+     "anime": true
     },
     {
      "id": "chou_kung_fu_boy_to_rocklee_customized_2",
@@ -255553,7 +256133,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 1988926
+     "size": 1988926,
+     "anime": true
     },
     {
      "id": "chou_kung_fu_boy_to_s_t_u_n_chou_2",
@@ -255689,7 +256270,8 @@
      "size": 6491725,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "nut"
@@ -257739,7 +258321,8 @@
      "size": 9946311,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "aurora_maiden_of_the_glacier_to_aquarius_2",
@@ -259202,7 +259785,8 @@
      "size": 4805622,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_dark_angel_to_yoriichi_tsugikuni",
@@ -259221,7 +259805,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "6 empty file(s), e.g. 45_argus_cityaction_01_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "argus_dark_angel_to_sousuke_aizen",
@@ -259238,7 +259823,8 @@
      "size": 5951258,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_dark_angel_to_toji_fushiguro",
@@ -259255,7 +259841,8 @@
      "size": 11592469,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_dark_angel_to_hidan_3d_model",
@@ -259272,7 +259859,8 @@
      "size": 9238350,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_dark_angel_to_steve_minecraft",
@@ -259308,7 +259896,8 @@
      "size": 12800487,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_dark_angel_to_backup_2",
@@ -259869,7 +260458,8 @@
      "size": 3564211,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lancelot_blade_of_roses_to_sasuke_uchiha",
@@ -259886,7 +260476,8 @@
      "size": 4824024,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lancelot_blade_of_roses_to_manjiro_sano",
@@ -259903,7 +260494,8 @@
      "size": 5956150,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lancelot_blade_of_roses_to_chibi",
@@ -260518,7 +261110,8 @@
      "size": 2386397,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "helcurt_shadowbringer_to_backup_2",
@@ -261606,7 +262199,8 @@
      "size": 26150482,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_holy_blade_to_summer_skin",
@@ -261772,7 +262366,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 26140287
+     "size": 26140287,
+     "anime": true
     },
     {
      "id": "gusion_holy_blade_to_night_owl_2",
@@ -261900,7 +262495,8 @@
      "size": 10547993,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_son_of_flames_to_leo_ikki",
@@ -261915,7 +262511,8 @@
      "size": 14148765,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_son_of_flames_to_kyo_kusanagi",
@@ -261994,7 +262591,8 @@
      "size": 13153532,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_shikigami_summoner_to_kyo_kusanagi",
@@ -262071,7 +262669,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 13016549
+     "size": 13016549,
+     "anime": true
     }
    ],
    "source": "nut"
@@ -262165,7 +262764,8 @@
      "size": 18731329,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "martis_asura_king_to_darkwater_terror",
@@ -262293,7 +262893,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 empty file(s), e.g. zzp2_XillyOfficial_skill01_skin02_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "uranus_aethereal_defender_to_backup_2",
@@ -263548,7 +264149,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "2 bundle(s) carry extra trailing bytes (watermark)"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "aldous_soul_contractor_to_big_jett",
@@ -264200,7 +264802,8 @@
      "size": 16663653,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "vale_windtalker_to_chibi",
@@ -264265,7 +264868,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16653858
+     "size": 16653858,
+     "anime": true
     },
     {
      "id": "vale_windtalker_to_supernal_tempest_2",
@@ -265688,7 +266292,8 @@
      "size": 17599395,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "harith_time_traveler_to_backup_2",
@@ -265736,7 +266341,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17191931
+     "size": 17191931,
+     "anime": true
     },
     {
      "id": "harith_time_traveler_to_lightborn_inspirer_2",
@@ -266260,7 +266866,8 @@
      "size": 9551492,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_tribal_warrior_to_sagittarius_seiya",
@@ -266275,7 +266882,8 @@
      "size": 21554209,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_tribal_warrior_to_madara_uchiha_customized",
@@ -266292,7 +266900,8 @@
      "size": 3458921,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_tribal_warrior_to_inosuke",
@@ -266309,7 +266918,8 @@
      "size": 15171056,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_tribal_warrior_to_gon_freecss",
@@ -266326,7 +266936,8 @@
      "size": 6799091,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_tribal_warrior_to_monkey_luffy",
@@ -266343,7 +266954,8 @@
      "size": 4321655,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_tribal_warrior_to_keisuke_baji",
@@ -266360,7 +266972,8 @@
      "size": 1505783,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_tribal_warrior_to_akaza",
@@ -266377,7 +266990,8 @@
      "size": 3777707,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_tribal_warrior_to_ralf_jones",
@@ -266442,7 +267056,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 3380158
+     "size": 3380158,
+     "anime": true
     },
     {
      "id": "badang_tribal_warrior_to_pegasus_seiya_2",
@@ -266454,7 +267069,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 9603375
+     "size": 9603375,
+     "anime": true
     },
     {
      "id": "badang_tribal_warrior_to_sagittarius_seiya_2",
@@ -266466,7 +267082,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21539773
+     "size": 21539773,
+     "anime": true
     },
     {
      "id": "badang_tribal_warrior_to_steel_arm",
@@ -266914,7 +267531,8 @@
      "size": 3222595,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "granger_death_chanter_to_thomas_shelby",
@@ -267534,7 +268152,8 @@
      "size": 23901947,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "guinevere_ms_violet_to_christmas_carnival",
@@ -267696,7 +268315,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 23686612
+     "size": 23686612,
+     "anime": true
     },
     {
      "id": "guinevere_ms_violet_to_lady_crane",
@@ -267921,7 +268541,8 @@
      "size": 10337890,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "esmeralda_astrologer_to_astral_muse_2",
@@ -268526,7 +269147,8 @@
      "size": 4297652,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "ling_cyan_finch_to_kokushibo",
@@ -268543,7 +269165,8 @@
      "size": 9417601,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "ling_cyan_finch_to_mafia_soldier",
@@ -268800,7 +269423,8 @@
      "size": 4965743,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_prince_of_the_abyss_to_chifuyu_matsuno",
@@ -268817,7 +269441,8 @@
      "size": 7171965,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_prince_of_the_abyss_to_gojo",
@@ -268834,7 +269459,8 @@
      "size": 20065436,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_prince_of_the_abyss_to_ace",
@@ -268851,7 +269477,8 @@
      "size": 15499056,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_prince_of_the_abyss_to_s_a_b_e_r_abyss",
@@ -268892,7 +269519,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 14008238
+     "size": 14008238,
+     "anime": true
     },
     {
      "id": "dyrroth_prince_of_the_abyss_to_guile_outfit_1_2",
@@ -269924,7 +270552,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "3 empty file(s), e.g. couplemage_cityaction_camera_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "cecilion_embrace_of_night_to_vessel_of_gluttony",
@@ -269956,7 +270585,8 @@
      "size": 28501295,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cecilion_embrace_of_night_to_suguru_geto",
@@ -269973,7 +270603,8 @@
      "size": 32375969,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cecilion_embrace_of_night_to_backup",
@@ -270009,7 +270640,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 10616244
+     "size": 10616244,
+     "anime": true
     },
     {
      "id": "cecilion_embrace_of_night_to_hisoka_2",
@@ -270021,7 +270653,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 6976839
+     "size": 6976839,
+     "anime": true
     },
     {
      "id": "cecilion_embrace_of_night_to_stargazer_2",
@@ -270151,7 +270784,8 @@
      "size": 5381015,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "carmilla_shadow_of_twilight_to_astral_arcana_2",
@@ -270478,7 +271112,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 bundle(s) carry extra trailing bytes (watermark)"
-     ]
+     ],
+     "anime": true
     }
    ],
    "source": "nut"
@@ -270623,7 +271258,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 empty file(s), e.g. BlackDragon_Cokro.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "yu_zhong_black_dragon_to_tanjiro",
@@ -270640,7 +271276,8 @@
      "size": 9745511,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "nut"
@@ -270915,7 +271552,8 @@
      "size": 2823390,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "benedetta_shadow_ranger_to_aspirant",
@@ -271428,7 +272066,8 @@
      "size": 5219524,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "brody_the_lone_star_to_choso",
@@ -271445,7 +272084,8 @@
      "size": 8113510,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "brody_the_lone_star_to_apbren_2",
@@ -271834,7 +272474,8 @@
      "size": 3523983,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "paquito_the_heavenly_fist_to_jollibee",
@@ -272418,7 +273059,8 @@
      "size": 13317616,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "phoveus_chains_of_sin_to_yashiro_customized",
@@ -272448,7 +273090,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 13169825
+     "size": 13169825,
+     "anime": true
     },
     {
      "id": "phoveus_chains_of_sin_to_yashiro_customized_2",
@@ -273735,7 +274378,8 @@
      "size": 26778186,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_martial_genius_to_dauntless_battlelord",
@@ -273771,7 +274415,8 @@
      "size": 10112611,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_martial_genius_to_obito_uchiha",
@@ -273788,7 +274433,8 @@
      "size": 8587290,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_martial_genius_to_taro_sakamoto",
@@ -273805,7 +274451,8 @@
      "size": 8389328,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_martial_genius_to_swimming_pool",
@@ -273858,7 +274505,8 @@
      "size": 19712887,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_martial_genius_to_kamen_rider",
@@ -274000,7 +274648,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 10128366
+     "size": 10128366,
+     "anime": true
     },
     {
      "id": "melissa_cursed_needle_to_nobara_kugisaki",
@@ -274012,7 +274661,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16613016
+     "size": 16613016,
+     "anime": true
     },
     {
      "id": "melissa_cursed_needle_to_sparkle_melissa_2",
@@ -274159,7 +274809,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 12139583
+     "size": 12139583,
+     "anime": true
     },
     {
      "id": "xavier_defier_of_light_to_hardlight_artificer_2",
@@ -274195,7 +274846,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19936501
+     "size": 19936501,
+     "anime": true
     },
     {
      "id": "xavier_defier_of_light_to_sunborn_monarch_2",
@@ -274282,7 +274934,8 @@
      "size": 18262786,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_scarlet_raven_to_itachi_uchiha",
@@ -274298,7 +274951,8 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": [],
-     "size": 19517950
+     "size": 19517950,
+     "anime": true
     },
     {
      "id": "julian_scarlet_raven_to_backup_2",
@@ -274322,7 +274976,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 30219048
+     "size": 30219048,
+     "anime": true
     },
     {
      "id": "julian_scarlet_raven_to_kurapika_of_kurta",
@@ -274334,7 +274989,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 18034887
+     "size": 18034887,
+     "anime": true
     },
     {
      "id": "julian_scarlet_raven_to_megumi_fushiguro",
@@ -274346,7 +275002,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19159548
+     "size": 19159548,
+     "anime": true
     },
     {
      "id": "julian_scarlet_raven_to_meowkin_tracker_2",
@@ -274906,7 +275563,8 @@
      "size": 1756771,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "arlott_lone_lancer_to_roronoa_zoro",
@@ -274923,7 +275581,8 @@
      "size": 26153358,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "arlott_lone_lancer_to_chainsaw_man",
@@ -274940,7 +275599,8 @@
      "size": 45539229,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "arlott_lone_lancer_to_aeon_of_twilight_2",
@@ -275160,7 +275820,8 @@
      "size": 17357017,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "nolan_cosmic_wayfinder_to_timothy_crypto",
@@ -275384,7 +276045,8 @@
       "Audit: Packed package: needs Verde 3.6.4 or newer.",
       "bundles are not inside Art/ UI/ Scenes/ folders"
      ],
-     "size": 24666769
+     "size": 24666769,
+     "anime": true
     },
     {
      "id": "suyou_mask_of_the_immortal_to_frostblade_duelist",
@@ -275421,7 +276083,8 @@
      "size": 9159502,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "suyou_mask_of_the_immortal_to_backup",
@@ -275445,7 +276108,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 27373006
+     "size": 27373006,
+     "anime": true
     }
    ],
    "source": "nut"
@@ -275474,7 +276138,8 @@
      "check_notes": [
       "Audit: Packed package: needs Verde 3.6.4 or newer.",
       "bundles are not inside Art/ UI/ Scenes/ folders"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "lukas_beast_of_light_to_uzumaki_naruto",
@@ -275491,7 +276156,8 @@
      "size": 6046167,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lukas_beast_of_light_to_backup",
@@ -275515,7 +276181,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 36125054
+     "size": 36125054,
+     "anime": true
     }
    ],
    "source": "nut"
@@ -275572,7 +276239,8 @@
      "size": 19528710,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "khalea_surging_wave_to_tideborn_sailor",
@@ -275631,7 +276299,8 @@
      "size": 16891153,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "nut"
@@ -275928,7 +276597,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 9603428
+     "size": 9603428,
+     "anime": true
     },
     {
      "id": "badang_basic_to_sagittarius_seiya",
@@ -275940,7 +276610,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20706195
+     "size": 20706195,
+     "anime": true
     },
     {
      "id": "badang_basic_to_saint_seiya_bronze",
@@ -275952,7 +276623,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17853847
+     "size": 17853847,
+     "anime": true
     },
     {
      "id": "badang_basic_to_saint_seiya_gold",
@@ -275964,7 +276636,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 10583195
+     "size": 10583195,
+     "anime": true
     },
     {
      "id": "badang_basic_to_zodiac_2",
@@ -276015,7 +276688,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 18537284
+     "size": 18537284,
+     "anime": true
     },
     {
      "id": "badang_collector_to_saint_seiya_gold",
@@ -276027,7 +276701,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 11376928
+     "size": 11376928,
+     "anime": true
     },
     {
      "id": "badang_collector_to_zodiac_2",
@@ -276268,7 +276943,8 @@
      "check_date": "2026-11-21",
      "check_notes": [
       "1 empty file(s), e.g. hero_asura_afterimage_skin08_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     }
    ],
    "source": "nut"
@@ -276298,7 +276974,8 @@
      "check_date": "2026-11-21",
      "check_notes": [
       "1 empty file(s), e.g. hero_asura_afterimage_skin09_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     }
    ],
    "source": "nut"
@@ -276581,7 +277258,8 @@
      "size": 16438561,
      "check": "good",
      "check_date": "2026-11-21",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ],
    "source": "nut"
@@ -281023,7 +281701,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24496176
+     "size": 24496176,
+     "anime": true
     },
     {
      "id": "badang_badang_detected_skin_05_to_sagittarius_seiya",
@@ -281035,7 +281714,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 26044235
+     "size": 26044235,
+     "anime": true
     },
     {
      "id": "badang_badang_detected_skin_05_to_susanoo",
@@ -281141,7 +281821,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24496334
+     "size": 24496334,
+     "anime": true
     },
     {
      "id": "badang_beta_skin_08_detected_in_beta_mirror_to_sagittarius_seiya",
@@ -281153,7 +281834,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 26044451
+     "size": 26044451,
+     "anime": true
     },
     {
      "id": "badang_beta_skin_08_detected_in_beta_mirror_to_steel_arms",
@@ -281212,7 +281894,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 18608684
+     "size": 18608684,
+     "anime": true
     },
     {
      "id": "badang_default_to_saint_seiya_gold",
@@ -281224,7 +281907,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 11320448
+     "size": 11320448,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -281247,7 +281931,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20027433
+     "size": 20027433,
+     "anime": true
     },
     {
      "id": "badang_seint_to_sagittarius_seiya",
@@ -281259,7 +281944,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 18310525
+     "size": 18310525,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -283434,7 +284120,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21258682
+     "size": 21258682,
+     "anime": true
     },
     {
      "id": "chou_beta_skin_14_detected_in_beta_mirror_to_echo",
@@ -283530,7 +284217,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 36670827
+     "size": 36670827,
+     "anime": true
     },
     {
      "id": "chou_beta_skin_14_detected_in_beta_mirror_to_red_tiger",
@@ -283637,7 +284325,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20604770
+     "size": 20604770,
+     "anime": true
     },
     {
      "id": "chou_default_to_saint_seiya_gold",
@@ -283649,7 +284338,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 25296534
+     "size": 25296534,
+     "anime": true
     },
     {
      "id": "chou_default_to_street_fighter_1",
@@ -283720,7 +284410,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 23693707
+     "size": 23693707,
+     "anime": true
     },
     {
      "id": "chou_ken_outfit_1_to_echo",
@@ -283804,7 +284495,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 38142715
+     "size": 38142715,
+     "anime": true
     },
     {
      "id": "chou_ken_outfit_1_to_red_tiger",
@@ -283899,7 +284591,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 23693692
+     "size": 23693692,
+     "anime": true
     },
     {
      "id": "chou_red_tiger_to_echo",
@@ -283995,7 +284688,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 38142716
+     "size": 38142716,
+     "anime": true
     },
     {
      "id": "chou_red_tiger_to_s_t_u_n_chou",
@@ -284090,7 +284784,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20525761
+     "size": 20525761,
+     "anime": true
     },
     {
      "id": "chou_s_t_u_n_to_saint_seiya_gold",
@@ -284102,7 +284797,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 29674635
+     "size": 29674635,
+     "anime": true
     },
     {
      "id": "chou_s_t_u_n_to_street_fighter_1",
@@ -284153,7 +284849,8 @@
      "check_notes": [
       "Audit: Incomplete package: it has the hero-screen model but not the battle model, so in a match the hero keeps the old look. Use another version of this skin."
      ],
-     "check": "caution"
+     "check": "caution",
+     "anime": true
     }
    ],
    "source": "nix"
@@ -284235,7 +284932,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 18174756
+     "size": 18174756,
+     "anime": true
     },
     {
      "id": "chou_starlight_to_echo",
@@ -284287,7 +284985,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24643923
+     "size": 24643923,
+     "anime": true
     },
     {
      "id": "chou_starlight_to_s_t_u_n_chou",
@@ -284358,7 +285057,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 23693718
+     "size": 23693718,
+     "anime": true
     },
     {
      "id": "chou_undefeated_champion_to_echo",
@@ -284454,7 +285154,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 38138767
+     "size": 38138767,
+     "anime": true
     },
     {
      "id": "chou_undefeated_champion_to_red_tiger",
@@ -286722,7 +287423,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19593054
+     "size": 19593054,
+     "anime": true
     },
     {
      "id": "dyrroth_default_to_kof",
@@ -286805,7 +287507,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 34851661
+     "size": 34851661,
+     "anime": true
     },
     {
      "id": "dyrroth_dyrroth_unreleased_skin_07_to_guile",
@@ -286912,7 +287615,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 34941028
+     "size": 34941028,
+     "anime": true
     },
     {
      "id": "dyrroth_guile_to_naraka_flame",
@@ -287053,7 +287757,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 14209345
+     "size": 14209345,
+     "anime": true
     },
     {
      "id": "dyrroth_starlight_to_naraka_flame",
@@ -287136,7 +287841,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21907991
+     "size": 21907991,
+     "anime": true
     },
     {
      "id": "dyrroth_v_e_n_o_m_to_kof",
@@ -288112,7 +288818,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21852341
+     "size": 21852341,
+     "anime": true
     },
     {
      "id": "fanny_default_to_christmas",
@@ -288230,7 +288937,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20181162
+     "size": 20181162,
+     "anime": true
     },
     {
      "id": "fanny_lucky_box_to_skylark",
@@ -288265,7 +288973,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20181162
+     "size": 20181162,
+     "anime": true
     },
     {
      "id": "fanny_luckybox_to_legend",
@@ -288358,7 +289067,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 22193820
+     "size": 22193820,
+     "anime": true
     },
     {
      "id": "fanny_pace_to_p_ace_fanny",
@@ -288441,7 +289151,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20782686
+     "size": 20782686,
+     "anime": true
     },
     {
      "id": "fanny_s22_to_skylark",
@@ -288606,7 +289317,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20060790
+     "size": 20060790,
+     "anime": true
     },
     {
      "id": "fanny_s3_to_punk_princess",
@@ -288855,7 +289567,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21118705
+     "size": 21118705,
+     "anime": true
     },
     {
      "id": "fanny_starlight_to_royal_cavalry",
@@ -293445,7 +294158,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 26447102
+     "size": 26447102,
+     "anime": true
     },
     {
      "id": "gusion_dangerous_liason_to_night_owl",
@@ -293540,7 +294254,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 26140287
+     "size": 26140287,
+     "anime": true
     },
     {
      "id": "gusion_default_to_starlight_2018",
@@ -293587,7 +294302,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 28958897
+     "size": 28958897,
+     "anime": true
     },
     {
      "id": "gusion_demension_walker_to_night_owl",
@@ -295198,7 +295914,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 25184083
+     "size": 25184083,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -295269,7 +295986,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 27048642
+     "size": 27048642,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -295494,7 +296212,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24693317
+     "size": 24693317,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -295612,7 +296331,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24693317
+     "size": 24693317,
+     "anime": true
     },
     {
      "id": "gusion_v_e_n_o_m_emperror_to_night_owl",
@@ -296892,7 +297612,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 23342870
+     "size": 23342870,
+     "anime": true
     },
     {
      "id": "harith_default_to_starlight_2026",
@@ -297022,7 +297743,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 31995564
+     "size": 31995564,
+     "anime": true
     },
     {
      "id": "harith_rebel_emberfang_to_lightborn_inspirer",
@@ -297494,7 +298216,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20705347
+     "size": 20705347,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -297565,7 +298288,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 18313983
+     "size": 18313983,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -297636,7 +298360,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16903885
+     "size": 16903885,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -297707,7 +298432,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16889004
+     "size": 16889004,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -297742,7 +298468,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19579588
+     "size": 19579588,
+     "anime": true
     },
     {
      "id": "hayabusa_elite2_to_shadow_of_obscurity",
@@ -297861,7 +298588,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 79324221
+     "size": 79324221,
+     "anime": true
     },
     {
      "id": "hayabusa_future_enforcer_iron_painted_01_to_shadow_of_obscurity",
@@ -298015,7 +298743,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16626260
+     "size": 16626260,
+     "anime": true
     },
     {
      "id": "hayabusa_lucky_box_to_shadow_of_obscurity",
@@ -298133,7 +298862,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17500135
+     "size": 17500135,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -298156,7 +298886,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20177142
+     "size": 20177142,
+     "anime": true
     },
     {
      "id": "hayabusa_starlight_to_shadow_of_obscurity",
@@ -298239,7 +298970,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20803012
+     "size": 20803012,
+     "anime": true
     },
     {
      "id": "hayabusa_summer_festival_to_kakashi",
@@ -298251,7 +298983,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 15755753
+     "size": 15755753,
+     "anime": true
     },
     {
      "id": "hayabusa_summer_festival_to_shadow_of_obscurity",
@@ -298370,7 +299103,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 86134176
+     "size": 86134176,
+     "anime": true
     },
     {
      "id": "hayabusa_sushi_master_purple_to_shadow_of_obscurity",
@@ -298525,7 +299259,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 79328392
+     "size": 79328392,
+     "anime": true
     },
     {
      "id": "hayabusa_sushi_master_purple_painted_01_to_shadow_of_obscurity",
@@ -301256,7 +301991,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 23684957
+     "size": 23684957,
+     "anime": true
     },
     {
      "id": "julian_default_to_jujutsu_kaisen",
@@ -301268,7 +302004,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19159034
+     "size": 19159034,
+     "anime": true
     },
     {
      "id": "julian_default_to_mystic_meow",
@@ -301292,7 +302029,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 30219048
+     "size": 30219048,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -301315,7 +302053,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 31321713
+     "size": 31321713,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -301338,7 +302077,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 27376888
+     "size": 27376888,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -301361,7 +302101,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 31062710
+     "size": 31062710,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -301384,7 +302125,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19652295
+     "size": 19652295,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -303108,7 +303850,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16015121
+     "size": 16015121,
+     "anime": true
     },
     {
      "id": "khalea_kalea_basic_to_sakura_haruno",
@@ -303120,7 +303863,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 18442713
+     "size": 18442713,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -303155,7 +303899,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 32563234
+     "size": 32563234,
+     "anime": true
     },
     {
      "id": "khalea_kalea_beta_skin_03_detected_in_beta_mirror_to_shimmering_waves",
@@ -303190,7 +303935,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17417329
+     "size": 17417329,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -303225,7 +303971,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 27149150
+     "size": 27149150,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -303248,7 +303995,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 22943519
+     "size": 22943519,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -309188,7 +309936,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 38973039
+     "size": 38973039,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -310364,7 +311113,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 18501782
+     "size": 18501782,
+     "anime": true
     },
     {
      "id": "martis_ashura_king_to_wild_renegade",
@@ -310482,7 +311232,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 38482050
+     "size": 38482050,
+     "anime": true
     },
     {
      "id": "martis_bloodtide_terror_to_nethersea_terror",
@@ -310601,7 +311352,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 36831145
+     "size": 36831145,
+     "anime": true
     },
     {
      "id": "martis_bloodtide_terror_painted_01_to_nethersea_terror_skin_08",
@@ -310660,7 +311412,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24214192
+     "size": 24214192,
+     "anime": true
     },
     {
      "id": "martis_default_to_zodiac",
@@ -310695,7 +311448,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 22011112
+     "size": 22011112,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -310790,7 +311544,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 38620199
+     "size": 38620199,
+     "anime": true
     },
     {
      "id": "martis_nethersea_terror_to_searing_maw",
@@ -310897,7 +311652,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 36831145
+     "size": 36831145,
+     "anime": true
     },
     {
      "id": "martis_nethersea_terror_painted_02_to_nethersea_terror_skin_08",
@@ -311026,7 +311782,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 22001459
+     "size": 22001459,
+     "anime": true
     },
     {
      "id": "martis_starlight_to_searing_maw",
@@ -311073,7 +311830,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 22910251
+     "size": 22910251,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -311306,7 +312064,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 31845791
+     "size": 31845791,
+     "anime": true
     },
     {
      "id": "melissa_cursewalker_to_shimmer_melissa",
@@ -311400,7 +312159,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16386555
+     "size": 16386555,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -311459,7 +312219,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 31845777
+     "size": 31845777,
+     "anime": true
     },
     {
      "id": "melissa_shimmer_melissa_to_twinge_weaver",
@@ -311529,7 +312290,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16386555
+     "size": 16386555,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -319804,7 +320566,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 23587532
+     "size": 23587532,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -321317,7 +322080,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17610358
+     "size": 17610358,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -321388,7 +322152,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21038160
+     "size": 21038160,
+     "anime": true
     },
     {
      "id": "vale_beta_skin_09_detected_in_beta_mirror_to_kannagi",
@@ -321507,7 +322272,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16653858
+     "size": 16653858,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -321577,7 +322343,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 15330858
+     "size": 15330858,
+     "anime": true
     },
     {
      "id": "vale_soaring_devala_to_supernal_tempest",
@@ -321624,7 +322391,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 15330858
+     "size": 15330858,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -321671,7 +322439,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21038208
+     "size": 21038208,
+     "anime": true
     },
     {
      "id": "vale_vale_detected_skin_02_to_kannagi",
@@ -321836,7 +322605,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 18614002
+     "size": 18614002,
+     "anime": true
     },
     {
      "id": "valir_default_to_saint_seiya_gold",
@@ -321848,7 +322618,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21260516
+     "size": 21260516,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -321955,7 +322726,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 36134788
+     "size": 36134788,
+     "anime": true
     },
     {
      "id": "valir_shikigami_envoy_to_pale_flame",
@@ -321979,7 +322751,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 26939334
+     "size": 26939334,
+     "anime": true
     },
     {
      "id": "valir_shikigami_envoy_to_shikigami_sumonner",
@@ -322026,7 +322799,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 9909298
+     "size": 9909298,
+     "anime": true
     },
     {
      "id": "valir_son_of_flame_to_demonlord",
@@ -322086,7 +322860,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 14279036
+     "size": 14279036,
+     "anime": true
     },
     {
      "id": "valir_son_of_flame_to_phoenix_ikki",
@@ -322098,7 +322873,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 10387988
+     "size": 10387988,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -323423,7 +324199,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 14405472
+     "size": 14405472,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -323470,7 +324247,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17141075
+     "size": 17141075,
+     "anime": true
     },
     {
      "id": "xavier_default_to_starlight_2024",
@@ -323576,7 +324354,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 34591609
+     "size": 34591609,
+     "anime": true
     },
     {
      "id": "xavier_lightwave_artificer_to_verdict_of_light",
@@ -323728,7 +324507,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 76345136
+     "size": 76345136,
+     "anime": true
     },
     {
      "id": "yin_immortal_guardian_painted_01_to_fists_of_valor",
@@ -323776,7 +324556,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 69412446
+     "size": 69412446,
+     "anime": true
     }
    ],
    "source": "nix"
@@ -323799,7 +324580,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 76345136
+     "size": 76345136,
+     "anime": true
     },
     {
      "id": "yin_immortal_guardian_painted_02_to_fists_of_valor",
@@ -323847,7 +324629,8 @@
      "skin_tags": [],
      "source": "nix",
      "added": "2026-11-23",
-     "size": 69412446
+     "size": 69412446,
+     "anime": true
     }
    ],
    "source": "nix"

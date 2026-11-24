@@ -282,7 +282,8 @@
      "size": 16058515,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "aamon_015",
@@ -446,7 +447,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16066242
+     "size": 16066242,
+     "anime": true
     },
     {
      "id": "aamon_022",
@@ -2051,7 +2053,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "2 bundle(s) carry extra trailing bytes (watermark)"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "aldous_024",
@@ -2181,7 +2184,8 @@
      "size": 8198971,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "aldous_032",
@@ -2213,7 +2217,8 @@
      "size": 23569143,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "aldous_034",
@@ -2471,7 +2476,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 8105782
+     "size": 8105782,
+     "anime": true
     },
     {
      "id": "aldous_044",
@@ -2523,7 +2529,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 3664394
+     "size": 3664394,
+     "anime": true
     },
     {
      "id": "aldous_046",
@@ -4277,7 +4284,8 @@
      "size": 12238812,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "alpha_029",
@@ -4439,7 +4447,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 12235646
+     "size": 12235646,
+     "anime": true
     },
     {
      "id": "alpha_035",
@@ -5336,7 +5345,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 empty file(s), e.g. war2alucard_cakra.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "alucard_026",
@@ -5352,7 +5362,8 @@
      "size": 2459280,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "alucard_027",
@@ -5384,7 +5395,8 @@
      "size": 8103220,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "alucard_029",
@@ -5400,7 +5412,8 @@
      "size": 17608694,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "alucard_030",
@@ -5416,7 +5429,8 @@
      "size": 10613766,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "alucard_031",
@@ -5432,7 +5446,8 @@
      "size": 11053224,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "alucard_032",
@@ -5448,7 +5463,8 @@
      "size": 4730517,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "alucard_033",
@@ -5464,7 +5480,8 @@
      "size": 11456095,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "alucard_034",
@@ -5530,7 +5547,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 empty file(s), e.g. zzp1_newfiremagic_skill02_xvrnnch_skin10_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "alucard_038",
@@ -5548,7 +5566,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 empty file(s), e.g. zzp1_newfiremagic_skill02_xvrnnch_skin10_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "alucard_039",
@@ -5598,7 +5617,8 @@
      "size": 5299547,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "alucard_042",
@@ -5616,7 +5636,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 empty file(s), e.g. zzp2_nextwar2alucard_skill03_skin03_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "alucard_043",
@@ -5632,7 +5653,8 @@
      "size": 11198874,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "alucard_044",
@@ -5648,7 +5670,8 @@
      "size": 17744261,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "alucard_045",
@@ -5712,7 +5735,8 @@
      "size": 2943891,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "alucard_049",
@@ -5744,7 +5768,8 @@
      "size": 8110212,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "alucard_051",
@@ -5814,7 +5839,8 @@
      "size": 4727851,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "alucard_053",
@@ -5949,7 +5975,8 @@
      "check": "good",
      "check_date": "2026-11-21",
      "check_notes": [],
-     "added": "2026-11-21"
+     "added": "2026-11-21",
+     "anime": true
     },
     {
      "id": "alucard_058",
@@ -5965,7 +5992,8 @@
      "check": "good",
      "check_date": "2026-11-21",
      "check_notes": [],
-     "added": "2026-11-21"
+     "added": "2026-11-21",
+     "anime": true
     },
     {
      "id": "alucard_059",
@@ -5981,7 +6009,8 @@
      "check": "good",
      "check_date": "2026-11-21",
      "check_notes": [],
-     "added": "2026-11-21"
+     "added": "2026-11-21",
+     "anime": true
     },
     {
      "id": "alucard_060",
@@ -6033,7 +6062,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 10860795
+     "size": 10860795,
+     "anime": true
     },
     {
      "id": "alucard_062",
@@ -6059,7 +6089,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 2456748
+     "size": 2456748,
+     "anime": true
     },
     {
      "id": "alucard_063",
@@ -6111,7 +6142,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 7984119
+     "size": 7984119,
+     "anime": true
     },
     {
      "id": "alucard_065",
@@ -6215,7 +6247,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 10408700
+     "size": 10408700,
+     "anime": true
     },
     {
      "id": "alucard_069",
@@ -6241,7 +6274,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 7639363
+     "size": 7639363,
+     "anime": true
     },
     {
      "id": "alucard_070",
@@ -6267,7 +6301,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17611192
+     "size": 17611192,
+     "anime": true
     },
     {
      "id": "alucard_071",
@@ -6293,7 +6328,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 3485399
+     "size": 3485399,
+     "anime": true
     },
     {
      "id": "alucard_072",
@@ -6319,7 +6355,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 2940717
+     "size": 2940717,
+     "anime": true
     },
     {
      "id": "alucard_073",
@@ -6345,7 +6382,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 10565492
+     "size": 10565492,
+     "anime": true
     },
     {
      "id": "alucard_074",
@@ -6683,7 +6721,8 @@
      "size": 3578329,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "alucard_086",
@@ -6699,7 +6738,8 @@
      "size": 2227422,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "alucard_087",
@@ -6715,7 +6755,8 @@
      "size": 3052773,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "alucard_088",
@@ -8363,7 +8404,8 @@
      "size": 11596815,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_021",
@@ -8379,7 +8421,8 @@
      "size": 6146872,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_022",
@@ -8445,7 +8488,8 @@
      "size": 17749062,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_026",
@@ -8495,7 +8539,8 @@
      "size": 10959453,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_029",
@@ -8511,7 +8556,8 @@
      "size": 17479526,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_030",
@@ -8527,7 +8573,8 @@
      "size": 24921826,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_031",
@@ -8543,7 +8590,8 @@
      "size": 42389865,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_032",
@@ -8623,7 +8671,8 @@
      "size": 16758259,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_037",
@@ -8657,7 +8706,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 empty file(s), e.g. 45_argus_skill03_Keep_01.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "argus_039",
@@ -8673,7 +8723,8 @@
      "size": 10211816,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_040",
@@ -8689,7 +8740,8 @@
      "size": 25033212,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_041",
@@ -8837,7 +8889,8 @@
      "size": 5862421,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_047",
@@ -8872,7 +8925,8 @@
      "size": 6575861,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_048",
@@ -8907,7 +8961,8 @@
      "size": 19096123,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_049",
@@ -8942,7 +8997,8 @@
      "size": 11591947,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_050",
@@ -9006,7 +9062,8 @@
      "size": 25030486,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_052",
@@ -9041,7 +9098,8 @@
      "size": 40467240,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_053",
@@ -9076,7 +9134,8 @@
      "size": 11514952,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_054",
@@ -9148,7 +9207,8 @@
      "size": 18798246,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_056",
@@ -9183,7 +9243,8 @@
      "size": 832319,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "argus_057",
@@ -9215,7 +9276,8 @@
      "check": "good",
      "check_date": "2026-11-21",
      "check_notes": [],
-     "added": "2026-11-21"
+     "added": "2026-11-21",
+     "anime": true
     },
     {
      "id": "argus_059",
@@ -9233,7 +9295,8 @@
      "check_notes": [
       "1 bundle(s) carry extra trailing bytes (watermark)"
      ],
-     "added": "2026-11-21"
+     "added": "2026-11-21",
+     "anime": true
     },
     {
      "id": "argus_060",
@@ -9249,7 +9312,8 @@
      "check": "good",
      "check_date": "2026-11-21",
      "check_notes": [],
-     "added": "2026-11-21"
+     "added": "2026-11-21",
+     "anime": true
     },
     {
      "id": "argus_061",
@@ -9281,7 +9345,8 @@
      "check": "good",
      "check_date": "2026-11-21",
      "check_notes": [],
-     "added": "2026-11-21"
+     "added": "2026-11-21",
+     "anime": true
     },
     {
      "id": "argus_063",
@@ -9359,7 +9424,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16752547
+     "size": 16752547,
+     "anime": true
     },
     {
      "id": "argus_066",
@@ -9385,7 +9451,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 18249752
+     "size": 18249752,
+     "anime": true
     },
     {
      "id": "argus_067",
@@ -9541,7 +9608,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 5496276
+     "size": 5496276,
+     "anime": true
     },
     {
      "id": "argus_073",
@@ -9593,7 +9661,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 11827171
+     "size": 11827171,
+     "anime": true
     },
     {
      "id": "argus_075",
@@ -10047,7 +10116,8 @@
      "size": 2570998,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "arlott_011",
@@ -10063,7 +10133,8 @@
      "size": 4304942,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "arlott_012",
@@ -10111,7 +10182,8 @@
      "size": 25375324,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "arlott_015",
@@ -10127,7 +10199,8 @@
      "size": 14927022,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "arlott_016",
@@ -10143,7 +10216,8 @@
      "size": 16471021,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "arlott_017",
@@ -10159,7 +10233,8 @@
      "size": 10512295,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "arlott_018",
@@ -10175,7 +10250,8 @@
      "size": 9627010,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "arlott_019",
@@ -10191,7 +10267,8 @@
      "size": 12641503,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "arlott_020",
@@ -10207,7 +10284,8 @@
      "size": 5065349,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "arlott_021",
@@ -10223,7 +10301,8 @@
      "size": 21824341,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "arlott_022",
@@ -10239,7 +10318,8 @@
      "size": 4892556,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "arlott_023",
@@ -10339,7 +10419,8 @@
      "size": 44957835,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "arlott_026",
@@ -10374,7 +10455,8 @@
      "size": 4824732,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "arlott_027",
@@ -10467,7 +10549,8 @@
      "size": 9778332,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "arlott_030",
@@ -10555,7 +10638,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 9776576
+     "size": 9776576,
+     "anime": true
     },
     {
      "id": "arlott_033",
@@ -10581,7 +10665,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 2534357
+     "size": 2534357,
+     "anime": true
     },
     {
      "id": "arlott_034",
@@ -10607,7 +10692,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 14925792
+     "size": 14925792,
+     "anime": true
     },
     {
      "id": "arlott_035",
@@ -10633,7 +10719,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 25378694
+     "size": 25378694,
+     "anime": true
     },
     {
      "id": "arlott_036",
@@ -10659,7 +10746,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 4223786
+     "size": 4223786,
+     "anime": true
     },
     {
      "id": "arlott_037",
@@ -10685,7 +10773,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 10435304
+     "size": 10435304,
+     "anime": true
     },
     {
      "id": "arlott_038",
@@ -10737,7 +10826,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16402960
+     "size": 16402960,
+     "anime": true
     },
     {
      "id": "arlott_040",
@@ -10763,7 +10853,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21817279
+     "size": 21817279,
+     "anime": true
     },
     {
      "id": "arlott_041",
@@ -11934,7 +12025,8 @@
      "size": 16501265,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "aulus_016",
@@ -11950,7 +12042,8 @@
      "size": 4484420,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "aulus_017",
@@ -12095,7 +12188,8 @@
      "size": 16429944,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "aulus_023",
@@ -12111,7 +12205,8 @@
      "check": "good",
      "check_date": "2026-11-21",
      "check_notes": [],
-     "added": "2026-11-21"
+     "added": "2026-11-21",
+     "anime": true
     },
     {
      "id": "aulus_024",
@@ -12137,7 +12232,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 15477835
+     "size": 15477835,
+     "anime": true
     },
     {
      "id": "aulus_025",
@@ -12163,7 +12259,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 4021633
+     "size": 4021633,
+     "anime": true
     },
     {
      "id": "aulus_026",
@@ -12739,7 +12836,8 @@
      "size": 4156194,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "aurora_018",
@@ -12883,7 +12981,8 @@
      "size": 9831538,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "aurora_025",
@@ -13008,7 +13107,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 4058860
+     "size": 4058860,
+     "anime": true
     },
     {
      "id": "aurora_029",
@@ -13528,7 +13628,8 @@
      "size": 9537984,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_006",
@@ -13562,7 +13663,8 @@
      "size": 11636038,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_007",
@@ -13692,7 +13794,8 @@
      "size": 9537984,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_014",
@@ -13788,7 +13891,8 @@
      "size": 10056163,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_020",
@@ -13804,7 +13908,8 @@
      "size": 15756012,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_021",
@@ -13820,7 +13925,8 @@
      "size": 21546121,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_022",
@@ -13868,7 +13974,8 @@
      "size": 1321798,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_025",
@@ -13884,7 +13991,8 @@
      "size": 2683636,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_026",
@@ -13900,7 +14008,8 @@
      "size": 3281252,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_027",
@@ -13916,7 +14025,8 @@
      "size": 18624691,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_028",
@@ -13932,7 +14042,8 @@
      "size": 3559239,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_029",
@@ -14095,7 +14206,8 @@
      "size": 12393170,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_034",
@@ -14130,7 +14242,8 @@
      "size": 9591508,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_035",
@@ -14162,7 +14275,8 @@
      "check": "good",
      "check_date": "2026-11-21",
      "check_notes": [],
-     "added": "2026-11-21"
+     "added": "2026-11-21",
+     "anime": true
     },
     {
      "id": "badang_037",
@@ -14188,7 +14302,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 3490275
+     "size": 3490275,
+     "anime": true
     },
     {
      "id": "badang_038",
@@ -14214,7 +14329,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 2680830
+     "size": 2680830,
+     "anime": true
     },
     {
      "id": "badang_039",
@@ -14240,7 +14356,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 9590936
+     "size": 9590936,
+     "anime": true
     },
     {
      "id": "badang_040",
@@ -14266,7 +14383,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 3205718
+     "size": 3205718,
+     "anime": true
     },
     {
      "id": "badang_041",
@@ -14292,7 +14410,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 1296264
+     "size": 1296264,
+     "anime": true
     },
     {
      "id": "badang_042",
@@ -14492,7 +14611,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16914488
+     "size": 16914488,
+     "anime": true
     },
     {
      "id": "badang_049",
@@ -14524,7 +14644,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17432692
+     "size": 17432692,
+     "anime": true
     },
     {
      "id": "badang_050",
@@ -14598,7 +14719,8 @@
      "size": 3765556,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "badang_053",
@@ -14614,7 +14736,8 @@
      "size": 2718559,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ]
   },
@@ -15998,7 +16121,8 @@
      "size": 18141003,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "bane_021",
@@ -16065,7 +16189,8 @@
      "size": 15607273,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "bane_024",
@@ -16158,7 +16283,8 @@
      "size": 19938819,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "bane_027",
@@ -16219,7 +16345,8 @@
      "check": "good",
      "check_date": "2026-11-21",
      "check_notes": [],
-     "added": "2026-11-21"
+     "added": "2026-11-21",
+     "anime": true
     },
     {
      "id": "bane_030",
@@ -16235,7 +16362,8 @@
      "check": "good",
      "check_date": "2026-11-21",
      "check_notes": [],
-     "added": "2026-11-21"
+     "added": "2026-11-21",
+     "anime": true
     },
     {
      "id": "bane_031",
@@ -16277,7 +16405,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 18134819
+     "size": 18134819,
+     "anime": true
     },
     {
      "id": "bane_033",
@@ -16883,7 +17012,8 @@
      "size": 4460131,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "barats_014",
@@ -17073,7 +17203,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 4394799
+     "size": 4394799,
+     "anime": true
     },
     {
      "id": "barats_022",
@@ -20319,7 +20450,8 @@
      "size": 14625241,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "benedetta_027",
@@ -20351,7 +20483,8 @@
      "size": 6127961,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "benedetta_029",
@@ -20367,7 +20500,8 @@
      "size": 3903222,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "benedetta_030",
@@ -20399,7 +20533,8 @@
      "size": 2825184,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "benedetta_032",
@@ -20480,7 +20615,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 6124787
+     "size": 6124787,
+     "anime": true
     },
     {
      "id": "benedetta_035",
@@ -20532,7 +20668,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 14627789
+     "size": 14627789,
+     "anime": true
     },
     {
      "id": "benedetta_037",
@@ -20558,7 +20695,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 2728081
+     "size": 2728081,
+     "anime": true
     },
     {
      "id": "benedetta_038",
@@ -20882,7 +21020,8 @@
      "size": 4011131,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ]
   },
@@ -21472,7 +21611,8 @@
      "size": 8208893,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "brody_028",
@@ -22278,7 +22418,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 bundle(s) are cut off (shorter than their header says), e.g. Hero121_add.unity3d"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "bruno_023",
@@ -22569,7 +22710,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 4711977
+     "size": 4711977,
+     "anime": true
     },
     {
      "id": "bruno_037",
@@ -23277,7 +23419,8 @@
      "size": 5257018,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "carmilla_019",
@@ -23450,7 +23593,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 5253440
+     "size": 5253440,
+     "anime": true
     },
     {
      "id": "carmilla_025",
@@ -23846,7 +23990,8 @@
      "size": 11334728,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cecilion_008",
@@ -23944,7 +24089,8 @@
      "size": 11334728,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cecilion_014",
@@ -24024,7 +24170,8 @@
      "size": 9663270,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cecilion_019",
@@ -24042,7 +24189,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "3 empty file(s), e.g. couplemage_cityaction_camera_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "cecilion_020",
@@ -24074,7 +24222,8 @@
      "size": 23094813,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cecilion_022",
@@ -24106,7 +24255,8 @@
      "size": 29671780,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cecilion_024",
@@ -24122,7 +24272,8 @@
      "size": 6380764,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cecilion_025",
@@ -24157,7 +24308,8 @@
      "size": 27627166,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cecilion_026",
@@ -24217,7 +24369,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "3 empty file(s), e.g. couplemage_cityaction_camera_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "cecilion_028",
@@ -24243,7 +24396,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 6259754
+     "size": 6259754,
+     "anime": true
     },
     {
      "id": "cecilion_029",
@@ -24295,7 +24449,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 7320966
+     "size": 7320966,
+     "anime": true
     },
     {
      "id": "cecilion_031",
@@ -24321,7 +24476,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 29663468
+     "size": 29663468,
+     "anime": true
     },
     {
      "id": "cecilion_032",
@@ -24405,7 +24561,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 14981286
+     "size": 14981286,
+     "anime": true
     },
     {
      "id": "cecilion_035",
@@ -25092,7 +25249,8 @@
      "size": 2199443,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chang_e_025",
@@ -25336,7 +25494,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 2196773
+     "size": 2196773,
+     "anime": true
     },
     {
      "id": "chang_e_035",
@@ -26156,7 +26315,8 @@
      "size": 15129333,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_007",
@@ -26178,7 +26338,8 @@
      "size": 12970056,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_008",
@@ -26416,7 +26577,8 @@
      "size": 12970056,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_023",
@@ -26464,7 +26626,8 @@
      "size": 17869866,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_026",
@@ -26528,7 +26691,8 @@
      "size": 25303610,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_030",
@@ -26562,7 +26726,8 @@
      "size": 2187376,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_032",
@@ -26578,7 +26743,8 @@
      "size": 20609270,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_033",
@@ -26642,7 +26808,8 @@
      "size": 3699628,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_037",
@@ -26772,7 +26939,8 @@
      "size": 16310477,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_045",
@@ -26788,7 +26956,8 @@
      "size": 7609676,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_046",
@@ -26804,7 +26973,8 @@
      "size": 16798900,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_047",
@@ -26900,7 +27070,8 @@
      "size": 3635046,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_053",
@@ -26916,7 +27087,8 @@
      "size": 3167502,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_054",
@@ -26932,7 +27104,8 @@
      "size": 2551553,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_055",
@@ -26948,7 +27121,8 @@
      "size": 14178012,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_056",
@@ -26964,7 +27138,8 @@
      "size": 9869209,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_057",
@@ -26996,7 +27171,8 @@
      "size": 8283019,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_059",
@@ -27012,7 +27188,8 @@
      "size": 8717527,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_060",
@@ -27044,7 +27221,8 @@
      "size": 16307658,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_062",
@@ -27279,7 +27457,8 @@
      "size": 8718680,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_069",
@@ -27349,7 +27528,8 @@
      "size": 16303827,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_071",
@@ -27456,7 +27636,8 @@
      "size": 9303783,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_074",
@@ -27812,7 +27993,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 3698422
+     "size": 3698422,
+     "anime": true
     },
     {
      "id": "chou_087",
@@ -27838,7 +28020,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 6721137
+     "size": 6721137,
+     "anime": true
     },
     {
      "id": "chou_088",
@@ -27864,7 +28047,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 8284584
+     "size": 8284584,
+     "anime": true
     },
     {
      "id": "chou_089",
@@ -27890,7 +28074,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 3631604
+     "size": 3631604,
+     "anime": true
     },
     {
      "id": "chou_090",
@@ -27994,7 +28179,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 14178354
+     "size": 14178354,
+     "anime": true
     },
     {
      "id": "chou_094",
@@ -28020,7 +28206,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 2140800
+     "size": 2140800,
+     "anime": true
     },
     {
      "id": "chou_095",
@@ -28046,7 +28233,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 3113428
+     "size": 3113428,
+     "anime": true
     },
     {
      "id": "chou_096",
@@ -28124,7 +28312,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 2493107
+     "size": 2493107,
+     "anime": true
     },
     {
      "id": "chou_099",
@@ -28273,7 +28462,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 13413258
+     "size": 13413258,
+     "anime": true
     },
     {
      "id": "chou_104",
@@ -28596,7 +28786,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24273081
+     "size": 24273081,
+     "anime": true
     },
     {
      "id": "chou_115",
@@ -28670,7 +28861,8 @@
      "size": 3166104,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "chou_118",
@@ -28686,7 +28878,8 @@
      "size": 2550047,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ]
   },
@@ -28993,7 +29186,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "Audit: Incomplete package: it has the hero-screen model but not the battle model, so in a match the hero keeps the old look. Use another version of this skin."
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "cici_015",
@@ -31323,7 +31517,8 @@
      "size": 22810327,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "clint_031",
@@ -31563,7 +31758,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 22810977
+     "size": 22810977,
+     "anime": true
     },
     {
      "id": "clint_042",
@@ -32507,7 +32703,8 @@
      "size": 13404577,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "cyclops_024",
@@ -32704,7 +32901,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 13397711
+     "size": 13397711,
+     "anime": true
     },
     {
      "id": "cyclops_033",
@@ -33828,7 +34026,8 @@
      "size": 14262956,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_009",
@@ -33940,7 +34139,8 @@
      "size": 13771341,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_016",
@@ -34004,7 +34204,8 @@
      "size": 18583933,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_020",
@@ -34104,7 +34305,8 @@
      "size": 6143707,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_026",
@@ -34120,7 +34322,8 @@
      "size": 15928381,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_027",
@@ -34152,7 +34355,8 @@
      "size": 2973874,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_029",
@@ -34187,7 +34391,8 @@
      "size": 13486657,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_030",
@@ -34222,7 +34427,8 @@
      "size": 19582992,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_031",
@@ -34325,7 +34531,8 @@
      "size": 13248458,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_035",
@@ -34455,7 +34662,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 11560103
+     "size": 11560103,
+     "anime": true
     },
     {
      "id": "dyrroth_041",
@@ -34566,7 +34774,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17607768
+     "size": 17607768,
+     "anime": true
     },
     {
      "id": "dyrroth_045",
@@ -34861,7 +35070,8 @@
      "size": 5492464,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_056",
@@ -34895,7 +35105,8 @@
      "size": 6773249,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "dyrroth_058",
@@ -36165,7 +36376,8 @@
      "size": 10290780,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "esmeralda_026",
@@ -36181,7 +36393,8 @@
      "size": 6567023,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "esmeralda_027",
@@ -36379,7 +36592,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 6418661
+     "size": 6418661,
+     "anime": true
     },
     {
      "id": "esmeralda_033",
@@ -37274,7 +37488,8 @@
      "size": 6732740,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "estes_026",
@@ -38188,7 +38403,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 12230554
+     "size": 12230554,
+     "anime": true
     },
     {
      "id": "eudora_027",
@@ -38462,7 +38678,8 @@
      "size": 4039718,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ]
   },
@@ -38580,7 +38797,8 @@
      "size": 12073053,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_006",
@@ -38910,7 +39128,8 @@
      "size": 21853733,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_024",
@@ -39070,7 +39289,8 @@
      "size": 21858893,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_034",
@@ -39335,7 +39555,8 @@
      "size": 6571791,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_047",
@@ -39428,7 +39649,8 @@
      "size": 14924034,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_050",
@@ -39463,7 +39685,8 @@
      "size": 13647984,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fanny_051",
@@ -39849,7 +40072,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16489822
+     "size": 16489822,
+     "anime": true
     },
     {
      "id": "fanny_064",
@@ -42727,7 +42951,8 @@
      "size": 15522049,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fredrinn_014",
@@ -42775,7 +43000,8 @@
      "size": 8317181,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fredrinn_017",
@@ -42807,7 +43033,8 @@
      "size": 11814177,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "fredrinn_019",
@@ -42975,7 +43202,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 8465634
+     "size": 8465634,
+     "anime": true
     },
     {
      "id": "fredrinn_025",
@@ -43001,7 +43229,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 15453100
+     "size": 15453100,
+     "anime": true
     },
     {
      "id": "fredrinn_026",
@@ -43211,7 +43440,8 @@
      "size": 3129603,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ]
   },
@@ -44354,7 +44584,8 @@
      "size": 1569341,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gatotkaca_016",
@@ -44418,7 +44649,8 @@
      "size": 9940080,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gatotkaca_020",
@@ -44434,7 +44666,8 @@
      "size": 6204562,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gatotkaca_021",
@@ -44466,7 +44699,8 @@
      "size": 28930479,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gatotkaca_023",
@@ -44482,7 +44716,8 @@
      "size": 28878757,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gatotkaca_024",
@@ -44752,7 +44987,8 @@
      "size": 28881404,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gatotkaca_032",
@@ -44888,7 +45124,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 9924252
+     "size": 9924252,
+     "anime": true
     },
     {
      "id": "gatotkaca_038",
@@ -44914,7 +45151,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 28873428
+     "size": 28873428,
+     "anime": true
     },
     {
      "id": "gatotkaca_039",
@@ -44992,7 +45230,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 6151041
+     "size": 6151041,
+     "anime": true
     },
     {
      "id": "gatotkaca_042",
@@ -45018,7 +45257,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 1549959
+     "size": 1549959,
+     "anime": true
     },
     {
      "id": "gatotkaca_043",
@@ -46153,7 +46393,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "Audit: Incomplete package: it has the hero-screen model but not the battle model, so in a match the hero keeps the old look. Use another version of this skin."
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "gord_021",
@@ -46437,7 +46678,8 @@
      "check_notes": [
       "Audit: Incomplete package: it has the hero-screen model but not the battle model, so in a match the hero keeps the old look. Use another version of this skin."
      ],
-     "check": "caution"
+     "check": "caution",
+     "anime": true
     },
     {
      "id": "gord_031",
@@ -49913,7 +50155,8 @@
      "size": 5939122,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "guinevere_036",
@@ -50089,7 +50332,8 @@
      "size": 27372322,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "guinevere_047",
@@ -50385,7 +50629,8 @@
      "size": 27097544,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "guinevere_059",
@@ -50455,7 +50700,8 @@
      "size": 11222975,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "guinevere_061",
@@ -50707,7 +50953,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 5937116
+     "size": 5937116,
+     "anime": true
     },
     {
      "id": "guinevere_070",
@@ -51358,7 +51605,8 @@
      "size": 18760706,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_003",
@@ -51892,7 +52140,8 @@
      "size": 26141794,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_025",
@@ -52006,7 +52255,8 @@
      "size": 5650028,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_032",
@@ -52086,7 +52336,8 @@
      "size": 15807477,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_037",
@@ -52102,7 +52353,8 @@
      "size": 12582705,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_038",
@@ -52134,7 +52386,8 @@
      "size": 26148237,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_040",
@@ -52221,7 +52474,8 @@
      "size": 20445581,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_044",
@@ -52328,7 +52582,8 @@
      "size": 12571655,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "gusion_047",
@@ -52436,7 +52691,8 @@
      "check": "good",
      "check_date": "2026-11-21",
      "check_notes": [],
-     "added": "2026-11-21"
+     "added": "2026-11-21",
+     "anime": true
     },
     {
      "id": "gusion_052",
@@ -52534,7 +52790,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 14826301
+     "size": 14826301,
+     "anime": true
     },
     {
      "id": "gusion_055",
@@ -52792,7 +53049,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 18760706
+     "size": 18760706,
+     "anime": true
     },
     {
      "id": "gusion_064",
@@ -53560,7 +53818,8 @@
      "size": 7436003,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hanabi_028",
@@ -53750,7 +54009,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 7348735
+     "size": 7348735,
+     "anime": true
     },
     {
      "id": "hanabi_035",
@@ -54186,7 +54446,8 @@
      "size": 6412529,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ]
   },
@@ -55062,7 +55323,8 @@
      "size": 14020509,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "harith_006",
@@ -55292,7 +55554,8 @@
      "size": 17572735,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "harith_017",
@@ -55404,7 +55667,8 @@
      "size": 23347630,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "harith_024",
@@ -55540,7 +55804,8 @@
      "size": 17575914,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "harith_030",
@@ -55724,7 +55989,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20008190
+     "size": 20008190,
+     "anime": true
     },
     {
      "id": "harith_036",
@@ -55895,7 +56161,8 @@
      "size": 4637651,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ]
   },
@@ -57147,7 +57414,8 @@
      "size": 22965920,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_007",
@@ -57431,7 +57699,8 @@
      "size": 15701636,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_021",
@@ -57511,7 +57780,8 @@
      "size": 24379040,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_026",
@@ -57589,7 +57859,8 @@
      "size": 1300647,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_031",
@@ -57621,7 +57892,8 @@
      "size": 15984985,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_033",
@@ -57637,7 +57909,8 @@
      "size": 30483375,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_034",
@@ -57653,7 +57926,8 @@
      "size": 5569462,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_035",
@@ -57701,7 +57975,8 @@
      "size": 15443441,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_038",
@@ -57717,7 +57992,8 @@
      "size": 18370352,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_039",
@@ -57733,7 +58009,8 @@
      "size": 22771186,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_040",
@@ -57767,7 +58044,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 bundle(s) are cut off (shorter than their header says), e.g. hero_ninja_skin_high_add.unity3d"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "hayabusa_042",
@@ -57799,7 +58077,8 @@
      "size": 8785149,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_044",
@@ -57815,7 +58094,8 @@
      "size": 19719514,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_045",
@@ -58023,7 +58303,8 @@
      "size": 29349810,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_051",
@@ -58058,7 +58339,8 @@
      "size": 1298197,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_052",
@@ -58103,7 +58385,8 @@
      "size": 8785149,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hayabusa_054",
@@ -58207,7 +58490,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 5405193
+     "size": 5405193,
+     "anime": true
     },
     {
      "id": "hayabusa_058",
@@ -58233,7 +58517,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 24377141
+     "size": 24377141,
+     "anime": true
     },
     {
      "id": "hayabusa_059",
@@ -58259,7 +58544,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 8666024
+     "size": 8666024,
+     "anime": true
     },
     {
      "id": "hayabusa_060",
@@ -58285,7 +58571,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19716430
+     "size": 19716430,
+     "anime": true
     },
     {
      "id": "hayabusa_061",
@@ -58511,7 +58798,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 29143042
+     "size": 29143042,
+     "anime": true
     },
     {
      "id": "hayabusa_069",
@@ -59085,7 +59373,8 @@
      "size": 8827239,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "helcurt_021",
@@ -59233,7 +59522,8 @@
      "size": 8831637,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "helcurt_028",
@@ -59999,7 +60289,8 @@
      "size": 8916263,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hilda_015",
@@ -60163,7 +60454,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 8311309
+     "size": 8311309,
+     "anime": true
     },
     {
      "id": "hilda_021",
@@ -60623,7 +60915,8 @@
      "size": 7752080,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "hylos_014",
@@ -60829,7 +61122,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 7754650
+     "size": 7754650,
+     "anime": true
     },
     {
      "id": "hylos_022",
@@ -64089,7 +64383,8 @@
      "size": 1500422,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "johnson_033",
@@ -65050,7 +65345,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 1499712
+     "size": 1499712,
+     "anime": true
     },
     {
      "id": "johnson_074",
@@ -66035,7 +66331,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "12 game file(s) are not Unity bundles (broken), e.g. Joy_skill01_baoji_an.unity3d"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "joy_017",
@@ -66069,7 +66366,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "12 game file(s) are not Unity bundles (broken), e.g. Joy_skill01_baoji_an.unity3d"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "joy_019",
@@ -66188,7 +66486,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "12 game file(s) are not Unity bundles (broken), e.g. Joy_skill01_baoji_an.unity3d"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "joy_025",
@@ -66379,7 +66678,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 8655438
+     "size": 8655438,
+     "anime": true
     },
     {
      "id": "joy_031",
@@ -66786,7 +67086,8 @@
      "size": 20073628,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_003",
@@ -66820,7 +67121,8 @@
      "size": 18877670,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_004",
@@ -66888,7 +67190,8 @@
      "size": 27461180,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_006",
@@ -67036,7 +67339,8 @@
      "size": 23691209,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_014",
@@ -67052,7 +67356,8 @@
      "size": 33346414,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_015",
@@ -67068,7 +67373,8 @@
      "size": 15328454,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_016",
@@ -67100,7 +67406,8 @@
      "size": 10048660,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_018",
@@ -67116,7 +67423,8 @@
      "size": 30229084,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_019",
@@ -67132,7 +67440,8 @@
      "size": 19171710,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_020",
@@ -67148,7 +67457,8 @@
      "size": 5265335,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_021",
@@ -67183,7 +67493,8 @@
      "size": 27736564,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_022",
@@ -67218,7 +67529,8 @@
      "size": 15328878,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_023",
@@ -67276,7 +67588,8 @@
      "size": 17448740,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_025",
@@ -67340,7 +67653,8 @@
      "size": 5283648,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "julian_027",
@@ -67366,7 +67680,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 5261369
+     "size": 5261369,
+     "anime": true
     },
     {
      "id": "julian_028",
@@ -67392,7 +67707,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 10050930
+     "size": 10050930,
+     "anime": true
     },
     {
      "id": "julian_029",
@@ -67418,7 +67734,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 33342608
+     "size": 33342608,
+     "anime": true
     },
     {
      "id": "julian_030",
@@ -67496,7 +67813,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20073628
+     "size": 20073628,
+     "anime": true
     },
     {
      "id": "julian_033",
@@ -67522,7 +67840,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 27461180
+     "size": 27461180,
+     "anime": true
     },
     {
      "id": "julian_034",
@@ -67548,7 +67867,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 22799038
+     "size": 22799038,
+     "anime": true
     },
     {
      "id": "julian_035",
@@ -67574,7 +67894,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 14512482
+     "size": 14512482,
+     "anime": true
     },
     {
      "id": "julian_036",
@@ -68031,7 +68352,8 @@
      "size": 1500658,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "kadita_016",
@@ -68641,7 +68963,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 1497644
+     "size": 1497644,
+     "anime": true
     },
     {
      "id": "kadita_039",
@@ -72228,7 +72551,8 @@
      "size": 4359826,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ]
   },
@@ -73374,7 +73698,8 @@
      "size": 21076854,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "kalea_004",
@@ -73406,7 +73731,8 @@
      "size": 22228776,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "kalea_006",
@@ -73422,7 +73748,8 @@
      "size": 22086820,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "kalea_007",
@@ -73596,7 +73923,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21457954
+     "size": 21457954,
+     "anime": true
     }
    ]
   },
@@ -74502,7 +74830,8 @@
      "size": 7914116,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "khufra_021",
@@ -74680,7 +75009,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 7879532
+     "size": 7879532,
+     "anime": true
     },
     {
      "id": "khufra_028",
@@ -76479,7 +76809,8 @@
      "size": 4170893,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lancelot_030",
@@ -76543,7 +76874,8 @@
      "size": 1778071,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lancelot_034",
@@ -76575,7 +76907,8 @@
      "size": 3214578,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lancelot_036",
@@ -76591,7 +76924,8 @@
      "size": 8936114,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lancelot_037",
@@ -76607,7 +76941,8 @@
      "size": 14176197,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lancelot_038",
@@ -76623,7 +76958,8 @@
      "size": 2342521,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lancelot_039",
@@ -76639,7 +76975,8 @@
      "size": 6285496,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lancelot_040",
@@ -76703,7 +77040,8 @@
      "size": 3678117,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lancelot_044",
@@ -76737,7 +77075,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "2 empty file(s), e.g. nextlancelot_skill01_2.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "lancelot_046",
@@ -76817,7 +77156,8 @@
      "size": 8757460,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lancelot_049",
@@ -76852,7 +77192,8 @@
      "size": 3476635,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lancelot_050",
@@ -76994,7 +77335,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 6225148
+     "size": 6225148,
+     "anime": true
     },
     {
      "id": "lancelot_055",
@@ -77020,7 +77362,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 3129637
+     "size": 3129637,
+     "anime": true
     },
     {
      "id": "lancelot_056",
@@ -77072,7 +77415,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 1748503
+     "size": 1748503,
+     "anime": true
     },
     {
      "id": "lancelot_058",
@@ -77098,7 +77442,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 2286673
+     "size": 2286673,
+     "anime": true
     },
     {
      "id": "lancelot_059",
@@ -77124,7 +77469,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 34228009
+     "size": 34228009,
+     "anime": true
     },
     {
      "id": "lancelot_060",
@@ -77150,7 +77496,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 14175423
+     "size": 14175423,
+     "anime": true
     },
     {
      "id": "lancelot_061",
@@ -77176,7 +77523,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 4089296
+     "size": 4089296,
+     "anime": true
     },
     {
      "id": "lancelot_062",
@@ -78417,7 +78765,8 @@
      "size": 10968191,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ]
   },
@@ -79138,7 +79487,8 @@
      "size": 12305576,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "layla_035",
@@ -79154,7 +79504,8 @@
      "size": 19966216,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "layla_036",
@@ -79170,7 +79521,8 @@
      "size": 21822359,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "layla_037",
@@ -79347,7 +79699,8 @@
      "size": 18010898,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "layla_044",
@@ -79382,7 +79735,8 @@
      "size": 19739669,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "layla_045",
@@ -79559,7 +79913,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 12233159
+     "size": 12233159,
+     "anime": true
     },
     {
      "id": "layla_051",
@@ -82836,7 +83191,8 @@
      "size": 1637733,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "ling_022",
@@ -82852,7 +83208,8 @@
      "size": 11347327,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "ling_023",
@@ -82870,7 +83227,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 empty file(s), e.g. zeo_cityaction_lf_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "ling_024",
@@ -82918,7 +83276,8 @@
      "size": 9575040,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "ling_027",
@@ -83032,7 +83391,8 @@
      "size": 17103359,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "ling_034",
@@ -83066,7 +83426,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "3 empty file(s), e.g. Zeo_skill01_tiao01.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "ling_036",
@@ -83082,7 +83443,8 @@
      "size": 4239971,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "ling_037",
@@ -83146,7 +83508,8 @@
      "size": 1395195,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "ling_039",
@@ -83218,7 +83581,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "3 empty file(s), e.g. Zeo_skill01_tiao01.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "ling_041",
@@ -83253,7 +83617,8 @@
      "size": 17105085,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "ling_042",
@@ -83327,7 +83692,8 @@
      "check": "good",
      "check_date": "2026-11-21",
      "check_notes": [],
-     "added": "2026-11-21"
+     "added": "2026-11-21",
+     "anime": true
     },
     {
      "id": "ling_045",
@@ -83353,7 +83719,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 1635435
+     "size": 1635435,
+     "anime": true
     },
     {
      "id": "ling_046",
@@ -83405,7 +83772,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 9433535
+     "size": 9433535,
+     "anime": true
     },
     {
      "id": "ling_048",
@@ -83431,7 +83799,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 11341405
+     "size": 11341405,
+     "anime": true
     },
     {
      "id": "ling_049",
@@ -83483,7 +83852,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 5970830
+     "size": 5970830,
+     "anime": true
     },
     {
      "id": "ling_051",
@@ -83763,7 +84133,8 @@
      "size": 9574830,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ]
   },
@@ -84481,7 +84852,8 @@
      "size": 35892879,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lukas_003",
@@ -84529,7 +84901,8 @@
      "size": 24261056,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lukas_006",
@@ -84545,7 +84918,8 @@
      "size": 29553747,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lukas_007",
@@ -84561,7 +84935,8 @@
      "size": 20945151,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lukas_008",
@@ -84642,7 +85017,8 @@
      "check": "good",
      "check_date": "2026-11-08",
      "check_notes": [],
-     "updated": "2026-11-14"
+     "updated": "2026-11-14",
+     "anime": true
     },
     {
      "id": "lukas_011",
@@ -84706,7 +85082,8 @@
      "size": 7911773,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "lukas_013",
@@ -84722,7 +85099,8 @@
      "check": "good",
      "check_date": "2026-11-21",
      "check_notes": [],
-     "added": "2026-11-21"
+     "added": "2026-11-21",
+     "anime": true
     },
     {
      "id": "lukas_014",
@@ -84800,7 +85178,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 38973039
+     "size": 38973039,
+     "anime": true
     }
    ]
   },
@@ -88025,7 +88404,8 @@
      "size": 13083685,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "martis_003",
@@ -88420,7 +88800,8 @@
      "size": 24221072,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "martis_022",
@@ -88452,7 +88833,8 @@
      "size": 11139032,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "martis_024",
@@ -88503,7 +88885,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "2 empty file(s), e.g. asura_attack_02.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "martis_027",
@@ -88603,7 +88986,8 @@
      "size": 11134128,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "martis_030",
@@ -88690,7 +89074,8 @@
      "size": 15170739,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "martis_033",
@@ -88772,7 +89157,8 @@
      "check_notes": [
       "1 empty file(s), e.g. asura_attack_02.unity3d – an effect switched off by the modder"
      ],
-     "added": "2026-11-21"
+     "added": "2026-11-21",
+     "anime": true
     },
     {
      "id": "martis_036",
@@ -88860,7 +89246,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 18699801
+     "size": 18699801,
+     "anime": true
     },
     {
      "id": "martis_039",
@@ -89040,7 +89427,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21742667
+     "size": 21742667,
+     "anime": true
     },
     {
      "id": "martis_045",
@@ -89809,7 +90197,8 @@
      "size": 7009405,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ]
   },
@@ -90421,7 +90810,8 @@
      "size": 16348912,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "melissa_003",
@@ -90619,7 +91009,8 @@
      "size": 16591502,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "melissa_012",
@@ -90635,7 +91026,8 @@
      "size": 16623940,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "melissa_013",
@@ -90839,7 +91231,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "Audit: Skill effects only: this package has no hero model, so the hero's look does not change."
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "melissa_021",
@@ -90975,7 +91368,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 21106392
+     "size": 21106392,
+     "anime": true
     },
     {
      "id": "melissa_026",
@@ -94075,7 +94469,8 @@
      "size": 1502101,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ]
   },
@@ -94751,7 +95146,8 @@
      "size": 17531419,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "moskov_030",
@@ -94961,7 +95357,8 @@
      "size": 16609194,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "moskov_037",
@@ -95049,7 +95446,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17522843
+     "size": 17522843,
+     "anime": true
     },
     {
      "id": "moskov_040",
@@ -95413,7 +95811,8 @@
      "size": 17794036,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ]
   },
@@ -96046,7 +96445,8 @@
      "size": 19529942,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "nana_031",
@@ -96334,7 +96734,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20131748
+     "size": 20131748,
+     "anime": true
     },
     {
      "id": "nana_042",
@@ -98927,7 +99328,8 @@
      "size": 22506936,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "nolan_014",
@@ -99028,7 +99430,8 @@
      "size": 15794967,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "nolan_019",
@@ -99119,7 +99522,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 22512073
+     "size": 22512073,
+     "anime": true
     },
     {
      "id": "nolan_022",
@@ -103333,7 +103737,8 @@
      "size": 8060381,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "paquito_036",
@@ -103397,7 +103802,8 @@
      "size": 10881210,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "paquito_038",
@@ -105376,7 +105782,8 @@
      "size": 13177044,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "phoveus_015",
@@ -105541,7 +105948,8 @@
      "size": 13169825,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "phoveus_022",
@@ -105578,7 +105986,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 game file(s) are not Unity bundles (broken), e.g. new_Phoveus_WeaponTrail_01.unity3d"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "phoveus_023",
@@ -105671,7 +106080,8 @@
      "size": 14025537,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "phoveus_026",
@@ -105706,7 +106116,8 @@
      "size": 34157272,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "phoveus_027",
@@ -106486,7 +106897,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 empty file(s), e.g. Bbsheshou_cokro.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "popol-and-kupa_021",
@@ -106764,7 +107176,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19284916
+     "size": 19284916,
+     "anime": true
     },
     {
      "id": "popol-and-kupa_031",
@@ -106842,7 +107255,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19284916
+     "size": 19284916,
+     "anime": true
     },
     {
      "id": "popol-and-kupa_034",
@@ -108694,7 +109108,8 @@
      "size": 7744027,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "roger_022",
@@ -108804,7 +109219,8 @@
      "tags": [],
      "name": "",
      "source": "bs",
-     "added": "2026-10-27"
+     "added": "2026-10-27",
+     "anime": true
     },
     {
      "id": "roger_029",
@@ -108836,7 +109252,8 @@
      "size": 10961634,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "roger_031",
@@ -108852,7 +109269,8 @@
      "size": 13372006,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "roger_032",
@@ -108868,7 +109286,8 @@
      "size": 11100926,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "roger_033",
@@ -109026,7 +109445,8 @@
      "size": 11105023,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "roger_040",
@@ -109201,7 +109621,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 7618071
+     "size": 7618071,
+     "anime": true
     },
     {
      "id": "roger_046",
@@ -109227,7 +109648,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 13375182
+     "size": 13375182,
+     "anime": true
     },
     {
      "id": "roger_047",
@@ -109253,7 +109675,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 8658169
+     "size": 8658169,
+     "anime": true
     },
     {
      "id": "roger_048",
@@ -109331,7 +109754,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 10964596
+     "size": 10964596,
+     "anime": true
     },
     {
      "id": "roger_051",
@@ -111302,7 +111726,8 @@
      "size": 9290551,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "saber_022",
@@ -111318,7 +111743,8 @@
      "size": 6462315,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "saber_023",
@@ -111471,7 +111897,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 6463639
+     "size": 6463639,
+     "anime": true
     },
     {
      "id": "saber_029",
@@ -111497,7 +111924,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 9288461
+     "size": 9288461,
+     "anime": true
     },
     {
      "id": "saber_030",
@@ -112494,7 +112922,8 @@
      "size": 2368344,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "selena_028",
@@ -112668,7 +113097,8 @@
      "size": 15554658,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "selena_039",
@@ -112818,7 +113248,8 @@
      "size": 15557854,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "selena_044",
@@ -113080,7 +113511,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 2308839
+     "size": 2308839,
+     "anime": true
     },
     {
      "id": "selena_054",
@@ -113482,7 +113914,8 @@
      "size": 2365938,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ]
   },
@@ -113920,7 +114353,8 @@
      "size": 4763895,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "silvanna_020",
@@ -114238,7 +114672,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 4761441
+     "size": 4761441,
+     "anime": true
     },
     {
      "id": "silvanna_032",
@@ -114564,7 +114999,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "Audit: Incomplete package: it has the hero-screen model but not the battle model, so in a match the hero keeps the old look. Use another version of this skin."
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "sora_003",
@@ -114580,7 +115016,8 @@
      "check": "good",
      "check_date": "2026-11-21",
      "check_notes": [],
-     "added": "2026-11-21"
+     "added": "2026-11-21",
+     "anime": true
     },
     {
      "id": "sora_004",
@@ -114604,7 +115041,8 @@
      "check_notes": [
       "Audit: Incomplete package: it has the hero-screen model but not the battle model, so in a match the hero keeps the old look. Use another version of this skin."
      ],
-     "check": "caution"
+     "check": "caution",
+     "anime": true
     },
     {
      "id": "sora_005",
@@ -115059,7 +115497,8 @@
      "size": 4345006,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "sun_017",
@@ -115107,7 +115546,8 @@
      "size": 13231100,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "sun_020",
@@ -115139,7 +115579,8 @@
      "size": 19438035,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "sun_022",
@@ -115187,7 +115628,8 @@
      "size": 20427021,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "sun_025",
@@ -115369,7 +115811,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 13146397
+     "size": 13146397,
+     "anime": true
     },
     {
      "id": "sun_032",
@@ -115395,7 +115838,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19640307
+     "size": 19640307,
+     "anime": true
     },
     {
      "id": "sun_033",
@@ -115447,7 +115891,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 4344628
+     "size": 4344628,
+     "anime": true
     },
     {
      "id": "sun_035",
@@ -115473,7 +115918,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 19046384
+     "size": 19046384,
+     "anime": true
     },
     {
      "id": "sun_036",
@@ -115792,7 +116238,8 @@
      "size": 6491725,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ]
   },
@@ -115868,7 +116315,8 @@
      "size": 15258205,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "suyou_003",
@@ -115950,7 +116398,8 @@
      "size": 15258205,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "suyou_007",
@@ -115984,7 +116433,8 @@
      "size": 15555066,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "suyou_009",
@@ -116000,7 +116450,8 @@
      "size": 23257281,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "suyou_010",
@@ -116016,7 +116467,8 @@
      "size": 9684583,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "suyou_011",
@@ -116064,7 +116516,8 @@
      "size": 17077574,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "suyou_014",
@@ -116128,7 +116581,8 @@
      "size": 27829825,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "suyou_016",
@@ -116170,7 +116624,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 9492063
+     "size": 9492063,
+     "anime": true
     },
     {
      "id": "suyou_018",
@@ -116222,7 +116677,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 23432427
+     "size": 23432427,
+     "anime": true
     },
     {
      "id": "suyou_020",
@@ -116300,7 +116756,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 217934
+     "size": 217934,
+     "anime": true
     },
     {
      "id": "suyou_023",
@@ -116326,7 +116783,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 1693487
+     "size": 1693487,
+     "anime": true
     },
     {
      "id": "suyou_024",
@@ -116352,7 +116810,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20609031
+     "size": 20609031,
+     "anime": true
     },
     {
      "id": "suyou_025",
@@ -116378,7 +116837,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 18587755
+     "size": 18587755,
+     "anime": true
     },
     {
      "id": "suyou_026",
@@ -116410,7 +116870,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 30210685
+     "size": 30210685,
+     "anime": true
     },
     {
      "id": "suyou_027",
@@ -116436,7 +116897,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 15258205
+     "size": 15258205,
+     "anime": true
     },
     {
      "id": "suyou_028",
@@ -116478,7 +116940,8 @@
      "size": 7327711,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ]
   },
@@ -118439,7 +118902,8 @@
      "size": 4888192,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "tigreal_019",
@@ -118626,7 +119090,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 4833490
+     "size": 4833490,
+     "anime": true
     },
     {
      "id": "tigreal_026",
@@ -119882,7 +120347,8 @@
      "size": 11118234,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "vale_008",
@@ -120118,7 +120584,8 @@
      "size": 16659578,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "vale_023",
@@ -120324,7 +120791,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 2117359
+     "size": 2117359,
+     "anime": true
     },
     {
      "id": "vale_030",
@@ -120466,7 +120934,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 13469825
+     "size": 13469825,
+     "anime": true
     },
     {
      "id": "vale_035",
@@ -121543,7 +122012,8 @@
      "size": 10547993,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_006",
@@ -121577,7 +122047,8 @@
      "size": 16145981,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_007",
@@ -121791,7 +122262,8 @@
      "size": 10547993,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_017",
@@ -121823,7 +122295,8 @@
      "size": 16145981,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_019",
@@ -121951,7 +122424,8 @@
      "size": 21265432,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_027",
@@ -121967,7 +122441,8 @@
      "size": 3894957,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_028",
@@ -122225,7 +122700,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "6 empty file(s), e.g. schwanzml.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "valir_038",
@@ -122260,7 +122736,8 @@
      "size": 1846076,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "valir_039",
@@ -122276,7 +122753,8 @@
      "check": "good",
      "check_date": "2026-11-21",
      "check_notes": [],
-     "added": "2026-11-21"
+     "added": "2026-11-21",
+     "anime": true
     },
     {
      "id": "valir_040",
@@ -122302,7 +122780,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 3892815
+     "size": 3892815,
+     "anime": true
     },
     {
      "id": "valir_041",
@@ -122566,7 +123045,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 23108180
+     "size": 23108180,
+     "anime": true
     },
     {
      "id": "valir_050",
@@ -122598,7 +123078,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17940503
+     "size": 17940503,
+     "anime": true
     },
     {
      "id": "valir_051",
@@ -123124,7 +123605,8 @@
      "size": 3849018,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "vexana_023",
@@ -123304,7 +123786,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 3766676
+     "size": 3766676,
+     "anime": true
     },
     {
      "id": "vexana_031",
@@ -124694,7 +125177,8 @@
      "size": 2915440,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ]
   },
@@ -125084,7 +125568,8 @@
      "size": 8050859,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "x-borg_017",
@@ -125322,7 +125807,8 @@
      "size": 15106975,
      "check": "good",
      "check_date": "2026-11-12",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "x-borg_026",
@@ -125354,7 +125840,8 @@
      "check": "good",
      "check_date": "2026-11-21",
      "check_notes": [],
-     "added": "2026-11-21"
+     "added": "2026-11-21",
+     "anime": true
     },
     {
      "id": "x-borg_028",
@@ -125380,7 +125867,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 8042381
+     "size": 8042381,
+     "anime": true
     },
     {
      "id": "x-borg_029",
@@ -125678,7 +126166,8 @@
      "size": 19614193,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "xavier_004",
@@ -125842,7 +126331,8 @@
      "size": 19904547,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "xavier_012",
@@ -125858,7 +126348,8 @@
      "size": 19947731,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "xavier_013",
@@ -126155,7 +126646,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 20926372
+     "size": 20926372,
+     "anime": true
     },
     {
      "id": "xavier_025",
@@ -126223,7 +126715,8 @@
      "size": 1707197,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ]
   },
@@ -126661,7 +127154,8 @@
      "size": 10427708,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yi-sun-shin_020",
@@ -126828,7 +127322,8 @@
      "size": 10623620,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yi-sun-shin_026",
@@ -126854,7 +127349,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 9636822
+     "size": 9636822,
+     "anime": true
     },
     {
      "id": "yi-sun-shin_027",
@@ -127142,7 +127638,8 @@
      "size": 15879793,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_003",
@@ -127244,7 +127741,8 @@
      "size": 18934212,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_006",
@@ -127378,7 +127876,8 @@
      "size": 26774613,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_013",
@@ -127394,7 +127893,8 @@
      "size": 19231323,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_014",
@@ -127458,7 +127958,8 @@
      "size": 7887891,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_018",
@@ -127474,7 +127975,8 @@
      "size": 17450329,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_019",
@@ -127492,7 +127994,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 empty file(s), e.g. yin_cityaction_huan3_skin_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "yin_020",
@@ -127510,7 +128013,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 empty file(s), e.g. yin_cityaction_huan3_skin_add.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "yin_021",
@@ -127560,7 +128064,8 @@
      "size": 16868728,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_024",
@@ -127611,7 +128116,8 @@
      "size": 3027709,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_027",
@@ -127627,7 +128133,8 @@
      "size": 23438686,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_028",
@@ -127643,7 +128150,8 @@
      "size": 29698817,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_029",
@@ -127679,7 +128187,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "Audit: Incomplete package: it has the hero-screen model but not the battle model, so in a match the hero keeps the old look. Use another version of this skin."
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "yin_031",
@@ -127695,7 +128204,8 @@
      "size": 26912561,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_032",
@@ -127711,7 +128221,8 @@
      "size": 11927033,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_033",
@@ -127727,7 +128238,8 @@
      "size": 12210515,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_034",
@@ -127743,7 +128255,8 @@
      "size": 27850566,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_035",
@@ -127759,7 +128272,8 @@
      "size": 13534641,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_036",
@@ -127791,7 +128305,8 @@
      "size": 8656944,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_038",
@@ -127865,7 +128380,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 game file(s) are not Unity bundles (broken), e.g. Yin_skill03_bianshen_ui.unity3d"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "yin_040",
@@ -127935,7 +128451,8 @@
      "size": 16867132,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_042",
@@ -128088,7 +128605,8 @@
      "size": 20379997,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_047",
@@ -128154,7 +128672,8 @@
      "check_notes": [
       "Audit: Incomplete package: it has the hero-screen model but not the battle model, so in a match the hero keeps the old look. Use another version of this skin."
      ],
-     "check": "caution"
+     "check": "caution",
+     "anime": true
     },
     {
      "id": "yin_049",
@@ -128180,7 +128699,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 7631109
+     "size": 7631109,
+     "anime": true
     },
     {
      "id": "yin_050",
@@ -128206,7 +128726,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 26815156
+     "size": 26815156,
+     "anime": true
     },
     {
      "id": "yin_051",
@@ -128232,7 +128753,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 23450249
+     "size": 23450249,
+     "anime": true
     },
     {
      "id": "yin_052",
@@ -128258,7 +128780,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 17455808
+     "size": 17455808,
+     "anime": true
     },
     {
      "id": "yin_053",
@@ -128284,7 +128807,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 12058701
+     "size": 12058701,
+     "anime": true
     },
     {
      "id": "yin_054",
@@ -128310,7 +128834,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 11769228
+     "size": 11769228,
+     "anime": true
     },
     {
      "id": "yin_055",
@@ -128362,7 +128887,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 16329137
+     "size": 16329137,
+     "anime": true
     },
     {
      "id": "yin_057",
@@ -128388,7 +128914,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 8391624
+     "size": 8391624,
+     "anime": true
     },
     {
      "id": "yin_058",
@@ -128414,7 +128941,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 15205421
+     "size": 15205421,
+     "anime": true
     },
     {
      "id": "yin_059",
@@ -128440,7 +128968,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 30574848
+     "size": 30574848,
+     "anime": true
     },
     {
      "id": "yin_060",
@@ -128602,7 +129131,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 69625826
+     "size": 69625826,
+     "anime": true
     },
     {
      "id": "yin_066",
@@ -128732,7 +129262,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 65409195
+     "size": 65409195,
+     "anime": true
     },
     {
      "id": "yin_071",
@@ -128748,7 +129279,8 @@
      "size": 7887681,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_072",
@@ -128764,7 +129296,8 @@
      "size": 7797482,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "yin_073",
@@ -128780,7 +129313,8 @@
      "size": 9955965,
      "check": "good",
      "check_date": "2026-11-24",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     }
    ]
   },
@@ -129225,7 +129759,8 @@
      "check_date": "2026-11-08",
      "check_notes": [
       "1 empty file(s), e.g. BlackDragon_Cokro.unity3d – an effect switched off by the modder"
-     ]
+     ],
+     "anime": true
     },
     {
      "id": "yu-zhong_020",
@@ -129402,7 +129937,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 4909369
+     "size": 4909369,
+     "anime": true
     },
     {
      "id": "yu-zhong_028",
@@ -132260,7 +132796,8 @@
      "size": 3215200,
      "check": "good",
      "check_date": "2026-11-08",
-     "check_notes": []
+     "check_notes": [],
+     "anime": true
     },
     {
      "id": "zilong_025",
@@ -132753,7 +133290,8 @@
      "name": "",
      "source": "nix",
      "added": "2026-11-23",
-     "size": 3213526
+     "size": 3213526,
+     "anime": true
     },
     {
      "id": "zilong_045",
