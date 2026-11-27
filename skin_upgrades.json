@@ -53766,6 +53766,38 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 19145287
+    },
+    {
+     "id": "freya_dark_rose_to_ardent_blaze",
+     "name": "Ardent Blaze",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkTpYZbJvT0cNolZlVs_WANlJKRa1ptpotaaglGNLvBqn6ck7H4m6Lc7U&s=10",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/102213-to-1222.x.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "nut",
+     "added": "2026-11-27",
+     "size": 25517924,
+     "check_notes": [
+      "Audit: Packed package: needs Verde 3.6.4 or newer."
+     ],
+     "check": "good"
+    },
+    {
+     "id": "freya_dark_rose_to_blaze_of_dawn",
+     "name": "Blaze of Dawn",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYzFgXn5WGvVX1rMopYf7SNg0PYnafyRAVsIyv0xyYvEdsX6frL-77Odo&s=10",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/102214-to-1222.x.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "nut",
+     "added": "2026-11-27",
+     "size": 29879509,
+     "check_notes": [
+      "Audit: Packed package: needs Verde 3.6.4 or newer."
+     ],
+     "check": "good"
     }
    ],
    "skin_tags": []
@@ -254693,6 +254725,38 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 20498526
+    },
+    {
+     "id": "freya_valkyrie_to_ardent_blaze",
+     "name": "Ardent Blaze",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkTpYZbJvT0cNolZlVs_WANlJKRa1ptpotaaglGNLvBqn6ck7H4m6Lc7U&s=10",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/102213-to-1221.x.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "nut",
+     "added": "2026-11-27",
+     "size": 25645126,
+     "check_notes": [
+      "Audit: Packed package: needs Verde 3.6.4 or newer."
+     ],
+     "check": "good"
+    },
+    {
+     "id": "freya_valkyrie_to_blaze_of_dawn",
+     "name": "Blaze of Dawn",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYzFgXn5WGvVX1rMopYf7SNg0PYnafyRAVsIyv0xyYvEdsX6frL-77Odo&s=10",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/102214-to-1221.x.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "nut",
+     "added": "2026-11-27",
+     "size": 30006583,
+     "check_notes": [
+      "Audit: Packed package: needs Verde 3.6.4 or newer."
+     ],
+     "check": "good"
     }
    ],
    "source": "nut"
@@ -276383,6 +276447,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 29927773
+    },
+    {
+     "id": "zetian_heavenly_splendor_to_empress_of_the_sands",
+     "name": "Empress of the Sands",
+     "image": "https://pbs.twimg.com/media/HYCzhL4aIAAP4SL?format=jpg&name=medium",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/2295-to-2292.x.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "nut",
+     "added": "2026-11-27",
+     "size": 22238596,
+     "check_notes": [
+      "Audit: Packed package: needs Verde 3.6.4 or newer."
+     ],
+     "check": "good"
     }
    ],
    "source": "nut"
@@ -324770,6 +324850,22 @@
      "source": "nix",
      "added": "2026-11-23",
      "size": 17778711
+    },
+    {
+     "id": "zetian_sunset_luminance_to_empress_of_the_sands",
+     "name": "Empress of the Sands",
+     "image": "https://pbs.twimg.com/media/HYCzhL4aIAAP4SL?format=jpg&name=medium",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/2295-to-2294.x.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "nut",
+     "added": "2026-11-27",
+     "size": 23800452,
+     "check_notes": [
+      "Audit: Packed package: needs Verde 3.6.4 or newer."
+     ],
+     "check": "good"
     }
    ],
    "source": "nix"
@@ -325647,7 +325743,34 @@
     }
    ],
    "source": "nix"
+  },
+  {
+   "id": "zetian_celestial_empress",
+   "hero": "Zetian",
+   "base_name": "Celestial Empress",
+   "base_image": "https://pbs.twimg.com/media/HYCzhL4aIAAP4SL?format=jpg&name=medium",
+   "backup_script": "",
+   "enabled": true,
+   "targets": [
+    {
+     "id": "zetian_celestial_empress_to_empress_of_the_sands",
+     "name": "Empress of the Sands",
+     "image": "https://pbs.twimg.com/media/HYCzhL4aIAAP4SL?format=jpg&name=medium",
+     "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/2295-to-2291.x.zip",
+     "type": "skin",
+     "enabled": true,
+     "skin_tags": [],
+     "source": "nut",
+     "added": "2026-11-27",
+     "size": 22653404,
+     "check_notes": [
+      "Audit: Packed package: needs Verde 3.6.4 or newer."
+     ],
+     "check": "good"
+    }
+   ],
+   "source": "nut"
   }
  ],
- "updated": "2026-11-24"
+ "updated": "2026-11-27"
 }
